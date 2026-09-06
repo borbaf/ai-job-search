@@ -52,7 +52,7 @@ Expected output: `Output written on main_<company>_<role>.pdf (2 pages, ...)`. A
     linkcolor=blue,
     filecolor=magenta,
     urlcolor=blue,
-    pdftitle={[YOUR_NAME] - CV},
+    pdftitle={Filippe Borba - CV},
     % Keep pdfpagemode=UseNone: this block runs after moderncv's own
     % \AtEndPreamble (moderncv.cls sets pdfpagemode there), so a FullScreen
     % value here would win and open every CV in fullscreen presentation mode.
@@ -62,13 +62,13 @@ Expected output: `Output written on main_<company>_<role>.pdf (2 pages, ...)`. A
 \usepackage{import}
 
 % Personal data
-\name{[FIRST_NAME]}{[LAST_NAME]}
+\name{Filippe}{Borba}
 % If you have no address to list, DELETE this whole line. \address{}{}{} fails
 % with "There's no line here to end" on every moderncv version.
-\address{[YOUR_ADDRESS]}{}{}
-\phone[mobile]{[YOUR_PHONE]}
-\email{[YOUR_EMAIL]}
-\extrainfo{\href{[YOUR_LINKEDIN_URL]}{LinkedIn}, \href{[YOUR_GITHUB_URL]}{GitHub}}
+\address{Bombinhas, SC, Brazil}{}{}
+\phone[mobile]{+55 11 97143 1108}
+\email{borbaf@gmail.com}
+\extrainfo{\href{https://linkedin.com/in/borbaf}{LinkedIn}, \href{https://github.com/borbaf}{GitHub}}
 
 \begin{document}
 \makecvtitle
@@ -129,12 +129,18 @@ When the role sits outside your home domain, **lead with the domain-transfer arg
 
 **Create 2-3 profile statement templates for your main role types:**
 
-<!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For Supply Chain Analytics / Logistics Data Analyst roles:**
+> Supply chain professional with 15+ years in logistics, distribution and terminal operations, now working analytically on the same problems. Spent 13 years at Vibra Energia rising from maintenance planning to Superintendent of a liquid bulk terminal supplying 60\% of a Brazilian state's fuel, then two years consulting on Logistics Control Towers for clients including Suzano, Unilever and Ipiranga — building the Python, SQL and Power BI dashboards their leadership teams ran on. Google Cloud Data Analytics certified, with a postgraduate degree in Data Science and Big Data in progress. Brings what most analytics hires cannot: first-hand knowledge of the operation the data describes.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For Data Analyst / Data Business Analyst roles (broader, less domain-specific):**
+> Data analyst with a supply chain operator's background: Python (Pandas, NumPy, APIs, web scraping), SQL (PostgreSQL, MongoDB, BigQuery), Power BI and Tableau, applied to executive dashboards and business cases for enterprise clients in fuels, forestry, food and agribusiness. Google Cloud Data Analytics — Professional Certificate (2026); postgraduate in Data Science and Big Data in progress. Fifteen years of prior operational and management experience means requirements-gathering with business stakeholders is native rather than a skill to be trained.
+
+**For Supply Chain Manager / Logistics Consultant roles (leaning on the operational record):**
+> Supply chain and logistics leader with 15+ years across fuel distribution, terminal operations and consulting. Led organizations of 50+ at the Port of Tubarão terminal, coordinated distribution of 30\% of Brazil's liquid bulk fuel volume, and delivered Logistics Control Tower implementations with Lean and VSM for clients in forestry, food, fuels and agribusiness. Combines that operational record with hands-on analytics — Python, SQL and Power BI — to build the visibility that logistics decisions actually depend on.
+
+**Domain-transfer rule for this candidate:** every analytics application must lead with the transfer argument in the profile statement's first sentence — 15+ years running the supply chain that analytics roles model from the outside. Do not open with the tooling; the tooling is the second sentence. Never position him as an entry-level analyst.
+
+**CV language:** English is the primary variant, Portuguese the parallel one. When producing the Portuguese CV, translate the section headings and the References line too, per the rule below — `Competências Principais`, `Experiência Profissional`, `Formação`, `Idiomas`, `Publicações`, `Prêmios e Reconhecimentos`, `Referências`, `Disponíveis sob consulta.`
 
 Statements labeled *[Used for: <company>_<role>]* were extracted from archived application drafts by `/setup` Path A. They are **phrasing references, never fact sources**: when drafting from one, every factual claim still comes from `01-candidate-profile.md` - a past tailored draft does not vouch for its own accuracy.
 

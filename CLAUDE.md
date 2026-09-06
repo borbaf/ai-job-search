@@ -1,10 +1,7 @@
-# Job Application Assistant for [YOUR_NAME]
-
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+# Job Application Assistant for Filippe Borba
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Filippe Borba, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -13,79 +10,126 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ## Candidate Profile
 
-<!-- This section is auto-populated by /setup. You can also fill it in manually. -->
-
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
+- **Name:** Filippe Borba (full legal name: Filippe Rezende Borba)
+- **Location:** Bombinhas, Santa Catarina, Brazil (remote-first; open to relocation, national and international)
+- **Phone:** +55 11 97143 1108
+- **Email:** borbaf@gmail.com
+- **LinkedIn:** linkedin.com/in/borbaf
+- **GitHub:** github.com/borbaf
 - **Languages:**
   | Language | Level |
   |----------|-------|
-  | [LANGUAGE] | [LEVEL] |
-  <!-- Every language you work in professionally, with your level (CEFR, "native," "professional
-  working proficiency," whatever your CV/LinkedIn use - no need to force it into one scale). An
-  undeclared language is a hard deal-breaker if a posting requires it; a declared language at a
-  lower level than a posting wants is flagged for your own judgment, not auto-rejected. See
-  04-job-evaluation.md's Language Gate. -->
-- **CV language:** [YOUR_CV_LANGUAGE] <!-- English unless your market expects otherwise; /setup asks -->
+  | Portuguese | Native |
+  | English | Advanced |
+  | Spanish | Elementary |
+- **CV language:** English (primary) and Portuguese (parallel variant)
 
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Status:** Independent consultant (GLG Network Member) - actively searching, open to relocation
+- **LinkedIn headline:** "Supply Chain & Logistics Leader | Data Analytics (Python, SQL, Power BI) | Google Cloud Certified Data Analyst" <!-- Drafted by /setup from your positioning statement - confirm or replace with your actual headline -->
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **Postgraduate in Data Science and Big Data** (in progress) - UNIALPHAVILLE
+  - Topics: data science, big data, analytics
+- **Data Science & Analytics Training - Specialized Coursework** (2024-2025) - SENAI SC, Coursera, Data Science Academy
+  - Topics: Python (NumPy, Pandas, web scraping, APIs), SQL (PostgreSQL, MongoDB), Power BI, Tableau, statistical analysis
+- **MBA in Supply Chain Management** (2018-2019) - FGV
+- **MBA in Economics and Management** (2014-2015) - FGV
+- **BSc in Electrical/Electronic Engineering** (2006-2011) - PUC Goiás
+- **Technical Degree in Electronics** (2007) - Colégio Integra (CIP)
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Supply Chain Expert** (Sep 2025 - Present) - **GLG (Gerson Lehrman Group)** (Remote, Brazil)
+  - Network Member of the global insights network, advising clients on supply chain and freight transport
+  - Brings 15+ years of logistics and fuel distribution experience to client consultations
+
+- **Independent Electrical Engineer** (Mar 2012 - Present) - **Self-employed** (Brazil)
+  - Parallel activity alongside full-time roles - design, execution and commissioning of audio/video systems
+  - Technical standards training, technical and management audits, installation safety, technical drawings
+
+- **Senior Supply Chain Consultant** (Feb 2023 - Jun 2025) - **Moby Consulting** (Campinas, SP)
+  - Strategic leadership in logistics optimization and implementation of Logistics Control Towers
+  - Lean, VSM and data mining applied to business cases with tangible ROI
+  - Clients: Bracell, Suzano, Veracel (forestry); Unilever (food); Rede Sim/Argenta, COMGÁS, Ipiranga, Vibra, Total Energies (fuels); Inpasa (agribusiness); Multilixo (waste)
+  - Built executive dashboards with Python, SQL and Power BI
+  - [PENDING] Quantified results - OTIF improvement, freight cost reduction, dashboard user count, routes/plants monitored
+
+- **Project Engineer** (Jul 2022 - Jan 2023) - **Automatic Identification Systems (AIS) Ltd** (Dublin, Ireland)
+  - Commissioning and testing of industrial automation systems
+  - Project installation and technical support across Ireland; prospecting alongside the sales team
+
+- **Superintendent (Senior Manager)** (Aug 2021 - Jan 2022) - **Vibra Energia** (Vitória, ES)
+  - Led 50+ senior professionals at the Liquid Bulk Terminal in the Port of Tubarão, which supplied 60% of Espírito Santo state's fuel
+  - Owned Procurement, Engineering, Purchasing, Infrastructure and Maintenance, Sales & Supply
+  - [PENDING] CAPEX/OPEX under management, downtime reduction %, savings generated
+
+- **Senior Manager** (Dec 2019 - Aug 2021) - **Vibra Energia** (Vitória, ES)
+  - Led 50+ professionals at the Port of Tubarão terminal (rail receipt and cabotage)
+  - Managed inventory of fuels, biofuels, chemicals and lubricants covering 60% of state fuel supply
+
+- **Logistics Coordinator** (Jun 2017 - Nov 2019) - **Vibra Energia / BR Distribuidora** (Campinas, SP)
+  - Coordinated distribution of 30% of Brazil's liquid bulk fuel volume; team of 7
+  - Ran S&OP meetings and built capacity planning models
+
+- **Manager** (Jul 2014 - Jun 2017) - **Vibra Energia / BR Distribuidora** (Presidente Prudente, SP)
+  - Team of 7; receipt, storage and delivery covering 60% of eastern São Paulo state
+  - Project management, procurement and MRO support
+
+- **MRO Operator** (Apr 2009 - Jun 2014) - **Vibra Energia / BR Distribuidora** (Goiânia, GO)
+  - Industrial maintenance planning and execution (PCM) using SAP PM & MM
+  - Collaboration with Procurement and Supplier Quality Engineering
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** Python (NumPy, Pandas, Matplotlib, Seaborn, web scraping, APIs), SQL (PostgreSQL, MongoDB/NoSQL), Power BI, Tableau, exploratory data analysis (EDA), data mining, statistical analysis
+- **Secondary:** Google Cloud Platform (GCP), BigQuery, GitHub, advanced Excel
+- **Domain:** Supply planning, materials planning, logistics control towers, supply chain analytics, warehousing, shipping, fuel distribution and liquid bulk terminals, industrial maintenance; PMO, procurement, MRO materials management, supplier quality, continuous improvement (Lean, VSM, 5S, TPM), HSE
+- **Software:** SAP (PM & MM), WMS, TMS, BI platforms, SCADA, MS Office
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- **Google Cloud Data Analytics - Professional Certificate** - Google Cloud via Coursera - completed 31 Aug 2026 - verification: coursera.org/verify/professional-cert/I4UQOIC2RQ62 (hands-on BigQuery and cloud SQL)
+- **Global Champion** - certified by Deel & Nomad
+- **Industrial Instrumentation and Automation** - Universidade Petrobras (2014)
+- **Maintenance Management** - Montcalo Engenharia (2011)
+- **Electric Motor Installation and Maintenance** - WEG
+- **Leadership** - internal training
+- **PADI Enriched Air Diver** (personal)
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+- LinkedIn article: "Quando o LinkedIn virou Black Mirror: o dia em que percebi que meu SSI valia mais que meus 15 anos de experiência" (Aug 2026)
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- Panelist - SAIL/PUC-Rio panel at Vibra Energia Expedition (topic: AI, agentic AI and governance)
+- 10 recommendations received on LinkedIn
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+- **Protagonist / ownership-driven** - Described by colleagues as dedicated, engaged and versatile, with a strong human side; takes initiative rather than waiting for direction
+- **Decisive people leader** - Team management capability and assertiveness in decision-making
+- **Systemic and strategic thinker** - Connects operational detail to end-to-end supply chain impact
+- **Strengths:** Analytical thinking and problem-solving, negotiation, stakeholder relationships, business acumen, leadership of large teams, fast learning and adaptation
+- **Growth areas:** Depth of formal data-engineering practice (in progress via postgraduate study and GCP certification); a public portfolio evidencing the analytics transition
+- **Thrives in:** Environments that value technical development and continuous learning; roles with real ownership and decision authority; cross-functional work bridging operations and analytics
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Turning 15+ years of supply chain and logistics reality into data products that change decisions, not just dashboards
+- Supply Chain Analytics and Digital Transformation - being the person who understands both the terminal floor and the query
+- Continuous technical learning (Python, SQL, cloud analytics)
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- Supply Chain Analytics: CI&T, Smarthis, INDI Staffing
+- Data Analytics / Data Business Analysis: BairesDev, US clients sourced via HireLATAM
+- Digital Transformation and consulting in logistics, fuels, forestry and agribusiness
+
+### Career Positioning
+"I am not a beginner in data - I am a Supply Chain professional who finally has the right tool."
+Career transition into Data Science / Analytics, combining 15+ years of supply chain with data analysis. Secondary goal: be found passively by recruiters on LinkedIn.
+
+### Compensation
+- **Floor:** USD 2,000 / month - reject below this
+- **Target:** USD 5,000 / month
 
 ### Deal-breakers
-<!-- Hard constraints on job search. Language requirements are handled separately and
-automatically from your Languages table above - don't duplicate them here. -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- Compensation below USD 2,000 / month
+- [PENDING] Other hard constraints not yet confirmed (industries or management styles to avoid) - add here directly or via `/setup --section goals`
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)

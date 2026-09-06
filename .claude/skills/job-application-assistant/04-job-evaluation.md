@@ -60,9 +60,11 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** Python (NumPy, Pandas, web scraping, APIs), SQL (PostgreSQL, MongoDB), Power BI, Tableau, EDA and statistical analysis, supply chain analytics, logistics control towers, supply and materials planning, S&OP, Lean/VSM/5S/TPM, SAP (PM & MM), WMS/TMS, advanced Excel, procurement and MRO materials management
+
+**Moderate match areas:** Google Cloud Platform / BigQuery (certified Aug 2026, limited production hours), Git/GitHub, dashboard and data-model design at scale, forecasting and demand planning, SCADA and industrial automation, PMO and project management
+
+**Weak match areas:** Machine learning and MLOps in production, data engineering (Airflow, dbt, Spark, streaming), cloud infrastructure and DevOps, software engineering (web/backend development), R, Snowflake/Databricks, Azure/AWS specifics, deep statistical modeling and experimentation design
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for? Match on the function and nature of the work performed, not the literal job title - a "Data Consultant" and a "Data Scientist" role can be functionally identical.
@@ -74,9 +76,13 @@ Does work history align with what they're looking for? Match on the function and
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** Supply chain and logistics operations (13 years at Vibra Energia / BR Distribuidora, rising from MRO Operator to Superintendent), fuel and liquid-bulk terminal management, distribution and freight, supply chain consulting (Moby, 2023-2025), large-team leadership (50+ direct organization), industrial maintenance and MRO
+
+**Moderate:** Supply chain analytics and BI delivery (~2 years applied, inside consulting engagements), business/data analysis for enterprise clients, control-tower implementation, industrial automation engineering (AIS Ltd, Ireland), expert-network advisory (GLG)
+
+**Entry-level:** Titled Data Analyst / Data Scientist / BI Developer roles, data engineering, product analytics, marketing or finance analytics (no domain history), any role requiring a portfolio of shipped ML models
+
+**Transition framing (use on every analytics application):** the honest claim is a senior supply chain operator and consultant who has delivered applied analytics — not a junior analyst. Roles that reward domain knowledge *plus* SQL/Python/BI (supply chain analyst, logistics data analyst, WMS/TMS business analyst, analytics consultant, demand planner) score materially higher on this dimension than generic data-analyst postings, and should be prioritized in `/rank`.
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -91,10 +97,17 @@ Does the role and company culture match the behavioral profile?
 **Red flags to research:** Department disorganization, work dominated by maintenance over development, poor chemistry with leadership, culture mismatches. Check reviews, media coverage, LinkedIn connections, and network contacts for insider perspective.
 
 ### 4. Location & Logistics (Pass/Fail + Notes)
-- Within commute range: PASS
-- Remote with occasional office: PASS
-- Requires relocation: FAIL (deal-breaker)
-- Frequent international travel: FLAG (discuss with user)
+
+Base: Bombinhas, Santa Catarina, Brazil. Target: **fully remote roles paid in USD**. Relocation is *not* a deal-breaker — he is open to relocating nationally and internationally, and has already worked abroad (Dublin, 2022-2023).
+
+- Fully remote (global or LATAM/Americas): **PASS** — the primary target
+- Remote with occasional travel to an office or client site: **PASS**
+- Hybrid or on-site in Santa Catarina (Florianópolis, Itajaí, Balneário Camboriú, Joinville, Blumenau): **PASS**
+- Hybrid or on-site elsewhere in Brazil (São Paulo, Campinas, Curitiba, etc.): **FLAG** — requires relocation; viable but discuss, since it means giving up the remote/USD premium
+- On-site abroad with visa sponsorship: **FLAG** — viable and of genuine interest; check sponsorship explicitly and run the Eligibility Gate above
+- On-site abroad *without* sponsorship or work rights: **FAIL** (see Eligibility Gate)
+- Frequent international travel: **FLAG** (discuss with user)
+- Timezone: no hard constraint, but flag anything requiring sustained work outside roughly UTC-3 ± 6 hours
 
 ### 5. Career Alignment & Motivation (0-100)
 Does this role advance career goals and contain tasks that energize?
@@ -107,21 +120,24 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Complete the transition into Data Science / Analytics, using 15+ years of supply chain as the differentiator rather than starting over as a junior analyst
+- Land a fully remote role paid in USD (Supply Chain Analytics, Data Analytics, or Digital Transformation)
+- Keep building technical depth (Python, SQL, cloud analytics) in a role that treats learning as part of the job
+- Be found passively by recruiters on LinkedIn (secondary, ongoing)
 
-**Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
-- Non-task factors: leadership style, department culture, company values, degree of autonomy
+**Motivation filter:** Evaluate not just whether he *can* do the tasks, but whether the tasks will *energize* him. Consider:
+- **Tasks that energize:** building analyses and dashboards that change an operational decision; owning a problem end-to-end; working directly with business stakeholders who know the domain; control-tower and planning problems; learning a new tool on a real problem; scale and consequence (a terminal, a network, a national distribution footprint)
+- **Tasks that drain:** execution-only mandates with no decision authority; maintenance-only scope with no development path; pure research with no business consumer; environments where decisions stall for lack of an owner; presence-based evaluation
+- **Non-task factors:** leadership style, department culture, company values, degree of autonomy
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: Currently on engagement-based consulting income (GLG) rather than a salaried role — a stable full-time offer carries real weight. Compensation floor is **USD 2,000/month**; anything below it is a deal-breaker regardless of score. Target is **USD 5,000/month**.
+- **Flexibility**: Remote-first, based in Bombinhas SC (UTC-3). No stated schedule constraints; open to relocation.
+- **Professional development**: Postgraduate in Data Science and Big Data in progress — a role that accommodates continued study and pays for or encourages certification scores higher on this dimension.
 
 ### 6. Salary Benchmark (Optional)
+
+**Compensation floor (hard filter):** USD 2,000 / month. If a posting states compensation and the top of its range falls below the floor, report it and do not draft — the same way a gate failure is handled, not as a scoring penalty. **Target:** USD 5,000 / month; a posting at or above target is worth flagging as a positive. Postings that state no compensation proceed normally (most do) — never infer a number and never reject on silence.
 
 If the salary lookup tool is configured (`salary_data.json` exists), look up the company:
 ```

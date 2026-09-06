@@ -1,10 +1,17 @@
-%% Example CV - [YOUR_NAME]
+%% Master CV - Filippe Borba
 %% Comprehensive overview of all competencies, experience, and achievements.
 %% Use as a master reference when tailoring role-specific CVs.
 %%
-%% SETUP: Run /setup to populate this with your actual information.
 %% Compile with: lualatex main_example.tex
 %% (pdflatex often fails on modern MiKTeX with fontawesome5 font-expansion errors.)
+%%
+%% NOTE: this is the MASTER reference, deliberately comprehensive. Tailored CVs
+%% (cv/main_<company>_<role>.tex) must be cut down to exactly 2 pages - see
+%% 05-cv-templates.md "Relevance-weighted cutting".
+%%
+%% [PENDING] Quantified results for the Moby and Vibra roles are still missing
+%% (OTIF, freight cost, CAPEX/OPEX, downtime reduction). Fill them in here first;
+%% every tailored CV inherits from this file.
 
 \documentclass[11pt,a4paper,sans]{moderncv}
 \moderncvstyle{banking}
@@ -33,7 +40,7 @@
     linkcolor=blue,
     filecolor=magenta,
     urlcolor=blue,
-    pdftitle={[YOUR_NAME] - CV},
+    pdftitle={Filippe Borba - CV},
     % Keep pdfpagemode=UseNone: this block runs after moderncv's own
     % \AtEndPreamble (moderncv.cls sets pdfpagemode there), so a FullScreen
     % value here would win and open every CV in fullscreen presentation mode.
@@ -41,15 +48,14 @@
 }}
 \usepackage[scale=0.80]{geometry}
 \usepackage{import}
+\usepackage{needspace}
 
 % personal data
-\name{[First]}{[Last]}
-% If you have no address to list, DELETE this whole line. \address{}{}{} fails
-% with "There's no line here to end" on every moderncv version.
-\address{[Your Address, City, Country]}{}{}
-\phone[mobile]{[+XX XXXXXXXXXX]}
-\email{[your.email@example.com]}
-\extrainfo{\href{[https://linkedin.com/in/your-profile]}{LinkedIn}, \href{[https://github.com/your-username]}{GitHub}}
+\name{Filippe}{Borba}
+\address{Bombinhas, SC, Brazil}{}{}
+\phone[mobile]{+55 11 97143 1108}
+\email{borbaf@gmail.com}
+\extrainfo{\href{https://linkedin.com/in/borbaf}{LinkedIn}, \href{https://github.com/borbaf}{GitHub}}
 
 \begin{document}
 
@@ -60,7 +66,7 @@
 % ============================================================
 
 \vspace{6pt}
-\small{[Write a 3-5 line profile statement tailored to the role you're applying for. Focus on what makes you uniquely qualified. Example: "Data scientist with a PhD in [field] and X years of industry experience. Combines deep domain expertise in [domain] with strong applied machine learning and Python development skills. Experienced in developing end-to-end ML pipelines, from data ingestion to stakeholder-facing dashboards."]}
+\small{Supply chain professional with 15+ years in logistics, distribution and terminal operations, now working analytically on the same problems. Thirteen years at Vibra Energia / BR Distribuidora, rising from maintenance planning to Superintendent of a liquid bulk terminal supplying 60\% of a Brazilian state's fuel, followed by two years consulting on Logistics Control Towers for clients including Suzano, Unilever and Ipiranga --- building the Python, SQL and Power BI dashboards their leadership teams ran on. Google Cloud Data Analytics certified, with a postgraduate degree in Data Science and Big Data in progress. Brings what most analytics hires cannot: first-hand ownership of the operation the data describes.}
 
 % ============================================================
 %     CORE COMPETENCIES
@@ -70,15 +76,17 @@
 \vspace{1pt}
 \begin{itemize}
 
-\item \textbf{[Skill Category 1]}: [Specific skills, frameworks, tools. Be concrete.]
+\item \textbf{Data Analysis}: Python (Pandas, NumPy, Matplotlib, Seaborn, web scraping, REST APIs), SQL (PostgreSQL, MongoDB, BigQuery), exploratory data analysis, data mining, statistical analysis.
 
-\item \textbf{[Skill Category 2]}: [Specific skills, frameworks, tools.]
+\item \textbf{Business Intelligence}: Power BI, Tableau, executive dashboard design, advanced Excel. Built the reporting layer decision-makers actually used at enterprise clients.
 
-\item \textbf{[Skill Category 3]}: [Specific skills, frameworks, tools.]
+\item \textbf{Supply Chain Analytics}: Logistics Control Towers, supply and materials planning, capacity planning, S\&OP, warehousing, shipping and freight transport.
 
-\item \textbf{[Skill Category 4]}: [Domain expertise, methods, approaches.]
+\item \textbf{Operations Leadership}: Organizations of 50+, CAPEX/OPEX ownership, HSE, procurement, MRO materials management, supplier quality, PMO.
 
-\item \textbf{[Skill Category 5]}: [Tools, platforms, software.]
+\item \textbf{Continuous Improvement}: Lean, Value Stream Mapping, 5S, TPM, maintenance planning and control (PCM).
+
+\item \textbf{Systems}: SAP (PM \& MM), WMS, TMS, SCADA, Google Cloud Platform, Git/GitHub.
 
 \end{itemize}
 
@@ -90,32 +98,83 @@
 \vspace{3pt}
 \begin{itemize}
 
-% --- Most Recent Role ---
-\item{\cventry{[YYYY-Present]}{[Job Title]}{[Company]}{[City, Country]}{}{\vspace{1pt}
+\needspace{4\baselineskip}
+\item{\cventry{Sep 2025 - Present}{Supply Chain Expert}{GLG (Gerson Lehrman Group)}{Remote, Brazil}{}{\vspace{1pt}
 \begin{itemize}
-    \item {[Achievement or responsibility 1 - be specific, use numbers where possible]}
-    \item {[Achievement or responsibility 2]}
-    \item {[Achievement or responsibility 3]}
-    \item {[Achievement or responsibility 4]}
+    \item {Network Member of GLG's global insights network, advising international clients on supply chain, distribution and freight transport questions, drawing on 15+ years of operational experience.}
 \end{itemize}}}
 
 \vspace{3pt}
 
-% --- Previous Role ---
-\item{\cventry{[YYYY-YYYY]}{[Job Title]}{[Company]}{[City, Country]}{}{\vspace{1pt}
+\needspace{5\baselineskip}
+\item{\cventry{Feb 2023 - Jun 2025}{Senior Supply Chain Consultant}{Moby Consulting}{Campinas, SP, Brazil}{}{\vspace{1pt}
 \begin{itemize}
-    \item {[Achievement or responsibility 1]}
-    \item {[Achievement or responsibility 2]}
-    \item {[Achievement or responsibility 3]}
+    \item {Led design and implementation of \textbf{Logistics Control Towers}, giving client leadership a live view of networks previously managed from stale spreadsheets.}
+    \item {Built executive dashboards with \textbf{Python, SQL and Power BI}, running requirements directly with operations and commercial stakeholders.}
+    \item {Applied Lean, Value Stream Mapping and data mining to build business cases with tangible ROI.}
+    \item {Client portfolio across sectors: Bracell, Suzano, Veracel (forestry); Unilever (food); Ipiranga, Vibra, Total Energies, COMG\'AS, Rede Sim/Argenta (fuels); Inpasa (agribusiness); Multilixo (waste).}
 \end{itemize}}}
 
 \vspace{3pt}
 
-% --- Earlier Role ---
-\item{\cventry{[YYYY-YYYY]}{[Job Title]}{[Company]}{[City, Country]}{}{\vspace{1pt}
+\needspace{4\baselineskip}
+\item{\cventry{Jul 2022 - Jan 2023}{Project Engineer}{Automatic Identification Systems (AIS) Ltd}{Dublin, Ireland}{}{\vspace{1pt}
 \begin{itemize}
-    \item {[Achievement or responsibility 1]}
-    \item {[Achievement or responsibility 2]}
+    \item {Commissioning and testing of industrial automation systems; project installation and technical support across Ireland.}
+    \item {Client-facing role delivered entirely in English, including prospecting alongside the sales team.}
+\end{itemize}}}
+
+\vspace{3pt}
+
+\needspace{5\baselineskip}
+\item{\cventry{Aug 2021 - Jan 2022}{Superintendent (Senior Manager)}{Vibra Energia}{Vit\'oria, ES, Brazil}{}{\vspace{1pt}
+\begin{itemize}
+    \item {Led an organization of \textbf{50+ senior professionals} at the Liquid Bulk Terminal in the Port of Tubar\~ao, supplying \textbf{60\% of Esp\'irito Santo state's fuel}.}
+    \item {Owned Procurement, Engineering, Purchasing, Infrastructure and Maintenance, and Sales \& Supply.}
+\end{itemize}}}
+
+\vspace{3pt}
+
+\needspace{5\baselineskip}
+\item{\cventry{Dec 2019 - Aug 2021}{Senior Manager}{Vibra Energia}{Vit\'oria, ES, Brazil}{}{\vspace{1pt}
+\begin{itemize}
+    \item {Led 50+ professionals at the Port of Tubar\~ao terminal, covering rail receipt and cabotage operations.}
+    \item {Managed inventory of fuels, biofuels, chemicals and lubricants covering 60\% of state fuel supply.}
+\end{itemize}}}
+
+\vspace{3pt}
+
+\needspace{5\baselineskip}
+\item{\cventry{Jun 2017 - Nov 2019}{Logistics Coordinator}{Vibra Energia / BR Distribuidora}{Campinas, SP, Brazil}{}{\vspace{1pt}
+\begin{itemize}
+    \item {Coordinated distribution of \textbf{30\% of Brazil's liquid bulk fuel volume}, leading a team of 7.}
+    \item {Ran S\&OP across commercial, supply and operations; built capacity planning models.}
+\end{itemize}}}
+
+\vspace{3pt}
+
+\needspace{5\baselineskip}
+\item{\cventry{Jul 2014 - Jun 2017}{Manager}{Vibra Energia / BR Distribuidora}{Presidente Prudente, SP, Brazil}{}{\vspace{1pt}
+\begin{itemize}
+    \item {Team of 7 covering receipt, storage and delivery for \textbf{60\% of eastern S\~ao Paulo state}.}
+    \item {Project management, procurement and MRO support.}
+\end{itemize}}}
+
+\vspace{3pt}
+
+\needspace{5\baselineskip}
+\item{\cventry{Apr 2009 - Jun 2014}{MRO Operator}{Vibra Energia / BR Distribuidora}{Goi\^ania, GO, Brazil}{}{\vspace{1pt}
+\begin{itemize}
+    \item {Industrial maintenance planning and execution (PCM) using \textbf{SAP PM \& MM}.}
+    \item {Collaboration with Procurement and Supplier Quality Engineering on MRO materials management.}
+\end{itemize}}}
+
+\vspace{3pt}
+
+\needspace{4\baselineskip}
+\item{\cventry{Mar 2012 - Present}{Independent Electrical Engineer}{Self-employed (parallel activity)}{Brazil}{}{\vspace{1pt}
+\begin{itemize}
+    \item {Occasional engagements alongside full-time roles: design, execution and commissioning of audio and video systems; technical standards training; technical and management audits; installation safety assessments.}
 \end{itemize}}}
 
 \end{itemize}
@@ -128,16 +187,46 @@
 \vspace{1pt}
 \begin{itemize}
 
-\item{\cventry{[YYYY-YYYY]}{[Degree] in [Field]}{[Institution]}{[City, Country]}{}{\vspace{1pt}
-Thesis: ``[Thesis Title].'' [Brief description of research focus.]
+\needspace{4\baselineskip}
+\item{\cventry{2025-present}{Postgraduate, Data Science and Big Data}{UNIALPHAVILLE}{Brazil}{}{\vspace{1pt}
+In progress. Data science, big data architecture, analytics.
 }}
 
 \vspace{3pt}
 
-\item{\cventry{[YYYY-YYYY]}{[Degree] in [Field]}{[Institution]}{[City, Country]}{}{\vspace{1pt}
-[Brief description or key topics.]
+\item{\cventry{2024-2025}{Data Science \& Analytics Training, Specialized Coursework}{SENAI SC, Coursera, Data Science Academy}{Brazil / online}{}{\vspace{1pt}
+Python (NumPy, Pandas, web scraping, APIs), SQL (PostgreSQL, MongoDB), Power BI, Tableau, statistical analysis.
 }}
 
+\vspace{3pt}
+
+\item{\cventry{2018-2019}{MBA, Supply Chain Management}{Funda\c{c}\~ao Get\'ulio Vargas (FGV)}{Brazil}{}{}}
+
+\vspace{3pt}
+
+\item{\cventry{2014-2015}{MBA, Economics and Management}{Funda\c{c}\~ao Get\'ulio Vargas (FGV)}{Brazil}{}{}}
+
+\vspace{3pt}
+
+\item{\cventry{2006-2011}{BSc, Electrical / Electronic Engineering}{PUC Goi\'as}{Goi\^ania, GO, Brazil}{}{}}
+
+\vspace{3pt}
+
+\item{\cventry{2006-2007}{Technical Degree, Electronics}{Col\'egio Integra (CIP)}{Brazil}{}{}}
+
+\end{itemize}
+
+% ============================================================
+%     CERTIFICATIONS
+% ============================================================
+
+\section{Certifications}
+\vspace{1pt}
+\begin{itemize}
+\item {\textbf{Google Cloud Data Analytics --- Professional Certificate}, Google Cloud via Coursera (Aug 2026). Hands-on BigQuery and cloud SQL. \href{https://coursera.org/verify/professional-cert/I4UQOIC2RQ62}{Verify}.}
+\item {\textbf{Global Champion}, certified by Deel \& Nomad.}
+\item {\textbf{Industrial Instrumentation and Automation}, Universidade Petrobras (2014).}
+\item {\textbf{Maintenance Management}, Montcalo Engenharia (2011); \textbf{Electric Motor Installation and Maintenance}, WEG.}
 \end{itemize}
 
 % ============================================================
@@ -147,27 +236,18 @@ Thesis: ``[Thesis Title].'' [Brief description of research focus.]
 \section{Languages}
 \vspace{1pt}
 \begin{itemize}
-\item {[Language 1] (native), [Language 2] (fluent), [Language 3] (intermediate).}
+\item {Portuguese (native), English (advanced --- worked professionally in English in Ireland), Spanish (elementary).}
 \end{itemize}
 
 % ============================================================
-%     PUBLICATIONS (optional)
+%     PUBLICATIONS AND SPEAKING
 % ============================================================
 
-\section{Publications}
+\section{Publications and Speaking}
 \vspace{1pt}
 \begin{itemize}
-\item {[Author(s)] ([Year]). [Title]. [Journal/Conference]. \href{[DOI_URL]}{DOI link}}
-\end{itemize}
-
-% ============================================================
-%     HONORS AND AWARDS (optional)
-% ============================================================
-
-\section{Honors and Awards}
-\vspace{1pt}
-\begin{itemize}
-\item{\textbf{[Award Name]} -- [Event/Organization] ([Year]).}
+\item {Borba, F. (2026). \emph{Quando o LinkedIn virou Black Mirror: o dia em que percebi que meu SSI valia mais que meus 15 anos de experi\^encia}. LinkedIn article.}
+\item {Panelist, SAIL/PUC-Rio panel at Vibra Energia Expedition --- AI, agentic AI and governance.}
 \end{itemize}
 
 % ============================================================

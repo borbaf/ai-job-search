@@ -4,70 +4,153 @@ framework_version: 1.1.1
 
 # Candidate Profile
 
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all sections will be filled with your actual information -->
-
 ## Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_ADDRESS]
-- **Phone:** [YOUR_PHONE]
-- **Email:** [YOUR_EMAIL]
-- **LinkedIn:** [YOUR_LINKEDIN_URL]
-- **GitHub:** [YOUR_GITHUB_URL]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **Constraints:** [YOUR_COMMUTE_OR_LOCATION_CONSTRAINTS]
+- **Name:** Filippe Borba (full legal name: Filippe Rezende Borba)
+- **Location:** Bombinhas, Santa Catarina, Brazil
+- **Phone:** +55 11 97143 1108
+- **Email:** borbaf@gmail.com
+- **LinkedIn:** https://linkedin.com/in/borbaf
+- **GitHub:** https://github.com/borbaf
+- **Status:** Independent consultant (GLG Network Member) - actively searching
+- **Constraints:** Remote-first (target: fully remote roles paid in USD). Open to relocation, national and international. Prior international work experience in Ireland (2022-2023).
+- **CV language:** English (primary), Portuguese (parallel variant)
 
 ### Languages
-<!-- Every language you can work in professionally, with your honest level. Used by the
-Language Gate in 04-job-evaluation.md and by job-scraper/search-queries.md's query-language
-generation. Omit any language you don't actually work in - an undeclared language is treated as
-a hard no, not a gap to smooth over. -->
 
 | Language | Level | Notes |
 |----------|-------|-------|
-| [LANGUAGE] | [LEVEL, e.g. "Native" / "C2" / "B1/B2 (conversational)"] | [optional] |
+| Portuguese | Native | Brazilian Portuguese |
+| English | Advanced | Worked in English professionally in Ireland (AIS Ltd, 2022-2023); GLG client consultations |
+| Spanish | Elementary | Reading comprehension only - not sufficient for a Spanish-language working requirement |
 
 ## Education
 
 | Degree | Period | Institution | Key Topics |
 |--------|--------|-------------|------------|
-| [DEGREE] | [YEARS] | [INSTITUTION] | [TOPICS] |
+| Postgraduate, Data Science and Big Data (in progress) | 2025-present | UNIALPHAVILLE | Data science, big data, analytics |
+| Data Science & Analytics Training - Specialized Coursework | 2024-2025 | SENAI SC, Coursera, Data Science Academy | Python (NumPy, Pandas, web scraping, APIs), SQL (PostgreSQL, MongoDB), Power BI, Tableau, statistical analysis |
+| MBA, Supply Chain Management | 2018-2019 | FGV | Supply chain strategy, logistics, operations |
+| MBA, Economics and Management | 2014-2015 | FGV | Economics, business management |
+| BSc, Electrical/Electronic Engineering | 2006-2011 | PUC Goiás | Electrical engineering, instrumentation, automation |
+| Technical Degree, Electronics | 2007 | Colégio Integra (CIP) | Electronics |
+
+<!-- The UNIALPHAVILLE postgraduate is IN PROGRESS. Per 05-cv-templates.md, every CV entry for it
+must say so explicitly ("In progress, expected <Month Year>") - a bare closed year range reads as a
+completed degree. [PENDING] expected completion date. -->
+
+## Certifications
+- **Google Cloud Data Analytics - Professional Certificate** - Google Cloud via Coursera, completed 31 Aug 2026
+  - Verification: https://coursera.org/verify/professional-cert/I4UQOIC2RQ62
+  - Component courses: Introduction to Data Analytics in Google Cloud; Google Cloud Data Analytics; Data Management and Storage in the Cloud; Data Transformation in the Cloud; The Power of Storytelling: How to Visualize Data in the Cloud; Put It All Together: Prepare for a Cloud Data Analyst Job
+  - Hands-on practice with BigQuery and cloud SQL
+- **Global Champion** - certified by Deel & Nomad
+- **Industrial Instrumentation and Automation** - Universidade Petrobras (2014)
+- **Maintenance Management** - Montcalo Engenharia (2011)
+- **Electric Motor Installation and Maintenance** - WEG
+- **Leadership** - internal training
+- **PADI Enriched Air Diver** (personal, not CV-relevant for most roles)
 
 ## Professional Experience
 
-### [JOB_TITLE] - [COMPANY] ([START] - [END])
-[LOCATION]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_1]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_2]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_3]
+### Supply Chain Expert - GLG (Gerson Lehrman Group) (Sep 2025 - Present)
+Remote, Brazil
+- Network Member of GLG's global insights network, advising clients on supply chain and freight transport questions
+- Draws on 15+ years of fuel distribution, terminal operations and logistics consulting experience
+- Engagement-based / part-time alongside the analytics career transition
 
-<!-- Add more roles as needed -->
+### Independent Electrical Engineer - Self-employed (Mar 2012 - Present)
+Brazil
+- Parallel activity maintained alongside full-time employment, not a primary role
+- Design, execution and commissioning of audio and video systems
+- Technical standards training, technical and management audits, installation safety assessments, technical drawings
+
+### Senior Supply Chain Consultant - Moby Consulting (Feb 2023 - Jun 2025)
+Campinas, SP, Brazil
+- Strategic leadership in logistics optimization and implementation of **Logistics Control Towers**
+- Applied Lean, VSM and data mining to build business cases with tangible ROI
+- Built executive dashboards with **Python, SQL and Power BI** for client leadership teams
+- Client portfolio across sectors: Bracell, Suzano, Veracel (forestry); Unilever (food); Rede Sim/Argenta, COMGÁS, Ipiranga, Vibra, Total Energies (fuels); Inpasa (agribusiness); Multilixo (waste management)
+- [PENDING] Quantified outcomes: OTIF before/after, freight cost reduction %, number of dashboard users, routes or plants monitored
+
+### Project Engineer - Automatic Identification Systems (AIS) Ltd (Jul 2022 - Jan 2023)
+Dublin, Ireland
+- Commissioning and testing of industrial automation systems
+- Project installation and technical support across Ireland
+- Supported prospecting alongside the sales team
+- Full-time role delivered in English
+
+### Superintendent (Senior Manager) - Vibra Energia (Aug 2021 - Jan 2022)
+Vitória, ES, Brazil
+- Led a team of 50+ senior professionals at the Liquid Bulk Terminal in the Port of Tubarão
+- Terminal supplied **60% of Espírito Santo state's fuel**
+- Owned Procurement, Engineering, Purchasing, Infrastructure and Maintenance, and Sales & Supply
+- [PENDING] CAPEX/OPEX under management, downtime reduction %, savings generated, HSE metrics
+
+### Senior Manager - Vibra Energia (Dec 2019 - Aug 2021)
+Vitória, ES, Brazil
+- Led a team of 50+ at the Port of Tubarão terminal, covering rail receipt and cabotage
+- Managed inventory of fuels, biofuels, chemicals and lubricants covering 60% of state fuel supply
+
+### Logistics Coordinator - Vibra Energia / BR Distribuidora (Jun 2017 - Nov 2019)
+Campinas, SP, Brazil
+- Coordinated distribution of **30% of Brazil's liquid bulk fuel volume**; team of 7
+- Ran S&OP meetings across commercial, supply and operations
+- Built capacity planning models
+
+### Manager - Vibra Energia / BR Distribuidora (Jul 2014 - Jun 2017)
+Presidente Prudente, SP, Brazil
+- Team of 7 covering receipt, storage and delivery for **60% of eastern São Paulo state**
+- Project management; procurement and MRO support
+
+### MRO Operator - Vibra Energia / BR Distribuidora (Apr 2009 - Jun 2014)
+Goiânia, GO, Brazil
+- Industrial maintenance planning and execution (PCM)
+- **SAP PM & MM** for maintenance and materials management
+- Collaboration with Procurement and Supplier Quality Engineering
+
+<!-- Career arc for CV framing: 13 years inside Vibra/BR Distribuidora (2009-2022), rising from MRO
+Operator to Superintendent of a terminal supplying 60% of a state's fuel. Internal progression over
+five roles is a strong signal and should be visible on the CV rather than collapsed into one entry.
+Note the overlap: the independent electrical engineering activity (2012-present) runs in parallel
+with the Vibra, AIS and Moby roles. Present it as a parallel activity, never as a competing
+full-time role, or the dates read as a contradiction. -->
 
 ## Independent Projects
-<!-- Projects outside of employment: freelance, open source, personal -->
-- **[PROJECT_NAME]**: [DESCRIPTION]
+- [PENDING] GitHub portfolio (github.com/borbaf) - projects not yet catalogued. For a career
+  transition into analytics a public portfolio functions almost as experience; this is the highest-value
+  gap in this profile. Add project name, one-line description, stack and link for each.
 
 ## Technical Skills
 
-### Programming & ML
-- **[LANGUAGE]** ([PROFICIENCY]): [FRAMEWORKS_AND_LIBRARIES]
-- [OTHER_SKILLS]
+### Programming & Data
+- **Python** (working proficiency): NumPy, Pandas, Matplotlib, Seaborn, web scraping, REST APIs
+- **SQL** (working proficiency): PostgreSQL, MongoDB/NoSQL, BigQuery
+- **BI & visualization:** Power BI, Tableau
+- **Analysis:** exploratory data analysis (EDA), data mining, statistical analysis
+- **Cloud:** Google Cloud Platform (GCP), BigQuery (certified Aug 2026)
+- **Version control:** Git / GitHub
 
 ### Domain Expertise
-- [DOMAIN_1]
-- [DOMAIN_2]
+- Supply chain analytics and logistics control towers
+- Supply planning, materials planning, capacity planning, S&OP
+- Warehousing, shipping, freight transport, liquid bulk terminal operations
+- Fuel and energy distribution (13 years at Brazil's largest fuel distributor)
+- Industrial maintenance, MRO materials management, instrumentation and automation
+- Continuous improvement: Lean, VSM, 5S, TPM
+- Procurement, supplier quality, PMO, HSE
 
 ### Software & Tools
-- [TOOL_LIST]
+SAP (PM & MM), WMS, TMS, SCADA, Power BI, Tableau, advanced Excel, MS Office
 
 ## Publications
-<!-- List peer-reviewed publications, if any -->
-1. [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL]. [DOI_LINK]
+1. Borba, F. (2026). *Quando o LinkedIn virou Black Mirror: o dia em que percebi que meu SSI valia mais que meus 15 anos de experiência.* LinkedIn article.
 
 ## Awards
-- [AWARD] - [EVENT] ([YEAR])
+- Panelist, SAIL/PUC-Rio panel at Vibra Energia Expedition - topic: AI, agentic AI and governance
+- 10 recommendations received on LinkedIn
 
 ## References
-- [NAME], [TITLE], [COMPANY] ([EMAIL], [PHONE])
+- **Felipe Pieroni** - former colleague ([PENDING] title, company, contact)
+- **Douglas Cordeiro Parente** - peer, logistics ([PENDING] title, company, contact)
 
 More references available upon request.
