@@ -73,3 +73,4 @@ bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "supply chain" -
 bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "operations" -l "Remote" --remote remote --jobage 7 --format table
 bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "data" -l "Remote" --remote remote --jobage 7 --format table
 bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "product" -l "Remote" --remote remote --jobage 7 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "data analyst" -l "Bombinhas, Santa Catarina, Brazil" --jobage 30 --format table
