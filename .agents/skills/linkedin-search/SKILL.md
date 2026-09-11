@@ -1,6 +1,6 @@
 ---
 name: linkedin-search
-version: 1.0.0
+version: 1.3.0
 description: >
   Use this skill whenever the user wants to search for jobs in any location or
   market, find job listings, or look up a specific job posting — in any country,
@@ -32,72 +32,44 @@ This uses LinkedIn's public job pages; automated access is against LinkedIn's Te
 Service, so **keep volume low and don't use it commercially or for bulk data collection.**
 Run it on your own responsibility.
 
-## When to use this skill
+---
 
-- Search for job openings in a given location (any country/city) or remotely
-- Filter by recency (posted today / last 7 / 14 / 30 days) or workplace type (remote/hybrid/onsite)
-- Get the full description of a specific job listing
+## 🎯 Candidate profile (context for search strategy)
 
-## Commands
+The user of this fork is a **Logistics Transformation Engineer & Consultant** with 15+
+years in supply-chain optimization and operations leadership, currently **pivoting their
+career toward Data & Product**. Search priority order:
 
-### Search job listings
+1. **Data / Analytics** (top priority): Data Engineering, Analytics Engineering, Data
+   Analyst, Business Intelligence, Data Science
+2. **Product** (high priority): Product Owner, Product Manager, Data Product Owner
+3. **Supply Chain / Logistics / Operations** (secondary — core background, apply only
+   when they add clear data/analytics/tech value)
 
+- **Seniority:** Senior / Specialist / Product Owner / Manager / Lead
+- **Tools & skills to match on:** SQL, Python, Power BI, Tableau, Databricks, WMS, TMS,
+  ERP (SAP), data mining, product discovery, agile/Scrum, PMO
+- **Preferred work setup:** Remote (anywhere) or hybrid in **Brazil** (Curitiba/PR region);
+  also targets **Latam** for remote roles
+- **Compensation preference:** USD-denominated remote roles prioritized when international
+
+Use this profile to choose `--query` terms and to prioritize results. When the user asks
+to "find jobs for me", default to the recommended queries below unless they specify otherwise.
+
+---
+
+## Recommended search queries (by priority)
+
+### A. Data / Analytics (top priority)
 ```bash
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search --location "<place>" [flags]
-```
-
-Key flags:
-- `--location <text>` / `-l <text>` — **required.** A LinkedIn place string, e.g. `"Mumbai, Maharashtra, India"`, `"Berlin, Germany"`, `"London, United Kingdom"`, or `"Remote"`.
-- `--query <text>` / `-q <text>` — keyword search (title, skill, role). Recommended.
-- `--jobage <days>` — posted within N days: `1`, `7`, `14`, `30`. Omit for all postings.
-- `--jobage-minutes <n>` — posted within N minutes (sub-day precision, e.g. `30`). Conflicts with `--jobage` — pass only one.
-- `--remote <mode>` — `remote`, `hybrid`, or `onsite` (workplace-type filter).
-- `--page <n>` — page number (1-indexed, 10 results per page).
-- `--limit <n>` / `-n <n>` — cap total results emitted (client-side).
-- `--format json|table|plain` — default `json`.
-
-### Fetch full job detail
-
-```bash
-bun run .agents/skills/linkedin-search/cli/src/cli.ts detail <id|url> [--format json|plain]
-```
-
-`id` is the job ID from `search` results (e.g. `4426311357`). You may also pass a full
-LinkedIn `jobs/view/...` URL or a `urn:li:jobPosting:...` URN. Returns the full description,
-seniority, employment type, job function, and industries.
-
-## Usage examples
-
-```bash
-# Data engineer roles in Bengaluru, last 30 days
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "data engineer" -l "Bengaluru, Karnataka, India" --jobage 30 --format table
-
-# Product manager roles in Berlin, remote
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "product manager" -l "Berlin, Germany" --remote remote --format table
-
-# Any role, fully remote
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "paralegal" -l "Remote" --format table
-
-# Engineer roles, remote, posted in the last 30 minutes
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "engineer" -l "Remote" --jobage-minutes 30 --format table
-
-# Full details for a specific job
-bun run .agents/skills/linkedin-search/cli/src/cli.ts detail 4426311357 --format plain
-```
-
-## Output formats
-
-| Format | Best for |
-|--------|----------|
-| `json` | Default — programmatic use, passing IDs to `detail` |
-| `table` | Quick human-readable scanning |
-| `plain` | Reading a single job's full detail (`detail` command) |
-
-All errors are written to **stderr** as `{ "error": "...", "code": "..." }` and the process exits with code `1`.
-
-## Notes
-
-- Data is from LinkedIn's public `jobs-guest` endpoints — no credentials required.
-- Page size is fixed at 10 results per page.
-- LinkedIn may rate-limit; the CLI retries 429/5xx with exponential backoff. Keep volume low (see ToS note above).
-- Job IDs are numeric (e.g. `4426311357`) — pass them as-is to `detail`.
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "analytics engineer" -l "Remote" --jobage 14 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "business intelligence" -l "Remote" --jobage 14 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "data analyst" -l "Latam" --jobage 30 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "product owner" -l "Remote" --jobage 14 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "product manager" -l "Remote" --jobage 14 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "data product owner" -l "Remote" --jobage 30 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "product owner" -l "Latam" --jobage 30 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "supply chain" -l "Remote" --remote remote --jobage 7 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "operations" -l "Remote" --remote remote --jobage 7 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "data" -l "Remote" --remote remote --jobage 7 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "product" -l "Remote" --remote remote --jobage 7 --format table
