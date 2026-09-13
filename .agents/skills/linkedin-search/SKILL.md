@@ -49,9 +49,10 @@ career toward Data & Product**. Search priority order:
 - **Seniority:** Senior / Specialist / Product Owner / Manager / Lead
 - **Tools & skills to match on:** SQL, Python, Power BI, Tableau, Databricks, WMS, TMS,
   ERP (SAP), data mining, product discovery, agile/Scrum, PMO
-- **Preferred work setup:** Remote (anywhere) or hybrid in **Brazil** (Curitiba/PR region);
-  also targets **Latam** for remote roles
-- **Compensation preference:** USD-denominated remote roles prioritized when international
+- **Preferred work setup:** Remote (anywhere) or hybrid in **Brazil** (Bombinhas/SC,
+  open to relocation to Fortaleza/CE); also targets **Latam** for remote roles
+- **Compensation preference:** USD-denominated remote roles prioritized when international;
+  floor USD 2,000/mo, target USD 5,000/mo
 
 Use this profile to choose `--query` terms and to prioritize results. When the user asks
 to "find jobs for me", default to the recommended queries below unless they specify otherwise.
@@ -64,13 +65,19 @@ to "find jobs for me", default to the recommended queries below unless they spec
 ```bash
 bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "analytics engineer" -l "Remote" --jobage 14 --format table
 bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "business intelligence" -l "Remote" --jobage 14 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "data analyst" -l "Bombinhas, Santa Catarina, Brazil" --jobage 30 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "data analyst" -l "Fortaleza, Ceará, Brazil" --jobage 30 --format table
 bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "data analyst" -l "Latam" --jobage 30 --format table
 bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "product owner" -l "Remote" --jobage 14 --format table
 bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "product manager" -l "Remote" --jobage 14 --format table
 bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "data product owner" -l "Remote" --jobage 30 --format table
 bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "product owner" -l "Latam" --jobage 30 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "supply chain" -l "Remote" --jobage 14 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "logistics" -l "Remote" --jobage 14 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "operations manager" -l "Remote" --jobage 14 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "procurement" -l "Remote" --jobage 14 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "supply chain" -l "Latam" --jobage 30 --format table
 bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "supply chain" -l "Remote" --remote remote --jobage 7 --format table
 bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "operations" -l "Remote" --remote remote --jobage 7 --format table
 bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "data" -l "Remote" --remote remote --jobage 7 --format table
 bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "product" -l "Remote" --remote remote --jobage 7 --format table
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "data analyst" -l "Bombinhas, Santa Catarina, Brazil" --jobage 30 --format table

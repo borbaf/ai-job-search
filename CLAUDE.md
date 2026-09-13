@@ -1,7 +1,7 @@
 # Candidate Profile — Filippe Rezende Borba
 
 ## Identity
-- Location: Bombinhas, Santa Catarina, Brazil (remote-first; open to relocation)
+- Location: Bombinhas, Santa Catarina, Brazil (remote-first; open to relocation to Fortaleza/CE)
 - Contact: +55 11 97143 1108 · borbaf@gmail.com
 - LinkedIn: linkedin.com/in/borbaf · GitHub: github.com/borbaf
 - Languages: PT (native) · EN (advanced) · ES (elementary)
@@ -13,6 +13,11 @@
 Google Cloud Certified Data Analyst"
 "I am not a beginner in data — I am a Supply Chain professional who finally
 has the right tool."
+
+## Career pivot priority (for search & apply)
+1. Data / Analytics (top): Data Analyst, Analytics Engineer, Data Engineer, BI
+2. Product (high): Product Owner, Product Manager, Data Product Owner
+3. Supply Chain / Operations (secondary, data-flavored only)
 
 ## Education
 - Postgraduate in Data Science & Big Data (in progress) — UNIALPHAVILLE
@@ -35,6 +40,7 @@ has the right tool."
 - Data: Python (NumPy, Pandas, Matplotlib, Seaborn, scraping, APIs), SQL
   (PostgreSQL, MongoDB/NoSQL), Power BI, Tableau, EDA, data mining, statistics
 - Cloud: GCP, BigQuery (Google Cloud Data Analyst certified — Aug 2026)
+- AI/automation: LLM APIs, agentic workflows (Claude Code, Gemini CLI), process automation
 - Domain: supply chain analytics, control towers, fuel distribution, liquid
   bulk terminals, WMS/TMS/ERP (SAP PM&MM), PMO, procurement, Lean/VSM/5S/TPM
 
@@ -43,13 +49,12 @@ has the right tool."
 - Global Champion — Deel & Nomad
 - Industrial Instrumentation & Automation — Universidade Petrobras
 
-## Target roles (priority)
-1. Data Analyst / Analytics Engineer / Data Engineer
-2. Data Product Owner / Product Owner / Product Manager
-3. Supply Chain Analytics / data-driven Operations
-
 ## Compensation
 - Floor: USD 2,000/mo (reject below) · Target: USD 5,000/mo
 
 ## Deal-breakers
 - Below USD 2,000/mo
+
+## Writing & tooling rules
+- When mentioning agentic coding or AI tooling, explicitly reference Claude Code by name.
+- CV/letters must be repositioned toward Data & Product / Automation, not pure supply chain.
