@@ -1,7 +1,5 @@
 # Candidate Profile - Filippe Rezende Borba
 
-@AGENTS.md
-
 ## Identity
 - Location: Bombinhas, Santa Catarina, Brazil (remote-first; open to relocation to Fortaleza/CE)
 - Contact: +55 11 97143 1108 | borbaf@gmail.com
