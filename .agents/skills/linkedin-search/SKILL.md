@@ -36,48 +36,59 @@ Run it on your own responsibility.
 
 ## 🎯 Candidate profile (context for search strategy)
 
-The user of this fork is a **Logistics Transformation Engineer & Consultant** with 15+
-years in supply-chain optimization and operations leadership, currently **pivoting their
-career toward Data & Product**. Search priority order:
+The user of this fork is a **Supply Chain & Logistics Leader** with 15+ years of operational
+authority (terminal superintendent, fuel distribution coordinator, S&OP leader) currently
+accelerating an applied career transition through **Data Analytics & BI (Python, SQL, Tableau, Power BI, GCP)**.
 
-1. **Data / Analytics** (top priority): Data Engineering, Analytics Engineering, Data
-   Analyst, Business Intelligence, Data Science
-2. **Product** (high priority): Product Owner, Product Manager, Data Product Owner
-3. **Supply Chain / Logistics / Operations** (secondary — core background, apply only
-   when they add clear data/analytics/tech value)
+### Target Sweet Spots (Top Priority)
+1. **Supply Chain Analytics, S&OP & BI:** Roles uniting operational leadership with data/automation
+   (e.g., *Supply Chain Data Analyst*, *S&OP Analyst*, *Demand Planning Analyst - Data & Automation*, *BI Analyst*).
+   Exemplified by roles like **INDI Staffing Services (BI Analyst - Remote, USD)** or **Drogaria Araujo / Loggi (Demand/S&OP with Python/SQL)**.
+2. **Logistics Tech & Fleet Management Product:** Technical Product Owner in Fleet Management, TMS, WMS,
+   or Supply Chain SaaS (exemplified by **Omron Automation**).
 
-- **Seniority:** Senior / Specialist / Product Owner / Manager / Lead
-- **Tools & skills to match on:** SQL, Python, Power BI, Tableau, Databricks, WMS, TMS,
-  ERP (SAP), data mining, product discovery, agile/Scrum, PMO
-- **Preferred work setup:** Remote (anywhere) or hybrid in **Brazil** (Bombinhas/SC,
-  open to relocation to Fortaleza/CE); also targets **Latam** for remote roles
-- **Compensation preference:** USD-denominated remote roles prioritized when international;
-  floor USD 2,000/mo, target USD 5,000/mo
+### Anti-patterns & Roles to Deprioritize
+- **Pure Data Engineering:** Deep pipeline infrastructure (Spark/Kafka/Scala/Dataflow backend) with no business domain leverage.
+- **Generic Product Owner:** Generalist PO in apparel, e-commerce, banking/fintech with no logistics/operations overlap.
 
-Use this profile to choose `--query` terms and to prioritize results. When the user asks
-to "find jobs for me", default to the recommended queries below unless they specify otherwise.
+### Constraints & Deal-breakers
+- **Eligibility Filter:** Hard stop on US/foreign postings requiring domestic citizenship/green card/US work authorization without sponsorship (e.g. Core Health & Fitness). Must hire globally (EOR/Contractor/B2B) or sponsor.
+- **Work Setup:**
+  - **100% Remote:** Primary target (global/LATAM/Brazil; USD-denominated prioritized, floor USD 2,000/mo, target USD 5,000/mo).
+  - **Hybrid in SC:** ONLY within ~80 km of Bombinhas-SC (Florianópolis, Itajaí, Balneário Camboriú, Navegantes). **Blumenau is NOT viable**.
+  - **Hybrid in Fortaleza/CE:** Viable (open to relocation to Fortaleza).
+  - **Excluded:** Hybrid or on-site in São Paulo (SP), Belo Horizonte (BH), Curitiba, Blumenau, etc.
 
 ---
 
 ## Recommended search queries (by priority)
 
-### A. Data / Analytics (top priority)
+### A. Supply Chain Analytics & S&OP (Top Sweet Spot)
 ```bash
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "analytics engineer" -l "Remote" --jobage 14 --format table
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "business intelligence" -l "Remote" --jobage 14 --format table
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "data analyst" -l "Bombinhas, Santa Catarina, Brazil" --jobage 30 --format table
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "data analyst" -l "Fortaleza, Ceará, Brazil" --jobage 30 --format table
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "data analyst" -l "Latam" --jobage 30 --format table
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "product owner" -l "Remote" --jobage 14 --format table
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "product manager" -l "Remote" --jobage 14 --format table
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "data product owner" -l "Remote" --jobage 30 --format table
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "product owner" -l "Latam" --jobage 30 --format table
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "supply chain" -l "Remote" --jobage 14 --format table
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "logistics" -l "Remote" --jobage 14 --format table
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "operations manager" -l "Remote" --jobage 14 --format table
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "procurement" -l "Remote" --jobage 14 --format table
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "supply chain" -l "Latam" --jobage 30 --format table
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "supply chain" -l "Remote" --remote remote --jobage 7 --format table
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "operations" -l "Remote" --remote remote --jobage 7 --format table
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "data" -l "Remote" --remote remote --jobage 7 --format table
-bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "product" -l "Remote" --remote remote --jobage 7 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "supply chain analytics" -l "Remote" --remote remote --jobage 14 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "supply chain data analyst" -l "Remote" --remote remote --jobage 14 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "s&op analyst" -l "Remote" --remote remote --jobage 14 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "demand planning" -l "Remote" --remote remote --jobage 14 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "logistics analyst" -l "Remote" --remote remote --jobage 14 --format table
+```
+
+### B. Business Intelligence & Analytics (Operational Leverage)
+```bash
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "business intelligence analyst" -l "Remote" --remote remote --jobage 14 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "data analyst" -l "Remote" --remote remote --jobage 14 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "analytics engineer" -l "Remote" --remote remote --jobage 14 --format table
+```
+
+### C. Logistics Tech & Fleet Product
+```bash
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "fleet management product owner" -l "Remote" --jobage 30 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "logistics product owner" -l "Remote" --jobage 30 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "product owner" -l "Remote" --remote remote --jobage 14 --format table
+```
+
+### D. Local & Relocation Targets (SC 80km radius & Fortaleza/CE)
+```bash
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "dados" -l "Florianópolis, Santa Catarina, Brazil" --jobage 30 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "logistica" -l "Itajaí, Santa Catarina, Brazil" --jobage 30 --format table
+bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "dados" -l "Fortaleza, Ceará, Brazil" --jobage 30 --format table
+```

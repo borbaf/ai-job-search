@@ -12,7 +12,8 @@ framework_version: 1.1.1
 - **LinkedIn:** https://linkedin.com/in/borbaf
 - **GitHub:** https://github.com/borbaf
 - **Status:** Independent consultant (GLG Network Member) - actively searching
-- **Constraints:** Remote-first (target: fully remote roles paid in USD). Open to relocation, national and international. Prior international work experience in Ireland (2022-2023).
+- **Constraints:** Remote-first (target: fully remote roles paid in USD). Open to relocation to Fortaleza/CE or international with sponsorship. Hybrid in SC viable only within ~80 km of Bombinhas (Florianópolis, Itajaí, BC, Navegantes; Blumenau is NOT viable). Hybrid/on-site in SP, BH, etc. is NOT viable. Holds Brazilian citizenship (no US work visa/green card).
+- **Core Scope & Positioning:** Operational domain authority + analytics (Supply Chain Analytics, S&OP, Demand Planning, BI, Logistics/Fleet Tech Product). Pure backend data engineering (5-7+ years pure SQL programming/DW dev) and mandatory Microsoft Fabric core are out of scope.
 - **CV language:** English (primary), Portuguese (parallel variant)
 
 ### Languages

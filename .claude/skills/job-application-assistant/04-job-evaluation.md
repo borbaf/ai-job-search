@@ -10,13 +10,15 @@ framework_version: 1.2.6
 
 If the candidate is not a citizen or permanent resident of the country they are applying in, run this first. It is a hard filter, not a scoring dimension, and it is separate from work-permit *timing*: timing asks "can they work the required hours yet?", eligibility asks "are they permitted to hold this job at all?". A candidate can pass timing and still be categorically excluded.
 
+**Candidate citizenship status:** Brazilian citizen, located in Brazil. Holds **no US citizenship, Green Card, or US work authorization**.
+
 Read the posting's eligibility / work rights / "who can apply" section **verbatim** and classify:
 
 | Posting wording | Verdict |
 |-----------------|---------|
-| Names a **citizenship or permanent-residency requirement** ("must be a citizen of X", "permanent resident", "PR required", "full working rights" where the employer means citizen/PR) | **FAIL — hard stop.** Do not score, do not draft. Quote the exact wording back to the user. |
+| Names a **citizenship or permanent-residency requirement** ("must be a citizen of X", "permanent resident", "PR required", "must be legally authorized to work in the US without sponsorship", "US work authorization required") | **FAIL — hard stop.** Do not score, do not draft. Quote the exact wording back to the user (e.g., US roles like Core Health & Fitness that require domestic authorization). |
 | Requires a **security clearance** at any level | **FAIL** in most countries, since clearance is normally gated on citizenship. Verify the specific scheme rather than assuming. |
-| **Explicitly names** the candidate's permit class, or says "international applicants welcome", "visa holders considered", "we sponsor" | **PASS** — verified acceptance. Worth noting as a positive in the application. |
+| **Explicitly names** the candidate's permit class, or says "international applicants welcome", "visa holders considered", "we sponsor", or hires globally via EOR/Contractor (BairesDev, Scrambly, INDI) | **PASS** — verified acceptance. Worth noting as a positive in the application. |
 | **Silent** on citizenship or residency | **PROCEED, but mark unverified.** Check the employer's own careers or international-applicant page before drafting. |
 
 **Two rules that are easy to get wrong:**
@@ -64,7 +66,7 @@ How well do the required/preferred skills align with the candidate's capabilitie
 
 **Moderate match areas:** Google Cloud Platform / BigQuery (certified Aug 2026, limited production hours), Git/GitHub, dashboard and data-model design at scale, forecasting and demand planning, SCADA and industrial automation, PMO and project management
 
-**Weak match areas:** Machine learning and MLOps in production, data engineering (Airflow, dbt, Spark, streaming), cloud infrastructure and DevOps, software engineering (web/backend development), R, Snowflake/Databricks, Azure/AWS specifics, deep statistical modeling and experimentation design
+**Weak match areas:** Machine learning and MLOps in production, pure backend SQL development / data warehouse engineering (5-7+ years dev), Microsoft Fabric, Azure Synapse / Databricks, data engineering (Airflow, dbt, Spark, streaming), cloud infrastructure and DevOps, software engineering (web/backend development), R, Snowflake, deep statistical modeling and experimentation design
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for? Match on the function and nature of the work performed, not the literal job title - a "Data Consultant" and a "Data Scientist" role can be functionally identical.
@@ -98,16 +100,16 @@ Does the role and company culture match the behavioral profile?
 
 ### 4. Location & Logistics (Pass/Fail + Notes)
 
-Base: Bombinhas, Santa Catarina, Brazil. Target: **fully remote roles paid in USD**. Relocation is *not* a deal-breaker — he is open to relocating nationally and internationally, and has already worked abroad (Dublin, 2022-2023).
+Base: Bombinhas, Santa Catarina, Brazil. Target: **fully remote roles paid in USD**. Relocation is viable for Fortaleza/CE or abroad with sponsorship.
 
-- Fully remote (global or LATAM/Americas): **PASS** — the primary target
-- Remote with occasional travel to an office or client site: **PASS**
-- Hybrid or on-site in Santa Catarina (Florianópolis, Itajaí, Balneário Camboriú, Joinville, Blumenau): **PASS**
-- Hybrid or on-site elsewhere in Brazil (São Paulo, Campinas, Curitiba, etc.): **FLAG** — requires relocation; viable but discuss, since it means giving up the remote/USD premium
-- On-site abroad with visa sponsorship: **FLAG** — viable and of genuine interest; check sponsorship explicitly and run the Eligibility Gate above
-- On-site abroad *without* sponsorship or work rights: **FAIL** (see Eligibility Gate)
-- Frequent international travel: **FLAG** (discuss with user)
-- Timezone: no hard constraint, but flag anything requiring sustained work outside roughly UTC-3 ± 6 hours
+- **Fully remote (global, LATAM, or Brazil):** **PASS** — the primary target (prioritize USD-denominated roles).
+- **Hybrid or on-site in Santa Catarina within ~80 km of Bombinhas** (Florianópolis, Itajaí, Balneário Camboriú, Navegantes, Tijucas): **PASS**.
+- **Hybrid or on-site in Fortaleza, Ceará:** **PASS** — candidate is explicitly open to relocating to Fortaleza.
+- **Hybrid or on-site in Blumenau, SC:** **FAIL / HARD STOP** — explicitly not viable for daily/regular presence.
+- **Hybrid or on-site in São Paulo (SP), Belo Horizonte (BH), Curitiba, or other distant Brazilian cities:** **FAIL / HARD STOP** — deal-breaker; do not score or draft (e.g., S&OP Amazon SP, Loggi SP, Drogaria Araujo BH).
+- **On-site abroad with visa sponsorship:** **FLAG** — viable and of genuine interest; check sponsorship explicitly and run the Eligibility Gate above.
+- **On-site abroad *without* sponsorship or work rights:** **FAIL** (see Eligibility Gate).
+- **Timezone:** no hard constraint, but flag anything requiring sustained work outside roughly UTC-3 ± 6 hours.
 
 ### 5. Career Alignment & Motivation (0-100)
 Does this role advance career goals and contain tasks that energize?
@@ -119,20 +121,24 @@ Does this role advance career goals and contain tasks that energize?
 | 40-59 | Decent job but doesn't build toward career goals |
 | 0-39 | Dead end or backwards step |
 
-**Career goals:**
-- Complete the transition into Data Science / Analytics, using 15+ years of supply chain as the differentiator rather than starting over as a junior analyst
-- Land a fully remote role paid in USD (Supply Chain Analytics, Data Analytics, or Digital Transformation)
-- Keep building technical depth (Python, SQL, cloud analytics) in a role that treats learning as part of the job
-- Be found passively by recruiters on LinkedIn (secondary, ongoing)
+**Target Sweet Spots (Score 85-100):**
+1. **Supply Chain Analytics, S&OP & BI:** S&OP Analyst, Demand Planning (Data & Automation), Supply Chain Data Analyst, Business Intelligence Analyst. Capitalizes on 15+ years of operational leadership and executive presence as the ultimate differentiator, powered by Python, SQL, Tableau, Power BI, or GCP.
+2. **Logistics Tech / Fleet Management Product:** Technical Product Owner / Product Manager in Fleet Management, TMS, WMS, Logistics Cloud, or Supply Chain SaaS (e.g., Omron model).
+
+**Anti-Patterns / Deprioritized (Score 0-45):**
+- **Pure Data Engineering & Database Development:** Roles demanding 5-7+ years of pure SQL programming, data warehouse engineering, or data pipeline plumbing with no business/domain connection (e.g., Wesco). Filippe's value is operational domain authority + analytics, not backend database programming.
+- **Microsoft Fabric Core:** Roles where Microsoft Fabric, Azure Synapse, or Azure Databricks are mandatory prerequisites (e.g., Avanade). Filippe's cloud core is GCP / BigQuery.
+- **Generic Product Owner:** Generalist PO in apparel, e-commerce, banking, or non-supply-chain apps (e.g., Hering, Firedev, Eldorado) — deviates from the core logistics differentiator.
+- **Ambiguous Work Models:** Roles based in SP, BH, etc., with consulting or hybrid risk without guaranteed 100% remote contract.
 
 **Motivation filter:** Evaluate not just whether he *can* do the tasks, but whether the tasks will *energize* him. Consider:
-- **Tasks that energize:** building analyses and dashboards that change an operational decision; owning a problem end-to-end; working directly with business stakeholders who know the domain; control-tower and planning problems; learning a new tool on a real problem; scale and consequence (a terminal, a network, a national distribution footprint)
-- **Tasks that drain:** execution-only mandates with no decision authority; maintenance-only scope with no development path; pure research with no business consumer; environments where decisions stall for lack of an owner; presence-based evaluation
-- **Non-task factors:** leadership style, department culture, company values, degree of autonomy
+- **Tasks that energize:** building analyses and dashboards that change an operational decision; owning a problem end-to-end; working directly with business stakeholders who know the domain; control-tower, S&OP, and demand planning problems; learning a new tool on a real problem; scale and consequence (a terminal, a network, a national distribution footprint).
+- **Tasks that drain:** execution-only mandates with no decision authority; maintenance-only scope with no development path; pure research with no business consumer; environments where decisions stall for lack of an owner; presence-based evaluation in distant cities.
+- **Non-task factors:** leadership style, department culture, company values, degree of autonomy.
 
 **Life situation alignment:** Consider personal constraints:
 - **Security**: Currently on engagement-based consulting income (GLG) rather than a salaried role — a stable full-time offer carries real weight. Compensation floor is **USD 2,000/month**; anything below it is a deal-breaker regardless of score. Target is **USD 5,000/month**.
-- **Flexibility**: Remote-first, based in Bombinhas SC (UTC-3). No stated schedule constraints; open to relocation.
+- **Flexibility**: Remote-first, based in Bombinhas SC (UTC-3).
 - **Professional development**: Postgraduate in Data Science and Big Data in progress — a role that accommodates continued study and pays for or encourages certification scores higher on this dimension.
 
 ### 6. Salary Benchmark (Optional)
