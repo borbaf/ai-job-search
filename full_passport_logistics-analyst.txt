@@ -1,0 +1,206 @@
+URL: https://dynamitejobs.com/company/passport/remote-job/logistics-analyst
+
+JSON-LD LOC: loc_type: None, jobLocation: None; loc_type: TELECOMMUTE, jobLocation: [{'@type': 'Country', 'name': 'Canada'}, {'@type': 'Country', 'name': 'United States'}]
+
+🧨 Logistics Analyst, Remote Job, September 2026
+Logistics Analyst
+Passport
+Full Time
+$80k - $102k per year
+Excel
+,
+Logistics
+,
+Supply Chain
+,
+Transportation
+,
+Analytical skills
+Opened  3 days ago
+Featured Job
+Promoted Job
+Remote Job
+Company
+Save
+Apply Now
+Excel
+Logistics
+Supply Chain
+Transportation
+Analytical skills
+Logistics Analyst
+About the Role
+We are looking for a
+Logistics Analyst
+to support the growth and optimization of Passport's transportation network. Reporting to the Logistics Director within the Commercial organization, this role will use data and transportation expertise to help determine how freight should move across our network—balancing cost, capacity, service, and operational requirements.
+The Logistics Analyst will play a key role in developing routing recommendations, improving truck and trailer utilization, identifying freight consolidation opportunities, evaluating carrier performance, and finding opportunities to reduce transportation costs. As our network grows, this individual will help analyze how pickup locations, shipment volumes, transportation modes, and carrier capacity can be combined into an increasingly efficient and scalable network.
+This is an ideal opportunity for someone with 2–4 years of transportation or logistics experience who enjoys solving complex problems with data. The right candidate will combine strong analytical capabilities with practical transportation knowledge and the ability to build strong relationships with cross-functional teams.
+What You'll Do:
+Transportation Network & Routing Optimization
+Analyze shipment volumes, lanes, pickup locations, weights, pallet counts, capacity, service requirements, and transportation costs to identify network optimization opportunities.
+Develop data-driven routing recommendations that determine the most efficient carrier, transportation mode, consolidation strategy, and pickup structure across the network.
+Identify opportunities to combine nearby pickup locations, optimize pickup frequency, consolidate freight, and improve truck and trailer utilization.
+Analyze opportunities to shift freight between domestic ground parcel, LTL, and FTL based on volume, cost, capacity, and service requirements.
+Evaluate existing and forecasted transportation volumes to identify opportunities for dedicated routes, multi-stop solutions, consolidation, and other network efficiencies.
+Model alternative transportation scenarios and quantify the financial and operational impact of proposed routing or carrier changes.
+Develop and maintain routing analyses and recommendations for review and approval by Logistics leadership.
+Continuously evaluate the network as volumes, pickup locations, customers, and operational requirements change.
+Partner closely with Operations to ensure routing and network recommendations are operationally practical, executable, and aligned with facility requirements.
+Data & Reporting
+Analyze transportation data from our TMS, carrier reporting, shipment history, and internal systems to identify trends, exceptions, and improvement opportunities.
+Combine, clean, validate, and analyze large datasets from multiple sources to create reliable transportation insights.
+Build and maintain reporting for key transportation KPIs, including cost per shipment, cost per pound, capacity utilization, pickup performance, delivery performance, and carrier compliance.
+Perform lane-level, carrier-level, and mode-level cost analysis to support transportation decisions.
+Identify root causes behind transportation cost increases, underutilized capacity, service failures, and routing inefficiencies.
+Translate complex transportation data into clear recommendations and actionable insights for Logistics leadership and cross-functional stakeholders.
+Support continued improvement of transportation data quality, reporting, and TMS utilization.
+Help develop and document scalable transportation processes, routing standards, and analytical methodologies as the network continues to grow.
+Transportation Cost Management & Commercial Support
+Identify, quantify, and track transportation cost-saving opportunities across the domestic network.
+Develop financial analyses and business cases for proposed carrier, routing, mode, or network changes.
+Establish appropriate cost baselines and measure realized savings following implementation.
+Support carrier sourcing, RFPs, and negotiations through lane analysis, cost modeling, benchmarking, and scenario evaluation.
+Assist with validation of carrier rates, accessorial charges, invoices, and transportation cost assumptions as needed.
+Help ensure transportation decisions balance service requirements with Passport's broader cost and margin objectives.
+Collaborate with Commercial and Finance stakeholders to evaluate transportation costs, quantify savings opportunities, and clearly communicate the financial impact of proposed network changes.
+Carrier Performance & Operational Support
+Partner closely with Operations to monitor transportation performance and identify opportunities for continuous improvement.
+Analyze recurring service failures, capacity constraints, missed pickups, and other transportation exceptions to identify root causes and recommend corrective actions.
+Monitor carrier performance and routing compliance and recommend when routing or carrier changes should be considered.
+Support the Logistics Director with carrier scorecards, performance analysis, business reviews, and carrier evaluations.
+Participate in carrier meetings and performance discussions as needed, providing supporting analysis and data.
+Support implementation of approved carrier, routing, and network changes while Operations maintains ownership of day-to-day transportation execution.
+Build strong working relationships across Operations, Commercial, Technology, and external transportation partners to ensure transportation changes are understood, coordinated, and successfully implemented.
+Communicate transportation findings, performance issues, and recommended actions clearly to both technical and non-technical stakeholders.
+What Success Looks Like:
+Within 3 Months
+Develop a strong understanding of Passport's transportation network, carrier base, facilities, transportation flows, and TMS.
+Become proficient in the transportation datasets and reporting used to manage network cost and performance.
+Complete initial analysis of key lanes, pickup locations, shipment volumes, transportation modes, and carrier utilization.
+Begin producing routing and cost analyses that identify actionable optimization opportunities.
+Establish strong working relationships across Logistics, Operations, Commercial, and Technology.
+Within 6 Months
+Take primary ownership of recurring routing, lane, utilization, and transportation cost analysis.
+Develop and maintain reporting for key transportation cost, utilization, and performance KPIs.
+Proactively recommend routing, consolidation, mode, and carrier changes supported by clear financial and operational analysis.
+Build repeatable methodologies for evaluating transportation opportunities and measuring realized savings.
+Become a trusted analytical partner to Logistics leadership and Operations for transportation network decisions.
+Within 12 Months
+Independently own 90%+ of recurring routing, lane, and transportation cost analysis, with leadership focused primarily on reviewing recommendations and making strategic decisions.
+Identify transportation cost-saving opportunities representing at least 15% improvement through routing optimization, shipment consolidation, carrier selection, mode optimization, and network design.
+Achieve 98%+ on-time pick up and delivery performance through carrier performance analysis, routing recommendations, and continuous improvement initiatives.
+Establish a clear, data-driven future-state routing strategy for the network that considers consolidation opportunities, pickup geography, shipment density, carrier capabilities, transportation mode, service requirements, and cost.
+Demonstrate the ability to independently lead transportation optimization projects from initial analysis and opportunity identification through recommendation, implementation support, and post-implementation performance evaluation.
+What we're looking for:
+2–4 years of professional experience in transportation, logistics, supply chain, transportation analytics, freight brokerage, carrier operations, or a related field.
+Working knowledge of parcel, LTL, and FTL transportation; first- and middle-mile experience strongly preferred.
+Strong analytical skills with demonstrated experience using large datasets to identify trends, evaluate alternatives, and develop actionable recommendations.
+Advanced proficiency in Excel and/or Google Sheets, including pivot tables, lookups, formulas, data manipulation, and cost modeling.
+Experience combining, cleaning, and analyzing data from multiple sources; familiarity with Tableau, Looker, Power BI, or similar BI tools is a plus.
+Experience with transportation analysis such as routing, lane analysis, freight consolidation, load utilization, cost modeling, or carrier performance analysis preferred.
+Experience with a Transportation Management System (TMS) or similar logistics technology preferred.
+Bachelor's degree in Supply Chain, Logistics, Business, Analytics, Industrial Engineering, or a related field, or equivalent practical experience.
+Strong communication and relationship-building skills with the ability to collaborate cross-functionally.
+Proactive and highly accountable, with the ability to challenge assumptions constructively and use data to recommend better solutions.
+Role Details
+Reports to:
+Logistics Director
+Organization:
+Commercial
+Location:
+Remote
+Travel:
+Approximately 10%
+Don't wait, tomorrow could be too late.
+Apply Now
+About the company
+Passport
+View all company's open jobs
+Similar Remote Jobs
+Similar Remote Jobs
+Chief of Staff (Remote) - AI-Powered Operations for Online Education Company
+DAASS
+Full Time
+$10 - $15 per hour
+AI
+,
+CRM
+,
+Development
+,
+Klaviyo
+,
+Project Management
+Opened  12 days ago
+Featured Job
+Promoted Job
+Remote Job
+Head of Operations – Shopify App Portfolio
+GeoPro Labs Inc
+Part Time
+$65 - $85 per hour
+Operations
+,
+Portfolio Management
+,
+Product management
+,
+Product strategy
+,
+Shopify
+Closes in 15 days
+Featured Job
+Promoted Job
+Remote Job
+Head of Growth & Pipeline
+ClickGuard
+Full Time
+$4k - $7.5k per month
+Demand Generation
+,
+Leadership
+,
+Marketing Strategy
+,
+Outbound Sales
+,
+Growth Marketing
+Closes in 8 days
+Featured Job
+Promoted Job
+Remote Job
+Assistant Travel Coordinator
+Bell & Bly Travel
+Full Time
+$1.2k - $1.4k per month
+Advanced English
+,
+Asana
+,
+Atention to detail
+,
+Business Process
+,
+Client account management
+Closes in 7 days
+Featured Job
+Promoted Job
+Remote Job
+E-commerce Marketplace Manager | Amazon & Shopify | PPC + Catalogue optimisation | Remote, UK Hours
+Diablo Sugar Free
+Full Time
+$1.3k - $1.5k per month
+Amazon Account Management
+,
+Attention to detail
+,
+E-commerce
+,
+Excel proficient
+,
+Inventory Management
+Closes today
+Featured Job
+Promoted Job
+Remote Job
+No related jobs found

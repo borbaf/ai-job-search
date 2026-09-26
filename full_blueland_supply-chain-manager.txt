@@ -1,0 +1,77 @@
+URL: https://jobs.lever.co/blueland/48b87f79-33d9-4ad7-aaee-3b2d2c63e970?utm_source=freehire.me
+
+JSON-LD LOC: loc_type: None, jobLocation: {'@type': 'Place', 'address': {'@type': 'PostalAddress', 'addressLocality': 'Remote', 'addressRegion': None, 'addressCountry': None, 'postalCode': None}}
+
+Blueland - Supply Chain Manager
+Supply Chain Manager
+Remote
+Supply Chain & Operations /
+Full-time /
+Remote
+apply for this job
+Blueland
+is reimagining everyday cleaning essentials with safe, products that are free from single-use plastic and eliminate the need to choose between what’s safe for your family, good for the planet, and proven to work. With 45 patents granted & 39 patents pending worldwide, Blueland’s innovative products have diverted over 1 billion single-use plastic bottles from landfills and oceans and 7.5 million pounds of CO2 from the atmosphere since 2019. While traditional cleaners are packaged in plastic and may contain up to 95% water, all Blueland products utilize tablet or powder formats, designed to be used directly or mixed with household tap water, and come in compostable or recyclable packaging. From the kitchen sink to the laundry room, we create products families can trust and afford to use over and over (and over) again. Available on
+Blueland.com
+and nationwide at Target, Costco, Whole Foods and select local retailers.
+In a world where half of the planet’s carbon emissions come from
+just 36 companies
+, we believe that business should be a force for good and that mission and profit are not mutually exclusive—in fact, we’re proof of it. We’re committed to holding ourselves to the highest parental and environmental standards—which includes ongoing and unbiased certifications from trusted third-party organizations like Cradle to Cradle, EPA Safer Choice, USDA BioPreferred, Leaping Bunny, and EWG Verified. We’re also a Certified Climate Neutral business and certified B Corp “Best for the World.”
+Blueland was featured on the Season 11 premiere of Shark Tank and successfully secured an investment. We’re also well-funded by top tier venture capital firms as well as notable investors including Gwyneth Paltrow, Justin Timberlake and founders of Sweetgreen, Thrive Market, Honest Company, Rent the Runway, and Bonobos. Our products have been featured across top tier outlets including the
+New York Times
+,
+Fast Company
+,
+TechCrunch
+,
+VOGUE
+,
+Wall Street Journal
+,
+Inc.
+, and more.
+About the Role
+We are seeking an analytical, detail-oriented, and highly collaborative Supply Chain Manager to play a key role in supporting Blueland’s growing Marketplace business, with a significant focus on Amazon. This role will be responsible for ensuring we have the right inventory, in the right place, at the right time to support Marketplace demand while balancing service levels, inventory health, and working capital.
+The Supply Chain Manager will own supply and inventory planning for the Marketplace channel, translating demand forecasts into actionable production, purchasing, and inventory deployment plans. This person will report to the Director of Supply Chain and work closely with our Marketplace team, contract manufacturers, packaging suppliers, and broader Operations team to proactively identify supply risks and ensure inventory is available to support both base business and key promotional events.
+A critical component of this role will be leveraging deep Amazon experience to manage the unique planning requirements of the channel, including inventory positioning, replenishment, promotional planning, and maintaining healthy inventory levels across Amazon’s network.
+Responsibilities
+Own supply and inventory planning for Blueland’s Marketplace channel, primarily Amazon, ensuring inventory is positioned appropriately to support sales, promotions, and growth.
+Translate demand forecasts into monthly and weekly production, purchasing, and inventory deployment plans.
+Develop manufacturing plans with contract manufacturers, taking into consideration demand requirements, production capacity, lead times, MOQs, material and availability.
+Partner closely with the Marketplace team to incorporate Amazon-specific requirements, promotional events, Prime Day, seasonal peaks, launches, and other demand drivers into supply plans.
+Monitor Amazon inventory levels, weeks of supply, inbound inventory, sell-through, and replenishment needs to proactively identify potential out-of-stocks or excess inventory.
+Develop inventory allocation and replenishment strategies across Amazon and Blueland’s warehouse network to maintain appropriate service levels while balancing working capital objectives.
+Manage production priorities and communicate forecasts, purchase requirements, and changing business needs to contract manufacturing partners.
+Partner with packaging suppliers to forecast material requirements, place or coordinate purchase orders, and ensure packaging availability supports manufacturing plans.
+Monitor raw material, packaging, work-in-process, and finished goods availability to identify potential constraints before they impact production or customer availability.
+Manage PO issuance and track inbound materials and finished goods, proactively escalating and mitigating delays.
+Partner cross-functionally with Demand Planning, Marketplace, Finance, Logistics, and Operations teams as part of the Sales & Operations Planning process.
+Support new product launches, transitions, promotions, and discontinuations by developing supply plans and identifying inventory risks and mitigation strategies.
+Analyze forecast changes, inventory trends, production performance, and supplier constraints to recommend adjustments to the supply plan.
+Maintain accurate planning parameters, item data, lead times, MOQs, and other supply planning inputs within Blueland’s systems.
+Drive continuous improvement across supply planning processes, tools, reporting, and supplier collaboration.
+Coordinate with co-packing vendors on build needs for pre-kitted marketplace inventory, sharing monthly priorities and forecasts while monitoring component inventory levels.
+Qualifications
+5+ years of direct Amazon supply chain, inventory planning, or replenishment experience, with a strong understanding of the operational requirements of the Amazon channel.
+5+ years of Supply Chain, Supply Planning, Inventory Planning, or related experience, ideally within CPG or a fast-growing omnichannel consumer brand.
+Experience translating demand forecasts into production and inventory plans.
+Experience working directly with contract manufacturers and/or external manufacturing partners to manage production schedules, capacity, and inventory requirements.
+Experience planning packaging or raw material requirements and working with external suppliers.
+Strong understanding of inventory management concepts, including safety stock, lead times, service levels, inventory turns, and weeks/days of supply.
+Proven ability to identify supply and inventory risks and develop mitigation plans.
+Highly analytical, detail-oriented, and organized with the ability to manage large amounts of data while maintaining accuracy.
+Comfortable operating in a fast-paced environment and adjusting plans as demand, production capacity, and business priorities change.
+Strong written and verbal communication skills with the ability to translate complex planning information into clear recommendations and actions.
+Demonstrated ability to build strong relationships and hold external partners accountable to commitments.
+Advanced proficiency with Google Sheets and Excel required.
+Experience with NetSuite and supply/demand planning systems preferred.
+Salary
+The salary range for this position is $110,000-115,000 per year.
+We prioritize our planet and our people. In addition to salary compensation, we offer various other benefits to ensure our team members can be their best self, both in and outside of work. Benefits for full time roles include: health benefits, stock options, generous paid time off, paid holidays, paid civic engagement days, paid parental leave, 401k (employee contribution), professional development stipends, remote work reimbursements, various discounts to like-minded companies and more.
+At Blueland we believe in order to build a better future and planet, we must advocate for diversity, equity and inclusion. We are proud to have assembled a diverse team and strongly encourage you to apply even if you don’t meet every qualification.
+View our
+California Personnel and Applicant Privacy Notice
+.
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+apply for this job
+Blueland Home Page
+Jobs powered by

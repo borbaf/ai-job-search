@@ -1,0 +1,180 @@
+URL: https://dynamitejobs.com/company/ting/remote-job/supply-chain-manager
+
+JSON-LD LOC: loc_type: None, jobLocation: None; loc_type: TELECOMMUTE, jobLocation: [{'@type': 'Country', 'name': 'United States'}]
+
+🧨 Supply Chain Manager, Remote Job, September 2026
+Supply Chain Manager
+Ting
+Full Time
+$105k - $110k per year
+Supply Chain
+,
+Logistics
+,
+NetSuite
+,
+Project Management
+,
+Supply Chain Management
+Opened  5 days ago
+Featured Job
+Promoted Job
+Remote Job
+Company
+Save
+Apply Now
+Supply Chain
+Logistics
+NetSuite
+Project Management
+Supply Chain Management
+Procurement
+Negotiation Skills
+Problem solving skills
+Analytical skills
+Excel proficient
+Supply Chain Manager
+Manage 3PL Network
+Daily Operations
+Oversee third-party logistics partners across multiple fulfillment nodes.
+Monitor fulfillment performance and SLA adherence
+Run recurring partner cadences
+Resolve fulfillment failures, receiving discrepancies, and shipping exceptions
+Support onboarding of new nodes and allocation rules
+Control Inventory Accuracy
+Critical
+Ensure inventory visibility and reconciliation across all nodes.
+Maintain reorder points and safety stock
+Reconcile WMS, ERP, and internal systems
+Investigate variances to root cause
+Maintain serial-level integrity
+Coordinate Contract Manufacturing
+Act as the operational point of contact for manufacturing partners.
+Manage purchase orders and receipt confirmation
+Track production against demand plan
+Coordinate inbound freight
+Run weekly partner agenda covering returns and FBA prep
+Oversee Amazon FBA
+Plan and execute replenishment while managing Amazon inventory limits.
+Create shipment plans
+Coordinate prep and labeling with partners
+Reconcile FBA inventory to system of record
+Handle Returns & Reverse Logistics
+Own the physical and product-side returns workflow.
+Manage carrier intake through processing and disposition
+Maintain serial continuity
+Oversee RMA workflow and automation rules
+Identify and fix breaks in the returns experience
+Manage Packaging & Co-Branded Materials
+Ensure correct packaging and partner-specific materials are applied.
+Maintain BOM for each packaging variant
+Set min/max levels at each node
+Manage vendor quote-to-order cycles
+Coordinate Freight & Documentation
+Oversee inbound, transfer, and outbound freight operations.
+Manage bills of lading and carrier selection
+Conduct freight audits
+Resolve claims
+Own ERP & Processes
+Ownership
+Serve as the supply chain business owner in NetSuite.
+Manage item master, locations, transfer orders, and landed cost
+Align inventory data with operational reality
+Document processes and define tolerances
+Build repeatable workflows
+This step-by-step framework shows how the role balances
+execution, reconciliation, and ownership
+across Ting’s supply chain. It’s not just about keeping inventory moving — it’s about ensuring every node is aligned, every discrepancy resolved, and every process documented for scale.
+Do you like this job?
+Apply Now
+About the company
+Ting
+View all company's open jobs
+Similar Remote Jobs
+Similar Remote Jobs
+Chief of Staff (Remote) - AI-Powered Operations for Online Education Company
+DAASS
+Full Time
+$10 - $15 per hour
+AI
+,
+CRM
+,
+Development
+,
+Klaviyo
+,
+Project Management
+Opened  12 days ago
+Featured Job
+Promoted Job
+Remote Job
+Head of Operations – Shopify App Portfolio
+GeoPro Labs Inc
+Part Time
+$65 - $85 per hour
+Operations
+,
+Portfolio Management
+,
+Product management
+,
+Product strategy
+,
+Shopify
+Closes in 15 days
+Featured Job
+Promoted Job
+Remote Job
+Head of Growth & Pipeline
+ClickGuard
+Full Time
+$4k - $7.5k per month
+Demand Generation
+,
+Leadership
+,
+Marketing Strategy
+,
+Outbound Sales
+,
+Growth Marketing
+Closes in 8 days
+Featured Job
+Promoted Job
+Remote Job
+Assistant Travel Coordinator
+Bell & Bly Travel
+Full Time
+$1.2k - $1.4k per month
+Advanced English
+,
+Asana
+,
+Atention to detail
+,
+Business Process
+,
+Client account management
+Closes in 7 days
+Featured Job
+Promoted Job
+Remote Job
+E-commerce Marketplace Manager | Amazon & Shopify | PPC + Catalogue optimisation | Remote, UK Hours
+Diablo Sugar Free
+Full Time
+$1.3k - $1.5k per month
+Amazon Account Management
+,
+Attention to detail
+,
+E-commerce
+,
+Excel proficient
+,
+Inventory Management
+Closes today
+Featured Job
+Promoted Job
+Remote Job
+No related jobs found
