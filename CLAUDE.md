@@ -48,7 +48,7 @@
 - Industrial Instrumentation & Automation - Universidade Petrobras
 
 ## Compensation
-- Floor: USD 2,000/mo (reject below) | Target: USD 5,000/mo
+- Floor: USD 1,600/mo (reject below) | Target: USD 4,000 - 7,000/mo
 
 ## Location Preferences & Constraints
 - **100% Remote:** Primary target (global, LATAM, or Brazil; USD-denominated prioritized).
@@ -57,7 +57,7 @@
 - **Excluded Hybrid/On-site:** Blumenau is NOT viable. São Paulo (SP), Belo Horizonte (BH), Curitiba, and other distant cities are NOT viable for hybrid/on-site.
 
 ## Deal-breakers (Hard Filters)
-- Compensation below USD 2,000/mo.
+- Compensation below USD 1,600/mo.
 - Hybrid or on-site in SP, BH, Blumenau, or any location outside the 80km Bombinhas radius (except Fortaleza/CE).
 - Roles requiring US/foreign citizenship or work authorization without sponsorship (candidate has Brazilian citizenship, no US work visa/green card).
 
@@ -65,3 +65,7 @@
 - When mentioning agentic coding or AI tooling, explicitly reference Claude Code by name.
 - CV/letters must emphasize operational authority + analytical leverage (Supply Chain / S&OP + Python/SQL/BI).
 
+- **Gupy Portal Applications:** Gupy uses a pre-existing unified candidate profile (no per-job PDF CV or Cover Letter file uploads). For Gupy jobs, the `/apply` workflow must generate:
+  1. A tailored **1500-character pitch** (strictly verified `<= 1500` characters including spaces) answering the *"The company wants to know more about you!"* prompt.
+  2. The **Top 3 core skills** to select in the Gupy interface.
+  3. Guidance for screening questions (salary expectation, notice period).

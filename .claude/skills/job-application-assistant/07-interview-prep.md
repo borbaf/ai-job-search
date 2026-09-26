@@ -93,7 +93,7 @@ He is on engagement-based consulting income (GLG Network Member, since Sep 2025)
 > Advanced. I worked a full engineering role in Dublin in English — commissioning, client-facing support, and prospecting with the sales team — and my GLG consultations are in English. I'm not going to claim native fluency; I will claim I've already done the job in it. <!-- Only use if asked. Do not volunteer a caveat. -->
 
 ### "What are your salary expectations?"
-> Target USD 5,000/month; floor USD 2,000/month. Deflect first if possible ("I'd rather understand the scope before putting a number on it — what range does the role sit in?"). If pressed, give the target, not the floor. <!-- Internal note, not a spoken answer. -->
+> Target USD 4,000 - 7,000/month; floor USD 1,600/month. Deflect first if possible ("I'd rather understand the scope before putting a number on it — what range does the role sit in?"). If pressed, give the target, not the floor. <!-- Internal note, not a spoken answer. -->
 
 ### "Why remote?"
 > I'm based in Bombinhas, Santa Catarina, and I work best with outcomes rather than presence — but I'm also open to relocating, nationally or internationally. I've done it before, to Ireland. So remote is a preference, not a constraint.

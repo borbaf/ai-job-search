@@ -1,4 +1,4 @@
-﻿---
+---
 name: gupy-search
 version: 1.0.0
 description: >
@@ -56,3 +56,17 @@ Errors go to stderr as { "error": "...", "code": "..." } with exit code 1.
 ## Notes
 
 - Data from Gupy public job pages; may require login. Keep volume low.
+
+
+## Gupy Application Constraints & Workflow (/apply Integration)
+
+**CRITICAL GUPY ATS SPECIFICS:**
+1. **No Per-Application PDF CV Upload:** Gupy relies exclusively on the candidate's unified master profile already registered on the platform. You cannot attach a new role-specific PDF CV during a standard Gupy application.
+2. **No PDF Cover Letter Attachment:** Gupy has no field or option to upload a cover letter file.
+3. **1500-Character Application Pitch:** Gupy features an open-ended mandatory/key response field:
+   *"The company wants to know more about you! Tell us about yourself and your professional journey, explaining how you can help the company with the challenge described in the job posting."*
+   - This field has a **strict 1500-character limit** (including spaces).
+   - The `/apply` workflow for Gupy jobs MUST prioritize drafting this 1500-character tailored pitch instead of generating an unattachable cover letter PDF.
+   - Text must be verified with `len(text) <= 1500` characters before outputting to the user.
+4. **Top 3 Skills Selection:** Gupy prompts the applicant to pick their **top 3 matching skills** for the vacancy. The `/apply` output must explicitly recommend the exact 3 skills to select.
+5. **Screening Questions Guidance:** Pre-populate recommended values for typical mandatory questions (e.g., current compensation, salary expectation).

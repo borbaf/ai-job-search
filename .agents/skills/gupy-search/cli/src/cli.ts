@@ -132,8 +132,38 @@ function renderPlain(rows: JobResult[]): string {
   return rows.map(block).join("\n\n")
 }
 
+const BRAZIL_STATES: Record<string, string> = {
+  ac: "Acre",
+  al: "Alagoas",
+  ap: "Amapá",
+  am: "Amazonas",
+  ba: "Bahia",
+  ce: "Ceará",
+  df: "Distrito Federal",
+  es: "Espírito Santo",
+  go: "Goiás",
+  ma: "Maranhão",
+  mt: "Mato Grosso",
+  ms: "Mato Grosso do Sul",
+  mg: "Minas Gerais",
+  pa: "Pará",
+  pb: "Paraíba",
+  pr: "Paraná",
+  pe: "Pernambuco",
+  pi: "Piauí",
+  rj: "Rio de Janeiro",
+  rn: "Rio Grande do Norte",
+  rs: "Rio Grande do Sul",
+  ro: "Rondônia",
+  rr: "Roraima",
+  sc: "Santa Catarina",
+  sp: "São Paulo",
+  se: "Sergipe",
+  to: "Tocantins",
+}
+
 const KNOWN_FLAGS: Record<string, Set<string>> = {
-  search: new Set(["query", "location", "page", "limit", "format", "remote", "help", "h"]),
+  search: new Set(["query", "location", "state", "page", "limit", "format", "remote", "help", "h"]),
   detail: new Set(["format", "help", "h"]),
 }
 
@@ -145,7 +175,8 @@ USAGE
 
 SEARCH FLAGS
   --query, -q <text>      Keywords (title, skill, role). Optional.
-  --location, -l <text>   Location filter (e.g. "São Paulo", "Fortaleza", "Remoto").
+  --location, -l <text>   Location filter (e.g. "São Paulo", "SC", "Fortaleza", "Remoto").
+  --state <text>          State filter (e.g. "SC", "Santa Catarina", "CE").
   --remote                Shortcut for remote-only positions.
   --page <n>              1-indexed page. Default 1.
   --limit, -n <n>         Cap results emitted. Default 12.
@@ -159,8 +190,89 @@ async function runSearch(flags: Flags): Promise<number> {
   const page = Math.max(1, parseInt(String(flags.page || "1"), 10) || 1)
   const limit = Math.max(1, parseInt(String(flags.limit || "12"), 10) || 12)
   const format = (flags.format as string) || "json"
+  const offset = (page - 1) * limit
 
-  // Build target URL on portal.gupy.io
+  // 1. Primary: Try direct Gupy job-search API for exact filtering
+  try {
+    const apiParams = new URLSearchParams()
+    if (query) apiParams.set("jobName", query)
+    if (isRemote) {
+      apiParams.set("workplaceType", "remote")
+    } else if (location) {
+      const locNorm = location.toLowerCase().trim()
+      if (BRAZIL_STATES[locNorm]) {
+        apiParams.set("state", BRAZIL_STATES[locNorm])
+      } else {
+        const matchState = Object.values(BRAZIL_STATES).find((s) => s.toLowerCase() === locNorm)
+        if (matchState) {
+          apiParams.set("state", matchState)
+        } else {
+          apiParams.set("city", location)
+        }
+      }
+    }
+    if (flags.state && typeof flags.state === "string") {
+      const stNorm = flags.state.toLowerCase().trim()
+      apiParams.set("state", BRAZIL_STATES[stNorm] ?? flags.state)
+    }
+    apiParams.set("limit", String(limit))
+    if (offset > 0) {
+      apiParams.set("offset", String(offset))
+    }
+
+    const apiUrl = `https://portal.gupy.io/api/job-search/jobs?${apiParams.toString()}`
+    const res = await fetch(apiUrl, {
+      headers: {
+        "User-Agent": UA,
+        Accept: "application/json",
+        Referer: "https://portal.gupy.io/",
+      },
+      signal: AbortSignal.timeout(15000),
+    })
+
+    if (res.ok) {
+      const data = await res.json()
+      const rawJobs: any[] = data.data ?? []
+      let rows: JobResult[] = rawJobs.map((j) => ({
+        id: String(j.id),
+        title: j.name || "(sem título)",
+        company: j.careerPageName || null,
+        location: [j.city, j.state].filter(Boolean).join(", ") || (j.workplaceType === "remote" ? "Remoto" : null),
+        date: j.publishedDate || null,
+        url: j.jobUrl || `https://portal.gupy.io/job/${j.id}`,
+        work_mode: j.workplaceType || null,
+        description: cleanHtml(j.description || ""),
+      }))
+
+      if (flags.limit !== undefined) {
+        rows = rows.slice(0, limit)
+      }
+
+      const total = data.pagination?.total ?? rows.length
+
+      if (format === "table") {
+        process.stdout.write(renderTable(rows) + "\n")
+      } else if (format === "plain") {
+        process.stdout.write(renderPlain(rows) + "\n")
+      } else {
+        process.stdout.write(
+          JSON.stringify(
+            {
+              meta: { count: rows.length, page, total },
+              results: rows,
+            },
+            null,
+            2,
+          ) + "\n",
+        )
+      }
+      return 0
+    }
+  } catch {
+    // Fall back to SSR HTML parsing if API fails
+  }
+
+  // 2. Fallback: Parse SSR HTML
   const encodedTerm = encodeURIComponent(query || "vagas")
   let targetUrl = `https://portal.gupy.io/job-search/term=${encodedTerm}`
   const params = new URLSearchParams()
@@ -170,7 +282,6 @@ async function runSearch(flags: Flags): Promise<number> {
   if (location && !isRemote) {
     params.set("city", location)
   }
-  const offset = (page - 1) * limit
   if (offset > 0) {
     params.set("offset", String(offset))
   }

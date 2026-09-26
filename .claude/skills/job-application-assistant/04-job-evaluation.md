@@ -137,13 +137,13 @@ Does this role advance career goals and contain tasks that energize?
 - **Non-task factors:** leadership style, department culture, company values, degree of autonomy.
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: Currently on engagement-based consulting income (GLG) rather than a salaried role — a stable full-time offer carries real weight. Compensation floor is **USD 2,000/month**; anything below it is a deal-breaker regardless of score. Target is **USD 5,000/month**.
+- **Security**: Currently on engagement-based consulting income (GLG) rather than a salaried role — a stable full-time offer carries real weight. Compensation floor is **USD 1,600/month**; anything below it is a deal-breaker regardless of score. Target is **USD 4,000 - 7,000/month**.
 - **Flexibility**: Remote-first, based in Bombinhas SC (UTC-3).
 - **Professional development**: Postgraduate in Data Science and Big Data in progress — a role that accommodates continued study and pays for or encourages certification scores higher on this dimension.
 
 ### 6. Salary Benchmark (Optional)
 
-**Compensation floor (hard filter):** USD 2,000 / month. If a posting states compensation and the top of its range falls below the floor, report it and do not draft — the same way a gate failure is handled, not as a scoring penalty. **Target:** USD 5,000 / month; a posting at or above target is worth flagging as a positive. Postings that state no compensation proceed normally (most do) — never infer a number and never reject on silence.
+**Compensation floor (hard filter):** USD 1,600 / month. If a posting states compensation and the top of its range falls below the floor, report it and do not draft — the same way a gate failure is handled, not as a scoring penalty. **Target:** USD 4,000 - 7,000 / month; a posting at or above target is worth flagging as a positive. Postings that state no compensation proceed normally (most do) — never infer a number and never reject on silence.
 
 If the salary lookup tool is configured (`salary_data.json` exists), look up the company:
 ```

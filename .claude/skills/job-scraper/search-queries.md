@@ -147,8 +147,8 @@ Base: **Bombinhas, Santa Catarina, Brazil** (UTC-3). The target is fully remote 
 
 ## Compensation Filter
 
-- **Floor: USD 2,000 / month.** If a posting states a range whose top falls below this, report and skip — do not draft.
-- **Target: USD 5,000 / month.** At or above target, flag as a positive.
+- **Floor: USD 1,600 / month.** If a posting states a range whose top falls below this, report and skip — do not draft.
+- **Target: USD 4,000 - 7,000 / month.** At or above target, flag as a positive.
 - Postings silent on compensation (most) proceed normally. Never infer a figure, never reject on silence.
 
 ## Language Filter
