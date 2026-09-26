@@ -24,10 +24,11 @@ def call_vertex(prompt):
         "contents": [{"role": "user", "parts": [{"text": prompt}]}],
         "generationConfig": {"temperature": 0.2, "maxOutputTokens": 8192},
     }
-    r = requests.post(url, headers=headers, json=body)
-    r.raise_for_status()
-    data = r.json()
-    return data["candidates"][0]["content"]["parts"][0]["text"]
+     r = requests.post(url, headers=headers, json=body, timeout=60)
+    if r.status_code != 200:
+        print("HTTP", r.status_code)
+        print(r.text[:3000])   # ← o motivo exato, em vez de só o status
+        r.raise_for_status()
 
 def read_file(path):
     with open(path, "r", encoding="utf-8") as f:
