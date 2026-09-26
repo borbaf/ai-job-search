@@ -8,6 +8,8 @@ MODEL = "gemini-3.8-flash"   # mantém o 3.8 (mesmo preço dos outros Flash)
 # Caminhos ABSOLUTOS dos arquivos de perfil e rubrica (leia uma vez só)
 PROFILE_FILE = r"C:\dev\ai-job-search\.claude\skills\job-application-assistant\01-candidate-profile.md"
 RUBRIC_FILE  = r"C:\dev\ai-job-search\.claude\skills\job-application-assistant\04-job-evaluation.md"
+# Caminho do rank_state.py (confirmado)
+RANK_STATE = r"C:\dev\ai-job-search\tools\rank_state.py"
 
 # Estado ISOLADO da sandbox (não é o da raiz)
 STATE_DIR = r"C:\dev\ai-job-search\sandbox\state"
@@ -25,9 +27,9 @@ PORTALS = {
     "freehire":     ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\freehire-search\cli\src\cli.ts", "search"],
     "dynamitejobs": ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\dynamitejobs-search\cli\src\cli.ts", "search"],
     "hirelatam":    ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\hirelatam-search\cli\src\cli.ts", "search"],
-    "jobindex":     ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\jobindex-search\cli\src\cli.ts", "search"],
-    "jobnet":       ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\jobnet-search\cli\src\cli.ts", "search"],
-    "jobdanmark":   ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\jobdanmark-search\cli\src\cli.ts", "search"],
-    "jobbank":      ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\jobbank-search\cli\src\cli.ts", "search"],
+    #"jobindex":     ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\jobindex-search\cli\src\cli.ts", "search"],
+    #"jobnet":       ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\jobnet-search\cli\src\cli.ts", "search"],
+    #"jobdanmark":   ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\jobdanmark-search\cli\src\cli.ts", "search"],
+    #"jobbank":      ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\jobbank-search\cli\src\cli.ts", "search"],
 }
 # =============================
