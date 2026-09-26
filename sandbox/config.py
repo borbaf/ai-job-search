@@ -16,14 +16,18 @@ STATE_DIR = r"C:\dev\ai-job-search\sandbox\state"
 BATCH_SIZE = 5
 
 # Portais -> comando bun de busca. AJUSTE o caminho real de cada cli.ts.
+# Portais -> comando bun de busca. Caminhos reais confirmados (com sufixo -search).
 PORTALS = {
-    "linkedin":     ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\linkedin\cli\src\cli.ts", "search"],
-    "gupy":         ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\gupy\cli\src\cli.ts", "search"],
-    "catho":        ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\catho\cli\src\cli.ts", "search"],
-    "infojobs":     ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\infojobs\cli\src\cli.ts", "search"],
-    "freehire":     ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\freehire\cli\src\cli.ts", "search"],
-    "dynamitejobs": ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\dynamitejobs\cli\src\cli.ts", "search"],
-    "hirelatam":    ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\hirelatam\cli\src\cli.ts", "search"],
-    "jobindex":     ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\jobindex\cli\src\cli.ts", "search"],
+    "linkedin":     ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\linkedin-search\cli\src\cli.ts", "search"],
+    "gupy":         ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\gupy-search\cli\src\cli.ts", "search"],
+    "catho":        ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\catho-search\cli\src\cli.ts", "search"],
+    "infojobs":     ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\infojobs-search\cli\src\cli.ts", "search"],
+    "freehire":     ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\freehire-search\cli\src\cli.ts", "search"],
+    "dynamitejobs": ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\dynamitejobs-search\cli\src\cli.ts", "search"],
+    "hirelatam":    ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\hirelatam-search\cli\src\cli.ts", "search"],
+    "jobindex":     ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\jobindex-search\cli\src\cli.ts", "search"],
+    "jobnet":       ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\jobnet-search\cli\src\cli.ts", "search"],
+    "jobdanmark":   ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\jobdanmark-search\cli\src\cli.ts", "search"],
+    "jobbank":      ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\jobbank-search\cli\src\cli.ts", "search"],
 }
 # =============================
