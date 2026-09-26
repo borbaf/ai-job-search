@@ -2,8 +2,8 @@
 # Edite apenas esta seção. Tudo aqui é isolado do framework principal.
 
 PROJECT = "ai-job-search-borbaf"
-REGION = "us-east5"          # mesma região do seu billing
-MODEL = "gemini-3.8-flash"   # mantém o 3.8 (mesmo preço dos outros Flash)
+REGION = "us"                  # era "us-east5" — o CLI usa a multi-região "us"
+MODEL = "gemini-3.8-flash"     # confirmado nos bancos de conversa do CLI
 
 # Caminhos ABSOLUTOS dos arquivos de perfil e rubrica (leia uma vez só)
 PROFILE_FILE = r"C:\dev\ai-job-search\.claude\skills\job-application-assistant\01-candidate-profile.md"
