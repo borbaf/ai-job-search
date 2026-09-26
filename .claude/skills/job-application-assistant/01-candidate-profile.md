@@ -14,6 +14,7 @@ framework_version: 1.1.1
 - **Status:** Independent consultant (GLG Network Member) - actively searching
 - **Constraints:** Remote-first (target: fully remote roles paid in USD). Open to relocation to Fortaleza/CE or international with sponsorship. Hybrid in SC viable only within ~80 km of Bombinhas (Florianópolis, Itajaí, BC, Navegantes; Blumenau is NOT viable). Hybrid/on-site in SP, BH, etc. is NOT viable. Holds Brazilian citizenship (no US work visa/green card).
 - **Core Scope & Positioning:** Operational domain authority + analytics (Supply Chain Analytics, S&OP, Demand Planning, BI, Logistics/Fleet Tech Product). Pure backend data engineering (5-7+ years pure SQL programming/DW dev) and mandatory Microsoft Fabric core are out of scope.
+- **Competitive Moat:** "A ponte legítima entre a operação física e a inteligência de dados, compreendendo com exatidão onde o dado gera retorno financeiro real no chão de operação pelo fato de ter operado pessoalmente ativos de alta escala."
 - **CV language:** English (primary), Portuguese (parallel variant)
 
 ### Languages
@@ -126,25 +127,31 @@ full-time role, or the dates read as a contradiction. -->
 ### Programming & Data
 - **Python** (working proficiency): NumPy, Pandas, Matplotlib, Seaborn, web scraping, REST APIs
 - **SQL** (working proficiency): PostgreSQL, MongoDB/NoSQL, BigQuery
-- **BI & visualization:** Power BI, Tableau
-- **Analysis:** exploratory data analysis (EDA), data mining, statistical analysis
+- **BI & visualization:** Power BI, Tableau, GSI (open-source geospatial visualization / Kepler.gl)
+- **Analysis:** exploratory data analysis (EDA), data mining, statistical analysis, spatial/GIS SQL
 - **Cloud:** Google Cloud Platform (GCP), BigQuery (certified Aug 2026)
 - **Version control:** Git / GitHub
+- **Autonomous Agents & AI Orchestration:** Conversational agents for operational decision trees and escalation workflows
 
 ### Domain Expertise
-- Supply chain analytics and logistics control towers
+- Supply chain analytics and logistics control towers (active orchestration beyond passive visibility)
 - Supply planning, materials planning, capacity planning, S&OP
-- Warehousing, shipping, freight transport, liquid bulk terminal operations
+- Warehousing, shipping, multimodal freight (cabotage, rail, road), liquid bulk terminal operations
 - Fuel and energy distribution (13 years at Brazil's largest fuel distributor)
 - Industrial maintenance, MRO materials management, instrumentation and automation
 - Continuous improvement: Lean, VSM, 5S, TPM
 - Procurement, supplier quality, PMO, HSE
 
 ### Software & Tools
-SAP (PM & MM), WMS, TMS, SCADA, Power BI, Tableau, advanced Excel, MS Office
+SAP (PM & MM), WMS, TMS, SCADA, GSI, Power BI, Tableau, advanced Excel, MS Office
 
-## Publications
-1. Borba, F. (2026). *Quando o LinkedIn virou Black Mirror: o dia em que percebi que meu SSI valia mais que meus 15 anos de experiência.* LinkedIn article.
+## Publications & Thought Leadership
+1. **Series: "The Active Control Tower" (A Evolução da Torre Ativa)** (2026 - Present): 8-episode technical thought leadership series in English on LinkedIn targeted at multinational executives in LATAM and global logistics tech leaders.
+   - *Ep. 1: "The invisible deviation"* (published) - divergence between theoretical planning and silent terminal downtime.
+   - *Ep. 2 (upcoming):* Port terminal dwell time and silent operational cost containment.
+   - *Technical Partnership:* Direct technical alignment and public repost collaboration with Volodymyr Bilonenko (Vladi), founder of GSI.
+   - *Architectural Model:* GSI (Geospatial UI) + Google BigQuery (GIS analytical motor) + Autonomous Conversational Agents (decision-tree SLA enforcement).
+2. Borba, F. (2026). *Quando o LinkedIn virou Black Mirror: o dia em que percebi que meu SSI valia mais que meus 15 anos de experiência.* LinkedIn article.
 
 ## Awards
 - Panelist, SAIL/PUC-Rio panel at Vibra Energia Expedition - topic: AI, agentic AI and governance
