@@ -6,16 +6,17 @@ sys.path.insert(0, os.path.dirname(__file__))
 import config as C
 
 def get_help(cmd):
-    """Roda '<cli> --help' e devolve o texto, para descobrir as flags."""
     try:
-        out = subprocess.run(cmd + ["--help"], capture_output=True, text=True, timeout=30)
+        out = subprocess.run(cmd + ["--help"], capture_output=True, text=True,
+                             encoding="utf-8", errors="replace", timeout=30)
         return (out.stdout or "") + (out.stderr or "")
     except Exception:
         return ""
 
 def has_flag(help_text, *aliases):
-    """True se qualquer alias aparecer no help (ex.: '-q' ou '--query')."""
-    return any(re.search(rf"\b{re.escape(a)}\b", help_text) for a in aliases)
+    # \b só no FIM da flag (após os caracteres). No início falha porque
+    # flags começam com '-' (não-word), onde não existe word boundary.
+    return any(re.search(rf"{re.escape(a)}\b", help_text) for a in aliases)
 
 def run_portal(name, cmd, term, location, limit):
     help_text = get_help(cmd)
@@ -23,12 +24,10 @@ def run_portal(name, cmd, term, location, limit):
     if not help_text:
         print("(não consegui ler o --help; pulando)"); return
 
-    # monta o comando com as flags que o CLI realmente suporta
     full = cmd[:]
     if has_flag(help_text, "-q", "--query"):
         full += ["-q", term]
     elif has_flag(help_text, "--search", "--keyword", "--text"):
-        # fallback genérico: usa o primeiro alias de busca encontrado
         alias = next(a for a in ("--search", "--keyword", "--text") if has_flag(help_text, a))
         full += [alias, term]
     if has_flag(help_text, "-l", "--location"):
@@ -40,19 +39,23 @@ def run_portal(name, cmd, term, location, limit):
         full += ["--format", "json"]
 
     try:
-        out = subprocess.run(full, capture_output=True, text=True, timeout=120)
-        if out.stdout.strip():
+        out = subprocess.run(full, capture_output=True, text=True,
+                             encoding="utf-8", errors="replace", timeout=120)
+        stdout = (out.stdout or "").strip()
+        if stdout:
             try:
-                data = json.loads(out.stdout)
+                data = json.loads(stdout)
                 print(json.dumps(data, ensure_ascii=False)[:2500])
             except Exception:
-                print(out.stdout[-2500:])
+                print(stdout[-2500:])
         else:
             print("(sem saída)")
         if out.returncode != 0:
-            print(f"[{name}] falhou (código {out.returncode}): {out.stderr[-500:]}")
+            print(f"[{name}] falhou (código {out.returncode}): {(out.stderr or '')[-500:]}")
     except subprocess.TimeoutExpired:
         print(f"[{name}] timeout (120s)")
+    except Exception as e:
+        print(f"[{name}] erro inesperado: {e}")
 
 def main():
     term = sys.argv[1] if len(sys.argv) > 1 else "data science"
