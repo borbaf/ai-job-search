@@ -1,68 +1,107 @@
-"""Scrape da sandbox: roda cada CLI de portal direto no shell.
-Descobre as flags suportadas de cada CLI via --help e monta o comando
-só com flags válidas. Nenhum LLM envolvido -> custo zero de conversa."""
-import json, os, subprocess, sys, re
+"""Scrape autônomo da sandbox: coleta vagas via CLIs de busca (bun) SEM custo de LLM.
+
+Otimizações desta versão:
+- Localização ajustada POR PORTAL — resolve a ambiguidade de "SC": nos portais
+  internacionais vira South Carolina/EUA; nos brasileiros, Santa Catarina.
+- Tratamento de erro por portal (um portal que falha não derruba o run).
+- Encoding UTF-8 explícito (evita "S�o Paulo" no console).
+- Persiste o resultado em sandbox/state/scraped_jobs.json.
+
+Uso:
+  python sandbox/run_scrape.py "supply chain" "SC" 5
+  python sandbox/run_scrape.py "supply chain" "remoto" 5
+"""
+import json, os, sys, argparse, subprocess
+from datetime import datetime
+
 sys.path.insert(0, os.path.dirname(__file__))
 import config as C
 
-def get_help(cmd):
-    try:
-        out = subprocess.run(cmd + ["--help"], capture_output=True, text=True,
-                             encoding="utf-8", errors="replace", timeout=30)
-        return (out.stdout or "") + (out.stderr or "")
-    except Exception:
-        return ""
+# ---------------------------------------------------------------------------
+# Localização por portal.
+# O argumento posicional <location> é o fallback; este mapa sobrescreve por portal.
+# Ajuste conforme sua política (BR vs internacional/remoto).
+# ---------------------------------------------------------------------------
+LOCATION_BY_PORTAL = {
+    # Brasileiros: estado BR ou "remoto"
+    "gupy":         "Santa Catarina",
+    "catho":        "Santa Catarina",
+    "infojobs":     "Santa Catarina",
+    # Internacionais / remoto
+    "linkedin":     "Brazil",
+    "freehire":     "remote",
+    "dynamitejobs": "remote",
+    "hirelatam":    "remote",
+}
 
-def has_flag(help_text, *aliases):
-    # \b só no FIM da flag (após os caracteres). No início falha porque
-    # flags começam com '-' (não-word), onde não existe word boundary.
-    return any(re.search(rf"{re.escape(a)}\b", help_text) for a in aliases)
+# Flag de localização por portal. A maioria usa "-l"; se algum CLI divergir,
+# rode '<cli> search --help' e ajuste aqui (ex.: "--location").
+LOCATION_FLAG = {
+    "linkedin":     "-l",
+    "gupy":         "-l",
+    "catho":        "-l",
+    "infojobs":     "-l",
+    "freehire":     "-l",
+    "dynamitejobs": "-l",
+    "hirelatam":    "-l",
+}
 
-def run_portal(name, cmd, term, location, limit):
-    help_text = get_help(cmd)
-    print(f"\n== {name} ==")
-    if not help_text:
-        print("(não consegui ler o --help; pulando)"); return
-
-    full = cmd[:]
-    if has_flag(help_text, "-q", "--query"):
-        full += ["-q", term]
-    elif has_flag(help_text, "--search", "--keyword", "--text"):
-        alias = next(a for a in ("--search", "--keyword", "--text") if has_flag(help_text, a))
-        full += [alias, term]
-    if has_flag(help_text, "-l", "--location"):
-        if location:
-            full += ["-l", location]
-    if has_flag(help_text, "--limit", "-n"):
-        full += ["--limit", str(limit)]
-    if has_flag(help_text, "--format"):
-        full += ["--format", "json"]
-
+def run_portal(name, cmd, query, location):
+    """Executa um portal e retorna (ok, jobs, error)."""
+    loc = LOCATION_BY_PORTAL.get(name, location)
+    flag = LOCATION_FLAG.get(name, "-l")
+    full = cmd + [query, flag, loc]
     try:
         out = subprocess.run(full, capture_output=True, text=True,
                              encoding="utf-8", errors="replace", timeout=120)
-        stdout = (out.stdout or "").strip()
-        if stdout:
-            try:
-                data = json.loads(stdout)
-                print(json.dumps(data, ensure_ascii=False)[:2500])
-            except Exception:
-                print(stdout[-2500:])
-        else:
-            print("(sem saída)")
-        if out.returncode != 0:
-            print(f"[{name}] falhou (código {out.returncode}): {(out.stderr or '')[-500:]}")
-    except subprocess.TimeoutExpired:
-        print(f"[{name}] timeout (120s)")
     except Exception as e:
-        print(f"[{name}] erro inesperado: {e}")
+        return False, [], f"falha ao executar: {e}"
+    if out.returncode != 0:
+        return False, [], (out.stderr or out.stdout or "")[-500:]
+    try:
+        data = json.loads(out.stdout)
+    except json.JSONDecodeError as e:
+        return False, [], f"saída não é JSON: {e}"
+    jobs = data.get("results", []) if isinstance(data, dict) else []
+    return True, jobs, None
 
 def main():
-    term = sys.argv[1] if len(sys.argv) > 1 else "data science"
-    loc  = sys.argv[2] if len(sys.argv) > 2 else ""
-    limit = int(sys.argv[3]) if len(sys.argv) > 3 else 5
+    ap = argparse.ArgumentParser()
+    ap.add_argument("query", help="termo de busca (ex.: 'supply chain')")
+    ap.add_argument("location", nargs="?", default="SC", help="localização fallback")
+    ap.add_argument("limit", nargs="?", type=int, default=5, help="vagas por portal")
+    args = ap.parse_args()
+
+    os.makedirs(C.STATE_DIR, exist_ok=True)
+    all_jobs = []
+    summary = []
+
     for name, cmd in C.PORTALS.items():
-        run_portal(name, cmd, term, loc, limit)
+        print(f"\n== {name} ==")
+        ok, jobs, err = run_portal(name, cmd, args.query, args.location)
+        if not ok:
+            print(f"  [ERRO] {err}")
+            summary.append((name, "erro", 0))
+            continue
+        jobs = jobs[:args.limit]
+        for j in jobs:
+            j["portal"] = name
+            j["scraped_at"] = datetime.now().isoformat()
+        all_jobs.extend(jobs)
+        print(f"  {len(jobs)} vagas")
+        summary.append((name, "ok", len(jobs)))
+
+    out_path = os.path.join(C.STATE_DIR, "scraped_jobs.json")
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump({"scraped_at": datetime.now().isoformat(),
+                   "query": args.query,
+                   "location": args.location,
+                   "jobs": all_jobs}, f, ensure_ascii=False, indent=2)
+
+    print("\n== Resumo ==")
+    for name, status, n in summary:
+        print(f"  {name:12} {status:6} {n}")
+    print(f"\nTotal: {len(all_jobs)} vagas salvas em {out_path}")
 
 if __name__ == "__main__":
     main()
