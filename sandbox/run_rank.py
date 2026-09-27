@@ -18,6 +18,8 @@ import requests
 
 WEIGHTS = {"technical": 0.30, "experience": 0.25, "behavioral": 0.15, "career": 0.30}
 URGENT_DAYS = 7
+# Saída grande (10 vagas x strengths/gaps) estoura 8192 — subimos e deixamos configurável
+MAX_OUTPUT_TOKENS = getattr(C, "MAX_OUTPUT_TOKENS", 32768)
 
 def get_token():
     creds, _ = google.auth.default()
@@ -30,9 +32,9 @@ def call_vertex(prompt):
     headers = {"Authorization": f"Bearer {get_token()}", "Content-Type": "application/json"}
     body = {
         "contents": [{"role": "user", "parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.2, "maxOutputTokens": 8192},
+        "generationConfig": {"temperature": 0.2, "maxOutputTokens": MAX_OUTPUT_TOKENS},
     }
-    r = requests.post(url, headers=headers, json=body, timeout=120)
+    r = requests.post(url, headers=headers, json=body, timeout=180)
     if r.status_code != 200:
         print("HTTP", r.status_code)
         print(r.text[:3000])
@@ -50,25 +52,30 @@ def get_candidates(limit):
 
 def extract_json_array(text):
     """Extrai e valida o JSON array da resposta do modelo de forma robusta.
-    Remove markdown fences, apara o array e tolera trailing commas."""
-    # 1) remove fences de markdown (```json ... ```)
+    Remove markdown fences, apara o array, tolera trailing commas e
+    DETECTA truncamento (resposta cortada no limite de tokens)."""
     text = re.sub(r"```(?:json)?", "", text).strip()
-    # 2) acha o primeiro '[' e o último ']' (o array é o que queremos)
     start = text.find("[")
     end = text.rfind("]")
     if start == -1 or end == -1 or end <= start:
         print("ERRO: resposta sem array JSON:\n", text[:800]); sys.exit(1)
     chunk = text[start:end + 1]
-    # 3) remove trailing commas (vírgula antes de } ou ])
     chunk = re.sub(r",\s*([}\]])", r"\1", chunk)
     try:
         return json.loads(chunk)
     except json.JSONDecodeError as e:
-        print(f"ERRO: JSON inválido após limpeza ({e}).\nTrecho:\n{chunk[:1500]}")
+        # Diagnóstico: se o trecho termina sem fechar o array, é truncamento
+        tail = chunk[-120:]
+        if not chunk.rstrip().endswith("]"):
+            print("ERRO: JSON incompleto — resposta provavelmente TRUNCADA no "
+                  f"limite de saída ({MAX_OUTPUT_TOKENS} tokens).\n"
+                  f"Fim do trecho:\n{tail}\n"
+                  "Sugestão: reduza --limit (ex.: 5) ou aumente MAX_OUTPUT_TOKENS no config.py.")
+        else:
+            print(f"ERRO: JSON inválido após limpeza ({e}).\nTrecho:\n{chunk[:1500]}")
         sys.exit(1)
 
 def persist(results):
-    """Persiste via rank_state.py apply (grava no seen_jobs.json DA RAIZ)."""
     fd, tmp = tempfile.mkstemp(suffix=".json", prefix="rank_results_", dir=C.STATE_DIR)
     with os.fdopen(fd, "w", encoding="utf-8") as fh:
         json.dump(results, fh, ensure_ascii=False)
@@ -113,13 +120,14 @@ Vagas do lote (JSON):
 Regras:
 - Use APENAS as informações fornecidas acima (título, empresa, local). Não invente conteúdo do anúncio.
 - Retorne UM ÚNICO JSON array, um objeto por vaga, no formato exato:
-  {{"key": "<key>", "status": "scored"|"expired", "scores": {{"technical": 0-100, "experience": 0-100, "behavioral": 0-100, "career": 0-100}}, "location_verdict": "PASS"|"FAIL"|"FLAG", "location_note": "<motivo>", "language_gate": "PASS"|"FAIL"|"FLAG", "language_note": "<só se FLAG/FAIL>", "deadline": "YYYY-MM-DD"|null, "strengths": [...], "gaps": [...], "language": "<idioma do anúncio>"}}
+  {{"key": "<key>", "status": "scored"|"expired", "scores": {{"technical": 0-100, "experience": 0-100, "behavioral": 0-100, "career": 0-100}}, "location_verdict": "PASS"|"FAIL"|"FLAG", "location_note": "<motivo>", "language_gate": "PASS"|"FAIL"|"FLAG", "language_note": "<só se FLAG/FAIL>", "deadline": "YYYY-MM-DD"|null, "strengths": ["1-2 bullets curtos"], "gaps": ["1-2 bullets curtos"], "language": "<idioma do anúncio>"}}
+- SEJA CONCISO: strengths/gaps com NO MÁXIMO 2 bullets curtos cada. Não repita o perfil.
 - location_verdict: FAIL = fora das localizações aceitas (SP, BH, Curitiba, Blumenau NÃO são viáveis); FLAG = presencial no exterior com sponsorship; PASS = remoto / SC até ~80km de Bombinhas / Fortaleza.
 - language_gate: FAIL = exige idioma não declarado no perfil (ex.: espanhol como requisito de trabalho); FLAG = nível declarado abaixo do exigido; PASS = ok.
 - "expired" apenas se a URL estiver morta; caso contrário, "scored".
-Responda SOMENTE o JSON."""
+Responda SOMENTE o JSON, SEM texto antes ou depois, e SEMPRE fechando o array com ]."""
 
-    print(f"\n== Chamando {C.MODEL} (UMA chamada por lote) ==")
+    print(f"\n== Chamando {C.MODEL} (UMA chamada por lote; maxOutputTokens={MAX_OUTPUT_TOKENS}) ==")
     text = call_vertex(prompt)
 
     results = extract_json_array(text)
