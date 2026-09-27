@@ -1,15 +1,16 @@
 """Scrape autônomo da sandbox: coleta vagas via CLIs de busca (bun) SEM custo de LLM.
 
 Otimizações desta versão:
-- Localização ajustada POR PORTAL — resolve a ambiguidade de "SC": nos portais
-  internacionais vira South Carolina/EUA; nos brasileiros, Santa Catarina.
+- Localização ajustada POR PORTAL — resolve a ambiguidade de "SC" (Santa Catarina
+  nos BR vs remote/Brazil nos internacionais) e respeita as flags de CADA CLI.
+- PORTAL_SPEC: cada portal define a flag de query e os argumentos de localização
+  que o próprio CLI aceita (ex.: freehire usa -q + --remote, não -l).
 - Tratamento de erro por portal (um portal que falha não derruba o run).
 - Encoding UTF-8 explícito (evita "S�o Paulo" no console).
 - Persiste o resultado em sandbox/state/scraped_jobs.json.
 
 Uso:
   python sandbox/run_scrape.py "supply chain" "SC" 5
-  python sandbox/run_scrape.py "supply chain" "remoto" 5
 """
 import json, os, sys, argparse, subprocess
 from datetime import datetime
@@ -18,39 +19,40 @@ sys.path.insert(0, os.path.dirname(__file__))
 import config as C
 
 # ---------------------------------------------------------------------------
-# Localização por portal.
-# O argumento posicional <location> é o fallback; este mapa sobrescreve por portal.
-# Ajuste conforme sua política (BR vs internacional/remoto).
+# Especificação de chamada POR PORTAL.
+#   query_flag : flag de keywords. None = query posicional (padrão dos CLIs).
+#   location_args : lista de argumentos de localização que o CLI aceita.
+# Ajuste conforme o 'search --help' de cada CLI.
 # ---------------------------------------------------------------------------
-LOCATION_BY_PORTAL = {
-    # Brasileiros: estado BR ou "remoto"
-    "gupy":         "Santa Catarina",
-    "catho":        "Santa Catarina",
-    "infojobs":     "Santa Catarina",
+PORTAL_SPEC = {
+    # Brasileiros: query posicional + "-l Santa Catarina"
+    "gupy":         {"query_flag": None, "location_args": ["-l", "Santa Catarina"]},
+    "catho":        {"query_flag": None, "location_args": ["-l", "Santa Catarina"]},
+    "infojobs":     {"query_flag": None, "location_args": ["-l", "Santa Catarina"]},
     # Internacionais / remoto
-    "linkedin":     "Brazil",
-    "freehire":     "remote",
-    "dynamitejobs": "remote",
-    "hirelatam":    "remote",
+    "linkedin":     {"query_flag": None, "location_args": ["-l", "Brazil"]},
+    "dynamitejobs": {"query_flag": None, "location_args": ["-l", "remote"]},
+    "hirelatam":    {"query_flag": None, "location_args": ["-l", "remote"]},
+    # freehire NÃO usa "-l": usa "-q" p/ keywords e facet flags p/ localização.
+    # "--remote remote" = vagas remotas (política do candidato). Opção: adicionar
+    # "--region latam" se quiser restringir à LATAM.
+    "freehire":     {"query_flag": "-q", "location_args": ["--remote", "remote"]},
 }
 
-# Flag de localização por portal. A maioria usa "-l"; se algum CLI divergir,
-# rode '<cli> search --help' e ajuste aqui (ex.: "--location").
-LOCATION_FLAG = {
-    "linkedin":     "-l",
-    "gupy":         "-l",
-    "catho":        "-l",
-    "infojobs":     "-l",
-    "freehire":     "-l",
-    "dynamitejobs": "-l",
-    "hirelatam":    "-l",
-}
+def build_cmd(name, cmd, query, fallback_loc):
+    """Monta a lista de argumentos da busca conforme o PORTAL_SPEC do portal."""
+    spec = PORTAL_SPEC.get(name)
+    if spec is None:
+        # portal sem spec: usa fallback genérico (query posicional + -l)
+        return cmd + [query, "-l", fallback_loc]
+    loc_args = spec["location_args"] or ["-l", fallback_loc]
+    if spec["query_flag"]:
+        return cmd + [spec["query_flag"], query] + loc_args
+    return cmd + [query] + loc_args
 
-def run_portal(name, cmd, query, location):
+def run_portal(name, cmd, query, fallback_loc):
     """Executa um portal e retorna (ok, jobs, error)."""
-    loc = LOCATION_BY_PORTAL.get(name, location)
-    flag = LOCATION_FLAG.get(name, "-l")
-    full = cmd + [query, flag, loc]
+    full = build_cmd(name, cmd, query, fallback_loc)
     try:
         out = subprocess.run(full, capture_output=True, text=True,
                              encoding="utf-8", errors="replace", timeout=120)
