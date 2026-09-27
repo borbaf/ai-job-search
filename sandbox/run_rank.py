@@ -48,6 +48,25 @@ def get_candidates(limit):
         print("ERRO no rank_state:", (out.stderr or "")[-800:]); sys.exit(1)
     return out.stdout
 
+def extract_json_array(text):
+    """Extrai e valida o JSON array da resposta do modelo de forma robusta.
+    Remove markdown fences, apara o array e tolera trailing commas."""
+    # 1) remove fences de markdown (```json ... ```)
+    text = re.sub(r"```(?:json)?", "", text).strip()
+    # 2) acha o primeiro '[' e o último ']' (o array é o que queremos)
+    start = text.find("[")
+    end = text.rfind("]")
+    if start == -1 or end == -1 or end <= start:
+        print("ERRO: resposta sem array JSON:\n", text[:800]); sys.exit(1)
+    chunk = text[start:end + 1]
+    # 3) remove trailing commas (vírgula antes de } ou ])
+    chunk = re.sub(r",\s*([}\]])", r"\1", chunk)
+    try:
+        return json.loads(chunk)
+    except json.JSONDecodeError as e:
+        print(f"ERRO: JSON inválido após limpeza ({e}).\nTrecho:\n{chunk[:1500]}")
+        sys.exit(1)
+
 def persist(results):
     """Persiste via rank_state.py apply (grava no seen_jobs.json DA RAIZ)."""
     fd, tmp = tempfile.mkstemp(suffix=".json", prefix="rank_results_", dir=C.STATE_DIR)
@@ -103,10 +122,7 @@ Responda SOMENTE o JSON."""
     print(f"\n== Chamando {C.MODEL} (UMA chamada por lote) ==")
     text = call_vertex(prompt)
 
-    m = re.search(r"\[.*\]", text, re.S)
-    if not m:
-        print("ERRO: resposta sem JSON:\n", text[:500]); sys.exit(1)
-    results = json.loads(m.group(0))
+    results = extract_json_array(text)
 
     ranked, vetoed, expired = [], [], []
     for j in results:
