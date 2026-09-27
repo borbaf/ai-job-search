@@ -105,6 +105,14 @@ def main():
     cands = get_candidates(args.limit)
     print(cands[:1500])
 
+    # Mapa key -> url para mostrar o link no shortlist
+    url_by_key = {}
+    try:
+        for c in json.loads(cands).get("selected", []):
+            url_by_key[c.get("key")] = c.get("url")
+    except Exception:
+        pass
+
     print("\n== Lendo PERFIL e RUBRICA ORIGINAIS (uma vez por run) ==")
     with open(C.PROFILE_FILE, encoding="utf-8") as f: profile = f.read()
     with open(C.RUBRIC_FILE, encoding="utf-8") as f:  rubric  = f.read()
@@ -170,6 +178,9 @@ Responda SOMENTE o JSON, SEM texto antes ou depois, e SEMPRE fechando o array co
     else:
         for total, j in ranked[:args.top]:
             print(f"{total:5.1f}  {j['key']}{markers(j)}")
+            url = url_by_key.get(j["key"], "")
+            if url:
+                print(f"        {url}")
 
     print(f"\n== VETADOS ({len(vetoed)}) ==")
     for total, j in sorted(vetoed, key=lambda x: x[0], reverse=True):
