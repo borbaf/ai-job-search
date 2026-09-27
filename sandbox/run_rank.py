@@ -9,6 +9,11 @@ Uso:
 import json, os, sys, argparse, subprocess, re, tempfile
 from datetime import date, timedelta
 
+# Console Windows: força UTF-8 para não quebrar em caracteres de substituição
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
 sys.path.insert(0, os.path.dirname(__file__))
 import config as C
 
@@ -64,7 +69,6 @@ def extract_json_array(text):
     try:
         return json.loads(chunk)
     except json.JSONDecodeError as e:
-        # Diagnóstico: se o trecho termina sem fechar o array, é truncamento
         tail = chunk[-120:]
         if not chunk.rstrip().endswith("]"):
             print("ERRO: JSON incompleto — resposta provavelmente TRUNCADA no "
