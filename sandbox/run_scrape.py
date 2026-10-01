@@ -25,17 +25,23 @@ import config as C
 # Ajuste conforme o 'search --help' de cada CLI.
 # ---------------------------------------------------------------------------
 PORTAL_SPEC = {
-    # Brasileiros: query posicional + "-l Santa Catarina"
+    # Brasileiros: query posicional + "-l" com estado BR
     "gupy":         {"query_flag": None, "location_args": ["-l", "Santa Catarina"]},
     "catho":        {"query_flag": None, "location_args": ["-l", "Santa Catarina"]},
     "infojobs":     {"query_flag": None, "location_args": ["-l", "Santa Catarina"]},
-    # Internacionais / remoto
+
+    # Internacional / remoto
     "linkedin":     {"query_flag": None, "location_args": ["-l", "Brazil"]},
     "dynamitejobs": {"query_flag": None, "location_args": ["-l", "remote"]},
     "hirelatam":    {"query_flag": None, "location_args": ["-l", "remote"]},
-    # freehire NÃO usa "-l": usa "-q" p/ keywords e facet flags p/ localização.
-    # "--remote remote" = vagas remotas (política do candidato). Opção: adicionar
-    # "--region latam" se quiser restringir à LATAM.
+
+    # Dinamarca (se ativar no PORTALS): local provavel, descubra com --help
+    # "jobbank":     {"query_flag": None, "location_args": ["-l", "denmark"]},
+    # "jobdanmark":  {"query_flag": None, "location_args": ["-l", "denmark"]},
+    # "jobindex":    {"query_flag": None, "location_args": ["-l", "denmark"]},
+    # "jobnet":      {"query_flag": None, "location_args": ["-l", "denmark"]},
+
+    # freehire NAO usa "-l": usa "-q" p/ keywords e facet flags p/ localizacao
     "freehire":     {"query_flag": "-q", "location_args": ["--remote", "remote"]},
 }
 
