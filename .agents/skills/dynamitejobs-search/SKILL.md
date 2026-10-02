@@ -18,8 +18,8 @@ Search live job listings from **Dynamite Jobs (dynamitejobs.com)**, an internati
 
 ## Candidate profile (search strategy)
 
-Engineer/Consultant in Logistics Transformation, pivoting to Data & Product.
-Priority: (1) Data/Analytics, (2) Product, (3) Supply Chain/Operations (data-flavored).
+Supply Chain & Operations Leader with Analytical Layer. Problem solver bridging physical operations and data intelligence.
+Sweet Spots: (1) Supply Chain Analytics, S&OP & BI, (2) Logistics Tech & Fleet Management (PO/PM in TMS/WMS/SaaS). Anti-pattern: Junior Data Analyst.
 Base: Bombinhas/SC (open to relocation to Fortaleza/CE). Remote-first; USD roles prioritized.
 
 ## URL patterns

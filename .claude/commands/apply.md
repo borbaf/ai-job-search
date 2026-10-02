@@ -31,11 +31,13 @@ python salary_lookup.py "<Company Name>" --json
 ```
 If the posting specifies a city, add `--city "<City>"` to narrow results. Parse the JSON output and include the salary benchmark in the evaluation. If the tool is not configured or returns an error, skip the salary benchmark.
 Present the evaluation to the user with:
-1. **Skills match** - which required/preferred skills match vs. gaps
-2. **Experience match** - how work history maps to the role
-3. **Behavioral/culture match** - how behavioral profile fits the role/company culture
-4. **Salary benchmark** - salary index for the company (if available)
-5. **Overall fit score** and recommendation (strong fit / moderate fit / weak fit)
+1. **Hiring Model** - Direct Hire (Client) vs. Staff Augmentation (Agency/Vendor); in staff augmentation, identify end-client and highlight that end-client domain keywords carry equal weight
+2. **Language Gate** - PASS / FLAG / FAIL (mandatory FLAG with note if posting requires C1 or fluent English vs. declared B2/advanced; never silent PASS)
+3. **Skills match** - which required/preferred skills match vs. gaps
+4. **Experience match** - how work history maps to the role
+5. **Behavioral/culture match** - how behavioral profile fits the role/company culture
+6. **Salary benchmark** - salary index for the company (if available)
+7. **Overall fit score** and recommendation (strong fit / moderate fit / weak fit)
 After presenting the evaluation, ask the user:
 > "Should I proceed with drafting the CV and cover letter for this role?"
 **If the user says no, stop here.** If yes, continue to Step 2.
