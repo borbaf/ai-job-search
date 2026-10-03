@@ -1,0 +1,196 @@
+[
+  {
+    "key": "https://dynamitejobs.com/company/passport/remote-job/logistics-analyst",
+    "status": "scored",
+    "scores": {
+      "technical": 90,
+      "experience": 90,
+      "behavioral": 90,
+      "career": 95
+    },
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Fit direto com Torre de Controle Logística e análise de dados de telemetria/transporte",
+      "Experiência com sistemas TMS, roteirização, consolidação de frete e análise de custo por lane",
+      "Ponte entre tecnologia, dados (Power BI/Tableau/Excel) e operações físicas de transportadoras"
+    ],
+    "gaps": [
+      "Foco específico da malha em e-commerce/parcel/LTL americano vs distribuição industrial de granéis"
+    ],
+    "language": "English"
+  },
+  {
+    "key": "empresa-confidencial_coordenador-de-supply-chain",
+    "status": "scored",
+    "scores": {
+      "technical": 88,
+      "experience": 92,
+      "behavioral": 90,
+      "career": 90
+    },
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Alinhamento total ao posicionamento de Líder de Supply Chain com Camada Analítica",
+      "Domínio prático de S&OP, previsão de demanda, políticas de estoque e ERP (SAP)",
+      "Gestão de operadores logísticos, transportadoras e indicadores de desempenho (OTIF, acurácia)"
+    ],
+    "gaps": [
+      "Anúncio confidencial via Catho, exigindo triagem preliminar na plataforma"
+    ],
+    "language": "Português"
+  },
+  {
+    "key": "https://recruiterflow.com/hirelatam/jobs/1727",
+    "status": "scored",
+    "scores": {
+      "technical": 85,
+      "experience": 90,
+      "behavioral": 90,
+      "career": 85
+    },
+    "location_verdict": "PASS",
+    "language_gate": "FLAG",
+    "language_note": "Anúncio exige inglês nativo ou near-native; declarado Avançado (B2 verificado em teste)",
+    "deadline": null,
+    "strengths": [
+      "Ownership operacional end-to-end: inventário, compras, cálculo de landed cost e SOPs",
+      "Modelo de trabalho 100% remoto focado em cliente CPG/alimentos nos EUA com remuneração em USD",
+      "Perfil resolutor operando com autonomia total sem microgerenciamento"
+    ],
+    "gaps": [
+      "Exigência de inglês near-native sinalizada como gap explícito contra B2 verificado",
+      "Necessidade de envio de vídeo de apresentação de 30s em inglês"
+    ],
+    "language": "English"
+  },
+  {
+    "key": "https://dynamitejobs.com/company/olipop/remote-job/supply-chain-manager-customization",
+    "status": "scored",
+    "scores": {
+      "technical": 80,
+      "experience": 85,
+      "behavioral": 85,
+      "career": 80
+    },
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Gestão de parceiros industriais terceirizados (co-packers) e malha de transporte",
+      "Orientação Lean Six Sigma e resolução estruturada de problemas de cadeia"
+    ],
+    "gaps": [
+      "Viagens de até 50% previstas no anúncio, gerando atrito com base fixa em SC"
+    ],
+    "language": "English"
+  },
+  {
+    "key": "https://recruiterflow.com/hirelatam/jobs/1707",
+    "status": "scored",
+    "scores": {
+      "technical": 75,
+      "experience": 80,
+      "behavioral": 85,
+      "career": 70
+    },
+    "location_verdict": "PASS",
+    "language_gate": "FLAG",
+    "language_note": "Anúncio exige near-native English; declarado Avançado (B2 verificado em teste)",
+    "deadline": null,
+    "strengths": [
+      "Forte disciplina de processos, documentação de SOPs e gestão de tarefas em liderança",
+      "Modelo 100% remoto em USD com reporte direto a executivos"
+    ],
+    "gaps": [
+      "Escopo focado em CRM e operações administrativas em vez de malha física ou supply chain",
+      "Inglês near-native acima do nível B2 verificado"
+    ],
+    "language": "English"
+  },
+  {
+    "key": "https://recruiterflow.com/hirelatam/jobs/1739",
+    "status": "scored",
+    "scores": {
+      "technical": 70,
+      "experience": 65,
+      "behavioral": 85,
+      "career": 60
+    },
+    "location_verdict": "PASS",
+    "language_gate": "FLAG",
+    "language_note": "Anúncio exige inglês fluente para condução de reuniões executivas e clientes",
+    "deadline": null,
+    "strengths": [
+      "Liderança operacional sênior, implantação de scorecards e acompanhamento de KPIs"
+    ],
+    "gaps": [
+      "Exigência de 5+ anos no segmento específico de agências de recrutamento/RPO",
+      "Inglês fluente sinalizado com FLAG"
+    ],
+    "language": "English"
+  },
+  {
+    "key": "https://recruiterflow.com/hirelatam/jobs/1704",
+    "status": "scored",
+    "scores": {
+      "technical": 70,
+      "experience": 60,
+      "behavioral": 85,
+      "career": 55
+    },
+    "location_verdict": "PASS",
+    "language_gate": "FLAG",
+    "language_note": "Anúncio exige explicitamente inglês C1-C2",
+    "deadline": null,
+    "strengths": [
+      "Capacidade de arquitetura de SOPs e mentalidade orientada a propor soluções"
+    ],
+    "gaps": [
+      "Exigência explícita de inglês C1-C2 (gap contra B2 verificado)",
+      "Setor de agência de marketing médico estético descolado de logística industrial"
+    ],
+    "language": "English"
+  },
+  {
+    "key": "amazon_s-op-analyst-supply-chain",
+    "status": "scored",
+    "scores": {
+      "technical": 90,
+      "experience": 90,
+      "behavioral": 85,
+      "career": 90
+    },
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "S&OP e modelagem de previsão com SQL e Excel em alta escala"
+    ],
+    "gaps": [
+      "Localização presencial/híbrida na Grande São Paulo (VETO de localização)"
+    ],
+    "language": "Português"
+  },
+  {
+    "key": "nutricar-brasil_analista-de-supply-chain-jr",
+    "status": "scored",
+    "scores": {
+      "technical": 40,
+      "experience": 30,
+      "behavioral": 50,
+      "career": 20
+    },
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [],
+    "gaps": [
+      "VETO: Vaga de Analista Júnior (anti-pattern estrito do framework: risco de sobrequalificação e churn)"
+    ],
+    "language": "Português"
+  }
+]

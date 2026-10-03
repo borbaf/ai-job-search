@@ -1,0 +1,62 @@
+[
+  {
+    "key": "loggi_analista-s-op-senior-planejamento-sao-paulo-sp",
+    "status": "scored",
+    "scores": {
+      "technical": 90,
+      "experience": 88,
+      "behavioral": 88,
+      "career": 86
+    },
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "S&OP e planejamento de capacidade logística em grande scale-up"
+    ],
+    "gaps": [
+      "VETO de Localização: modelo híbrido presencial em São Paulo/SP"
+    ],
+    "language": "Português"
+  },
+  {
+    "key": "arthrex-latam_analista-de-planejamento-de-demanda-senior",
+    "status": "scored",
+    "scores": {
+      "technical": 87,
+      "experience": 86,
+      "behavioral": 86,
+      "career": 85
+    },
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Liderança de previsão colaborativa de demanda e crítica de forecast"
+    ],
+    "gaps": [
+      "VETO de Localização: presencial em São Paulo/SP"
+    ],
+    "language": "Português"
+  },
+  {
+    "key": "aleris-comercio-e-exportacao-de-produtos-512f05_analista-de-desenvolvimento-estrategico-de-supply-chain",
+    "status": "scored",
+    "scores": {
+      "technical": 78,
+      "experience": 78,
+      "behavioral": 80,
+      "career": 76
+    },
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Desenvolvimento estratégico de processos de cadeia de suprimentos"
+    ],
+    "gaps": [
+      "VETO de Localização: presencial em Jundiaí/SP"
+    ],
+    "language": "Português"
+  }
+]

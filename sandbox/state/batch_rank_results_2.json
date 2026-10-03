@@ -1,0 +1,313 @@
+[
+  {
+    "key": "https://www.linkedin.com/jobs/view/4458282283",
+    "status": "scored",
+    "scores": {
+      "technical": 96,
+      "experience": 95,
+      "behavioral": 92,
+      "career": 92
+    },
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Perfeita intersecção entre Supply Chain físico e camada analítica (Python, Tableau, SQL, Excel avançado, Power BI)",
+      "Localização viável em Gaspar/SC (região metropolitana/vale compatível com base em Bombinhas SC)",
+      "Desenvolvimento de automações, indicadores gerenciais e apoio a IA corporativa em grande multinacional do agronegócio"
+    ],
+    "gaps": [
+      "Modelo híbrido exigindo presença de segunda a quarta em Gaspar/SC"
+    ],
+    "language": "Português"
+  },
+  {
+    "key": "https://dynamitejobs.com/company/ting/remote-job/supply-chain-manager",
+    "status": "scored",
+    "scores": {
+      "technical": 92,
+      "experience": 94,
+      "behavioral": 92,
+      "career": 94
+    },
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Gestão operacional de malha 3PL, reconciliação de estoques entre ERP (NetSuite) e WMS",
+      "Modelagem de landed cost, auditoria de frete e criação de SOPs estruturados para escala",
+      "Modelo de trabalho 100% remoto internacional em USD com alto nível de autonomia"
+    ],
+    "gaps": [
+      "Requer familiaridade direta com módulo de supply chain no NetSuite (candidato traz bagagem em SAP PM/MM)"
+    ],
+    "language": "English"
+  },
+  {
+    "key": "https://dynamitejobs.com/company/jiga/remote-job/logistics-manager-remote-anywhere",
+    "status": "scored",
+    "scores": {
+      "technical": 90,
+      "experience": 92,
+      "behavioral": 94,
+      "career": 90
+    },
+    "location_verdict": "PASS",
+    "language_gate": "FLAG",
+    "language_note": "Anúncio exige inglês fluente para negociações comerciais e escalonamentos executivos",
+    "deadline": null,
+    "strengths": [
+      "Fit direto com a experiência internacional da AIS (Irlanda): frete internacional, comissionamento e logística industrial",
+      "Cultura remote-first e trabalho assíncrono com alto grau de confiança e ownership operacional",
+      "Gestão de custos de frete, Incoterms, landed cost e compliance aduaneiro"
+    ],
+    "gaps": [
+      "Inglês fluente com FLAG contra o nível declarado Avançado (B2 verificado em teste)",
+      "Malha de suprimentos voltada a peças mecânicas/usinadas (CNC/robótica)"
+    ],
+    "language": "English"
+  },
+  {
+    "key": "https://dynamitejobs.com/company/gruns/remote-job/director-of-supply-chain",
+    "status": "scored",
+    "scores": {
+      "technical": 88,
+      "experience": 92,
+      "behavioral": 90,
+      "career": 90
+    },
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Liderança sênior de Supply Chain, implantação de ciclo S&OP e planejamento mensal de demanda",
+      "Negociação direta com co-packers e governança de custo burdened por unidade",
+      "Remuneração altamente atrativa ($180k-$200k USD) em ambiente 100% remoto"
+    ],
+    "gaps": [
+      "Exigência formal de 8-12 anos especificamente no setor de CPG de alimentos/suplementos"
+    ],
+    "language": "English"
+  },
+  {
+    "key": "https://br.linkedin.com/jobs/view/analista-s-op-s%C3%AAnior-planejamento-s%C3%A3o-paulo-sp-at-loggi-4460520582",
+    "status": "scored",
+    "scores": {
+      "technical": 90,
+      "experience": 88,
+      "behavioral": 88,
+      "career": 86
+    },
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "S&OP e planejamento de capacidade logística em grande scale-up"
+    ],
+    "gaps": [
+      "VETO de Localização: modelo híbrido presencial em São Paulo/SP"
+    ],
+    "language": "Português"
+  },
+  {
+    "key": "https://br.linkedin.com/jobs/view/analista-planejamento-supply-chain-s%C3%AAnior-latam-at-natura-4461685195",
+    "status": "scored",
+    "scores": {
+      "technical": 88,
+      "experience": 88,
+      "behavioral": 85,
+      "career": 85
+    },
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Planejamento de supply chain em escala regional LATAM na Natura"
+    ],
+    "gaps": [
+      "VETO de Localização: atuação presencial/híbrida em Cajamar/SP"
+    ],
+    "language": "Português"
+  },
+  {
+    "key": "https://www.linkedin.com/jobs/view/4461189128",
+    "status": "scored",
+    "scores": {
+      "technical": 88,
+      "experience": 85,
+      "behavioral": 85,
+      "career": 82
+    },
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Análise de dados de transporte e logística dedicada na Hyundai Glovis"
+    ],
+    "gaps": [
+      "VETO de Localização: presencial em Piracicaba/SP"
+    ],
+    "language": "Português"
+  },
+  {
+    "key": "https://www.linkedin.com/jobs/view/4461666995",
+    "status": "scored",
+    "scores": {
+      "technical": 86,
+      "experience": 86,
+      "behavioral": 85,
+      "career": 84
+    },
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Planejamento de demanda e suprimentos industrial na Bosch"
+    ],
+    "gaps": [
+      "VETO de Localização: presencial em Campinas/SP"
+    ],
+    "language": "Português"
+  },
+  {
+    "key": "https://br.linkedin.com/jobs/view/analista-de-planejamento-de-demanda-s%C3%AAnior-at-arthrex-latam-4466512948",
+    "status": "scored",
+    "scores": {
+      "technical": 87,
+      "experience": 86,
+      "behavioral": 86,
+      "career": 85
+    },
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Liderança de previsão colaborativa de demanda e crítica de forecast"
+    ],
+    "gaps": [
+      "VETO de Localização: presencial em São Paulo/SP"
+    ],
+    "language": "Português"
+  },
+  {
+    "key": "https://www.linkedin.com/jobs/view/4422748128",
+    "status": "scored",
+    "scores": {
+      "technical": 80,
+      "experience": 80,
+      "behavioral": 80,
+      "career": 80
+    },
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Otimização de malha de rotas e atendimento comercial na Ambev/AB InBev"
+    ],
+    "gaps": [
+      "VETO de Localização: presencial em Campinas/SP"
+    ],
+    "language": "Português"
+  },
+  {
+    "key": "https://www.linkedin.com/jobs/view/4460030288",
+    "status": "scored",
+    "scores": {
+      "technical": 84,
+      "experience": 84,
+      "behavioral": 84,
+      "career": 82
+    },
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Planejamento de abastecimento e transferência entre armazéns na Lanxess"
+    ],
+    "gaps": [
+      "VETO de Localização: presencial em São Paulo/SP"
+    ],
+    "language": "Português"
+  },
+  {
+    "key": "https://www.linkedin.com/jobs/view/4460030776",
+    "status": "scored",
+    "scores": {
+      "technical": 83,
+      "experience": 83,
+      "behavioral": 83,
+      "career": 82
+    },
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Planejamento de suprimentos para operações industriais complexas"
+    ],
+    "gaps": [
+      "VETO de Localização: presencial em Lorena/SP"
+    ],
+    "language": "Português"
+  },
+  {
+    "key": "https://www.infojobs.com.br/vaga-de-analista-desenvolvimento-estrategico-supply-chain-em-sao-paulo__12022543.aspx",
+    "status": "scored",
+    "scores": {
+      "technical": 78,
+      "experience": 78,
+      "behavioral": 80,
+      "career": 76
+    },
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Desenvolvimento estratégico de processos de cadeia de suprimentos"
+    ],
+    "gaps": [
+      "VETO de Localização: presencial em Jundiaí/SP"
+    ],
+    "language": "Português"
+  },
+  {
+    "key": "https://www.linkedin.com/jobs/view/4458415296",
+    "status": "scored",
+    "scores": {
+      "technical": 82,
+      "experience": 75,
+      "behavioral": 75,
+      "career": 72
+    },
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Análise de dados para inteligência operacional na malha aérea da GOL"
+    ],
+    "gaps": [
+      "VETO de Localização: presencial/híbrido em São Paulo/SP"
+    ],
+    "language": "Português"
+  },
+  {
+    "key": "https://br.linkedin.com/jobs/view/consultor-a-supply-chain-tech-planning-at-ey-4443177669",
+    "status": "scored",
+    "scores": {
+      "technical": 80,
+      "experience": 75,
+      "behavioral": 72,
+      "career": 70
+    },
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Implementação de soluções tecnológicas de planejamento de supply chain"
+    ],
+    "gaps": [
+      "VETO de Localização: presencial/híbrido em Recife/PE",
+      "Desalinhamento de carreira com rótulo de consultor externo em vez de operador/resolutor interno"
+    ],
+    "language": "Português"
+  }
+]
