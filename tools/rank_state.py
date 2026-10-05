@@ -143,7 +143,7 @@ def cmd_candidates(args) -> int:
             continue
         if args.focus:
             haystack = " ".join(
-                [str(entry.get("title") or ""), str(entry.get("company") or "")]
+                [str(entry.get("title") or ""), str(entry.get("company") or ""), str(entry.get("portal") or "")]
                 + [str(b) for b in entry.get("strengths") or []]
                 + [str(b) for b in entry.get("gaps") or []]
             ).lower()

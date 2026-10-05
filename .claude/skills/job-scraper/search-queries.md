@@ -43,7 +43,7 @@ High-touch executive and leadership placement:
 ## Installed Portal CLIs & WebSearch Integration
 
 `/scrape` automatically discovers and runs installed portal skills under `.agents/skills/*/SKILL.md`:
-- **Active CLIs:** `linkedin-search`, `freehire-search`, `hirelatam-search`, `gupy-search`, `catho-search`, `infojobs-search`, `dynamitejobs-search`.
+- **Active CLIs:** `linkedin-search`, `freehire-search`, `hirelatam-search`, `solvoglobal-search`, `getonbrd-search`, `gupy-search`, `catho-search`, `infojobs-search`, `dynamitejobs-search`.
 - For boards without a dedicated CLI, `/scrape` executes Google WebSearch fallback queries below.
 
 **Language scope:** Queries are generated in **English and Portuguese** (languages spoken professionally). Spanish is excluded from query generation (elementary level).

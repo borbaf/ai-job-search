@@ -1,0 +1,12 @@
+{
+  "name": "getonbrd-cli",
+  "version": "1.0.0",
+  "description": "Zero-dependency CLI for searching Get on Board (getonbrd.com)",
+  "type": "module",
+  "bin": {
+    "getonbrd": "./src/cli.ts"
+  },
+  "scripts": {
+    "test": "bun test"
+  }
+}
