@@ -17,14 +17,15 @@ Primary channel for immediate focus. Connects LATAM professionals to US/global c
 Established global aggregators with high-signal remote opportunities:
 - **FlexJobs** (`flexjobs.com`) — Curated and verified remote job listings with minimal spam (subscription board).
 - **We Work Remotely** (`weworkremotely.com`) — Premier global 100% remote job community.
+- **Remotive** (`remotive.com` / `remotive-search` CLI) — Leading international remote job board for software, data, operations, and product.
 - **Wellfound** (formerly AngelList Talent, `wellfound.com`) — Startup ecosystem, venture-backed scale-ups, and early tech teams.
 
 ### Tier 3: Worthwhile Niche & Community Job Boards
 High-value specialized boards for international and remote roles:
 - **Remotar** (`remotar.com.br`) — Curated remote listings for Brazilian and international talent.
 - **Himalayas** (`himalayas.app`) — Fast-growing global remote tech job database with comprehensive company insights.
+- **ZipRecruiter** (`ziprecruiter.com` / `ziprecruiter-search` CLI) — Algorithmic matching, heavily adopted in the US, UK, and Ireland.
 - **Snaphunt** (`snaphunt.com`) — Global talent matching platform strong in Europe and Asia.
-- **ZipRecruiter** (`ziprecruiter.com`) — Algorithmic matching, heavily adopted in the US, UK, and Ireland.
 - **Sprout** (`sprout.ph` / global boards) — Remote business operations and technology roles.
 - **Job na Gringa** (`jobnagringa.com.br`) — Specialized community supporting Brazilian talent landing remote roles abroad, featuring unlisted opportunities, English coaching, and recruiter networking.
 
@@ -43,7 +44,7 @@ High-touch executive and leadership placement:
 ## Installed Portal CLIs & WebSearch Integration
 
 `/scrape` automatically discovers and runs installed portal skills under `.agents/skills/*/SKILL.md`:
-- **Active CLIs:** `linkedin-search`, `freehire-search`, `hirelatam-search`, `solvoglobal-search`, `getonbrd-search`, `weworkremotely-search`, `remotar-search`, `himalayas-search`, `gupy-search`, `catho-search`, `infojobs-search`, `dynamitejobs-search`.
+- **Active CLIs:** `linkedin-search`, `freehire-search`, `hirelatam-search`, `solvoglobal-search`, `getonbrd-search`, `weworkremotely-search`, `remotar-search`, `himalayas-search`, `remotive-search`, `ziprecruiter-search`, `gupy-search`, `catho-search`, `infojobs-search`, `dynamitejobs-search`.
 - For boards without a dedicated CLI, `/scrape` executes Google WebSearch fallback queries below.
 
 **Language scope:** Queries are generated in **English and Portuguese** (languages spoken professionally). Spanish is excluded from query generation (elementary level).
