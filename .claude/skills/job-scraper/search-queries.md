@@ -25,9 +25,9 @@ High-value specialized boards for international and remote roles:
 - **Remotar** (`remotar.com.br`) — Curated remote listings for Brazilian and international talent.
 - **Himalayas** (`himalayas.app`) — Fast-growing global remote tech job database with comprehensive company insights.
 - **ZipRecruiter** (`ziprecruiter.com` / `ziprecruiter-search` CLI) — Algorithmic matching, heavily adopted in the US, UK, and Ireland.
+- **Sprout** (`sprout.ph` / `usesprout.com` / `sprout-search` CLI) — Remote business operations, HR tech, and AI jobs platform.
 - **Snaphunt** (`snaphunt.com`) — Global talent matching platform strong in Europe and Asia.
-- **Sprout** (`sprout.ph` / global boards) — Remote business operations and technology roles.
-- **Job na Gringa** (`jobnagringa.com.br`) — Specialized community supporting Brazilian talent landing remote roles abroad, featuring unlisted opportunities, English coaching, and recruiter networking.
+- **Job na Gringa** (`jobnagringa.com.br` / `jobnagringa-search` CLI) — Specialized community supporting Brazilian talent landing remote roles abroad, featuring unlisted opportunities, English coaching, and recruiter networking.
 
 ### Tier 4: Startups & Developer Communities
 Engineering and high-tempo startup environments:
@@ -44,7 +44,7 @@ High-touch executive and leadership placement:
 ## Installed Portal CLIs & WebSearch Integration
 
 `/scrape` automatically discovers and runs installed portal skills under `.agents/skills/*/SKILL.md`:
-- **Active CLIs:** `linkedin-search`, `freehire-search`, `hirelatam-search`, `solvoglobal-search`, `getonbrd-search`, `weworkremotely-search`, `remotar-search`, `himalayas-search`, `remotive-search`, `ziprecruiter-search`, `gupy-search`, `catho-search`, `infojobs-search`, `dynamitejobs-search`.
+- **Active CLIs:** `linkedin-search`, `freehire-search`, `hirelatam-search`, `solvoglobal-search`, `getonbrd-search`, `weworkremotely-search`, `remotar-search`, `himalayas-search`, `remotive-search`, `ziprecruiter-search`, `sprout-search`, `jobnagringa-search`, `gupy-search`, `catho-search`, `infojobs-search`, `dynamitejobs-search`.
 - For boards without a dedicated CLI, `/scrape` executes Google WebSearch fallback queries below.
 
 **Language scope:** Queries are generated in **English and Portuguese** (languages spoken professionally). Spanish is excluded from query generation (elementary level).
