@@ -45,12 +45,15 @@ import tempfile
 from datetime import date, timedelta
 from pathlib import Path
 
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+
 ROOT = Path(__file__).resolve().parent.parent
 STATE = ROOT / "job_scraper" / "seen_jobs.json"
 TRACKER = ROOT / "job_search_tracker.csv"
 
 # 04-job-evaluation.md
-WEIGHTS = {"technical": 0.30, "experience": 0.25, "behavioral": 0.15, "career": 0.30}
+WEIGHTS = {"technical": 0.25, "experience": 0.30, "behavioral": 0.15, "career": 0.30}
 BANDS = ((75, "Strong Fit"), (60, "Good Fit"), (45, "Moderate Fit"), (30, "Weak Fit"), (0, "Poor Fit"))
 
 DEFAULT_LIMIT = 10
@@ -293,6 +296,15 @@ def cmd_apply(args) -> int:
             entry.pop("language_note", None)
         else:
             entry["language_note"] = result.get("language_note")
+        entry["employment_gate"] = result.get("employment_gate") or "PASS"
+        if entry["employment_gate"] == "PASS":
+            entry.pop("employment_note", None)
+        else:
+            entry["employment_note"] = result.get("employment_note")
+        if result.get("track"):
+            entry["track"] = result.get("track")
+        if result.get("currency_track"):
+            entry["currency_track"] = result.get("currency_track")
         # Absence is not a correction: a fetch that degraded to a listing page
         # returns no deadline, and blanking a stored one would erase a real
         # date and make the entry immortal to rule 6's sweep.
@@ -313,9 +325,13 @@ def cmd_apply(args) -> int:
                 "url": entry.get("url"),
                 "score": score,
                 "verdict": entry["rank_verdict"],
+                "track": entry.get("track"),
+                "currency_track": entry.get("currency_track"),
                 "location_verdict": entry["location_verdict"],
                 "language_gate": entry["language_gate"],
                 "language_note": entry.get("language_note"),
+                "employment_gate": entry.get("employment_gate"),
+                "employment_note": entry.get("employment_note"),
                 "deadline": entry.get("deadline"),
                 "posted_date": entry.get("posted_date"),
                 "urgent": bool(parsed and today <= parsed <= today + timedelta(days=URGENT_DAYS)),
@@ -328,7 +344,11 @@ def cmd_apply(args) -> int:
         save_state(args.state, doc)
 
     rows.sort(key=lambda r: (r["score"], r["urgent"]), reverse=True)
-    veto = lambda r: r["location_verdict"] == "FAIL" or r["language_gate"] == "FAIL"
+    veto = (
+        lambda r: r["location_verdict"] == "FAIL"
+        or r["language_gate"] == "FAIL"
+        or r.get("employment_gate") == "FAIL"
+    )
     vetoed = [r for r in rows if veto(r)]
     ranked = [r for r in rows if not veto(r)]
     print(

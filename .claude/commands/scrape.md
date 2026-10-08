@@ -10,20 +10,29 @@ $ARGUMENTS may contain:
 - --list -> only list the configured portals, without scanning.
 
 ## Step 1: Identify configured portals
-The portals are the search skills registered in agy. Each maps to a search command:
-- /linkedin-search -> LinkedIn (any market/country, remote)
-- /freehire-search -> FreeHire (tech/data/eng aggregator, remote)
-- /dynamitejobs-search -> Dynamite Jobs (remote-first job board)
-- /hirelatam-search -> HireLATAM (LATAM talent to US/global remote)
-- /gupy-search -> Gupy (dominant Brazilian ATS)
-- /infojobs-search -> Infojobs (Brazilian job board)
-- /catho-search -> Catho (Brazilian job board)
-- /jobindex-search -> Jobindex (Denmark)
-- /jobnet-search -> Jobnet (Denmark)
-- /jobdanmark-search -> Jobdanmark (Denmark)
-- /jobbank-search -> Akademikernes Jobbank (Denmark, academic)
+The portals are the search skills registered in agy, ordered by strategic conversion priority:
+- **Tier 1 (High Conversion / LATAM & Brazil Remote):**
+  - `/remotar-search` -> Remotar (100% verified viability, Brazil remote tech/ops)
+  - `/hirelatam-search` -> HireLATAM (LATAM talent to US/global remote USD)
+  - `/solvoglobal-search` -> Solvo Global (Nearshore LATAM remote ops & analytics)
+  - `/getonbrd-search` -> Get on Board (LATAM & global remote tech/ops)
+- **Tier 2 (Global Remote Boards - Subject to JD Text Gating):**
+  - `/dynamitejobs-search` -> Dynamite Jobs (remote-first job board)
+  - `/himalayas-search` -> Himalayas (global remote tech & ops)
+  - `/remotive-search` -> Remotive (global remote data, ops, product)
+  - `/weworkremotely-search` -> We Work Remotely (global remote)
+  - `/jobnagringa-search` -> Job na Gringa (remote international USD/EUR for Brazilians)
+  - `/ziprecruiter-search` -> ZipRecruiter (US/global tech & operations)
+- **Tier 3 (Brazilian ATS & General Ecosystems):**
+  - `/gupy-search` -> Gupy (dominant Brazilian ATS for domestic S&OP and logistics)
+  - `/linkedin-search` -> LinkedIn (targeted remote/SC/Fortaleza)
+  - `/freehire-search` -> FreeHire (tech/data aggregator)
+  - `/catho-search` -> Catho (Brazilian job board)
+  - `/infojobs-search` -> Infojobs (Brazilian job board)
 
-If the user runs /scrape --list, list the portals above and stop.
+*(Note: Danish portals `jobindex`, `jobnet`, `jobdanmark`, `jobbank` are deactivated as out-of-scope for the candidate profile).*
+
+If the user runs `/scrape --list`, list the portals above and stop.
 
 ## Step 2: Scan each portal
 For each configured portal, in the order above:

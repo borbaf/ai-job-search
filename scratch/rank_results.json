@@ -1,0 +1,220 @@
+[
+  {
+    "key": "jiga_logistics-manager-remote-anywhere",
+    "scores": {
+      "technical": 88,
+      "experience": 92,
+      "behavioral": 90,
+      "career": 95
+    },
+    "track": "Track 1 - Physical Operations / S&OP",
+    "currency_track": "USD",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "100% remote global em regime contractor USD com escopo de gestão logística internacional ponta a ponta (aéreo, marítimo, courier e desembaraço aduaneiro).",
+      "Perfeito alinhamento com a vivência de 15+ anos do candidato em negociação com armadores, forwarders, trade compliance e operações industriais de alto volume.",
+      "Cultura orientada a autonomia e pragmatismo operacional (high-trust, low-bullshit), valorizando liderança mão na massa e tomada de decisão comercial."
+    ],
+    "gaps": [
+      "Foco acentuado em rotas de manufatura sob demanda com origem na Ásia (China, Vietnã, Índia) para EUA/Europa/Israel.",
+      "Exige interlocução fluente diária em inglês com fornecedores asiáticos e times em fusos diversos."
+    ]
+  },
+  {
+    "key": "https://remotar.com.br/job/165036",
+    "scores": {
+      "technical": 90,
+      "experience": 92,
+      "behavioral": 88,
+      "career": 90
+    },
+    "track": "Track 1 - Physical Operations / S&OP",
+    "currency_track": "BRL",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Vaga 100% remota CLT em gigante do setor de energia/combustíveis e bioenergia (Raízen), segmento onde o candidato atuou por mais de 13 anos na Vibra Energia.",
+      "Altíssima aderência em gestão de suprimentos e compras de categorias críticas industriais (aditivos e embalagens), contratos estratégicos e saving.",
+      "Total conformidade com o perfil geográfico (residência no Brasil/Bombinhas) e segurança de remuneração fixa CLT no patamar corporativo sênior."
+    ],
+    "gaps": [
+      "Foco funcional concentrado em Compras Estratégicas/Procurement, e não no ciclo pleno integrado de S&OP de ponta a ponta.",
+      "Remuneração em BRL (CLT), não atendendo ao objetivo de renda dolarizada, mas proporcionando máxima segurança."
+    ]
+  },
+  {
+    "key": "hirelatam_remote-director-of-operations",
+    "scores": {
+      "technical": 80,
+      "experience": 85,
+      "behavioral": 86,
+      "career": 85
+    },
+    "track": "Track 1 - Physical Operations / S&OP",
+    "currency_track": "USD",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "100% remoto internacional para atuação a partir da América Latina com remuneração em USD ($2.500 a $3.500/mês base fixa).",
+      "Posição executiva de liderança operacional direta, gerenciamento de KPIs, produtividade de times e desenho de processos/SOPs.",
+      "Forte aderência à capacidade do candidato em liderar operações estruturadas e otimizar rotinas de entrega."
+    ],
+    "gaps": [
+      "Domínio voltado a operações de agência de recrutamento e staffing (ATS Bullhorn), distanciando-se da cadeia física de supply chain/logística.",
+      "Forte componente de gestão de pipelines de atração de talentos em vez de fluxo de materiais e estoques."
+    ]
+  },
+  {
+    "key": "hirelatam_remote-operations-analytics-coordinator",
+    "scores": {
+      "technical": 84,
+      "experience": 82,
+      "behavioral": 85,
+      "career": 80
+    },
+    "track": "Track 2 - Logistics Tech & Data Products",
+    "currency_track": "USD",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Contrato remoto USD ($2.000 a $3.000/mês) elegível para América Latina, com plano claro de progressão.",
+      "Excelente aderência analítica (construção de SOPs, modelagem de dados, dashboards e otimização de fluxos operacionais).",
+      "Total compatibilidade com fluência em inglês e capacidade analítica em ferramentas de inteligência operacional."
+    ],
+    "gaps": [
+      "Setor direcionado a operações na área de saúde (healthcare operations) nos EUA.",
+      "Nível de Coordenador/Analista sênior, ficando abaixo do histórico executivo de liderança de unidades do candidato."
+    ]
+  },
+  {
+    "key": "olipop_supply-chain-manager-customization",
+    "status": "expired"
+  },
+  {
+    "key": "pepsico_supply-chain-finance-analyst",
+    "status": "expired"
+  },
+  {
+    "key": "spacex_supply-chain-planning-manager-raptor",
+    "scores": {
+      "technical": 92,
+      "experience": 90,
+      "behavioral": 85,
+      "career": 80
+    },
+    "track": "Track 1 - Physical Operations / S&OP",
+    "currency_track": "USD",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Altíssima aderência em gestão de planejamento de cadeia de suprimentos e S&OP industrial de alta complexidade."
+    ],
+    "gaps": [
+      "Veto estrito de elegibilidade geográfica e de autorização de trabalho: exige cidadania americana / autorização ITAR e presença física em Hawthorne, CA (EUA)."
+    ]
+  },
+  {
+    "key": "cimento-nacional_analista-s-op-sr",
+    "scores": {
+      "technical": 94,
+      "experience": 90,
+      "behavioral": 85,
+      "career": 88
+    },
+    "track": "Track 1 - Physical Operations / S&OP",
+    "currency_track": "BRL",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Aderência técnica perfeita ao ciclo pleno de S&OP, planejamento integrado de demanda e capacidade industrial pesada."
+    ],
+    "gaps": [
+      "Veto de localização geográfica: modelo de trabalho híbrido obrigatório em Belo Horizonte/MG, incompatível com a residência em Bombinhas/SC."
+    ]
+  },
+  {
+    "key": "br-mania_gerencia-senior-de-supply-chain-e-logistica-br-mania",
+    "scores": {
+      "technical": 95,
+      "experience": 95,
+      "behavioral": 90,
+      "career": 92
+    },
+    "track": "Track 1 - Physical Operations / S&OP",
+    "currency_track": "BRL",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Match perfeito com a experiência corporativa do candidato na Vibra Energia/BR Mania em liderança sênior de supply chain, logística e abastecimento nacional."
+    ],
+    "gaps": [
+      "Veto de localização geográfica: modelo de trabalho híbrido presencial na sede no Rio de Janeiro/RJ, incompatível com a residência em Bombinhas/SC."
+    ]
+  },
+  {
+    "key": "https://dynamitejobs.com/company/progresspartners/remote-job/procurement-vendor-manager",
+    "scores": {
+      "technical": 80,
+      "experience": 82,
+      "behavioral": 80,
+      "career": 78
+    },
+    "track": "Track 1 - Physical Operations / S&OP",
+    "currency_track": "USD",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Gestão de aquisições e fornecedores em ambiente internacional com remuneração em USD."
+    ],
+    "gaps": [
+      "Veto de elegibilidade territorial: restrito especificamente a candidatos residentes no Canadá, Sérvia, Turquia, Áustria, França ou Alemanha."
+    ]
+  },
+  {
+    "key": "veralana_analista-de-supply-chain",
+    "status": "expired"
+  },
+  {
+    "key": "https://www.linkedin.com/jobs/view/4461129520",
+    "status": "expired"
+  },
+  {
+    "key": "https://remotar.com.br/job/164407",
+    "scores": {
+      "technical": 75,
+      "experience": 78,
+      "behavioral": 75,
+      "career": 70
+    },
+    "track": "Track 1 - Physical Operations / S&OP",
+    "currency_track": "BRL",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Posição 100% remota em empresa nacional consolidada (Farmax) na área de Supply Chain e Logística."
+    ],
+    "gaps": [
+      "Trata-se de banco de talentos (cadastro de reserva sem contratação imediata garantida).",
+      "Processo passivo sem garantia de abertura imediata de requisição sênior."
+    ]
+  }
+]

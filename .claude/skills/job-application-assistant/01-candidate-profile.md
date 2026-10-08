@@ -12,8 +12,11 @@ framework_version: 1.2.0
 - **LinkedIn:** https://linkedin.com/in/borbaf
 - **GitHub:** https://github.com/borbaf
 - **Status:** Supply Chain & Operations Leader with Analytical Layer (GLG Network Member) - actively searching
-- **Constraints:** Remote-first (target: fully remote roles paid in USD). Open to relocation to Fortaleza/CE or international with sponsorship. Hybrid in SC viable only within ~80 km of Bombinhas (Florianópolis, Itajaí, BC, Navegantes; Blumenau is NOT viable). Hybrid/on-site in SP, BH, etc. is NOT viable. Holds Brazilian citizenship (no US work visa/green card).
-- **Core Scope & Positioning:** Operational domain authority + analytics (Supply Chain Analytics, S&OP, Demand Planning, BI, Logistics/Fleet Tech Product). Positioned as a decisive problem solver (resolutor) with physical line leadership authority. Pure backend data engineering (5-7+ years pure SQL programming/DW dev), mandatory Microsoft Fabric core, and Junior Data Analyst roles are strictly out of scope.
+- **Constraints:** Remote-first (USD Track: floor USD 1,600/mo, target USD 4k-7k/mo; BRL Track: floor R$ 10k CLT / R$ 14k PJ, target R$ 15k-25k+). Open to relocation to Fortaleza/CE or international with sponsorship. Hybrid in SC viable only within ~80 km of Bombinhas (Florianópolis, Itajaí, BC, Navegantes; Blumenau is NOT viable). Hybrid/on-site in SP, BH, etc. is NOT viable. Holds Brazilian citizenship (no US work visa/green card).
+- **Core Scope & Two Strategic Tracks:**
+  1. *Track 1 (Supply Chain & Physical Operations Leadership / S&OP):* Direct line authority, bulk liquids/fuel terminals, multi-modal logistics, S&OP, demand planning, procurement & MRO. High conversion in Brazil (Remotar, Gupy) and LATAM (HireLATAM, Solvo).
+  2. *Track 2 (Logistics Tech & Data Products):* Technical PO/PM in TMS, WMS, logistics telemetry, fleet management, and supply chain SaaS. Highly gated by geographic eligibility (must allow remote work from Brazil) and guaranteed compensation.
+- **Strict Anti-patterns (Hard Vetoes):** Equity-only/co-founder/funding-conditioned roles (zero tolerance; requires guaranteed salary), fake "Global Remote" (US-only/onsite in JD body), generic SaaS / ad-tech / consumer fintech (Koast, Bobyard, C3), pure backend data engineering (5-7+ years pure DW/ETL), mandatory Microsoft Fabric core, and Junior/entry-level roles.
 - **Competitive Moat:** "A ponte legítima entre a operação física e a inteligência de dados, compreendendo com exatidão onde o dado gera retorno financeiro real no chão de operação pelo fato de ter operado pessoalmente ativos de alta escala. O mercado o enxerga como um resolutor decisivo."
 - **CV language:** English (primary), Portuguese (parallel variant)
 

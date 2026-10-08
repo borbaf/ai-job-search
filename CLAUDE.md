@@ -13,16 +13,26 @@
 "A legitimate bridge between physical operations and data intelligence, solving high-impact operational problems using data on operations personally operated at scale."
 Market framing: Decisive problem solver (resolutor), bridging shop-floor operations and executive intelligence.
 
-## Sweet Spot & Pivot Priority
-1. **Supply Chain Analytics, S&OP & BI (Top Sweet Spot):** S&OP Analyst, Demand Planner (Data & Automation), Supply Chain Data Analyst, Business Intelligence Analyst. Unites 15+ years of operational authority and leadership with modern analytical execution (Python, SQL, Tableau, Power BI).
-2. **Logistics Tech & Fleet Management Product (High Priority):** Technical Product Owner / Product Manager in Fleet Management, TMS, WMS, Logistics Automation, or Supply Chain SaaS (e.g., Omron model).
-3. **Deprioritized / Anti-patterns:**
-   - **Junior Data Analyst Roles:** Strictly excluded. Candidate is overqualified with high churn risk; never steer the framework toward junior profiles.
-   - **Pure Data Engineering & Database Development:** Roles demanding 5-7+ years of pure SQL development, data warehouse engineering, or data pipeline plumbing with no business/domain connection (e.g., Wesco). Filippe's value is operational domain authority + analytics, not backend database programming.
-   - **Microsoft Fabric / Deep Azure Core:** Roles where Microsoft Fabric, Azure Synapse, or Azure Databricks are mandatory prerequisites (e.g., Avanade). Filippe's cloud core is GCP / BigQuery.
-   - **Generic Product Owner:** Retail apparel, generic fintech, or e-commerce with no supply chain/logistics overlap.
-   - **Unverified / Ambiguous Work Models:** Roles in SP, BH, etc., without explicit, guaranteed 100% remote contracts (consulting hybrid risk).
-   - **PhD / Pure Research Requirements:** Roles requiring PhD or academic publications.
+## Strategic Tracks & Sweet Spots
+
+### Track 1: Supply Chain & Physical Operations Leadership / S&OP (High Conversion & Viability)
+- **Roles:** S&OP Analyst/Manager, Demand Planner, Supply Chain Operations Manager, Logistics Coordinator/Superintendent, Procurement & MRO Materials Specialist.
+- **Scope:** Anchored in physical operations, industrial assets, bulk liquid/fuel terminals, multi-modal transport, manufacturing, and supply planning.
+- **Conversion Reality:** Highest conversion and signal (e.g., Remotar, Gupy, HireLATAM, Solvo). Highly viable in Brazil (BRL) and for LATAM-focused international contracts (USD).
+
+### Track 2: Logistics Tech & Data Products (Selective / High-Gate Layer)
+- **Roles:** Technical Product Owner / Product Manager in TMS, WMS, Logistics Telemetry, Fleet Management, or Supply Chain SaaS (e.g., nstech model), Logistics Analytics Specialist, Active Control Tower Architect.
+- **Critical Requirement:** Must have DIRECT connection to supply chain, logistics, transportation, or physical operations.
+- **Gate Sensitivity:** Viability is highly gated by geographic eligibility (must allow remote work from Brazil) and guaranteed compensation.
+
+### Strict Anti-Patterns & Deal-breakers (Hard Vetoes)
+- **Equity-only, Co-founder, Venture Building, Unfunded (STRICT VETO):** Roles without guaranteed, fixed salary/contract (e.g., EWOR, Gabb, incubators, revenue-share, funding-conditioned). Candidate requires predictable cash income.
+- **Fake "Global Remote" / US-Domestic Only (STRICT VETO):** Never trust platform tags ("Anywhere in the world", "Global Remote"). If the JD body text mentions "US only", "must reside in the US", "in-person in NYC/SF", "security clearance", or "authorized to work in the US without sponsorship", it is an immediate FAIL.
+- **Generic SaaS, Ad-Tech, Consumer Fintech (STRICT VETO / SEVERE PENALTY):** Product/Data roles in marketing tech, ad-tech, retail apparel, or generic SaaS (e.g., Koast, Bobyard, C3, Vercel) with no physical supply chain/logistics connection.
+- **Junior / Entry-Level / Student Roles:** Strictly excluded (overqualified; high churn risk).
+- **Pure Data Engineering & Database Plumbing:** Roles demanding 5-7+ years of pure SQL development, data warehouse engineering, or data pipeline plumbing with no business/domain connection (e.g., Wesco).
+- **Microsoft Fabric / Deep Azure Core:** Roles where Microsoft Fabric, Azure Synapse, or Azure Databricks are mandatory prerequisites. Candidate is GCP / BigQuery core.
+- **Unverified / Ambiguous Work Models:** Roles in SP, BH, etc., without guaranteed 100% remote contracts. Blumenau is strictly non-viable.
 
 ## Education
 - Postgraduate in Data Science & Big Data (in progress, expected completion Dec 2026) - UNIALPHAVILLE
@@ -60,20 +70,26 @@ Market framing: Decisive problem solver (resolutor), bridging shop-floor operati
 - Electric Machine Sizing - WEG
 - PADI Enriched Air Diver (personal, not CV-relevant)
 
-## Compensation
-- Floor: USD 1,600/mo (reject below) | Target: USD 4,000 - 7,000/mo
+## Compensation (Two Explicit Currency Tracks)
+- **USD Track (International / Remote Global / LATAM):**
+  - Floor: USD 1,600/mo (reject below)
+  - Target: USD 4,000 - 7,000/mo
+- **BRL Track (National / Remote Brazil / Hybrid SC or Fortaleza):**
+  - Floor: R$ 10,000/mo CLT or R$ 14,000/mo PJ (reject below)
+  - Target: R$ 15,000 - 25,000+/mo
+- **Mandatory Compensation Model:** Fixed guaranteed salary/contract only. Zero tolerance for equity-only, co-founder, or revenue-share positions.
 
 ## Location Preferences & Constraints
-- **100% Remote:** Primary target (global, LATAM, or Brazil; USD-denominated prioritized).
+- **100% Remote:** Primary target (global, LATAM, or Brazil; track separation applies).
 - **Hybrid in SC:** Viable ONLY within ~80 km of Bombinhas-SC (e.g., Florianópolis, Itajaí, Balneário Camboriú, Navegantes).
 - **Relocation / Hybrid in Fortaleza/CE:** Viable (open to relocation to Fortaleza).
 - **Excluded Hybrid/On-site:** Blumenau is NOT viable. São Paulo (SP), Belo Horizonte (BH), Curitiba, and other distant cities are NOT viable for hybrid/on-site.
 
-## Deal-breakers (Hard Filters)
-- Compensation below USD 1,600/mo.
-- Hybrid or on-site in SP, BH, Blumenau, or any location outside the 80km Bombinhas radius (except Fortaleza/CE).
-- Roles requiring US/foreign citizenship or work authorization without sponsorship (candidate has Brazilian citizenship, no US work visa/green card).
-- Junior Data Analyst roles.
+## Deal-breakers (Hard Filters - Enforced Before Scoring)
+1. **Employment Model:** Roles without guaranteed salary (equity-only, co-founder, venture builder, unpaid, funding-dependent).
+2. **Geographic Ineligibility:** Roles requiring US domestic work authorization without sponsorship, or based on-site/hybrid outside SC (80km) or Fortaleza/CE (verified via JD text, not platform tags).
+3. **Compensation Floor:** Below USD 1,600/mo (USD track) or below R$ 10,000 CLT / R$ 14,000 PJ (BRL track).
+4. **Seniority:** Junior, entry-level, trainee, or student roles.
 
 ## Writing & tooling rules
 - When mentioning agentic coding or AI tooling, explicitly reference Claude Code by name.

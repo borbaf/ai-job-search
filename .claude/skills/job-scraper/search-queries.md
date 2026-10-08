@@ -1,149 +1,133 @@
 # Search Queries & Channel Strategy for Job Scraper
 
-<!-- Generated and updated per career consulting guidance for Filippe Borba. -->
+<!-- Calibrated per empirical triage analysis and strategic goals for Filippe Borba. -->
 
-## Channel & Portal Strategy (5 Tiers)
+## Channel & Portal Strategy (Calibrated by Real Conversion)
 
-The framework structures job searching across five distinct tiers, prioritizing high-conversion channels for remote USD/global opportunities:
+Verified scraping results showed that platform tags like "Global Remote" or "100% Remoto" have high divergence (up to 100% false positives on Wellfound and 80%+ on We Work Remotely due to hidden US-only domestic authorization or in-person requirements in the JD body). The portal hierarchy is now calibrated strictly by verified viability and strategic fit:
 
-### Tier 1: LATAM & Global Talent Platforms (Short-term Priority)
-Primary channel for immediate focus. Connects LATAM professionals to US/global companies with structured, objective processes:
-- **HireLATAM** (`hirelatam.com` / `hirelatam-search` CLI) — US companies hiring top-tier LATAM talent for remote operations and analytics.
-- **Solvo Global** (`solvoglobal.com`) — Remote recruiting with objective, structured workflows for operational and analytical roles.
-- **Revelo** (`revelo.com`) — Strong in technology, analytics, and agile placement with rapid candidate-to-offer velocity.
-- **Get on Board** (`getonbrd.com`) — Tech and operations roles in high-growth startups across LATAM and globally.
+### Tier 1: High Conversion & Strategic Realism (Top Priority)
+High-conversion channels connecting LATAM talent with realistic hiring pipelines:
+- **Remotar** (`remotar.com.br` / `remotar-search` CLI) — **100% verified viability in live audit.** Premier Brazilian board for remote roles. Primary source for Track 1 BRL roles (R$ 10k-25k+/mo) in logistics, supply chain, and operations.
+- **HireLATAM** (`hirelatam.com` / `hirelatam-search` CLI) — Connects top-tier LATAM talent to US companies paying in USD ($1,600 - $7,000/mo) for remote operations, analytics, and project coordination.
+- **Solvo Global** (`solvoglobal.com` / `solvoglobal-search` CLI) — Nearshore talent platform with structured remote hiring for US/global operations and analytics.
+- **Get on Board** (`getonbrd.com` / `getonbrd-search` CLI) — Tech and operations roles in high-growth companies across LATAM and global remote with transparent remote policies.
 
-### Tier 2: Global Remote Job Boards
-Established global aggregators with high-signal remote opportunities:
-- **FlexJobs** (`flexjobs.com`) — Curated and verified remote job listings with minimal spam (subscription board).
-- **We Work Remotely** (`weworkremotely.com`) — Premier global 100% remote job community.
-- **Remotive** (`remotive.com` / `remotive-search` CLI) — Leading international remote job board for software, data, operations, and product.
-- **Wellfound** (formerly AngelList Talent, `wellfound.com`) — Startup ecosystem, venture-backed scale-ups, and early tech teams.
+### Tier 2: Global Remote Job Boards (Mandatory JD-Text Gating)
+High-volume global boards where postings **must be strictly gated against the JD body text** (never trusting platform tags):
+- **Dynamite Jobs** (`dynamitejobs.com` / `dynamitejobs-search` CLI) — Remote-first job board. Must verify worldwide eligibility.
+- **Himalayas** (`himalayas.app` / `himalayas-search` CLI) — Global remote tech and operations database. Must verify salary (filter out venture-building/co-founder equity-only like EWOR) and country eligibility.
+- **Remotive** (`remotive.com` / `remotive-search` CLI) — International remote board for operations, product, and data.
+- **We Work Remotely** (`weworkremotely.com` / `weworkremotely-search` CLI) — High volume, but heavily infested with US-domestic-only roles masquerading as remote. Hard gate on JD body text required.
+- **Wellfound** (`wellfound.com`) — Startup ecosystem. Highest divergence: platform tags "Global Remote" on in-person NYC/SF or unfunded co-founder roles. Hard gate on JD body text required.
 
-### Tier 3: Worthwhile Niche & Community Job Boards
-High-value specialized boards for international and remote roles:
-- **Remotar** (`remotar.com.br`) — Curated remote listings for Brazilian and international talent.
-- **Himalayas** (`himalayas.app`) — Fast-growing global remote tech job database with comprehensive company insights.
-- **ZipRecruiter** (`ziprecruiter.com` / `ziprecruiter-search` CLI) — Algorithmic matching, heavily adopted in the US, UK, and Ireland.
-- **Sprout** (`sprout.ph` / `usesprout.com` / `sprout-search` CLI) — Remote business operations, HR tech, and AI jobs platform.
-- **Snaphunt** (`snaphunt.com`) — Global talent matching platform strong in Europe and Asia.
-- **Job na Gringa** (`jobnagringa.com.br` / `jobnagringa-search` CLI) — Specialized community supporting Brazilian talent landing remote roles abroad, featuring unlisted opportunities, English coaching, and recruiter networking.
+### Tier 3: Brazilian National Platforms & Curated Communities
+- **Gupy** (`portal.gupy.io` / `gupy-search` CLI) — Dominant Brazilian ATS. High volume for domestic S&OP, logistics management, and supply chain control tower roles.
+- **Job na Gringa** (`jobnagringa.com.br` / `jobnagringa-search` CLI) — Curated community for Brazilian talent landing remote USD/EUR contracts.
+- **Catho / Infojobs** (`catho.com.br`, `infojobs.com.br`) — Secondary Brazilian job boards for industrial and logistical management.
 
-### Tier 4: Startups & Developer Communities
-Engineering and high-tempo startup environments:
-- **Y Combinator Jobs** (`workatastartup.com`) — Exclusive job board for Y Combinator portfolio startups.
-- **Hacker News** (`news.ycombinator.com`) — Monthly "Who is hiring?" threads (1st of each month).
-- **DEV Community** (`dev.to/jobs`) — Tech-first and engineering-adjacent operational openings.
+### Deprioritized Channels (Low Yield for Candidate Profile)
+- **Revelo** (`revelo.com`) — Tested 0% viability: overwhelmingly tailored for software engineering/devs, with minimal signal for supply chain or operations leadership.
 
-### Tier 5: Executive Search & Venture Boutiques
-High-touch executive and leadership placement:
-- **Venture People** (`venturepeople.com.br`) — Executive search boutique specializing in leadership, operations, and tech for venture-backed startups and scale-ups across LATAM and the USA.
+### Disabled / Out of Scope
+- **Danish Portals** (`jobindex`, `jobnet`, `jobdanmark`, `jobbank`) — Disabled. Zero relevance for Brazil-based candidate without EU right to work or Danish fluency.
 
 ---
 
 ## Installed Portal CLIs & WebSearch Integration
 
 `/scrape` automatically discovers and runs installed portal skills under `.agents/skills/*/SKILL.md`:
-- **Active CLIs:** `linkedin-search`, `freehire-search`, `hirelatam-search`, `solvoglobal-search`, `getonbrd-search`, `weworkremotely-search`, `remotar-search`, `himalayas-search`, `remotive-search`, `ziprecruiter-search`, `sprout-search`, `jobnagringa-search`, `gupy-search`, `catho-search`, `infojobs-search`, `dynamitejobs-search`.
-- For boards without a dedicated CLI, `/scrape` executes Google WebSearch fallback queries below.
+- **Active Operational CLIs:** `remotar-search`, `hirelatam-search`, `solvoglobal-search`, `getonbrd-search`, `himalayas-search`, `remotive-search`, `dynamitejobs-search`, `weworkremotely-search`, `jobnagringa-search`, `gupy-search`, `linkedin-search`, `freehire-search`, `ziprecruiter-search`, `catho-search`, `infojobs-search`.
 
-**Language scope:** Queries are generated in **English and Portuguese** (languages spoken professionally). Spanish is excluded from query generation (elementary level).
-
----
-
-## Query Categories (Aligned with Sweet Spots)
-
-### Priority 1: Supply Chain Analytics, S&OP & BI (Top Sweet Spot)
-Capitalizes on 15+ years of operational authority paired with data execution (Python, SQL, BigQuery, Power BI, Tableau).
-
-**English:**
-```
-site:linkedin.com/jobs "Supply Chain Analyst" remote
-site:linkedin.com/jobs "Supply Chain Data Analyst" remote
-site:linkedin.com/jobs "S&OP Analyst" remote
-site:linkedin.com/jobs "Demand Planner" data remote
-site:linkedin.com/jobs "Business Intelligence Analyst" supply chain remote
-site:weworkremotely.com "supply chain" analyst
-site:himalayas.app "supply chain" analyst
-site:wellfound.com "supply chain" analyst
-site:flexjobs.com/jobs "Supply Chain Analyst" remote
-"Logistics Control Tower" analyst remote job
-```
-
-**Portuguese:**
-```
-site:linkedin.com/jobs "Analista de Supply Chain" remoto
-site:linkedin.com/jobs "Analista de S&OP" remoto
-site:linkedin.com/jobs "Analista de Planejamento" demanda dados remoto
-site:linkedin.com/jobs "Analista de BI" logística remoto
-site:portal.gupy.io "Supply Chain" analista remoto
-site:portal.gupy.io "Torre de Controle" logística
-```
-
-### Priority 2: Logistics Tech & Fleet Management (Product Owner / Product Manager)
-Technical PO/PM roles in TMS, WMS, logistics cloud, fleet management, or supply chain SaaS.
-
-**English:**
-```
-site:linkedin.com/jobs "Product Owner" TMS OR WMS remote
-site:linkedin.com/jobs "Technical Product Manager" logistics remote
-site:linkedin.com/jobs "Product Manager" "fleet management" remote
-site:wellfound.com "Product Manager" logistics
-site:workatastartup.com "Product" supply chain
-site:flexjobs.com/jobs "Product Manager" remote
-```
-
-**Portuguese:**
-```
-site:linkedin.com/jobs "Product Owner" logística remoto
-site:linkedin.com/jobs "Product Manager" supply chain remoto
-site:portal.gupy.io "Product Owner" logística
-```
-
-### Priority 3: Supply Chain Leadership with Analytical Depth
-Operational leadership (Manager/Coordinator) where large-scale line experience (50+ teams, 60% of state fuel supply) is the primary requirement and data analytics provides the competitive edge.
-
-**English:**
-```
-site:linkedin.com/jobs "Supply Chain Manager" remote
-site:linkedin.com/jobs "Logistics Operations Manager" remote LATAM
-site:linkedin.com/jobs "S&OP Manager" remote
-site:wellfound.com "Operations Manager" remote
-site:flexjobs.com/jobs "Supply Chain Manager" remote
-```
-
-**Portuguese:**
-```
-site:linkedin.com/jobs "Gerente de Supply Chain" remoto
-site:linkedin.com/jobs "Coordenador de Logística" dados remoto
-site:portal.gupy.io "Gerente de Logística" remoto
-```
-
-### STRICT ANTI-PATTERN: Junior Data Analyst Roles
-**NEVER generate queries for or target Junior Data Analyst positions.** The candidate is overqualified with 15+ years of operational leadership and terminal management, creating immediate churn risk and recruiter disqualification.
+**Language scope:** Queries are generated in **English and Portuguese** (professional languages). Spanish is excluded from query generation.
 
 ---
 
-## Candidate Filters & Gate Rules
+## Query Strategy by Strategic Track
 
-### Location Filter
-- Base: **Bombinhas, Santa Catarina, Brazil** (UTC-3). Target: **fully remote roles paid in USD**.
-- **Remote:** Fully remote (global, LATAM, Brazil) = **PASS**.
-- **Santa Catarina Hybrid:** Within ~80 km of Bombinhas (Florianópolis, Itajaí, Balneário Camboriú, Navegantes) = **PASS**.
-- **Fortaleza / CE:** Hybrid or on-site in Fortaleza = **PASS** (open to relocation).
-- **Blumenau, SC:** Hybrid or on-site = **FAIL / HARD STOP** (not viable).
-- **SP, BH, Curitiba, etc.:** Hybrid or on-site = **FAIL / HARD STOP** (deal-breaker).
-- **International on-site:** Requires visa sponsorship (**FLAG**); without sponsorship = **FAIL**.
+Every query must incorporate negative keywords to eliminate noise:
+- **Global Negatives (EN):** `-junior -intern -internship -trainee -"co-founder" -unpaid -"equity only"`
+- **Global Negatives (PT):** `-junior -júnior -jr -estagio -estágio -estagiário -trainee -aprendiz -blumenau`
 
-### Compensation Filter
-- **Floor:** USD 1,600 / month (strict deal-breaker if top of range is below).
-- **Target:** USD 4,000 - 7,000 / month.
+### Track 1: Supply Chain & Physical Operations (Core Strengths)
+Capitalizes on 15+ years of operational line leadership (50+ reports, terminal operations, fuel distribution, S&OP, control tower, procurement).
 
-### Language Filter (Strict Rule)
-- Candidate declared level is **Advanced** English (recent testing returned B2; medium-term goal is C1).
-- **"Fluent", "Native", or "C1+" English required** → **FLAG** (never a silent PASS). Explicitly display the requirement alongside the candidate's declared level in triage reports.
-- **Unspecified or Working/Professional English** → **PASS**.
-- **Spanish required** → **FLAG** (elementary level; let candidate judge).
+**English (USD Remote):**
+```
+site:linkedin.com/jobs ("Supply Chain Manager" OR "Logistics Operations Manager" OR "S&OP Manager") remote LATAM -junior -intern
+site:linkedin.com/jobs ("Supply Chain Analyst" OR "S&OP Analyst" OR "Demand Planner") remote -junior -intern
+site:hirelatam.com ("Supply Chain" OR "Logistics" OR "Operations")
+site:weworkremotely.com ("supply chain" OR "logistics" OR "operations manager") -junior
+site:himalayas.app ("supply chain" OR "logistics" OR "inventory planner") -junior
+"Logistics Control Tower" analyst remote job -junior
+```
 
-### Hiring Model Reporting
-In all scraping and rank summaries, distinguish whether the posting is direct hire or through a staff augmentation agency.
+**Portuguese (BRL Remote / SC Hybrid / Fortaleza):**
+```
+site:remotar.com.br "supply chain" OR "logistica" OR "planejamento" -junior
+site:portal.gupy.io ("Gerente de Logística" OR "Gerente de Supply Chain" OR "Coordenador de Logística") remoto -junior -estagio
+site:portal.gupy.io ("Analista de Supply Chain" OR "Analista de S&OP" OR "Torre de Controle") remoto -junior -estagio
+site:linkedin.com/jobs ("Gerente de Operações" OR "Coordenador de Supply Chain") (remoto OR "Santa Catarina" OR Fortaleza) -junior -blumenau
+site:linkedin.com/jobs ("Analista de S&OP" OR "Analista de Planejamento de Demanda") remoto -junior -estagio
+```
+
+### Track 2: Logistics Tech & Data Products (Product Owner / PM / Telemetry)
+Technical PO/PM roles in TMS, WMS, fleet telematics, routing algorithms, or supply chain SaaS. Must have real operational anchor (not generic SaaS/ad-tech/retail apparel).
+
+**English (USD Remote):**
+```
+site:linkedin.com/jobs ("Product Owner" OR "Product Manager") (TMS OR WMS OR "fleet management" OR "supply chain") remote -junior
+site:himalayas.app "Product Manager" (logistics OR supply chain OR freight) -junior
+site:weworkremotely.com ("Product Manager" OR "Product Owner") logistics remote -junior
+```
+
+**Portuguese (BRL Remote):**
+```
+site:linkedin.com/jobs ("Product Owner" OR "Product Manager") (logística OR supply chain OR TMS OR WMS) remoto -junior
+site:portal.gupy.io ("Product Owner" OR "Gerente de Produto") (logística OR supply chain) remoto -junior
+```
+
+---
+
+## Anti-Patterns & Query Sanity Rules
+
+1. **NEVER use bare "Analista de Dados" or "Data Analyst":**
+   - Disastrous false positive generator. Yields entry-level BI roles with 22-year-old cohorts, ignoring 15+ years of leadership.
+   - Always anchor data roles to domain: `"Supply Chain Data Analyst"`, `"Analista de Dados Logística"`, `"S&OP Data Analyst"`.
+2. **NEVER target Junior / Trainee / Intern roles:**
+   - Explicit churn risk and immediate recruiter rejection.
+3. **NEVER target generic Ad-tech / Marketing / Consumer SaaS:**
+   - Filippe's competitive edge is heavy physical operations, bulk fuels, terminals, and asset-intensive supply chains. Roles in pure web advertising, fashion e-commerce, or crypto have low domain fit.
+
+---
+
+## Candidate Filters & Hard Gates
+
+### Gate 0: Employment & Compensation Model Gate (Hard Gate)
+- **Guaranteed Cash Income Required:** Must offer predictable salary (CLT/PJ or USD contractor rate).
+- **Hard Disqualification (FAIL):**
+  - Equity-only roles (0 base salary, options/shares only).
+  - Unfunded co-founder / venture-building tracks (e.g. EWOR, Gabb, accelerator cohorts without fixed salary).
+  - Commission-only or unpaid roles.
+
+### Gate 1: Geographic Eligibility & Presence Gate (Hard Gate)
+- **Base:** Bombinhas, SC, Brazil (UTC-3).
+- **Mandatory JD Body Text Check:** Do NOT trust platform tags ("Global Remote", "Anywhere in the world", "100% Remoto"). Check text for:
+  - `in-person`, `onsite`, `based in [City]`, `hybrid` outside SC/Fortaleza → **FAIL**.
+  - Domestic US work authorization required ("US Citizens / Green Card holders only", "Must reside in the US/UK/Ireland") → **FAIL**.
+- **Approved Locations:**
+  - Fully remote (Worldwide, LATAM, Brazil) = **PASS**.
+  - SC Hybrid (within ~80 km: Florianópolis, Itajaí, Balneário Camboriú, Navegantes) = **PASS**.
+  - Fortaleza / CE (Hybrid or On-site) = **PASS** (open to relocation).
+  - Blumenau, SC (Hybrid or On-site) = **FAIL** (commute not viable).
+  - SP, BH, Curitiba, etc. (Hybrid or On-site) = **FAIL** (requires relocation).
+
+### Gate 2: Currency & Compensation Floors
+- **USD Track:** Floor: **USD 1,600 / month** (strict veto if below); Target: **USD 4,000 - 7,000 / month**.
+- **BRL Track:** Floor: **R$ 10,000 / month CLT** or **R$ 14,000 / month PJ**; Target: **R$ 15,000 - 25,000+ / month**.
+
+### Gate 3: Language Gate
+- Candidate level: **Advanced English** (tested B2; working toward C1). Native Portuguese.
+- "Native" or "C1+ required" → **FLAG** (visible ⚠ warning, candidate decides).
+- "Professional / Working English" → **PASS**.
+- "Spanish required" → **FLAG** (elementary level).
