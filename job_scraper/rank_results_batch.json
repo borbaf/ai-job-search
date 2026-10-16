@@ -1,0 +1,247 @@
+[
+  {
+    "key": "uproot-clean_supply-chain-manager",
+    "status": "scored",
+    "scores": {
+      "technical": 92,
+      "experience": 95,
+      "behavioral": 95,
+      "career": 95
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "USD",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Total ownership of purchasing, demand planning (S&OP), and logistics coordination across multi-channel operations.",
+      "Direct alignment with 15+ years managing supplier communications, inventory health, and freight/3PLs.",
+      "Strong analytical and process-building scope tailored to candidate's operational leadership background."
+    ],
+    "gaps": [
+      "E-commerce/DTC specific terminology requires contextual framing of past retail/B2B distributor deliveries."
+    ],
+    "language": "en"
+  },
+  {
+    "key": "hirelatam_remote-operations-supply-chain-coordinator-food-cpg",
+    "status": "scored",
+    "scores": {
+      "technical": 90,
+      "experience": 95,
+      "behavioral": 92,
+      "career": 92
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "USD",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Hands-on ownership of S&OP, inventory control, reorder points, and PO lifecycle for physical products.",
+      "Direct experience managing suppliers, co-packers, and major distribution accounts with landed cost modeling.",
+      "Guaranteed monthly compensation ($1,600 - $2,080 USD) tailored for LATAM remote contractor."
+    ],
+    "gaps": [
+      "Targeted slightly below senior executive level (coordinator/manager individual contributor), but perfectly meets USD compensation floor."
+    ],
+    "language": "en"
+  },
+  {
+    "key": "solar-coca-cola_analista-de-planejamento-logistico-iii-s-op",
+    "status": "scored",
+    "scores": {
+      "technical": 96,
+      "experience": 98,
+      "behavioral": 95,
+      "career": 95
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Direct match in S&OP demand volume analysis, risk identification, and cross-functional commercial alignment.",
+      "Core requirements match candidate's exact stack: Advanced Excel, Power BI, and SAP ERP workflow.",
+      "Location in Fortaleza, CE matches candidate's explicit relocation target."
+    ],
+    "gaps": [
+      "Position title is Senior Analyst (Nível III); candidate has Superintendent/Manager leadership background, requiring overqualification management."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "sumitomo-chemical-latin-america_analista-de-supply-chain-senior",
+    "status": "scored",
+    "scores": {
+      "technical": 94,
+      "experience": 95,
+      "behavioral": 90,
+      "career": 92
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "MRP execution, inventory policies (FEFO, SLOBs, MOQ), and supplier strategic coordination.",
+      "International interaction (LATAM inputs, Asia/Japan desk) matching candidate's multinational experience.",
+      "Located in Maracanaú, CE (Fortaleza metropolitan area), directly viable."
+    ],
+    "gaps": [
+      "Requires Protheus ERP familiarity (candidate's core is SAP PM/MM, though ERP principles directly transfer)."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "https://remotar.com.br/job/165388",
+    "status": "scored",
+    "scores": {
+      "technical": 92,
+      "experience": 92,
+      "behavioral": 90,
+      "career": 90
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Deep practical domain expertise in SAP MM, inventory management, and Procure-to-Pay (P2P/S2P).",
+      "100% remote PJ contract matching compensation expectations.",
+      "Global project exposure aligning with candidate's international background."
+    ],
+    "gaps": [
+      "Requires deep custom ABAP troubleshooting/Z-object specifications; candidate is functional power-user/superintendent rather than pure technical SAP programmer."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "vibra_analista-de-planejamento-supply-chain-sr",
+    "status": "scored",
+    "scores": {
+      "technical": 95,
+      "experience": 98,
+      "behavioral": 80,
+      "career": 80
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "13+ years direct leadership experience at Vibra Energia in fuel supply planning, terminal tankage, and S&OP.",
+      "Identical operational stack: S&OP/S&OE, Power BI, Excel, inventory policies."
+    ],
+    "gaps": [
+      "Requires regular presence / hybrid contract in Rio de Janeiro, RJ (outside SC/Fortaleza hubs)."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "sensorweb_analista-de-suprimentos-sc",
+    "status": "scored",
+    "scores": {
+      "technical": 82,
+      "experience": 85,
+      "behavioral": 85,
+      "career": 80
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Location in Florianópolis, SC falls directly into the Santa Catarina regional target hub (~80km).",
+      "Material planning, inventory control, and purchasing alignment."
+    ],
+    "gaps": [
+      "Position scope leans towards junior-to-mid operational warehouse & supplies analyst rather than strategic management."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "gruns_bizops-manager-supply-chain",
+    "status": "scored",
+    "scores": {
+      "technical": 88,
+      "experience": 88,
+      "behavioral": 90,
+      "career": 90
+    },
+    "track": "Track 2: Logistics Tech & Data Products",
+    "currency_track": "USD",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Owns S&OP, variance analyses, and COGS/capacity forecasting with high executive visibility.",
+      "Matches candidate's analytical layer (SQL, Google Cloud/GCP certified, dashboarding).",
+      "Outstanding USD compensation ($140k-$160k/yr) in a fully remote setup."
+    ],
+    "gaps": [
+      "Requires high-velocity US startup tech culture and investment banking/consulting analytics style."
+    ],
+    "language": "en"
+  },
+  {
+    "key": "hirelatam_remote-senior-operations-manager-legal-support-services",
+    "status": "scored",
+    "scores": {
+      "technical": 80,
+      "experience": 88,
+      "behavioral": 90,
+      "career": 85
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "USD",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Direct ownership of operational lifecycle, SLAs, network management, and AR billing oversight.",
+      "Guaranteed $3,000 USD/month compensation for Latin American remote professional."
+    ],
+    "gaps": [
+      "Legal support/process serving domain is service-oriented rather than asset-heavy supply chain."
+    ],
+    "language": "en"
+  },
+  {
+    "key": "solvo-global_operations-manager",
+    "status": "scored",
+    "scores": {
+      "technical": 75,
+      "experience": 80,
+      "behavioral": 75,
+      "career": 70
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "USD",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Operational leadership, continuous improvement (Lean Six Sigma), and KPI monitoring."
+    ],
+    "gaps": [
+      "On-site presence required in Bogota D.C., Colombia (Gate 1 FAIL)."
+    ],
+    "language": "en"
+  }
+]

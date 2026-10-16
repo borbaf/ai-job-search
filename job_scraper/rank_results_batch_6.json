@@ -1,0 +1,540 @@
+[
+  {
+    "key": "h2m-embalagens_gerente-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 92,
+      "experience": 94,
+      "behavioral": 90,
+      "career": 92
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Gestão completa de recebimento, armazenagem, inventários rotativos, expedição e transporte.",
+      "Roteirização, negociação de fretes, controle de custos por tonelada e modelagem de KPIs (OTIF, acuracidade)."
+    ],
+    "gaps": [
+      "Contratação PJ; local da sede/fábrica omitido no anúncio Catho (a validar com recrutador)."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "jcho-factory_gerente-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 85,
+      "experience": 86,
+      "behavioral": 84,
+      "career": 85
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Gestão de armazenagem e distribuição em indústria de transformação plástica.",
+      "Estratégias de redução de custos logísticos e liderança de equipe de armazém."
+    ],
+    "gaps": [
+      "Local de trabalho a confirmar com RH."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "apn-consultoria-de-rh_gerente-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 86,
+      "experience": 87,
+      "behavioral": 85,
+      "career": 86
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Gerência de CD e abastecimento de lojas."
+    ],
+    "gaps": [
+      "Gate 1 FAIL: Vaga expressamente 100% presencial em Sinop/MT (fora do polo Bombinhas/SC e Fortaleza/CE)."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "analitic_gerente-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 85,
+      "experience": 86,
+      "behavioral": 84,
+      "career": 85
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Coordenação de recebimento, armazenagem, inventários e gestão de transportadoras parceiras."
+    ],
+    "gaps": [
+      "Local da unidade de distribuição não divulgado."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "carajas-home-center_gerente-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 86,
+      "experience": 86,
+      "behavioral": 84,
+      "career": 84
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Gerenciamento completo de CD para grande rede de varejo home center.",
+      "Abastecimento de lojas, recepção de carretas, armazenagem e expedição ao cliente final."
+    ],
+    "gaps": [
+      "Forte foco no modelo de varejo físico e abastecimento de lojas."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "unknown-company_gerente-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 80,
+      "experience": 80,
+      "behavioral": 80,
+      "career": 80
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Gerenciamento de armazém, conferência e indicadores."
+    ],
+    "gaps": [
+      "Anúncio de empresa oculta."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "licitapharma-distribuidora_gerente-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 88,
+      "experience": 88,
+      "behavioral": 85,
+      "career": 87
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Gestão de armazenagem, expedição e last-mile voltada a e-commerce e setor farmacêutico/hospitalar.",
+      "Controle rígido de acuracidade e lead time."
+    ],
+    "gaps": [
+      "Ambiente com especificidades regulatórias hospitalares/distribuidora."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "empresa-confidencial_gerente-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 85,
+      "experience": 86,
+      "behavioral": 84,
+      "career": 85
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Liderança de operações de armazenagem, estoques, transportes e atendimento."
+    ],
+    "gaps": [
+      "Anúncio anônimo sem localização explícita."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "melbras_gerente-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 90,
+      "experience": 92,
+      "behavioral": 88,
+      "career": 90
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Gestão integrada de frota própria e transportadores terceiros.",
+      "Integração direta entre Logística, Produção, Compras e Comercial com acompanhamento de metas."
+    ],
+    "gaps": [
+      "Localidade não informada no anúncio Catho."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "randstad-sp_gerente-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 90,
+      "experience": 91,
+      "behavioral": 89,
+      "career": 90
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Gerência de Operações no Mercado Envios / Mercado Livre."
+    ],
+    "gaps": [
+      "Gate 1 FAIL: Exigência expressa de atuação 100% presencial em São Paulo / Cajamar."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "pillowtex_gerente-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 82,
+      "experience": 84,
+      "behavioral": 80,
+      "career": 82
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Supervisão de equipe de estoque (15 pessoas) e distribuição têxtil."
+    ],
+    "gaps": [
+      "Escopo operacional de porte intermediário/médio."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "construtora_coordenador-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 82,
+      "experience": 83,
+      "behavioral": 81,
+      "career": 82
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Logística de suprimentos e materiais para obras, gestão de veículos e almoxarifado."
+    ],
+    "gaps": [
+      "Segmento de engenharia civil/construção pesada."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "conexao-mao-de-obra-temporaria_coordenador-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 78,
+      "experience": 78,
+      "behavioral": 78,
+      "career": 78
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Gestão de fluxo de materiais e estoques."
+    ],
+    "gaps": [
+      "Contrato temporário intermediado por agência."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "empresa-confidencial_coordenador-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 83,
+      "experience": 84,
+      "behavioral": 82,
+      "career": 83
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Coordenação de rotinas operacionais de CD, expedição e estoques."
+    ],
+    "gaps": [
+      "Anúncio confidencial sem detalhes adicionais."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "mello-transportes_coordenador-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 88,
+      "experience": 90,
+      "behavioral": 86,
+      "career": 88
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Liderança de monitoramento de entregas, torre de controle e customer service logístico.",
+      "Acompanhamento em tempo real de KPIs de entrega e gestão de ocorrências de transporte."
+    ],
+    "gaps": [
+      "Foco pronunciado em monitoramento e atendimento a embarcadores."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "grupo-soma-hospitalar_coordenador-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 84,
+      "experience": 85,
+      "behavioral": 83,
+      "career": 84
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Coordenação logística de distribuição médico-hospitalar."
+    ],
+    "gaps": [
+      "Gate 1 FAIL: Exigência presencial em Mauá/SP (ABC Paulista)."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "timecerto-recursos-humanos-ltda_coordenador-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 80,
+      "experience": 81,
+      "behavioral": 80,
+      "career": 79
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Coordenação logística em processos de CD e transporte."
+    ],
+    "gaps": [
+      "Vaga intermediada por consultoria RH."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "farinorte_coordenador-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 86,
+      "experience": 88,
+      "behavioral": 84,
+      "career": 86
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Gestão direta de frota de 30 veículos e equipe robusta de 70 colaboradores.",
+      "Controle de custos de manutenção, diesel, pneus e produtividade operacional."
+    ],
+    "gaps": [
+      "Perfil intensivo em manutenção de frota e oficina mecânica própria."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "j-t-express-brasil_coordenador-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 90,
+      "experience": 90,
+      "behavioral": 88,
+      "career": 88
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Coordenação de operações last mile e centro de distribuição em multinacional express.",
+      "Gestão de rotas, distribuição regional e SLA de entrega."
+    ],
+    "gaps": [
+      "Exige veículo próprio para deslocamentos na região de atuação."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "gigroup_coordenador-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 84,
+      "experience": 85,
+      "behavioral": 83,
+      "career": 84
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Gestão integral de Ponto de Apoio e Distribuição (PAD) regional com foco em entrega e avarias."
+    ],
+    "gaps": [
+      "Consultoria Gi Group; polo regional não detalhado."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "rhadar-recursos-humanos_supervisor-a-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 82,
+      "experience": 83,
+      "behavioral": 81,
+      "career": 82
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Supervisão de operações de armazém e logística."
+    ],
+    "gaps": [
+      "Gate 1 FAIL: Atuação presencial obrigatória em Guarulhos/SP."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "pena-e-meneghitti_gerente-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 76,
+      "experience": 77,
+      "behavioral": 75,
+      "career": 76
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Supervisão de armazenagem, rotas e compras."
+    ],
+    "gaps": [
+      "Foco voltado a micro e pequenas empresas com escopo operacional restrito."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "jadlog_gerente-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 88,
+      "experience": 90,
+      "behavioral": 86,
+      "career": 88
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Gestão de malha e operações em um dos maiores operadores express/encomendas do país.",
+      "Otimização de fluxos de transporte, negociação com parceiros e melhoria contínua."
+    ],
+    "gaps": [
+      "Localidade da base operacional não especificada na listagem Catho."
+    ],
+    "language": "pt"
+  }
+]

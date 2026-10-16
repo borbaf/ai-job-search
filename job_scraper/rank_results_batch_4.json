@@ -1,0 +1,243 @@
+[
+  {
+    "key": "j-t-express-brasil_coordenador-a-de-logistica-coleta-e-entrega",
+    "status": "scored",
+    "scores": {
+      "technical": 88,
+      "experience": 92,
+      "behavioral": 90,
+      "career": 88
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Localização direta em Blumenau/SC (dentro do raio de deslocamento do polo catarinense).",
+      "Coordenação de operações de última milha (coleta e entrega), gestão de transportadoras, parceiros e equipe operacional.",
+      "Alto alinhamento com a sólida experiência de liderança de frota e logística regional do candidato."
+    ],
+    "gaps": [
+      "Foco acentuado em rotina de armazém/distribuição expressa, com menor componente de S&OP de longo prazo."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "mercado-livre-brasil_lider-de-equipe-logistica-mercado-envios",
+    "status": "scored",
+    "scores": {
+      "technical": 88,
+      "experience": 90,
+      "behavioral": 88,
+      "career": 86
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Operação no Centro de Distribuição do Mercado Livre em Itaitinga/CE (região metropolitana de Fortaleza).",
+      "Liderança de turnos logísticos, produtividade horária, expedição e padrões mundiais de logística e-commerce."
+    ],
+    "gaps": [
+      "Liderança direta em turnos operacionais (noite/madrugada ou finais de semana típicos de centros logísticos MELI)."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "jobbol_analista-de-logistica-senior",
+    "status": "scored",
+    "scores": {
+      "technical": 84,
+      "experience": 88,
+      "behavioral": 85,
+      "career": 82
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Posição sênior de logística localizada em Fortaleza/CE.",
+      "Planejamento de rotas, controle de fretes, acompanhamento de indicadores e nível de serviço ao cliente."
+    ],
+    "gaps": [
+      "Anúncio via consultoria/agregador de recrutamento (Jobbol); requer mapeamento da empresa contratante final."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "dominalog-express_analista-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 82,
+      "experience": 85,
+      "behavioral": 82,
+      "career": 80
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Operação de transportes e logística em Maracanaú/CE (polo industrial cearense).",
+      "Monitoramento de viagens, SLA de entrega, gestão de motoristas agregados e ocorrências de transporte."
+    ],
+    "gaps": [
+      "Nível analista com atuação tática de torre de controle e tráfego."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "grupo-meia-sola_analista-de-logistica-pleno",
+    "status": "scored",
+    "scores": {
+      "technical": 78,
+      "experience": 80,
+      "behavioral": 80,
+      "career": 75
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Rede de varejo de calçados/moda com base em Fortaleza/CE.",
+      "Abastecimento de lojas, conferência e controle de estoque de produtos acabados."
+    ],
+    "gaps": [
+      "Nível pleno com escopo abaixo da senioridade gerencial do candidato."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "grupo-matmed-hospitalar_analista-de-logistica",
+    "status": "scored",
+    "scores": {
+      "technical": 78,
+      "experience": 80,
+      "behavioral": 80,
+      "career": 75
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Distribuição hospitalar e farmacêutica baseada em Fortaleza/CE.",
+      "Controle de temperatura, rastreabilidade e acuracidade de estoque de insumos hospitalares."
+    ],
+    "gaps": [
+      "Nível analista generalista com menor escopo estratégico."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "nstech_analista-de-projetos-senior",
+    "status": "scored",
+    "scores": {
+      "technical": 86,
+      "experience": 88,
+      "behavioral": 88,
+      "career": 88
+    },
+    "track": "Track 2: Digital Operations / BizOps",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "100% Remoto na maior holding de tecnologia para logística da América Latina (nstech).",
+      "Gestão de projetos estratégicos de implantação de software logístico (TMS, torre de controle, roteirizadores).",
+      "Sinergia total com a bagagem de implementação de tecnologia operacional do candidato."
+    ],
+    "gaps": [
+      "Papel focado em gestão de projetos/consultoria de implantação em vez de liderança da operação física direta."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "ifood_staff-data-scientist-logistics-intelligence",
+    "status": "scored",
+    "scores": {
+      "technical": 70,
+      "experience": 75,
+      "behavioral": 80,
+      "career": 72
+    },
+    "track": "Track 2: Digital Operations / BizOps",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "100% Remoto no iFood na equipe de Logistics Intelligence.",
+      "Desenho de modelos de roteirização, matching dinâmico e otimização de malha logística."
+    ],
+    "gaps": [
+      "Nível Staff Data Scientist exige histórico avançado de codificação de Machine Learning (Python científico, modelagem matemática estocástica), distante do perfil de liderança de negócios/operações."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "projectiva-holding_product-owner-e-commerce-e-b2b",
+    "status": "scored",
+    "scores": {
+      "technical": 78,
+      "experience": 80,
+      "behavioral": 82,
+      "career": 78
+    },
+    "track": "Track 2: Digital Operations / BizOps",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "100% Remoto atuando como Product Owner para plataformas B2B e e-commerce.",
+      "Visão de jornada de checkout, integração com ERP/WMS e regras de negócio logísticas."
+    ],
+    "gaps": [
+      "Escopo prioritariamente de produto digital/squads ágeis de TI, com menor ênfase em gestão de cadeia física."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "seazone_analista-de-performance-comunicacao-e-eventos-presencial-flo-9f055b",
+    "status": "scored",
+    "scores": {
+      "technical": 50,
+      "experience": 55,
+      "behavioral": 70,
+      "career": 50
+    },
+    "track": "Track 2: Digital Operations / BizOps",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Localizado presencialmente em Florianópolis/SC (região de proximidade viável de Santa Catarina)."
+    ],
+    "gaps": [
+      "Foco estrito em comunicação institucional, endomarketing e eventos, totalmente fora do eixo de operações e supply chain."
+    ],
+    "language": "pt"
+  }
+]

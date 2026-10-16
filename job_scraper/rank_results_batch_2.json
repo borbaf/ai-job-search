@@ -1,0 +1,247 @@
+[
+  {
+    "key": "kc-power-clean_fulfillment-operations-manager",
+    "status": "scored",
+    "scores": {
+      "technical": 88,
+      "experience": 92,
+      "behavioral": 90,
+      "career": 88
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "USD",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "100% remote leadership overseeing scheduling, dispatch, job coordination, and capacity planning for field services.",
+      "Direct ownership of capacity models, labor efficiency, recovery of disrupted days, and end-to-end fulfillment metrics.",
+      "Matches 15+ years of operational team leadership, KPI accountability, and workflow automation (Zapier, spreadsheets, AI tools)."
+    ],
+    "gaps": [
+      "Field cleaning and restoration service context rather than manufacturing or multinational logistics, but operational mechanics (dispatch, capacity, field service) are identical."
+    ],
+    "language": "en"
+  },
+  {
+    "key": "amplitude_legal-operations-manager",
+    "status": "scored",
+    "scores": {
+      "technical": 65,
+      "experience": 72,
+      "behavioral": 80,
+      "career": 70
+    },
+    "track": "Track 2: Digital Operations / BizOps",
+    "currency_track": "USD",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Global remote SaaS company with modern tech stack and operational governance processes.",
+      "Strong process design, contract workflow automation, and cross-functional stakeholder alignment."
+    ],
+    "gaps": [
+      "Pure legal tech and CLM/Ironclad administration without supply chain, inventory, or physical logistics touchpoints.",
+      "Heavy domain deviation from candidate's core physical supply chain and S&OP excellence."
+    ],
+    "language": "en"
+  },
+  {
+    "key": "motive_campaign-operations-manager-individual-contributor",
+    "status": "scored",
+    "scores": {
+      "technical": 60,
+      "experience": 68,
+      "behavioral": 75,
+      "career": 65
+    },
+    "track": "Track 2: Digital Operations / BizOps",
+    "currency_track": "USD",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Motive operates in fleet management, telematics, and logistics operations tech.",
+      "Marketing automation and cross-functional operations systems architecture."
+    ],
+    "gaps": [
+      "Gate 1 FAIL: Explicitly marked 'This is a remote USA role' requiring US work authorization.",
+      "Marketing operations (Marketo, SFDC campaign execution) is outside core supply chain scope."
+    ],
+    "language": "en"
+  },
+  {
+    "key": "grupo-boticario_gerente-planejamento-de-demanda",
+    "status": "scored",
+    "scores": {
+      "technical": 94,
+      "experience": 95,
+      "behavioral": 90,
+      "career": 92
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Demand Planning leadership at top-tier Brazilian cosmetics manufacturer and retail giant (Grupo Boticário).",
+      "Exact match with candidate's S&OP, forecasting, statistical modeling, and inventory optimization competencies."
+    ],
+    "gaps": [
+      "Gate 1 FAIL: Base located in São José dos Pinhais/PR (on-site/hybrid beyond the 80km Bombinhas/SC commuting hub)."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "praso_sales-and-operations-planning-s-op",
+    "status": "scored",
+    "scores": {
+      "technical": 95,
+      "experience": 95,
+      "behavioral": 92,
+      "career": 94
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Pure S&OP ownership for Praso (high-growth B2B retail/distribution startup backed by major VCs).",
+      "Direct responsibility for supply & demand balancing, commercial alignment, supplier replenishment, and inventory turns.",
+      "Northeast hub operations matching candidate's Fortaleza/Nordeste regional footprint and open relocation track."
+    ],
+    "gaps": [
+      "Fast-paced startup environment requiring rapid tactical execution alongside strategic S&OP structure."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "pado-s-a_gerente-de-supply-chain",
+    "status": "scored",
+    "scores": {
+      "technical": 92,
+      "experience": 95,
+      "behavioral": 88,
+      "career": 90
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Complete Supply Chain leadership (procurement, planning, warehouse, distribution) for major industrial leader (PADO).",
+      "Strong match with candidate's end-to-end industrial logistics and inventory control experience."
+    ],
+    "gaps": [
+      "Gate 1 FAIL: Located in Cambé/PR (inland Paraná, far outside Bombinhas/SC and Fortaleza/CE viability)."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "ecorh-consultoria_gerente-de-supply-chain",
+    "status": "scored",
+    "scores": {
+      "technical": 90,
+      "experience": 92,
+      "behavioral": 85,
+      "career": 88
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Executive management of supply chain operations, logistics network, and supplier contracting.",
+      "Strong alignment with industrial supply chain frameworks."
+    ],
+    "gaps": [
+      "Gate 1 FAIL: Located in Guaxupé/MG (on-site industrial plant in Minas Gerais, incompatible with candidate base)."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "barry-callebaut-group_supply-chain-manager",
+    "status": "scored",
+    "scores": {
+      "technical": 94,
+      "experience": 96,
+      "behavioral": 90,
+      "career": 92
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Multinational food processing giant (Barry Callebaut) managing complex perishable/commodity supply chains.",
+      "High overlap with global supply chain governance, S&OP, and export/import logistics."
+    ],
+    "gaps": [
+      "Gate 1 FAIL: Plant based on-site in Itabuna/BA (southern Bahia cocoa plant, outside hub constraints)."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "stanley-black-decker-inc_gerente-supply-chain",
+    "status": "scored",
+    "scores": {
+      "technical": 94,
+      "experience": 95,
+      "behavioral": 90,
+      "career": 92
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Global tool and industrial manufacturing powerhouse (Stanley Black & Decker).",
+      "End-to-end plant supply chain management, inventory turnover, Lean manufacturing integration."
+    ],
+    "gaps": [
+      "Gate 1 FAIL: On-site plant based in Carlos Barbosa/RS (Serra Gaúcha, outside viable commuting zones)."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "estrat-recrutamento-assertivo-e-estrateg-f47035_gerente-de-supply-chain",
+    "status": "scored",
+    "scores": {
+      "technical": 92,
+      "experience": 94,
+      "behavioral": 90,
+      "career": 90
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Senior PJ contract role for comprehensive Supply Chain management (Commercial, Compras, Operações e Financeiro integration).",
+      "Direct focus on inventory coverage, safety stocks, S&OP governance, and inbound/outbound logistics.",
+      "Open to remote/consultancy contract arrangements under PJ modality."
+    ],
+    "gaps": [
+      "Location not explicitly specified on listing; flagged to verify remote viability during initial headhunter contact."
+    ],
+    "language": "pt"
+  }
+]

@@ -1,0 +1,241 @@
+[
+  {
+    "key": "ambev_logistica-supervisor-supervisora-de-distribuicao-cdd-fortale-68cc56",
+    "status": "scored",
+    "scores": {
+      "technical": 85,
+      "experience": 90,
+      "behavioral": 88,
+      "career": 85
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Supervisão de distribuição e logística de CDD em Fortaleza/CE (Ambev), alinhado com abertura a relocalização para o Ceará.",
+      "Gestão de equipes operacionais de rota, frota, SLAs de entrega urbana e rotinas operacionais rigorosas.",
+      "Excelente sinergia com a sólida experiência de liderança de campo e transporte do candidato."
+    ],
+    "gaps": [
+      "Operação de CDD de bebidas é intensiva em chão de fábrica/armazém em turnos, com menor componente de S&OP analítico."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "locmed-hospitalar_analista-de-logistica-frota-fortaleza",
+    "status": "scored",
+    "scores": {
+      "technical": 80,
+      "experience": 85,
+      "behavioral": 82,
+      "career": 78
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Localização direta em Fortaleza/CE com foco em gestão de frotas e distribuição hospitalar.",
+      "Domínio de roteirização, manutenção e indicadores operacionais de logística."
+    ],
+    "gaps": [
+      "Nível analista com foco estrito em frotas, abaixo do patamar de liderança gerencial/coordenação do candidato."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "baly-do-brasil_supervisor-de-supply-chain",
+    "status": "scored",
+    "scores": {
+      "technical": 94,
+      "experience": 94,
+      "behavioral": 88,
+      "career": 70
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Sede da Baly Brasil em Santa Catarina (Tubarão/SC), cobrindo S&OP integrado, compras, planejamento de produção e estoques.",
+      "Escopo técnico perfeito: PCP, estoques de segurança, giro, ruptura, ERP e Power BI."
+    ],
+    "gaps": [
+      "Faixa salarial listada na Catho (R$ 7.500 PJ) está abaixo do piso financeiro formal (R$ 14.000 PJ / R$ 10.000 CLT)."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "argos-global-partner-services_analista-de-supply-chain",
+    "status": "scored",
+    "scores": {
+      "technical": 82,
+      "experience": 85,
+      "behavioral": 82,
+      "career": 75
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Operação de supply chain gerenciado internacional/nacional com interlocução em inglês.",
+      "Gestão de OCs, fornecedores, ASN, armazéns terceiros e rotinas operacionais de comércio exterior."
+    ],
+    "gaps": [
+      "Vaga declara expressamente não envolver negociação estratégica nem sourcing ('atuação puramente operacional de execução').",
+      "Modelo híbrido sem cidade especificada (necessita validação de hub)."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "empresa-confidencial_gerente-de-supply-chain",
+    "status": "scored",
+    "scores": {
+      "technical": 90,
+      "experience": 92,
+      "behavioral": 85,
+      "career": 88
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Gerência sênior de Supply Chain com foco estratégico em planejamento, compras e logística integrada."
+    ],
+    "gaps": [
+      "Gate 1 FAIL: Vaga descrita explicitamente como presencial na região de Alphaville (Barueri/SP)."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "enviame_customer-success-senior",
+    "status": "scored",
+    "scores": {
+      "technical": 72,
+      "experience": 78,
+      "behavioral": 80,
+      "career": 70
+    },
+    "track": "Track 2: Digital Operations / BizOps",
+    "currency_track": "USD",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Logitech / SaaS de logística (Envíame) integrando OMS, WMS e transportadoras.",
+      "Customer Success analítico com dashboards (Looker Studio, Power BI)."
+    ],
+    "gaps": [
+      "Gate 1 FAIL: Exige expressamente residência na Cidade do México e visitas presenciais a clientes locais."
+    ],
+    "language": "es"
+  },
+  {
+    "key": "bc-tecnologia_coordinador-a-de-eventos-y-actividades-de-campus",
+    "status": "scored",
+    "scores": {
+      "technical": 40,
+      "experience": 45,
+      "behavioral": 60,
+      "career": 40
+    },
+    "track": "Track 2: Digital Operations / BizOps",
+    "currency_track": "USD",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Coordenação de eventos educacionais corporativos."
+    ],
+    "gaps": [
+      "Gate 1 FAIL: Presencial em Santiago, Chile.",
+      "Total desalinhamento com perfil e escopo de supply chain/operações analíticas."
+    ],
+    "language": "es"
+  },
+  {
+    "key": "stanley-black-decker_sales-order-management-som-analyst-retail",
+    "status": "scored",
+    "scores": {
+      "technical": 78,
+      "experience": 82,
+      "behavioral": 80,
+      "career": 75
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "USD",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Ordem de pedidos de varejo e suporte operacional a supply chain global."
+    ],
+    "gaps": [
+      "Gate 1 FAIL: Base contratual e residência obrigatória no Canadá."
+    ],
+    "language": "en"
+  },
+  {
+    "key": "izenso_kinaxis-rapid-response-architect",
+    "status": "scored",
+    "scores": {
+      "technical": 80,
+      "experience": 85,
+      "behavioral": 80,
+      "career": 75
+    },
+    "track": "Track 2: Digital Operations / BizOps",
+    "currency_track": "USD",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Arquitetura de soluções avançadas em Kinaxis RapidResponse (S&OP e Supply Chain Planning global)."
+    ],
+    "gaps": [
+      "Gate 1 FAIL: Destinado a consultores autorizados nos Estados Unidos (US Remote).",
+      "Requer histórico profundo de implementação técnica de código Kinaxis além da liderança funcional."
+    ],
+    "language": "en"
+  },
+  {
+    "key": "zipline_aviation-compliance-analyst-africa",
+    "status": "scored",
+    "scores": {
+      "technical": 55,
+      "experience": 60,
+      "behavioral": 70,
+      "career": 55
+    },
+    "track": "Track 2: Digital Operations / BizOps",
+    "currency_track": "USD",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Logística autônoma de drones de alta tecnologia (Zipline)."
+    ],
+    "gaps": [
+      "Gate 1 FAIL: Vaga baseada presencialmente na Nigéria/África para conformidade aeronáutica local."
+    ],
+    "language": "en"
+  }
+]

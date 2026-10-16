@@ -1,0 +1,238 @@
+[
+  {
+    "key": "fastenal-brasil_supply-chain-manager",
+    "status": "scored",
+    "scores": {
+      "technical": 92,
+      "experience": 95,
+      "behavioral": 92,
+      "career": 92
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Liderança regional de Supply Chain para operações da Fastenal na América do Sul e Central (Brasil, Chile, Panamá).",
+      "Strategic sourcing, desenvolvimento de fornecedores, analytics de aquisições e margem, integração comercial e operacional.",
+      "Excelente sinergia com o perfil analítico, governança internacional e domínio de idiomas do candidato."
+    ],
+    "gaps": [
+      "Abrangência regional multi-país pode exigir viagens pontuais a centros de distribuição na América Latina."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "cn-gestao_gerente-de-supply-chain",
+    "status": "scored",
+    "scores": {
+      "technical": 92,
+      "experience": 94,
+      "behavioral": 88,
+      "career": 90
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Integração ponta a ponta: Planejamento, PCP, Compras, Estoques, Armazenagem, Transportes e Distribuição.",
+      "Foco em previsibilidade operacional, controle de custos, KPIs de nível de serviço e desenvolvimento de lideranças operacionais."
+    ],
+    "gaps": [
+      "Localidade não discriminada no anúncio (consultoria de recrutamento CN Gestão); requer validação de polo de atuação."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "bz-automotive_analista-de-supply-chain",
+    "status": "scored",
+    "scores": {
+      "technical": 88,
+      "experience": 90,
+      "behavioral": 85,
+      "career": 84
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Planejamento de demanda e materiais, projeção de compras, cálculo de estoques de segurança, giro e cobertura.",
+      "Forte aderência com ferramentas de BI, ERP/MRP e vivência em autopeças/manufatura."
+    ],
+    "gaps": [
+      "Posição sênior/analista especializada em demanda/compras; localidade não declarada."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "qualimpel-industria-quimica_coordenador-de-supply-chain",
+    "status": "scored",
+    "scores": {
+      "technical": 90,
+      "experience": 92,
+      "behavioral": 85,
+      "career": 88
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Coordenação de Compras, PCP, Estoques, Logística e Expedição em indústria química/bens de consumo.",
+      "Elaboração do Plano Mestre de Produção, políticas de estoque e negociações estratégicas de frete/matéria-prima."
+    ],
+    "gaps": [
+      "Exige atuação presencial em fábrica, com polo industrial a ser confirmado junto ao RH."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "umana-brasil_analista-de-supply-chain",
+    "status": "scored",
+    "scores": {
+      "technical": 84,
+      "experience": 86,
+      "behavioral": 82,
+      "career": 80
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Análise aprofundada de indicadores de desempenho de estoque: giro, cobertura, obsolescência e acuracidade.",
+      "Elaboração de relatórios executivos para diretoria."
+    ],
+    "gaps": [
+      "Papel analítico pleno/sênior contratado via consultoria Umana Brasil."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "empresa-confidencial_supply-chain-manager",
+    "status": "scored",
+    "scores": {
+      "technical": 90,
+      "experience": 92,
+      "behavioral": 86,
+      "career": 88
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Gestão de compras, planejamento de estoques e armazenagem com visão estratégica de cadeia de suprimentos."
+    ],
+    "gaps": [
+      "Anúncio confidencial sem cidade informada."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "pet-mania_gerente-de-supply-chain",
+    "status": "scored",
+    "scores": {
+      "technical": 88,
+      "experience": 90,
+      "behavioral": 82,
+      "career": 85
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Gestão de Supply Chain em fábrica de pet food."
+    ],
+    "gaps": [
+      "Gate 1 FAIL: Fábrica localizada presencialmente em Jundiaí/SP (fora do hub catarinense e de Fortaleza)."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "confidencial_head-supply-chain",
+    "status": "scored",
+    "scores": {
+      "technical": 88,
+      "experience": 90,
+      "behavioral": 82,
+      "career": 85
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Head de Supply Chain em food service com reporte direto a C-Level (COO/CFO)."
+    ],
+    "gaps": [
+      "Gate 1 FAIL: Exigência expressa de atuação 100% presencial em São Paulo/SP."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "empresa-confidencial_analista-de-supply-chain",
+    "status": "scored",
+    "scores": {
+      "technical": 80,
+      "experience": 82,
+      "behavioral": 80,
+      "career": 78
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Posição no Grupo Atlas Copco focada em planejamento de suprimentos."
+    ],
+    "gaps": [
+      "Gate 1 FAIL: Vaga temporária presencial com atuação em São Paulo/SP."
+    ],
+    "language": "pt"
+  },
+  {
+    "key": "adecco-matriz_analista-de-supply-chain",
+    "status": "scored",
+    "scores": {
+      "technical": 80,
+      "experience": 82,
+      "behavioral": 80,
+      "career": 76
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Desenvolvimento de fornecedores e rotinas de compras industriais via Adecco."
+    ],
+    "gaps": [
+      "Localidade não discriminada no anúncio da Catho."
+    ],
+    "language": "pt"
+  }
+]
