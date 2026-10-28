@@ -64,10 +64,16 @@ queries = [
     ("linkedin", 'bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "Supply Chain" -l "Fortaleza, Ceara, Brazil" --format json'),
     ("linkedin", 'bun run .agents/skills/linkedin-search/cli/src/cli.ts search -q "Logistica" -l "Fortaleza, Ceara, Brazil" --format json'),
 
-    # Catho
-    ("catho", 'bun run .agents/skills/catho-search/cli/src/cli.ts search --query "Supply Chain" --format json'),
-    ("catho", 'bun run .agents/skills/catho-search/cli/src/cli.ts search --query "Gerente Logistica" --format json'),
-    ("catho", 'bun run .agents/skills/catho-search/cli/src/cli.ts search --query "Coordenador Logistica" --format json'),
+    # Catho (Desativado conforme diretriz)
+    # ("catho", 'bun run .agents/skills/catho-search/cli/src/cli.ts search --query "Supply Chain" --format json'),
+    # ("catho", 'bun run .agents/skills/catho-search/cli/src/cli.ts search --query "Gerente Logistica" --format json'),
+    # ("catho", 'bun run .agents/skills/catho-search/cli/src/cli.ts search --query "Coordenador Logistica" --format json'),
+
+    # InHire (nstech, Mottu, Wilson Sons, Deloitte, Autoglass, etc.)
+    ("inhire", 'bun run .agents/skills/inhire-search/cli/src/cli.ts search --query "Supply Chain" --format json'),
+    ("inhire", 'bun run .agents/skills/inhire-search/cli/src/cli.ts search --query "Logistica" --format json'),
+    ("inhire", 'bun run .agents/skills/inhire-search/cli/src/cli.ts search --query "Operacoes" --format json'),
+    ("inhire", 'bun run .agents/skills/inhire-search/cli/src/cli.ts search --query "Planejamento" --format json'),
 
     # Infojobs
     ("infojobs", 'bun run .agents/skills/infojobs-search/cli/src/cli.ts search --query "Supply Chain" --format json'),

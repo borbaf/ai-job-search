@@ -22,14 +22,16 @@ High-volume global boards where postings **must be strictly gated against the JD
 - **Wellfound** (`wellfound.com`) — Startup ecosystem. Highest divergence: platform tags "Global Remote" on in-person NYC/SF or unfunded co-founder roles. Hard gate on JD body text required.
 
 ### Tier 3: Brazilian National Platforms & Curated Communities
-- **Gupy** (`portal.gupy.io` / `gupy-search` CLI) — Dominant Brazilian ATS. High volume for domestic S&OP, logistics management, and supply chain control tower roles.
+- **InHire** (`inhire.app` / `inhire-search` CLI) — Prominent ATS with high presence in supply chain & logistics tech (nstech, Mottu, Wilson Sons, Autoglass, Deloitte).
 - **Job na Gringa** (`jobnagringa.com.br` / `jobnagringa-search` CLI) — Curated community for Brazilian talent landing remote USD/EUR contracts.
-- **Catho / Infojobs** (`catho.com.br`, `infojobs.com.br`) — Secondary Brazilian job boards for industrial and logistical management.
+- **Infojobs** (`infojobs.com.br` / `infojobs-search` CLI) — Brazilian job board for industrial and logistical management.
 
 ### Deprioritized Channels (Low Yield for Candidate Profile)
 - **Revelo** (`revelo.com`) — Tested 0% viability: overwhelmingly tailored for software engineering/devs, with minimal signal for supply chain or operations leadership.
 
-### Disabled / Out of Scope
+### Disabled / Inactive Portals
+- **Gupy** (`portal.gupy.io` / `gupy-search` CLI) — Deactivated from sweeps per user directive. High application friction, extensive assessment gates, and low conversion for senior leadership tracks.
+- **Catho** (`catho.com.br` / `catho-search` CLI) — Deactivated from sweeps per user directive. Low yield and high noise.
 - **Danish Portals** (`jobindex`, `jobnet`, `jobdanmark`, `jobbank`) — Disabled. Zero relevance for Brazil-based candidate without EU right to work or Danish fluency.
 
 ---
@@ -37,7 +39,8 @@ High-volume global boards where postings **must be strictly gated against the JD
 ## Installed Portal CLIs & WebSearch Integration
 
 `/scrape` automatically discovers and runs installed portal skills under `.agents/skills/*/SKILL.md`:
-- **Active Operational CLIs:** `remotar-search`, `hirelatam-search`, `solvoglobal-search`, `getonbrd-search`, `himalayas-search`, `remotive-search`, `dynamitejobs-search`, `weworkremotely-search`, `jobnagringa-search`, `gupy-search`, `linkedin-search`, `freehire-search`, `ziprecruiter-search`, `catho-search`, `infojobs-search`.
+- **Active Operational CLIs:** `remotar-search`, `hirelatam-search`, `solvoglobal-search`, `getonbrd-search`, `himalayas-search`, `remotive-search`, `dynamitejobs-search`, `weworkremotely-search`, `jobnagringa-search`, `inhire-search`, `linkedin-search`, `freehire-search`, `ziprecruiter-search`, `infojobs-search`.
+- **Inactive / Disabled CLIs:** `gupy-search`, `catho-search`, `jobbank-search`, `jobdanmark-search`, `jobindex-search`, `jobnet-search`.
 
 **Language scope:** Queries are generated in **English and Portuguese** (professional languages). Spanish is excluded from query generation.
 

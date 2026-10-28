@@ -1,0 +1,698 @@
+================================================================================
+10 VAGAS SENIOR / LIDERANCA / ESPECIALISTA COM MENOR SCORE (DESCRICAO INTEGRAL)
+================================================================================
+
+--------------------------------------------------------------------------------
+LOW-SCORE SENIOR #01 | SCORE: 44 (Weak Fit)
+--------------------------------------------------------------------------------
+Titulo:            Analista de Governança de Dados SR (Foco em Acessos)
+Empresa:           Grupo SysMap
+Portal:            gupy-search
+Key:               grupo-sysmap_analista-de-governanca-de-dados-sr-foco-em-acessos
+URL:               https://gruposysmap.gupy.io/job/eyJqb2JJZCI6MTI1ODQyMzEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
+Status:            ranked
+Track:             Other | Moeda: BRL
+Gates:             Location=PASS | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Modelo 100% remoto.
+Gaps / Motivos do Score Baixo:
+  - Foco em segurança da informação, controle de acessos (RBAC) e privilégios mínimos em nuvem/Databricks, distante da atuação em operações/S&OP.
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+Página da Vaga | Analista de Governança de Dados SR (Foco em Acessos)Pular para o conteúdo principalIr para a página da empresaCandidatar-se
+Analista de Governança de Dados SR (Foco em Acessos)
+Copiar link
+Compartilhar vaga
+Ir para candidatura
+Descrição da vaga
+Você é apaixonado(a) por tecnologia e inovação?
+💡 No Grupo SysMap – que reúne SysMap Solutions, TriggoLabs e triggo.ai – acreditamos que grandes resultados nascem de pessoas incríveis. Somos uma empresa brasileira de tecnologia que, desde 1999, ajuda organizações a superar desafios complexos e acelerar sua transformação digital.
+Nossa atuação abrange diversos segmentos, como Telecom, Varejo, Educação, Financeiro, Indústria/Cosméticos e Energia, sempre com foco em soluções inovadoras e de alto impacto.
+👉 Candidate-se agora e construa o futuro da tecnologia conosco!
+Responsabilidades e atribuições
+Assegurar que o acesso aos dados e plataformas
+analíticas seja gerido de forma segura, eficiente e aderente às diretrizes de
+governança, privacidade, segurança da informação e conformidade regulatória.
+Definir e administrar modelos de acesso baseados
+em perfis e papéis corporativos.
+Garantir
+a aplicação do princípio do menor privilégio nos ambientes de dados.
+Conduzir
+processos de concessão, revisão periódica e revogação de acessos.
+Avaliar
+riscos, exceções e segregação de funções relacionados ao acesso aos dados.
+Apoiar
+auditorias, requisitos regulatórios e iniciativas de conformidade.
+Estabelecer
+controles, padrões e indicadores para monitoramento dos acessos.
+Atuar
+como interface entre áreas de negócio, tecnologia, segurança e governança.
+Requisitos e qualificações
+Experiência
+em Governança de Dados, Governança de Acessos ou Segurança da Informação.
+Conhecimento
+de modelos de controle de acesso (RBAC) e gestão de identidades.
+Vivência
+em plataformas analíticas e cloud, como Databricks, Power BI, Fabric e
+Azure.
+Conhecimento
+em LGPD, gestão de riscos e controles regulatórios.
+Capacidade
+de estruturar processos, políticas e indicadores de governança.
+Softs Skill
+Visão
+estratégica de governança e risco.
+Forte
+capacidade analítica e senso crítico.
+Habilidade
+de negociação e articulação com múltiplos stakeholders.
+Organização,
+comunicação executiva e foco em conformidade.
+Informações adicionais
+Modelo de Atuação:100% remoto
+Tipo de Contratação: CLT
+Benefícios: Assistência médica e Odontológica, Vale Refeição e Vale Alimentação.
+Etapas do processo
+Etapa 1: Cadastro1Cadastro
+Etapa 2: Mapeamento Comportamental2Mapeamento Comportamental
+Etapa 3: Entrevista R&S3Entrevista R&S
+Etapa 4: Entrevista Técnica4Entrevista Técnica
+Etapa 5: Entrevista com Cliente5Entrevista com Cliente
+Etapa 6: Carta Oferta6Carta Oferta
+Etapa 7: Contratação7Contratação
+O futuro é agora e estamos aqui para transformar vidas, negócios e empresas. Vamos juntos?
+Somos o Grupo SysMap, formado pelas marcas SysMap Solutions, TriggoLabs e triggo.ai, um ecossistema de empresas de grande impacto no mercado, com soluções inovadoras em tecnologia que transformam negócios e desenvolvem pessoas.
+Nossa essência é movida pela paixão por inovação, colaboração e crescimento contínuo. Há mais de 25 anos, superamos expectativas ao resolver desafios de negócio complexos, atuando em diferentes segmentos e acompanhando de forma ativa a evolução tecnológica.
+Aqui, acreditamos que tecnologia só gera valor quando é construída por pessoas. Por isso, cultivamos um ambiente ético, colaborativo e diverso, onde o aprendizado é constante e a excelência pelo que fazemos faz parte do nosso jeito de ser.
+A única forma de participar de processos seletivos do Grupo SysMap é por meio das páginas da empresa na plataforma Gupy e não há pagamento de taxa de participação ou contratação.
+Compartilhar vaga
+Conheça mais sobre a SysMap Solutions!
+Website
+LinkedIn
+Facebook
+Instagram
+Candidatar-se
+Copiar link
+Candidatar-se
+
+
+--------------------------------------------------------------------------------
+LOW-SCORE SENIOR #02 | SCORE: 46 (Moderate Fit)
+--------------------------------------------------------------------------------
+Titulo:            Analista de Governança de Dados SR (Foco em curadoria e catalogação de dados)
+Empresa:           Grupo SysMap
+Portal:            gupy-search
+Key:               grupo-sysmap_analista-de-governanca-de-dados-sr-foco-em-curadoria-e-catal-c3e454
+URL:               https://gruposysmap.gupy.io/job/eyJqb2JJZCI6MTI1ODQwOTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
+Status:            ranked
+Track:             Other | Moeda: BRL
+Gates:             Location=PASS | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Modelo 100% remoto; trabalho com documentação e catálogo de dados corporativos.
+Gaps / Motivos do Score Baixo:
+  - Exigência de ferramentas específicas de catálogo (Microsoft Purview, Collibra) e gestão pura de metadados sem escopo de negócio ou supply chain.
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+Página da Vaga | Analista de Governança de Dados SR (Foco em curadoria e catalogação de dados)Pular para o conteúdo principalIr para a página da empresaCandidatar-se
+Analista de Governança de Dados SR (Foco em curadoria e catalogação de dados)
+Copiar link
+Compartilhar vaga
+Ir para candidatura
+Descrição da vaga
+Você é apaixonado(a) por tecnologia e inovação?
+💡 No Grupo SysMap – que reúne SysMap Solutions, TriggoLabs e triggo.ai – acreditamos que grandes resultados nascem de pessoas incríveis. Somos uma empresa brasileira de tecnologia que, desde 1999, ajuda organizações a superar desafios complexos e acelerar sua transformação digital.
+Nossa atuação abrange diversos segmentos, como Telecom, Varejo, Educação, Financeiro, Indústria/Cosméticos e Energia, sempre com foco em soluções inovadoras e de alto impacto.
+👉 Candidate-se agora e construa o futuro da tecnologia conosco!
+Responsabilidades e atribuições
+Garantir que os ativos de dados estejam catalogados, documentados, padronizados e acessíveis para uso corporativo, promovendo qualidade, governança e reutilização dos dados.
+Catalogação e documentação de tabelas, colunas e produtos de dados.
+Gestão de metadados, glossário e linhagem de dados.
+Padronização de nomenclaturas e definições de negócio.
+Administração de ferramentas de catálogo de dados (Purview ou similares).
+Apoio às áreas de negócio na identificação, entendimento e uso dos dados.
+Garantia de aderência às políticas de Governança de Dados.
+Requisitos e qualificações
+Experiência
+em Governança de Dados e Gestão de Metadados.
+Conhecimento
+em Microsoft Purview, Collibra ou ferramentas similares.
+Conhecimento
+em SQL e modelagem de dados.
+Experiência
+com documentação de dados e glossários corporativos.
+Desejável
+conhecimento em Databricks, Power BI e ambiente Azure.
+Etapas do processo
+Etapa 1: Cadastro1Cadastro
+Etapa 2: Mapeamento Comportamental2Mapeamento Comportamental
+Etapa 3: Entrevista R&S3Entrevista R&S
+Etapa 4: Entrevista Técnica4Entrevista Técnica
+Etapa 5: Entrevista com Cliente5Entrevista com Cliente
+Etapa 6: Carta Oferta6Carta Oferta
+Etapa 7: Contratação7Contratação
+O futuro é agora e estamos aqui para transformar vidas, negócios e empresas. Vamos juntos?
+Somos o Grupo SysMap, formado pelas marcas SysMap Solutions, TriggoLabs e triggo.ai, um ecossistema de empresas de grande impacto no mercado, com soluções inovadoras em tecnologia que transformam negócios e desenvolvem pessoas.
+Nossa essência é movida pela paixão por inovação, colaboração e crescimento contínuo. Há mais de 25 anos, superamos expectativas ao resolver desafios de negócio complexos, atuando em diferentes segmentos e acompanhando de forma ativa a evolução tecnológica.
+Aqui, acreditamos que tecnologia só gera valor quando é construída por pessoas. Por isso, cultivamos um ambiente ético, colaborativo e diverso, onde o aprendizado é constante e a excelência pelo que fazemos faz parte do nosso jeito de ser.
+A única forma de participar de processos seletivos do Grupo SysMap é por meio das páginas da empresa na plataforma Gupy e não há pagamento de taxa de participação ou contratação.
+Compartilhar vaga
+Conheça mais sobre a SysMap Solutions!
+Website
+LinkedIn
+Facebook
+Instagram
+Candidatar-se
+Copiar link
+Candidatar-se
+
+
+--------------------------------------------------------------------------------
+LOW-SCORE SENIOR #03 | SCORE: 47 (Moderate Fit)
+--------------------------------------------------------------------------------
+Titulo:            Analista de Planejamento Sênior (RGM / DADOS)
+Empresa:           Hypera Pharma
+Portal:            gupy-search
+Key:               hypera-pharma_analista-de-planejamento-senior-rgm-dados
+URL:               https://hyperapharma.gupy.io/job/eyJqb2JJZCI6MTI2MDU4ODYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
+Status:            ranked
+Track:             Track 1: Supply Chain & Physical Operations Leadership / S&OP | Moeda: BRL
+Gates:             Location=FAIL | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Vaga identificada pelo scraper Gupy.
+Gaps / Motivos do Score Baixo:
+  - Veto de localidade: modelo presencial ou híbrido em São Paulo, São Paulo (on-site).
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+Página da Vaga | Analista de Planejamento Sênior (RGM / DADOS)Pular para o conteúdo principalIr para a página da empresaCandidatar-se
+Candidaturas encerradas
+Analista de Planejamento Sênior (RGM / DADOS)
+Copiar link
+Compartilhar vaga
+Ir para candidatura
+Descrição da vaga
+Buscamos talentos que possam transformar possibilidades em realidade, que contribuam para nos manter como a melhor e mais completa empresa farmacêutica brasileira, participando da vida das pessoas para que elas vivam mais e melhor.
+Essa oportunidade está aberta à candidatura de todas as pessoas, independentemente de orientação sexual, acessibilidade social ou de qualquer outro fator.
+Todas as nossas vagas estão abertas para Pessoas com Deficiência (PCD's).
+Você não se identificou com essa vaga? Não se preocupe! Você ainda pode fazer parte do nosso time! Inscreva-se no nosso banco de talentos e assim que surgir uma oportunidade que tenha mais a ver com você, nós entraremos em contato!
+Responsabilidades e atribuições
+Desenvolver consultas em SQL e scripts em Python para extração, tratamento, transformação e consolidação de dados, garantindo qualidade, integridade e disponibilidade das informações para análises e tomadas de decisão.
+Estruturar, organizar e manter bases de dados, integrando informações internas e externas (mercado, preços, sell-out, financeiro e elasticidade), além de automatizar rotinas recorrentes de atualização de bases, indicadores e dashboards, promovendo maior eficiência e redução de atividades manuais.
+Construir dashboards e visualizações em Power BI para acompanhamento de indicadores de receita, rentabilidade, preços, promoções e performance comercial, garantindo a governança, documentação e evolução das bases, processos e modelos analíticos.
+Atuar em parceria com as áreas de Comercial, Marketing, Finanças e TI, realizando levantamento de requisitos e traduzindo necessidades do negócio em soluções analíticas eficientes.
+Apoiar a identificação de oportunidades por meio da análise de dados, geração de insights e construção de soluções que contribuam para a melhoria dos processos e resultados do negócio.
+Requisitos e qualificações
+Ensino Superior Completo em Engenharia, Estatística, Matemática, Ciência da Computação, Sistemas de Informação, Economia, Administração ou áreas correlatas;
+Pós-Graduação será considerada um diferencial;
+Experiência em análise de dados, Business Intelligence ou áreas relacionadas;
+Conhecimento intermediário em SQL, básico em Python e avançado em Power BI (incluindo DAX);
+Experiência com desenvolvimento de dashboards, automações e análises orientadas a dados;
+Conhecimento em indicadores de negócio, rentabilidade, Pricing ou Revenue Growth Management (RGM);
+Disponibilidade para atuação 100% presencial – Cidade Jardim.
+Informações adicionais
+Principais Benefícios:
+Assistência médica;
+Assistência odontológica;
+Seguro de vida;
+Vale refeição ou refeitório (a depender da unidade);
+Vale Alimentação;
+Vale transporte, fretado ou estacionamento (a depender da unidade);
+Wellhub;
+Farmácia interna - Medicamentos da empresa sem custo extensiva a cônjuge e filhos (a depender da unidade);
+Programa Nova Vida Tem Valor (Telemedicina, kit maternidade, cursos, isenção coparticipação durante a gestação e pós nascimento, entre outros);
+Espaço Saúde - atendimento médico assistencial (a depender da unidade);
+PPR / Bônus (a depender da unidade);
+Clube de Vantagens Tem Valor: Plataforma e-commerce com diversas empresas parceiras que concedem produtos e serviços com descontos exclusivos diferenciados;
+Lojinha Tem Valor (e-commerce com até 40% desconto em nossos produtos de dermocosméticos e vitaminas);
+Psicoterapia Online com atendimento e gratuito;
+Auxilio Creche (a depender da unidade e da política interna);
+Obs.: Esta oportunidade aceita candidatura interna. Para candidatos internos, estejam cientes de que, em caso de aprovação no processo seletivo interno UP! para uma localidade diferente da atual, estarão sujeitos(as) às convenções e aos acordos coletivos vigentes na localidade de destino.
+Vaga publicada em: 21/07/2026
+Período de inscrições internas: até 28/07/2026
+Etapas do processo
+Etapa 1: Cadastro1Cadastro
+Etapa 2: Pré-entrevista2Pré-entrevista
+Etapa 3: UP! Atração Interna (candidatos internos)3UP! Atração Interna (candidatos internos)
+Etapa 4: Entrevista com Gente e Gestão 4Entrevista com Gente e Gestão
+Etapa 5: Entrevista com Gestor5Entrevista com Gestor
+Etapa 6: Contratação6Contratação
+Somos a Hypera Pharma, uma gigante no mercado farmacêutico brasileiro!
+Compartilhar vaga
+Conheça mais sobre nós!
+Website
+LinkedIn
+Instagram
+Candidatar-se
+Copiar link
+Candidatar-se
+
+
+--------------------------------------------------------------------------------
+LOW-SCORE SENIOR #04 | SCORE: 47 (Moderate Fit)
+--------------------------------------------------------------------------------
+Titulo:            NV | ESPECIALISTA DE PLANEJAMENTO DE PRODUTO - ESE
+Empresa:           NV
+Portal:            gupy-search
+Key:               nv_nv-especialista-de-planejamento-de-produto-ese
+URL:               https://bynv.gupy.io/job/eyJqb2JJZCI6MTIzMDU4ODIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
+Status:            ranked
+Track:             Track 1: Supply Chain & Physical Operations Leadership / S&OP | Moeda: BRL
+Gates:             Location=FAIL | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Vaga identificada pelo scraper Gupy.
+Gaps / Motivos do Score Baixo:
+  - Veto de localidade: modelo presencial ou híbrido em S�o Paulo, São Paulo (on-site).
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+Página da Vaga | NV | ESPECIALISTA DE PLANEJAMENTO DE PRODUTO - ESEPular para o conteúdo principalIr para a página da empresaCandidatar-se
+NV | ESPECIALISTA DE PLANEJAMENTO DE PRODUTO - ESE
+Copiar link
+Compartilhar vaga
+Ir para candidatura
+Descrição da vaga
+No Azzas 2154 Fashion & Lifestyle, somos movidos por pessoas. São elas que impulsionam ideias, constroem marcas e fazem a moda acontecer todos os dias.
+Aqui, cada pessoa tem voz, espaço e responsabilidade na construção do que fazemos. É assim, todos os dias, que nos tornamos o maior Grupo de Moda da América Latina.
+Responsabilidades e atribuições
+Conduzir estudos de viabilidade econômica das coleções, analisando custos, margens e potencial comercial para suportar decisões estratégicas de produto.
+Definir e acompanhar a formação de custos e preços-alvo, garantindo competitividade e rentabilidade.
+Planejar a demanda de matérias-primas, assegurando disponibilidade, eficiência de compras e aderência ao calendário de desenvolvimento e produção.
+Gerenciar o cadastro e a governança das fichas técnicas, garantindo consistência das informações entre desenvolvimento, mostruário e produção.
+Desenvolver alternativas de matérias-primas, construções e processos produtivos que promovam inovação, redução de custos e ganho de eficiência sem comprometer a qualidade do produto.
+Planejar e monitorar o cronograma de desenvolvimento, mostruário e produção, assegurando o cumprimento dos marcos da coleção.
+Negociar custos de produtos acabados, beneficiamentos e parceiros produtivos, buscando o equilíbrio entre qualidade, prazo e rentabilidade.
+Atuar de forma integrada com Produto, Estilo, Compras, Supply Chain, PCP e Ateliê, garantindo fluidez na execução dos processos.
+Monitorar indicadores comerciais e de sell-in, identificando oportunidades de reposição, recompras e otimização do portfólio.
+Apoiar decisões estratégicas da coleção por meio de análises de performance, rentabilidade e viabilidade financeira.
+Gerenciar demandas operacionais críticas relacionadas ao fluxo produtivo, assegurando agilidade na tomada de decisão e continuidade da operação.
+Contribuir para a evolução contínua dos processos, propondo melhorias que aumentem eficiência, escalabilidade e excelência operacional.
+Requisitos e qualificações
+Experiência em Planejamento de Produto, Engenharia de Produto ou Desenvolvimento de Produto no segmento de moda, artigos esportivos ou bens de consumo.
+Conhecimento sólido em formação de custos, precificação e gestão da rentabilidade de produtos.
+Vivência em desenvolvimento de coleção, estruturação de fichas técnicas e processos produtivos.
+Capacidade de negociação com fornecedores nacionais e internacionais, beneficiadores e parceiros industriais.
+Forte capacidade analítica e orientação para indicadores de negócio.
+Perfil organizado, com habilidade para gerenciar múltiplos projetos simultaneamente.
+Comunicação colaborativa e facilidade para atuar em equipes multidisciplinares.
+Domínio de Excel e sistemas ERP.
+Informações adicionais
+NOSSOS BENEFÍCIOS
+No Azzas 2154 Fashion & Lifestyle, acreditamos que cuidar das pessoas é parte essencial para construir o maior Grupo de Moda da América Latina. Por isso, oferecemos um conjunto de benefícios pensado para apoiar o bem-estar, o desenvolvimento e o dia a dia de quem faz parte da nossa história.
+Saúde e bem estar
+• Plano de saúde
+• Plano odontológico
+• Seguro de vida
+• Programas de bem-estar físico, como Wellhub ou TotalPass
+• Iniciativas de apoio à saúde mental
+Dia a dia e qualidade de vida
+• Benefícios flexíveis por meio de cartão Flash
+• Vale transporte
+• Parceria com o SESC
+• Clube de vantagens com parceiros
+• Day off de aniversário
+• Extensão de licença maternidade
+• Extensão de licença paternidade
+• Descontos nas marcas do grupo
+Desenvolvimento e crescimento
+• Programas de capacitação e desenvolvimento
+• Trilhas de aprendizagem corporativas
+• Iniciativas de reconhecimento e engajamento
+Reconhecimento
+• Participação nos resultados, conforme política vigente
+* Os benefícios podem variar de acordo com o cargo, a unidade e as políticas internas da companhia.
+Sonhar grande para fazer gigante, com gente boa e do bem.
+Etapas do processo
+Etapa 1: Cadastro1Cadastro
+Etapa 2: Entrevista com R&S2Entrevista com R&S
+Etapa 3: Entrevista com Gestor3Entrevista com Gestor
+Etapa 4: Case/Testes4Case/Testes
+Etapa 5: Compliance 5Compliance
+Etapa 6: Entrevista com Head/Diretoria6Entrevista com Head/Diretoria
+Etapa 7: Carta Proposta7Carta Proposta
+Etapa 8: Contratação8Contratação
+Sobre nós
+Idealizada em 2012 por Nati Vozza, uma das primeiras influenciadoras digitais do Brasil, a NV representa mulheres reais, autênticas e sofisticadas.
+Nat imprime na marca sua personalidade, criatividade e olhar minucioso sobre a moda e tendências atuais, olhando com carinho e atenção para cada etapa do processo criativo.
+Conhecida por trazer cor à clássica alfaiataria, a NV tem essência versátil e se destacou no mercado graças ao pioneirismo e atenção aos detalhes que dão vida à peças que são sinônimo de modelagem, acabamento e qualidade primorosos.
+Compartilhar vaga
+Visite nossas páginas nas redes sociais, e conheça mais sobre nós
+Website
+LinkedIn
+Facebook
+Instagram
+Candidatar-se
+Copiar link
+Candidatar-se
+
+
+--------------------------------------------------------------------------------
+LOW-SCORE SENIOR #05 | SCORE: 47 (Moderate Fit)
+--------------------------------------------------------------------------------
+Titulo:            Analista de Dados Sênior
+Empresa:           Sem Parar Corpay
+Portal:            gupy-search
+Key:               sem-parar-corpay_analista-de-dados-senior
+URL:               https://semparar.gupy.io/job/eyJqb2JJZCI6MTI2MDU4NzUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
+Status:            ranked
+Track:             Track 1: Supply Chain & Physical Operations Leadership / S&OP | Moeda: BRL
+Gates:             Location=FAIL | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Vaga identificada pelo scraper Gupy.
+Gaps / Motivos do Score Baixo:
+  - Veto de localidade: modelo presencial ou híbrido em São Paulo, São Paulo (hybrid).
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+Página da Vaga | Analista de Dados SêniorPular para o conteúdo principalIr para a página da empresaCandidatar-se
+Candidaturas encerradas
+Analista de Dados Sênior
+Copiar link
+Compartilhar vaga
+Ir para candidatura
+Descrição da vaga
+Unidade de Negócio: Sem Parar
+Local de trabalho: São Paulo/SP
+Modelo de trabalho: Híbrido 2x3 (ida ao escritório duas vezes na semana)
+Missão da área que você irá atuar: Gerar inteligência analítica para as operações de atendimento receptivo, apoiando a tomada de decisão por meio de análises, estudos e monitoramento de indicadores que contribuam para a melhoria da experiência do cliente e da eficiência operacional.
+Objetivos do cargo que você irá atuar: Atuar no acompanhamento da performance operacional, identificando oportunidades de melhoria, construindo diagnósticos e análises estratégicas, além de desenvolver soluções analíticas que apoiem a evolução dos resultados da operação.
+Responsabilidades e atribuições
+Monitorar e analisar indicadores de performance das operações de atendimento receptivo;
+Desenvolver análises para identificação de desvios, tendências e oportunidades de melhoria;
+Automatizar análises e processos utilizando SQL e Python;
+Criar e manter dashboards em Power BI para acompanhamento de resultados;
+Elaborar estudos e apresentações executivas para suporte à tomada de decisão da liderança.
+Requisitos e qualificações
+É imprescindível que você tenha:
+Experiência em Analytics, Business Intelligence ou Análise de Dados;
+SQL avançado para manipulação e análise de grandes volumes de dados;
+Python avançado para tratamento e análise de dados;
+Experiência avançada em Power BI, incluindo DAX e modelagem de dados;
+Experiência em construção e análise de KPIs operacionais e geração de insights para o negócio.
+Não obrigatório, mas será incrível se tiver:Experiência em Call Center ou operações de atendimento ao cliente;
+Conhecimento dos indicadores de atendimento receptivo;
+Conhecimento em modelos estatísticos e Machine Learning;
+Experiência com Databricks, Spark ou ambientes Data Lake/Lakehouse;
+Vivência com técnicas de forecast, segmentação e análise preditiva.
+Informações adicionais
+Vale-transporte ou estacionamento no escritório;
+Vale-alimentação e vale-refeição (benefício flexível) – saldo distribuível entre as modalidades.
+Assistência médica;
+Assistência odontológica;
+Telemedicina — Disponível 24h por dia, todos os dias da semana;
+Wellhub (antigo Gympass);
+Zenklub;
+Auxílio home office;
+PLR (Participação nos Lucros e Resultados, de acordo com a política vigente);
+Day off de aniversário — Folga no seu aniversário e também no aniversário da empresa;
+Tag Sem Parar — Sem custo;
+Seguro de vida;
+Licença parental — Afastamento remunerado para mães, pais ou responsáveis para que possam acolher a chegada de um filho(a), por nascimento ou adoção;
+Incentivo educacional — até 25% de desconto em pós-graduação ou MBA;
+Etapas do processo
+Etapa 1: Cadastro1Cadastro
+Etapa 2: Pré-triagem2Pré-triagem
+Etapa 3: Triagem3Triagem
+Etapa 4: Entrevista com RH4Entrevista com RH
+Etapa 5: Entrevista com o(a) Gestor(a)5Entrevista com o(a) Gestor(a)
+Etapa 6: Contratação6Contratação
+Saiba mais sobre o Sem Parar Corpay:
+No Sem Parar Corpay, somos mais do que marcas; somos um ecossistema integrado de mobilidade urbana, soluções de pagamento e benefícios corporativos. Fazemos parte da Corpay, uma multinacional líder mundial em seu segmento, listada na bolsa de NY e presente em cerca de 200 países.
+Atualmente, contamos com aproximadamente 3 mil #Imparáveis, atuando em 13 estados do Brasil. Somos pioneiros(as), com uma história que já soma mais de duas décadas de inovação.
+O Nosso Ecossistema:
+No Sem Parar (B2C): Facilitamos o dia a dia com a famosa Tag Sem Parar, Cartão de Crédito Sem Parar Mais, Seguros Sem Parar (somos o primeiro seguro auto diário do Brasil), SuperApp, Sem Parar Shop, Condomínios, Estacionamento, Drive Trhu e muito mais!
+No Sem Parar Empresas (B2B): Com mais de 25 anos de mercado, atuamos com a Gestão de Veículos (Cartão Combustível, CTF Abastecimento, Vale Pedágio, Gestão de Fretes e Parcerias) e Gestão de Benefícios, com um portfólio de Essenciais, Produtividade e Bem-Estar.
+Na Zapay: Nascemos para facilitar a vida dos proprietários de veículos. Nossa missão é descomplicar a rotina e diminuir as barreiras do dia a dia, oferecendo soluções digitais e ágeis para débitos veiculares.
+No Gringo: Somos o melhor amigo do motorista! Existimos para resolver as pendências do seu veículo sem burocracia, apoiando quem dirige com serviços práticos e muita informação sobre o mercado automotivo.
+Estar aqui é entender que sempre ampliamos horizontes e estamos pensando em maneiras de criar além dos limites.
+Ainda tem curiosidade sobre a gente? Siga nossos perfis oficiais e conheça mais sobre o nosso #JeitoSemParar!
+Instagram - @sempararcorpay: clique e siga!
+TikTok - @sempararcorpay: clique e siga!
+Página de Carreiras: clique aqui!
+Compartilhar vaga
+Confira nossas redes sociais!
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor
+Candidatar-se
+Copiar link
+Candidatar-se
+
+
+--------------------------------------------------------------------------------
+LOW-SCORE SENIOR #06 | SCORE: 47 (Moderate Fit)
+--------------------------------------------------------------------------------
+Titulo:            J&F S.A - Analista de Dados Sênior
+Empresa:           J&F Investimentos
+Portal:            gupy-search
+Key:               j-f-investimentos_j-f-s-a-analista-de-dados-senior
+URL:               https://j-f.gupy.io/job/eyJqb2JJZCI6MTI1OTU2OTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
+Status:            ranked
+Track:             Track 1: Supply Chain & Physical Operations Leadership / S&OP | Moeda: BRL
+Gates:             Location=FAIL | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Vaga identificada pelo scraper Gupy.
+Gaps / Motivos do Score Baixo:
+  - Veto de localidade: modelo presencial ou híbrido em São Paulo, São Paulo (on-site).
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+A J&F é um dos maiores grupos empresariais do Brasil, com atuação em setores estratégicos da economia, como alimentos, energia, celulose, bens de consumo e mineração.O Grupo reúne empresas e marcas de grande relevância no mercado, como JBS, Âmbar Energia, Eldorado Brasil, Flora, LHG Mining, PicPay e Banco Original, entre outros negócios.Além da atuação empresarial, a J&F investe no desenvolvimento de pessoas por meio do Instituto J&F, dedicado à formação de novas gerações de profissionais e ao desenvolvimento de competências para os negócios.Sobre a oportunidade
+Estamos em busca de um(a) Analista de Dados Sênior (ETL) para atuar no desenvolvimento, manutenção e otimização de processos de integração de dados entre sistemas corporativos.
+
+Responsabilidades e atribuiçõesDesenvolver, implementar e manter rotinas de ETL (Extract, Transform, Load) para integração entre sistemas internos e externos.Modelar e manter estruturas de Data Warehouse (DW), garantindo integridade e performance das cargas de dados.Monitorar, diagnosticar e corrigir falhas em pipelines de dados, assegurando a continuidade operacional.Automatizar processos de integração e deploys utilizando ferramentas de CI/CD, como Jenkins.Criar e manter documentação técnica dos fluxos de integração, mapeamentos e regras de negócio aplicadas.Colaborar com times de BI, Desenvolvimento, Infraestrutura e áreas de negócio para levantamento de requisitos e priorização de demandas.Realizar tuning de performance em cargas de dados
+
+
+--------------------------------------------------------------------------------
+LOW-SCORE SENIOR #07 | SCORE: 47 (Moderate Fit)
+--------------------------------------------------------------------------------
+Titulo:            Analista de CRM Sr. (Dados)
+Empresa:           PagBank
+Portal:            gupy-search
+Key:               pagbank_analista-de-crm-sr-dados
+URL:               https://pagseguro.gupy.io/job/eyJqb2JJZCI6MTI0MjA2MjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
+Status:            ranked
+Track:             Track 1: Supply Chain & Physical Operations Leadership / S&OP | Moeda: BRL
+Gates:             Location=FAIL | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Vaga identificada pelo scraper Gupy.
+Gaps / Motivos do Score Baixo:
+  - Veto de localidade: modelo presencial ou híbrido em São Paulo, São Paulo (on-site).
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+Página da Vaga | Analista de CRM Sr. (Dados)Pular para o conteúdo principalIr para a página da empresaCandidatar-se
+Analista de CRM Sr. (Dados)
+Copiar link
+Compartilhar vaga
+Ir para candidatura
+Descrição da vaga
+Quando você pensa em carreira, o que vem à sua mente? Propósito? Colaboração? Ser protagonista para fazer a diferença? No PagBank temos tudo isso e muito mais. 💛
+Estamos em busca de pessoas que vistam a camisa com orgulho. Gente com vontade de facilitar a vida financeira das pessoas e impulsionar negócios!
+Tá a fim de uma carreira que rende mais? Confira essa oportunidade e #VemProPags!
+Responsabilidades e atribuições
+Realizar análises do comportamento transacional e relacional, e do perfil dos clientes para a clusterização e criação de indicadores de classificação.
+Realizar estudos estratégicos buscando oportunidades de negócios, comerciais e/ou marketing.
+Elaborar relatórios e apresentações executivas para o compartilhamento dos resultados das análises e evoluções na clusterização de clientes.
+Conduzir análises exploratórias e estatísticas para melhorar a jornada do cliente.
+Construção de queries para consultas em bancos de dados.
+Requisitos e qualificações
+Superior Completo;
+Experiência em áreas de CRM (dados), Analytics, Análise de Dados, BI ou Customer Experience
+Experiência avançada de consultas em bancos de dados utilizando SQL;
+Experiência em contruir relatórios e apresentações para públicos não técnicos e executivos;
+Experiência em transitar entre conversas técnicas e de negócios;
+Conhecimento de estatística e análises estatísticas;
+Pacote Office Avançado.
+Informações adicionais
+Para se destacar nessa posição, seria interessante que possuísse:
+Inglês avançado
+Experiência no desenvolvimento de Dashboards em Power BI
+Conhecimento de Python para análise e manipulação de dados
+Conhecimento de ferramentas SalesForce (Data Cloud, Marketing Cloud e Sales Cloud)
+Conhecimento de produtos de Adquirência e Produtos Bancários
+Conhecimento de construção de modelos de regressão e classificação
+Etapas do processo
+Etapa 1: Cadastro1Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 3: Teste 3Teste
+Etapa 4: Entrevista RH4Entrevista RH
+Etapa 5: Entrevista Gestor5Entrevista Gestor
+Etapa 6: Finalistas6Finalistas
+Etapa 7: Contratação7Contratação
+Olá, somos o PagBank!
+Talvez você nos conheça por maquininhas ou comerciais que ficam na memória, mas somos muito mais!
+Todos os dias desenvolvemos produtos e soluções inspiradas pelo nosso propósito: facilitar a vida financeira das pessoas e negócios.
+Trabalhamos para transformar a forma como as pessoas lidam com dinheiro abrindo novas possibilidades para alcançarem seus sonhos. Como fazemos tudo isso?
+💛 Com gente
+Somos um time que joga junto! Aqui valorizamos todas as diversidades, seja de raça/etnia, gênero, idade, origem, pessoa com deficiência, orientação afetivo-sexual, constituição familiar e estética.
+💛 Com tecnologia
+O espírito disruptivo e inovador está no nosso DNA: somos parte do Grupo UOL, empresa 100% brasileira, foi pioneira na internet e transforma a vida das pessoas desde 1996.
+💛 Com uma só cultura
+Temos uma cultura forte e única, capaz de nos levar além, para continuarmos crescendo e perpetuando o nosso negócio.
+Somos um dos maiores bancos digitais do país e uma das fintechs mais rentáveis do segmento e certificados como um Excelente Lugar para Trabalhar pela Great Place to Work.
+Para vivenciar tudo isso, você terá um pacote completo de benefícios que fazem toda a diferença:
+Vale-alimentação e/ou refeição.
+Plano de saúde e odontológico.
+Seguro de vida.
+Parceria com TotalPass e ZenKlub.
+Licença maternidade e paternidade estendidas.
+Auxílio-creche.
+Descontos de até 50% em pós-graduação e MBA de grandes instituições, como FIA, FAAP e PUCRS.
+E tem mais:
+No dress code: o importante é você usar o que te faz bem.
+#TáDeParabéns: Day off no aniversário.
+Baby Gift: presente para recém-nascidos.
+Tá a fim de uma carreira que rende mais? Vem pro nosso time imbatível!
+#VemProPags.
+Compartilhar vaga
+Website
+LinkedIn
+Facebook
+Instagram
+Glassdoor
+Candidatar-se
+Copiar link
+Candidatar-se
+
+
+--------------------------------------------------------------------------------
+LOW-SCORE SENIOR #08 | SCORE: 47 (Moderate Fit)
+--------------------------------------------------------------------------------
+Titulo:            Analista de Custos Sênior | SAP S/4HANA (vaga afirmativa para profissionais pretos e pardos)
+Empresa:           Daiichi Sankyo Brasil Farmacêutica
+Portal:            gupy-search
+Key:               daiichi-sankyo-brasil-farmaceutica_analista-de-custos-senior-sap-s-4hana-vaga-afirmativa-para-p-8daa77
+URL:               https://dsbr.gupy.io/job/eyJqb2JJZCI6MTI1OTk2NDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
+Status:            ranked
+Track:             Track 1: Supply Chain & Physical Operations Leadership / S&OP | Moeda: BRL
+Gates:             Location=FAIL | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Vaga identificada pelo scraper Gupy.
+Gaps / Motivos do Score Baixo:
+  - Veto de localidade: modelo presencial ou híbrido em São Paulo, São Paulo (hybrid).
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+Página da Vaga | Analista de Custos Sênior | SAP S/4HANA (vaga afirmativa para profissionais pretos e pardos)Pular para o conteúdo principalIr para a página da empresaCandidatar-se
+Candidaturas encerradas
+Analista de Custos Sênior | SAP S/4HANA (vaga afirmativa para profissionais pretos e pardos)
+Copiar link
+Compartilhar vaga
+Ir para candidatura
+Descrição da vaga
+Venha fazer parte da Daiichi Sankyo, farmacêutica japonesa, que tem como missão contribuir para a melhoria da qualidade de vida das pessoas ao redor do mundo por meio da criação e do suprimento de medicamentos inovadores que atendem diversas necessidades médicas.
+Temos uma cultura de colaboração e confiança e aqui, queremos nos desenvolver e crescer juntos.
+Somos uma empresa inclusiva e que abraça a diversidade. Todos e todas são bem-vindos, independente de sexo, etnia, religião, orientação sexual ou qualquer tipo de deficiência.
+Aqui o seu talento fala mais alto!
+Para mais informações sobre a forma como seus dados serão tratados, acesse a Política de Privacidade da DSBR.
+Responsabilidades e atribuições
+Atuar
+como referência da área de Custos no projeto de migração do SAP ECC para
+SAP S/4HANA, participando do levantamento de requisitos, revisão de
+processos, testes e implementação das funcionalidades relacionadas a
+custos;
+Analisar
+os processos atuais de custeio e contribuir para o desenho, validação e
+implementação dos processos no novo ambiente SAP;
+Executar
+e analisar o fechamento mensal de custos, incluindo ordens de produção,
+ciclos, rateios, alocações e principais variações;
+Analisar
+os custos industriais e suas variações versus orçamento e/ou padrões
+estabelecidos, identificando causas e apoiando as áreas responsáveis;
+Realizar
+e revisar cálculos de custos de produtos, incluindo os processos
+relacionados ao orçamento e projeções;
+Apoiar
+análises relacionadas a estoques, provisões de obsolescência e indicadores
+de custos e eficiência industrial;
+Atuar
+em parceria com Finanças, Produção, PCP e demais áreas envolvidas,
+contribuindo para a melhoria e padronização dos processos de custos.
+Requisitos e qualificações
+Formação superior completa em Ciências Contábeis, Administração ou Economia;
+Sólida experiência em custos industriais - preferencialmente farmacêuticas;
+Experiência prática como Key User do SAP FI/CO, especialmente em processos de Product Costing/Controlling;
+Bons conhecimentos em Excel;
+Inglês intermediário, com capacidade para participação em reuniões e interação com equipes internacionais;
+Participação em projetos de implementação ou migração para SAP S/4HANA.
+Etapas do processo
+Etapa 1: Cadastro1Cadastro
+Etapa 2: Triagem2Triagem
+Etapa 3: Entrevista com RH3Entrevista com RH
+Etapa 4: Fit Cultural + Perfil4Fit Cultural + Perfil
+Etapa 5: Entrevista Gestor5Entrevista Gestor
+Etapa 6: Contratação6Contratação
+Sobre a Daiichi Sankyo
+Com mais de 17.000 colaboradores ao redor do mundo e mais de 100 anos de expertise científica, a companhia baseia-se em um rico legado de inovação e um pipeline robusto de novos medicamentos promissores para ajudar os pacientes, com destaque para as áreas de cardiologia, psiquiatria, oncologia e “frontier” (fronteira) – desenvolvimento de medicamentos inovadores para uma ampla variedade de doenças. Centrada na saúde integral do paciente, a companhia está empenhada em transformar a ciência, a fim de criar tratamentos
+significativos para pacientes com câncer nos mais altos padrões de excelência e qualidade.
+Compartilhar vaga
+Conheça mais sobre nós:
+Website
+LinkedIn
+Facebook
+Instagram
+Candidatar-se
+Copiar link
+Candidatar-se
+
+
+--------------------------------------------------------------------------------
+LOW-SCORE SENIOR #09 | SCORE: 49 (Moderate Fit)
+--------------------------------------------------------------------------------
+Titulo:            Senior Power BI Data Analyst - Remote Work | REF#301500
+Empresa:           BairesDev
+Portal:            linkedin-search
+Key:               https://br.linkedin.com/jobs/view/senior-power-bi-data-analyst-remote-work-ref%23301500-at-bairesdev-4455985330
+URL:               https://br.linkedin.com/jobs/view/senior-power-bi-data-analyst-remote-work-ref%23301500-at-bairesdev-4455985330
+Status:            ranked
+Track:             N/A | Moeda: N/A
+Gates:             Location=PASS | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Fully remote ('from anywhere') with USD compensation offered, matching his top logistical and financial priorities
+  + Power BI, DAX and SQL requirements are a strong direct overlap with his existing toolset
+  + 'Advanced English' requirement is squarely met by his declared Advanced level
+Gaps / Motivos do Score Baixo:
+  - Domain is e-commerce/web traffic analytics (Shopify, GA4) with no supply chain angle at all, so his core differentiator is unused
+  - Requires 5+ years dedicated Data Analytics/BI experience; his applied analytics experience is roughly 2 years within broader supply chain consulting engagements
+  - Star-schema data modeling for transactional e-commerce data and GA4/Shopify specifics are outside his demonstrated experience
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. When you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success. Senior Power BI Data Analyst at BairesDev As a Senior Power BI Data Analyst, you will transform complex e-commerce and web traffic datasets into intuitive, high-impact visual reports. You will serve as a key analytical partner, translating raw business metrics into actionable insights that drive strategic decision-making and optimize digital performance. What You'll Do Design, develop, and maintain advanced interactive dashboards and reports to monitor key business metrics. Build and optimize robust data models using star schemas and complex transactional data structures. Analyze user behavior and e-commerce transactions to identify trends, performance issues, and growth opportunities. Write and optimize complex queries to retrieve, clean, and prepare data from diverse database environments. Collaborate with cross-functional teams to define key performance indicators and align reports with organizational goals. What We Are Looking For 5+ years of experience in Data Analytics, Business Intelligence, or a related field. Proven expertise in building advanced dashboards and reports using Power BI and DAX. Strong proficiency in SQL and data modeling techniques, specifically star schemas. Hands-on experience analyzing e-commerce data from Shopify and web analytics from Google Analytics 4 (GA4) or BigQuery. Advanced proficiency in English. How we do make your work (and your life) easier: 100% remote work (from anywhere). Excellent compensation in USD or your local currency if preferred Hardware and software setup for you to work from home. Flexible hours: create your own schedule. Paid parental leaves, vacations, and national holidays. Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent. Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities. Join a global team where your unique talents can truly thrive and make a significant impact! Apply now!
+
+
+--------------------------------------------------------------------------------
+LOW-SCORE SENIOR #10 | SCORE: 49 (Moderate Fit)
+--------------------------------------------------------------------------------
+Titulo:            Senior Business Development Representative (Sbdr)
+Empresa:           CrewBloom
+Portal:            getonbrd
+Key:               crewbloom_senior-business-development-representative-sbdr
+URL:               https://www.getonbrd.com/jobs/senior-business-development-representative-sbdr-crewbloom-remote
+Status:            ranked
+Track:             N/A | Moeda: N/A
+Gates:             Location=PASS | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Trabalho 100% remoto internacional em USD ($1,000 - $1,500/mês)
+Gaps / Motivos do Score Baixo:
+  - Venda ativa de terceirização/BPO (cold calling, outbound, appointment setting) fora da trilha de liderança operacional
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+• 3–6+ years of experience in B2B Business Development, SDR/BDR, Inside Sales, or outbound sales.
+• Proven experience in cold calling, outbound prospecting, lead qualification, and appointment setting.
+• Experience selling staffing, recruitment, outsourcing, BPO, workforce solutions, professional services, or other B2B services is strongly preferred.
+• Proven ability to engage Founders, Owners, C-Suite executives, HR leaders, Operations leaders, and other senior decision-makers.
+• Strong cold-calling, objection-handling, prospecting, qualification, and relationship-building skills.
+• Experience with LinkedIn Sales Navigator, prospecting platforms, and CRM systems such as HubSpot, Salesforce, or Zoho.
+• Strong account research and personalized outreach capabilities.
+• Excellent written and verbal English communication skills, with confidence communicating with US-based prospects.
+• Ability to independently manage a high-volume outbound pipeline and consistently generate qualified sales opportunities.
+• Experience prospecting within Healthcare, Legal, Finance, or other US service-based industries is an advantage.
+
+

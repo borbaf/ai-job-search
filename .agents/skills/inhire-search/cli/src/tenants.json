@@ -1,0 +1,522 @@
+{
+  "acerto": {
+    "name": "Acerto",
+    "count": 2
+  },
+  "agrosearch": {
+    "name": "AGROSearch",
+    "count": 15
+  },
+  "aiko": {
+    "name": "Aiko",
+    "count": 7
+  },
+  "alice": {
+    "name": "Alice",
+    "count": 18
+  },
+  "alicerce": {
+    "name": "Alicerce",
+    "count": 11
+  },
+  "altbank": {
+    "name": "alt.bank",
+    "count": 1
+  },
+  "amcom": {
+    "name": "AMcom",
+    "count": 14
+  },
+  "amicci": {
+    "name": "Amicci",
+    "count": 5
+  },
+  "ampeople": {
+    "name": "AM People",
+    "count": 8
+  },
+  "andrademaia": {
+    "name": "Andrade Maia Advogados",
+    "count": 11
+  },
+  "appmax": {
+    "name": "Appmax",
+    "count": 10
+  },
+  "aprova": {
+    "name": "Aprova",
+    "count": 3
+  },
+  "atlastechnol": {
+    "name": "Atlas",
+    "count": 9
+  },
+  "autoglass": {
+    "name": "Grupo Autoglass",
+    "count": 10
+  },
+  "autom": {
+    "name": "Autom",
+    "count": 2
+  },
+  "bancopine": {
+    "name": "Banco Pine",
+    "count": 19
+  },
+  "bancotoyota": {
+    "name": "Banco Toyota do Brasil",
+    "count": 11
+  },
+  "bazk": {
+    "name": "Bazk",
+    "count": 1
+  },
+  "bilheteriadigital": {
+    "name": "Bilheteria Digital",
+    "count": 1
+  },
+  "bradesco": {
+    "name": "Bradesco",
+    "count": 1
+  },
+  "caf": {
+    "name": "CAF",
+    "count": 7
+  },
+  "caveo": {
+    "name": "Caveo",
+    "count": 10
+  },
+  "cerc": {
+    "name": "CERC",
+    "count": 12
+  },
+  "cielo": {
+    "name": "Cielo",
+    "count": 18
+  },
+  "coaktion": {
+    "name": "coaktion",
+    "count": 8
+  },
+  "cora": {
+    "name": "Cora",
+    "count": 8
+  },
+  "crmbonus": {
+    "name": "CRMBonus",
+    "count": 12
+  },
+  "cubos": {
+    "name": "Cubos Tecnologia",
+    "count": 12
+  },
+  "db1": {
+    "name": "DB1 Group",
+    "count": 46
+  },
+  "deloitte": {
+    "name": "Deloitte",
+    "count": 195
+  },
+  "demo": {
+    "name": "Demo",
+    "count": 256
+  },
+  "digix": {
+    "name": "Digix",
+    "count": 7
+  },
+  "dp6": {
+    "name": "DP6",
+    "count": 3
+  },
+  "dtidigital": {
+    "name": "dti digital",
+    "count": 27
+  },
+  "e-volve": {
+    "name": "e-volve.one",
+    "count": 3
+  },
+  "eclipseworks": {
+    "name": "Eclipseworks",
+    "count": 15
+  },
+  "ecore": {
+    "name": "e-Core",
+    "count": 13
+  },
+  "edge": {
+    "name": "EDGE",
+    "count": 4
+  },
+  "eiti": {
+    "name": "Eiti Gestão de Ti",
+    "count": 2
+  },
+  "elogroup": {
+    "name": "EloGroup",
+    "count": 10
+  },
+  "escoladnc": {
+    "name": "Escola DNC",
+    "count": 3
+  },
+  "essenceit": {
+    "name": "Essence",
+    "count": 12
+  },
+  "estrelabet": {
+    "name": "EstrelaBet",
+    "count": 5
+  },
+  "evolutionmobility": {
+    "name": "EVolution Mobility",
+    "count": 8
+  },
+  "exa": {
+    "name": "EXA",
+    "count": 7
+  },
+  "extremegroup": {
+    "name": "Extreme Digital Solutions",
+    "count": 16
+  },
+  "farme": {
+    "name": "Far.me",
+    "count": 1
+  },
+  "finallevel": {
+    "name": "Final Level",
+    "count": 9
+  },
+  "frameworkdigital": {
+    "name": "Framework",
+    "count": 30
+  },
+  "frete": {
+    "name": "frete.com",
+    "count": 20
+  },
+  "fusionconsultoria": {
+    "name": "FUSION CONSULTORIA",
+    "count": 9
+  },
+  "globalsystem": {
+    "name": "Global System",
+    "count": 5
+  },
+  "goflow": {
+    "name": "GoFlow Consultoria",
+    "count": 13
+  },
+  "grupodislubequador": {
+    "name": "Grupo Dislub Equador",
+    "count": 1
+  },
+  "grupogcb": {
+    "name": "GCB",
+    "count": 16
+  },
+  "grupohub": {
+    "name": "Grupo Hub",
+    "count": 4
+  },
+  "grupolos": {
+    "name": "Grupo LOS",
+    "count": 31
+  },
+  "gx2": {
+    "name": "Vem ser GX2",
+    "count": 9
+  },
+  "happyhouse": {
+    "name": "HappyHouse",
+    "count": 12
+  },
+  "iconit": {
+    "name": "ICON Solutions do Brasil",
+    "count": 62
+  },
+  "in-advanced": {
+    "name": "InHire Advanced (Demonstração)",
+    "count": 4
+  },
+  "intera": {
+    "name": "Intera",
+    "count": 7
+  },
+  "ipnet": {
+    "name": "IPNET by Vivo",
+    "count": 13
+  },
+  "isystems": {
+    "name": "iSystems",
+    "count": 3
+  },
+  "jeitto": {
+    "name": "Jeitto",
+    "count": 12
+  },
+  "kamino": {
+    "name": "Kamino",
+    "count": 3
+  },
+  "kiwify": {
+    "name": "Kiwify",
+    "count": 1
+  },
+  "kobe": {
+    "name": "Kobe Apps",
+    "count": 2
+  },
+  "kpmg": {
+    "name": "KPMG",
+    "count": 160
+  },
+  "labwarebrasil": {
+    "name": "LabWare",
+    "count": 2
+  },
+  "lebes": {
+    "name": "Lebes",
+    "count": 4
+  },
+  "lemonenergia": {
+    "name": "Lemon Energia",
+    "count": 12
+  },
+  "livemode": {
+    "name": "LiveMode",
+    "count": 10
+  },
+  "luby": {
+    "name": "Luby",
+    "count": 6
+  },
+  "magazord": {
+    "name": "Magazord",
+    "count": 22
+  },
+  "matera": {
+    "name": "Matera",
+    "count": 10
+  },
+  "mathgroup": {
+    "name": "MATH",
+    "count": 2
+  },
+  "mazzatech": {
+    "name": "mazzatech",
+    "count": 45
+  },
+  "medway": {
+    "name": "Medway",
+    "count": 15
+  },
+  "meetrox": {
+    "name": "MeetRox",
+    "count": 5
+  },
+  "midhaus": {
+    "name": "Midhaus",
+    "count": 3
+  },
+  "mirum": {
+    "name": "Mirum",
+    "count": 2
+  },
+  "monkey": {
+    "name": "Monkey",
+    "count": 1
+  },
+  "monuv": {
+    "name": "Monuv",
+    "count": 1
+  },
+  "mottu": {
+    "name": "Mottu",
+    "count": 53
+  },
+  "nstech": {
+    "name": "NSTECH",
+    "count": 95
+  },
+  "nuvemshop-tiendanube": {
+    "name": "Nuvemshop",
+    "count": 16
+  },
+  "onbrh": {
+    "name": "On-B RH",
+    "count": 25
+  },
+  "pier": {
+    "name": "Pier Seguradora",
+    "count": 11
+  },
+  "pitang": {
+    "name": "Pitang",
+    "count": 7
+  },
+  "platformbuilders": {
+    "name": "Platform Builders",
+    "count": 3
+  },
+  "poliedroeducacao": {
+    "name": "Poliedro Educação",
+    "count": 39
+  },
+  "praso": {
+    "name": "Praso",
+    "count": 16
+  },
+  "priner": {
+    "name": "Priner",
+    "count": 333
+  },
+  "programmers": {
+    "name": "Programmers - AI, Data & Software",
+    "count": 10
+  },
+  "pronutrition": {
+    "name": "Pronutrition",
+    "count": 13
+  },
+  "qibit": {
+    "name": "Qibit ",
+    "count": 28
+  },
+  "raiadrogasil": {
+    "name": "RD",
+    "count": 4
+  },
+  "rarolabs": {
+    "name": "Raro Labs",
+    "count": 3
+  },
+  "rhopen": {
+    "name": "Rhopen",
+    "count": 2
+  },
+  "safepag": {
+    "name": "safepag",
+    "count": 1
+  },
+  "sales": {
+    "name": "Sales",
+    "count": 9
+  },
+  "salesfarm": {
+    "name": "SalesFarm",
+    "count": 10
+  },
+  "shapedigital": {
+    "name": "Shape Digital",
+    "count": 2
+  },
+  "sharepeoplehub": {
+    "name": "Share People Hub",
+    "count": 77
+  },
+  "solfacil": {
+    "name": "Solfácil",
+    "count": 20
+  },
+  "st-one": {
+    "name": "ST-One",
+    "count": 5
+  },
+  "superlogica": {
+    "name": "Superlógica Tecnologias",
+    "count": 12
+  },
+  "sympla": {
+    "name": "Sympla",
+    "count": 38
+  },
+  "talentflix": {
+    "name": "TalentFlix",
+    "count": 2
+  },
+  "talentt": {
+    "name": "Talentt",
+    "count": 3
+  },
+  "tc": {
+    "name": "TC",
+    "count": 1
+  },
+  "thomascase": {
+    "name": "Thomas Case",
+    "count": 46
+  },
+  "tinnova": {
+    "name": "Tinnova",
+    "count": 5
+  },
+  "tomeducacao": {
+    "name": "Tom Educação",
+    "count": 2
+  },
+  "toroinvestimentos": {
+    "name": "Toro Investimentos",
+    "count": 1
+  },
+  "v4company": {
+    "name": "V4 Company",
+    "count": 972
+  },
+  "vagasbyintera": {
+    "name": "Vagas by Intera",
+    "count": 5
+  },
+  "venturus": {
+    "name": "Venturus",
+    "count": 11
+  },
+  "verticalrh": {
+    "name": "VerticalRH",
+    "count": 6
+  },
+  "vinta": {
+    "name": "Vinta",
+    "count": 2
+  },
+  "vixtra": {
+    "name": "Vixtra",
+    "count": 1
+  },
+  "vocedm": {
+    "name": "vocedm",
+    "count": 74
+  },
+  "vortx": {
+    "name": "Vórtx",
+    "count": 7
+  },
+  "wellz": {
+    "name": "Wellz by Wellhub",
+    "count": 2
+  },
+  "wilsonsonsoffshore": {
+    "name": "Wilson Sons Offshore",
+    "count": 7
+  },
+  "winover": {
+    "name": "Winover",
+    "count": 2
+  },
+  "wsut": {
+    "name": "Wilson Sons Offshore",
+    "count": 19
+  },
+  "yandeh": {
+    "name": "Yandeh",
+    "count": 21
+  },
+  "zallpy": {
+    "name": "Zallpy Digital",
+    "count": 20
+  }
+}

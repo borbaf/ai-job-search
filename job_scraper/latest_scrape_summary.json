@@ -1,0 +1,1401 @@
+{
+  "remotar": {
+    "collected_raw": 80,
+    "new_registered": 67,
+    "failed": false,
+    "error": null,
+    "sample": [
+      {
+        "title": "Site Reliability Engineer (Contract)",
+        "company": "Outpost",
+        "url": "https://remotar.com.br/job/168295",
+        "location": "100% Remoto",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "remotar",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "168295",
+          "title": "Site Reliability Engineer (Contract)",
+          "company": "Outpost",
+          "location": "100% Remoto",
+          "type": "remote",
+          "category": "Programação, DevOps",
+          "salary": "USD 625000 - 750000",
+          "date": "2026-10-26",
+          "url": "https://remotar.com.br/job/168295",
+          "external_url": "https://jobs.ashbyhq.com/outpost/6134bb94-431b-4aa9-9976-5a80996d7eac/application?utm_source=remotar",
+          "description_snippet": "About Us Outpost is building the backbone of freight. We’re reinventing how supply chain infrastructure works in America with carrier agnostic truck terminals. As a vertically integrated real estate, operations, and technology company, we acquire and operate mission-critical real estate across the c...",
+          "description": "About Us Outpost is building the backbone of freight. We’re reinventing how supply chain infrastructure works in America with carrier agnostic truck terminals. As a vertically integrated real estate, operations, and technology company, we acquire and operate mission-critical real estate across the country to serve the largest logistics providers in the world. Backed by $1B from Greenpoint Partners, we’re scaling and building the most valuable logistics network in the country. We thrive on accountability, integrity, and a shared drive to raise the bar. If you’re excited to reshape the industry alongside a high-performance team with a championship mindset that executes relentlessly, welcome aboard. Role Summary Our platform combines AI-powered gate automation, computer vision, and operational software to help logistics operators run smarter, faster facilities. We're a small, high-conviction team shipping real software that ends up in real yards, at real gates, moving real freight; if our system goes down, trucks stop moving and a customer's yard stops running. What we build is mission-critical to the people who depend on it. We’re scaling fast, with load expected to 10X over the next 18 months, and reliability is now core to whether customers trust us to run their gates. We need an SRE to own uptime and incident response as the system grows, and to help the team get proactive about issues instead of reactive. Project Details Own reliability targets across our backend/API, worker services, applications and CV pipeline; MTD, MTM, MTR, and follow-through on root causes. Level up our monitoring and alerting, and build out auto-remediation, so on-call load scales with automation, not headcount. Partner with our agentic engineering work to build agents that triage alerts and handle routine remediation. Harden and optimize our GCP infrastructure (Cloud Run, Cloud SQL, GCS) for cost and performance as load scales. Own database scale and performance; connection pooling, query optimization and indexing, read replicas, and capacity planning, so Postgres doesn't become the bottleneck as data volume grows. Improve the reliability of our ML training and monitoring infrastructure, in partnership with the CV/ML team. Run blameless postmortems and drive fixes for root causes, not just symptoms. Participate in on-call rotation. Qualifications 4+ years in an SRE, infrastructure, or backend engineering role with production on-call ownership. Deep experience with a major cloud provider (GCP preferred); compute, managed databases, object storage, networking. Experience building monitoring/alerting/observability stacks (Grafana, Prometheus, Zabbix, Datadog, or similar). Strong scripting/automation skills (Python, Bash, or similar). Comfortable with containerized workloads (Docker) and CI/CD pipelines. Track record of reducing incident volume or improving reliability metrics — not just responding to incidents. Strong communication skills, comfortable working with both technical and non-technical stakeholders, know when and how to escalate urgency, and build strong working relationships across teams. Strong communication skills in English — you write clearly and engage well async. Preferred Qualifications Experience with ML/data infrastructure — training pipelines, model monitoring, feature stores. Experience building or integrating AI agents for operational automation (alert triage, auto-remediation). Infrastructure-as-code experience (Terraform or similar). PostgreSQL performance tuning at scale. Background supporting physical/IoT systems (edge devices, cameras, on-site hardware). Experience with bare-metal infrastructure in colocation environments, hardware monitoring, redundancy, and failover/high-availability configuration. Our Stack TypeScript / Node.js · Next.js · React · Apollo Server · Express · PostgreSQL · GCP · Docker · Python (ML/data workloads). We’re pragmatic — the right tool matters more than the familiar one. Location Remote — Latin America preferred Working Arrangements This role is a full-time contract position. You’ll work closely with our core engineering team — embedded in our sprints, standups, and Slack channels — but employment is managed through the agency. We’ve built this model successfully with engineers in Latin America, and it’s been a great fit for both sides. Outpost is an Equal Opportunity Employer and Prohibits Discrimination of Any Kind.",
+          "tags": [
+            "💬 Inglês",
+            "✈️ Vaga internacional",
+            "🌍 100% Remoto"
+          ],
+          "requirements": []
+        }
+      },
+      {
+        "title": "Software Engineer (Contract)",
+        "company": "Outpost",
+        "url": "https://remotar.com.br/job/168294",
+        "location": "100% Remoto",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "remotar",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "168294",
+          "title": "Software Engineer (Contract)",
+          "company": "Outpost",
+          "location": "100% Remoto",
+          "type": "remote",
+          "category": "Programação",
+          "date": "2026-10-26",
+          "url": "https://remotar.com.br/job/168294",
+          "external_url": "https://jobs.ashbyhq.com/outpost/cc60a8cc-5da3-4c85-8316-cc617cd1bf55/application?utm_source=remotar",
+          "description_snippet": "About Us Outpost is building the backbone of freight. We’re reinventing how supply chain infrastructure works in America with carrier agnostic truck terminals. As a vertically integrated real estate, operations, and technology company, we acquire and operate mission-critical real estate across the c...",
+          "description": "About Us Outpost is building the backbone of freight. We’re reinventing how supply chain infrastructure works in America with carrier agnostic truck terminals. As a vertically integrated real estate, operations, and technology company, we acquire and operate mission-critical real estate across the country to serve the largest logistics providers in the world. Backed by $1B from Greenpoint Partners, we’re scaling and building the most valuable logistics network in the country. We thrive on accountability, integrity, and a shared drive to raise the bar. If you’re excited to reshape the industry alongside a high-performance team with a championship mindset that executes relentlessly, welcome aboard. Role Summary We’re growing and looking for a Software Engineer who can own features end-to-end — across the full stack, from database to UI — and who are excited to build and improve the internal AI tooling that makes our team faster. This is a generalist role with a genuine opportunity to work on agentic systems and AI-assisted workflows, not a niche ML position. We're a small team competing against much larger ones, and we expect engineers to use AI tools aggressively — LLMs for code generation, debugging, documentation, and ideation. We don't care how much of the code an AI wrote. We care that you ship fast, that you understand everything you ship, and that it works. If you're not already using Cursor, Copilot, Claude, or similar tools as a core part of your workflow, this probably isn't the right fit. Project Details Ship complete, production-ready features end-to-end: backend APIs, frontend UI, database schema, and tests. Build and improve internal AI-powered developer tools — things like automated bug triage, code generation assistants, and agentic workflows that help the team move faster. Integrate LLM APIs and agentic patterns (tool use, multi-step reasoning, prompt pipelines) into product features and internal systems. Own and improve CI/CD pipelines, deployment workflows, and developer infrastructure to keep the team shipping safely and quickly. Participate in code reviews, architecture discussions, and contribute to engineering standards on a small, collaborative team. Debug and resolve production issues across the stack, including working with GCP services and containerized workloads. Qualifications 3–6 years of professional software engineering experience shipping production software. Strong proficiency in TypeScript/Node.js and/or Python — comfortable on both backend and frontend. Experience with React and modern frontend frameworks (Next.js preferred). Solid understanding of relational databases (PostgreSQL) and API design (REST or GraphQL). Practical experience building with LLM APIs — you’ve shipped something with them, not just experimented. Working knowledge of Git workflows, Docker, and containerized environments. Strong communication skills in English — you write clearly and engage well async. Preferred Qualifications Experience with agentic architectures: tool use, agent loops, multi-step LLM pipelines, or frameworks like LangGraph or CrewAI. CI/CD experience: GitHub Actions, deployment pipelines, environment management, or infrastructure-as-code. Familiarity with GCP (Cloud Run, GCS, Pub/Sub, BigQuery) or similar cloud platforms. Experience with RAG systems, vector search, or embedding pipelines. Background working alongside ML or data engineering teams. Prior experience working in a remote, async-first environment with a US-based team. Our Stack TypeScript / Node.js · Next.js · React · Apollo Server · Express · PostgreSQL · GCP · Docker · Python (ML/data workloads). We’re pragmatic — the right tool matters more than the familiar one. Location Remote — Latin America preferred Working Arrangements This role is a full-time contract position. You’ll work closely with our core engineering team — embedded in our sprints, standups, and Slack channels — but employment is managed through the agency. We’ve built this model successfully with engineers in Latin America, and it’s been a great fit for both sides. Outpost is an Equal Opportunity Employer and Prohibits Discrimination of Any Kind.",
+          "tags": [
+            "💬 Inglês",
+            "✈️ Vaga internacional",
+            "🌍 100% Remoto"
+          ],
+          "requirements": []
+        }
+      },
+      {
+        "title": "Assistente Suporte",
+        "company": "nstech",
+        "url": "https://remotar.com.br/job/168228",
+        "location": "Poços de Caldas, MG",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "remotar",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "168228",
+          "title": "Assistente Suporte",
+          "company": "nstech",
+          "location": "Poços de Caldas, MG",
+          "type": "hybrid",
+          "category": "Atendimento & Suporte",
+          "seniority": "Júnior",
+          "date": "2026-10-26",
+          "url": "https://remotar.com.br/job/168228",
+          "external_url": "https://nstech.inhire.app/vagas/33dbe5d1-f47d-4f87-88d7-809b883de4fa/assistente-suporte-or-pocos-de-caldas-mg",
+          "description_snippet": "A nstech, maior plataforma de tecnologia e softwares para logística e supply chain da América Latina, busca um(a) Assistente de Suporte para atuar na KMM, parte do seu ecossistema. O profissional será responsável por gerenciar o ciclo de vida completo de tickets relacionados a crises, incidentes e r...",
+          "description": "A nstech, maior plataforma de tecnologia e softwares para logística e supply chain da América Latina, busca um(a) Assistente de Suporte para atuar na KMM, parte do seu ecossistema. O profissional será responsável por gerenciar o ciclo de vida completo de tickets relacionados a crises, incidentes e requisições na plataforma Movidesk, garantindo a eficiência e segurança das operações logísticas. Responsabilidades Realizar o atendimento e a gestão de ponta a ponta de tickets relacionados a crises, incidentes e requisições da plataforma Movidesk. Atuar no registro, classificação, priorização, tipificação, direcionamento, atualização e encerramento de chamados. Conduzir salas de crise (War rooms) e rotinas de troubleshooting, exercendo liderança operacional e realizando escalonamentos técnicos e funcionais quando necessário. Monitorar proativamente filas de chamados através da ferramenta ITSM. Elaborar e registrar relatórios de Post-Mortem para incidentes críticos e de alto impacto, documentando sintoma, diagnóstico, causa e planos de ação/melhorias no sistema. Acompanhar o cenário de pós-implantação de mudanças programadas, cobrando status, garantindo a comunicação fluida e acionando os times de Customer Success, equipes técnicas e os clientes. Prestar suporte operacional e atendimento ágil a clientes (internos, externos, coordenadores e diretores). Garantir a qualidade nas tratativas de abertura e encerramento dos chamados, mantendo contato contínuo para o posicionamento e resolução de problemas na plataforma.",
+          "tags": [
+            "🐥 Júnior",
+            "🏢 Vaga híbrida"
+          ],
+          "requirements": [
+            "[Obrigatório] Ensino Superior completo ou cursando em Tecnologia da Informação, Ciência da Computação, Sistemas de Informação ou áreas correlatas.",
+            "[Obrigatório] Sólida experiência atuando como Suporte Nível 2, preferencialmente em empresas de software (software house).",
+            "[Obrigatório] Forte experiência técnica na gestão de chamados de suporte e gestão de incidentes, dominando todo o ciclo de vida do ticket (abertura, acompanhamento, escalonamento e resolução/fim).",
+            "[Obrigatório] Vivência prática com ferramentas de gestão de chamados (ITSM), como Movidesk e GLPI.",
+            "[Obrigatório] Conhecimentos em ferramentas de monitoramento de infraestrutura e aplicação, especialmente DataDog, Zabbix e Grafana.",
+            "[Obrigatório] Domínio do Pacote Office (Excel, Word e PowerPoint).",
+            "Excelentes habilidades na gestão e mediação de conflitos, com inteligência emocional para atuar em situações de crises críticas e com clientes sob pressão.",
+            "Forte habilidade de comunicação para conversar com o cliente \"olho a olho\", criando conexões humanizadas, transmitindo transparência e demonstrando empatia.",
+            "Alta capacidade de gerenciar múltiplas atividades simultaneamente, priorizando demandas urgentes de forma assertiva e organizada.",
+            "Experiência prévia com suporte a sistemas voltados para o setor de logística ou ecossistemas de multiembarcadores."
+          ]
+        }
+      },
+      {
+        "title": "Consultor SAP MM Sênior",
+        "company": "THERA CONSULTING",
+        "url": "https://remotar.com.br/job/168221",
+        "location": "100% Remoto",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "remotar",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "168221",
+          "title": "Consultor SAP MM Sênior",
+          "company": "THERA CONSULTING",
+          "location": "100% Remoto",
+          "type": "remote",
+          "category": "Programação",
+          "seniority": "Sênior",
+          "date": "2026-10-26",
+          "url": "https://remotar.com.br/job/168221",
+          "external_url": "https://jobs.recrutei.com.br/thera-consulting/vacancy/163015-consultor-sap-mm-senior?utm_source=remotar",
+          "description_snippet": "A THERACONSULTING busca um Consultor SAP MM Sênior para atuar em projetos de implementação, rollout ou transformação SAP. O profissional será responsável por aplicar seus sólidos conhecimentos em SAP MM e tributação, além de participar ativamente de todas as fases do projeto, desde o levantamento de...",
+          "description": "A THERACONSULTING busca um Consultor SAP MM Sênior para atuar em projetos de implementação, rollout ou transformação SAP. O profissional será responsável por aplicar seus sólidos conhecimentos em SAP MM e tributação, além de participar ativamente de todas as fases do projeto, desde o levantamento de requisitos até o Go-Live e Hypercare. Responsabilidades Atuar com Cadastro de Materiais e Fornecedores (Business Partner). Gerenciar Requisições e Pedidos de Compra, Contratos e Acordos de Fornecimento. Configurar Estratégias de Liberação (Approval Workflow). Realizar Recebimento de Mercadorias, Devoluções e Verificação de Faturas. Gerenciar Estoques, Inventário Físico e Avaliação de Materiais. Definir Determinação Automática de Contas. Gerenciar Serviços (Service Procurement) e Compras Nacionais e Importação. Configurar o módulo MM. Analisar a tributação incidente nos processos de compras: ICMS, ICMS-ST, IPI, PIS, COFINS, ISS, DIFAL, Retenções na Fonte, Benefícios Fiscais e Créditos Tributários. Entender os impactos da Reforma Tributária sobre CBS, IBS, Imposto Seletivo, Créditos Financeiros, Créditos Tributários na Cadeia de Suprimentos, Tributação no Destino, Split Payment, novos documentos fiscais e obrigações acessórias. Atuar com as integrações entre SAP MM x FI, SAP MM x CO, SAP MM x SD, SAP MM x WM/EWM, SAP MM x PP, SAP MM x Soluções Fiscais e SAP Ariba. Trabalhar com processos de recebimento eletrônico de documentos fiscais, entrada de notas fiscais, gestão de inventário e integrações relacionadas aos processos de Procurement e Supply Chain. Participar de projetos de implementação, rollout ou transformação SAP. Realizar levantamento de requisitos e workshops com áreas de negócio. Elaborar Blueprint/Design Solution e especificações funcionais. Executar testes unitários, testes integrados e UAT. Acompanhar Go-Live e Hypercare. Realizar migração de dados mestres e definição de processos de suprimentos e gestão de materiais. Participar de projetos de assessment ou implementação relacionados à Reforma Tributária. Atuar em iniciativas de adequação dos processos de compras, suprimentos e recebimento fiscal. Avaliar os impactos tributários nos processos Procure-to-Pay (P2P), revisão das regras de créditos tributários, adequação de cadastros de materiais e fornecedores, revisão de integrações fiscais e avaliação dos impactos sobre custos e estoques.",
+          "tags": [
+            "🤝🏽 PJ",
+            "🧓🏽 Sênior",
+            "🌍 100% Remoto"
+          ],
+          "requirements": [
+            "[Obrigatório] Experiência de 5+ anos em SAP MM.",
+            "[Obrigatório] Sólidos conhecimentos em Cadastro de Materiais, Cadastro de Fornecedores (Business Partner), Gestão de Requisições de Compra, Gestão de Pedidos de Compra, Contratos de Compras, Acordos de Fornecimento (Scheduling Agreements), Estratégias de Liberação (Approval Workflow), Recebimento de Mercadorias (Goods Receipt), Devoluções a Fornecedores, Verificação de Faturas (Invoice Verification), Gestão de Estoques, Inventário Físico, Avaliação de Materiais, Determinação Automática de Contas, Gestão de Serviços (Service Procurement) e Compras Nacionais e Importação.",
+            "[Obrigatório] Experiência em configuração (customizing) do módulo MM.",
+            "[Obrigatório] Conhecimento da tributação incidente nos processos de compras: ICMS, ICMS-ST, IPI, PIS, COFINS, ISS, DIFAL, Retenções na Fonte, Benefícios Fiscais e Créditos Tributários.",
+            "[Obrigatório] Entendimento dos impactos da Reforma Tributária sobre CBS, IBS, Imposto Seletivo, Créditos Financeiros, Créditos Tributários na Cadeia de Suprimentos, Tributação no Destino, Split Payment, novos documentos fiscais, obrigações acessórias e impactos nos processos Procure-to-Pay (P2P).",
+            "[Obrigatório] Conhecimento das integrações entre SAP MM x FI, SAP MM x CO, SAP MM x SD, SAP MM x WM/EWM, SAP MM x PP, SAP MM x Soluções Fiscais e SAP Ariba.",
+            "[Obrigatório] Experiência com processos de recebimento eletrônico de documentos fiscais, entrada de notas fiscais, gestão de inventário e integrações relacionadas aos processos de Procurement e Supply Chain.",
+            "[Obrigatório] Participação em projetos de implementação, rollout ou transformação SAP.",
+            "[Obrigatório] Experiência em levantamento de requisitos, workshops com áreas de negócio, Blueprint/Design Solution, elaboração de especificações funcionais, testes unitários, testes integrados, UAT, Go-Live e Hypercare.",
+            "[Obrigatório] Experiência em migração de dados mestres e definição de processos de suprimentos e gestão de materiais.",
+            "Conhecimento em SAP S/4HANA Sourcing and Procurement, Business Partner (BP), Fiori Apps, Flexible Workflow, Material Ledger, Embedded Analytics e Advanced ATP.",
+            "Conhecimento em soluções fiscais como SAP DRC (Document and Reporting Compliance), SAP TDF (Tax Declaration Framework), Thomson Reuters, Sovos, Synchro e Mastersaf.",
+            "Conhecimento em SAP Ariba, SAP EWM, SAP IBP, SAP MDG-M, Strategic Sourcing e Supplier Lifecycle Management.",
+            "Experiência em projetos de assessment ou implementação relacionados à Reforma Tributária.",
+            "Participação em iniciativas de adequação dos processos de compras, suprimentos e recebimento fiscal.",
+            "Experiência na avaliação dos impactos tributários nos processos Procure-to-Pay (P2P), revisão das regras de créditos tributários, adequação de cadastros de materiais e fornecedores, revisão de integrações fiscais e avaliação dos impactos sobre custos e estoques."
+          ]
+        }
+      },
+      {
+        "title": "Analista de Implantação Sênior",
+        "company": "nstech",
+        "url": "https://remotar.com.br/job/168106",
+        "location": "100% Remoto",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-23",
+        "portal": "remotar",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "168106",
+          "title": "Analista de Implantação Sênior",
+          "company": "nstech",
+          "location": "100% Remoto",
+          "type": "remote",
+          "category": "Administrativo / Financeiro / Operações",
+          "seniority": "Sênior",
+          "date": "2026-10-23",
+          "url": "https://remotar.com.br/job/168106",
+          "external_url": "https://nstech.inhire.app/vagas/234af2a8-5172-4f14-8404-532ff8742e50/analista-de-implantacao-senior-or-remoto",
+          "description_snippet": "A nstech, maior plataforma de tecnologia e softwares para logística e supply chain da América Latina, busca um Analista de Implantação Sênior para atuar no time de Implantação da Multisoftware. O profissional será responsável por apoiar na implantação de soluções, acompanhamento de atividades, inter...",
+          "description": "A nstech, maior plataforma de tecnologia e softwares para logística e supply chain da América Latina, busca um Analista de Implantação Sênior para atuar no time de Implantação da Multisoftware. O profissional será responsável por apoiar na implantação de soluções, acompanhamento de atividades, interação com clientes e áreas internas, além de garantir a qualidade e cumprimento dos prazos estabelecidos. Responsabilidades Realizar o onboarding do cliente. Analisar o processo logístico do cliente para compor o detalhamento de escopo. Diagnosticar a logística do cliente para encontrar problemas e propor soluções. Treinar usuários. Parametrizar o ambiente. Realizar o processo de testes e2e do TMS. Parametrizar e testar integração com ERP e sistemas satélites. Operacionalizar o sistema em determinados casos.",
+          "tags": [
+            "🧓🏽 Sênior",
+            "🌍 100% Remoto"
+          ],
+          "requirements": [
+            "[Obrigatório] Conhecimentos e experiência em logística.",
+            "[Obrigatório] Ensino superior em administração, logística, tecnologia ou áreas correlatas.",
+            "[Obrigatório] Bons conhecimentos com sistemas.",
+            "Experiência anterior em implantação.",
+            "Experiência prévia com o software TMS MultiEmbarcador.",
+            "Conhecimentos em inglês.",
+            "Conhecimentos em espanhol.",
+            "Experiência prévia com grandes embarcadores."
+          ]
+        }
+      }
+    ]
+  },
+  "hirelatam": {
+    "collected_raw": 16,
+    "new_registered": 3,
+    "failed": false,
+    "error": null,
+    "sample": [
+      {
+        "title": "Remote Customer Experience, Retention & AI Operations Manager (DTC Ecommerce)",
+        "company": "HireLATAM",
+        "url": "https://recruiterflow.com/hirelatam/jobs/1743",
+        "location": "Latin America",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-09-29T16:06:07+0000",
+        "portal": "hirelatam",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "1743",
+          "title": "Remote Customer Experience, Retention & AI Operations Manager (DTC Ecommerce)",
+          "company": "HireLATAM",
+          "location": "Latin America",
+          "date": "2026-09-29T16:06:07+0000",
+          "url": "https://recruiterflow.com/hirelatam/jobs/1743",
+          "work_mode": "remote",
+          "department": "Customer Service",
+          "description": null
+        }
+      },
+      {
+        "title": "Remote Executive Operations & Business Systems Specialist",
+        "company": "HireLATAM",
+        "url": "https://recruiterflow.com/hirelatam/jobs/1629",
+        "location": "Mexico , Colombia, Argentina , Venezuela, Honduras, Nicaragua, Guatemala, Costa Rica, Chile, Dominican Republic, Ecuador, El Salvador, Panama, Uruguay, Peru, Latin America, Guyana, Jamaica, Belize",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-07-30T22:17:46+0000",
+        "portal": "hirelatam",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "1629",
+          "title": "Remote Executive Operations & Business Systems Specialist",
+          "company": "HireLATAM",
+          "location": "Mexico , Colombia, Argentina , Venezuela, Honduras, Nicaragua, Guatemala, Costa Rica, Chile, Dominican Republic, Ecuador, El Salvador, Panama, Uruguay, Peru, Latin America, Guyana, Jamaica, Belize",
+          "date": "2026-07-30T22:17:46+0000",
+          "url": "https://recruiterflow.com/hirelatam/jobs/1629",
+          "work_mode": "remote",
+          "department": "Human Resources",
+          "description": null
+        }
+      },
+      {
+        "title": "Remote Development & Construction Manager",
+        "company": "HireLATAM",
+        "url": "https://recruiterflow.com/hirelatam/jobs/704",
+        "location": "Latin America",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-16T19:03:41+0000",
+        "portal": "hirelatam",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "704",
+          "title": "Remote Development & Construction Manager",
+          "company": "HireLATAM",
+          "location": "Latin America",
+          "date": "2026-10-16T19:03:41+0000",
+          "url": "https://recruiterflow.com/hirelatam/jobs/704",
+          "work_mode": "remote",
+          "department": "Operations",
+          "description": null
+        }
+      }
+    ]
+  },
+  "solvoglobal": {
+    "collected_raw": 12,
+    "new_registered": 0,
+    "failed": false,
+    "error": null,
+    "sample": []
+  },
+  "getonbrd": {
+    "collected_raw": 37,
+    "new_registered": 19,
+    "failed": false,
+    "error": null,
+    "sample": [
+      {
+        "title": "Amazon Brand Manager",
+        "company": "The Shipping Store",
+        "url": "https://www.getonbrd.com/jobs/amazon-brand-manager-the-shipping-store-remote",
+        "location": "Remote (remote_local)",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "getonbrd",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "amazon-brand-manager-the-shipping-store-remote",
+          "title": "Amazon Brand Manager",
+          "company": "The Shipping Store",
+          "location": "Remote (remote_local)",
+          "country": "Remote",
+          "remote": true,
+          "remote_modality": "remote_local",
+          "salary": "$3000 - $4500 USD/month",
+          "date_posted": "2026-10-23T18:17:27.000Z",
+          "url": "https://www.getonbrd.com/jobs/amazon-brand-manager-the-shipping-store-remote",
+          "description": "• 4+ years hands-on Amazon brand or account management with direct P&L ownership\n• Launches you've taken to target velocity - with the numbers to show it\n• Hands-on PPC - you can run campaigns yourself and set the strategy when automation executes it\n• You make decisions from data, not guesses\n• Seller Central, PPC tools, DataDive / Helium 10 / Keepa, profit tools like Sellerboard, Excel / Google Sheets\n• Fluent written English; clear, proactive communication; you bring recommendations, not questions",
+          "functions": "Portfolio Ownership• Own a portfolio of product families end to end - measured on contribution profit, revenue, TACoS and launch results\n• Make one move at a time, log it with its hypothesis, and judge it when it's due\n• Report weekly through your scorecard and our weekly brand-manager pod\nLaunches• Take new products in your portfolio from go-live to target velocity using our launch playbook - pricing, campaigns, Vine, the 3-week check and the moves after it\n• Know when a launch isn't working, and recommend whether to push, change course or discontinue\nPPC & Pricing• Run PPC on your own families - bids, keywords, negatives, targets, budgets - with our automation or by hand. No approval needed.\n• Set prices and coupons within clear limits; bring a recommendation when you want to go beyond them\nListings & Creative• Run image, A+, title and bullet tests, briefed to our in-house creative team\n• Work with listing ops on bigger listing and variation changes\nProtecting the Core• Keep your top families in stock and defended\n• Flag stock risk to supply chain early and share projections before a push",
+          "requirements": "• Have managed a large, variation-heavy catalog\n• Have B2B or Amazon Business experience\n• Know Vine and parent/child listing strategy\n• Have launched products in batches\n• Use AI tools (Claude/ChatGPT) to work faster and sharper",
+          "benefits": "• $3,000-$6,000/month depending on experience, full-time, fully remote (Latin America, 4+ hours overlap with US business hours)\n• Report directly to the COO - no layers of management\n• Real ownership from day one, with clear decision rights that widen as your results hold\n• Our own automation and data, so your time goes to decisions, not reporting\n• A weekly pod where brand managers share what works and improve the playbooks together\n• Long-term role with real growth opportunity\nReady to Apply?\n\nSubmit your resume through Get on Board. Once we receive your application, we will send you a short questionnaire (about 20 minutes) to complete. Only candidates who complete the questionnaire will move forward to the next stage of the hiring process."
+        }
+      },
+      {
+        "title": "Asistente Operativo Primera Milla",
+        "company": "Enviame",
+        "url": "https://www.getonbrd.com/jobs/asistente-operativo-primera-milla-enviame-remote",
+        "location": "Remote (remote_local)",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "getonbrd",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "asistente-operativo-primera-milla-enviame-remote",
+          "title": "Asistente Operativo Primera Milla",
+          "company": "Enviame",
+          "location": "Remote (remote_local)",
+          "country": "Remote",
+          "remote": true,
+          "remote_modality": "remote_local",
+          "salary": "$800 - $800 USD/month",
+          "date_posted": "2026-10-21T14:19:17.000Z",
+          "url": "https://www.getonbrd.com/jobs/asistente-operativo-primera-milla-enviame-remote",
+          "description": "• Enseñanza Media (Bachiller) Completa (Graduado)\n• Mínimo 6 meses en cargos de atención al cliente o logística operativa.\n• Deseable Título Técnico en Administración de empresas, logística o afín.\n• Deseable Curso o especialización en atención al cliente y resolución de conflicto.\n• Deseable Conocimiento general de terminología logística eCommerce",
+          "functions": "Funciones del cargoEl Asistente Operativo Logístico busca garantizar la continuidad y eficiencia de la primera milla y los procesos de retiro, actuando como soporte logístico de Nivel 1 para Sellers y Couriers. Esto se logra resolviendo ágilmente alertas de recolección, tickets y requerimientos diarios en terreno bajo procedimientos estandarizados (SOP). Asimismo, asegura el monitoreo de los retiros pendientes, la comunicación proactiva sobre la carga y la depuración documentada de incidencias complejas para su escalamiento, asegurando que el inicio de la cadena logística fluya sin interrupciones.\n\nSus funciones son:\n\n• Clasificación y Resolución de Primera Milla (Nivel 1): Centralizar, categorizar por prioridad y resolver bajo SOP todas las alertas simples (cancelaciones, agendamientos) y solicitudes logísticas de Sellers y Couriers. Asegurar la trazabilidad del ticket desde su apertura hasta su cierre, evitando duplicidades y casos sin seguimiento.\n• Revisión de Retiros (+24h): Monitorear e impulsar al inicio del turno todos los retiros de Primera Milla que quedaron pendientes, reprogramados o rezagados del día anterior.\n• Soporte y Comunicación de retiros: Entregar información proactiva y respuestas a Sellers y Couriers sobre incidencias en ruta, estado de retiros y confirmaciones de carga.\n• Depuración y Escalamiento Calificado: Recopilar y documentar antecedentes verificados (evidencias, orden de retiro, historial de ruta) de incidencias críticas antes de derivar un caso a Nivel 2 (Coordinador).",
+          "requirements": "Debido a la gran cantidad de postulaciones que recibimos en nuestros anuncios, el proceso de revisión puede tomar tiempo. Además, es importante considerar que postular a la vacante no garantiza la participación en el proceso de selección.\nSi tras la revisión, consideramos que tu perfil cumple con los requisitos del cargo, te contactaremos para invitarte a la siguiente etapa.",
+          "benefits": "• Trabajo desde casa (Homeoffice).\n• Early Friday (Día viernes salida a las 16:30 hrs).\n• El día de tu cumpleaños tienes libre o puedes elegir uno de esa semana.\n• Estructura de trabajo horizontal, valoramos la comunicación y abordar situaciones como equipo.\n• Espacios de aprendizaje y capacitación mediante la adquisición de experiencia constante en este dinámico rubro.\n• Oportunidades de desarrollo y crecimiento profesional en un entorno dinámico.\n• Colaboración con un equipo experimentado y apoyo para el aprendizaje continuo.\n• Consideramos importante que tengas tiempo libre con tu familia, amigos, hobbies, etc. Por tanto, tenemos políticas orientadas a regalarle tiempo a nuestros colaboradores.\n• Contamos con Telemedicina 24/7, consultas psicológicas ilimitadas, Apps de Meditación y Fitness.\n¡Te invitamos a vivir la experiencia de formar parte de Envíame!\n¡Nos vemos pronto Explorador/a!\n¡Mucho éxito!"
+        }
+      },
+      {
+        "title": "Senior Cloud Engineer",
+        "company": "World Wildlife Fund, Inc.",
+        "url": "https://www.getonbrd.com/jobs/senior-cloud-engineer-world-wildlife-fund-inc-remote",
+        "location": "Remote (remote_local)",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "getonbrd",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "senior-cloud-engineer-world-wildlife-fund-inc-remote",
+          "title": "Senior Cloud Engineer",
+          "company": "World Wildlife Fund, Inc.",
+          "location": "Remote (remote_local)",
+          "country": "Remote",
+          "remote": true,
+          "remote_modality": "remote_local",
+          "salary": "$3400 - $4400 USD/month",
+          "date_posted": "2026-10-22T21:08:21.000Z",
+          "url": "https://www.getonbrd.com/jobs/senior-cloud-engineer-world-wildlife-fund-inc-remote",
+          "description": "Key Competencies• Ability to Multitask. Demonstrates strong technical and operational agility, effectively navigating complex business and cloud environments to deliver tailored, high-quality support across WWF’s Azure and multi-cloud platforms.\n• Solution-Oriented and Strategic Collaboration. Clear, influential communicator who leads projects end-to-end, ensuring alignment, transparency, and active engagement with stakeholders across technical and non-technical teams.\n• Growth Mindset. Demonstrates a strong growth mindset, continually expanding expertise in evolving cloud, automation, and security technologies and applying new knowledge to strengthen WWF’s technical capabilities.\n• Big Picture Thinking. Strategic acumen complemented by robust technical proficiency Collaborative.\n• Collaborative. Proven ability to work effectively as part of a team \n• Project Management. Strong organizational, documentation, and project management capabilities, including development of comprehensive project plans\nSkills and Abilities• Degree in IT or related field AND minimum of 8 years of work experience (including at least 6 years of experience in IT)\n• MUST HAVE Verbal and written fluency in English and Spanish\n• Experience managing large-scale enterprise IT systems\n• Extensive hands-on experience managing highly available and resilient Azure production systems.\n• In-depth knowledge of Microsoft Azure services, cloud architecture, cloud networking, Entra ID, Microsoft 365, and Windows and Linux servers\n• Proficient in managing Windows domains and Active Directory\n• Expertise in using PowerShell and Graph API for Azure management, workflow automation, and deployment orchestration\n• Familiarity with provisioning and managing access for technologies such as Fabric, Power BI, and Azure Foundry\n• Experience integrating Microsoft Copilot for M365, Copilot Studio, and Copilot Agents into enterprise Azure/M365 environments, including configuration and governance of data access controls\n• Significant expertise in building, deploying, and managing virtual machines in Azure from inception\n• History of applying structured thinking to diagnose complex cloud or hybrid system issues and develop scalable, sustainable solutions.\n• Well-honed methodologies for diagnosing and troubleshooting technical issues.\n• Broad enterprise scale expertise across infrastructure, Azure cloud architecture, identity and access management with Entra ID, and emerging AI‐ driven‐ automation technologies—enabling the evaluation and recommendation of modernization opportunities, security improvements, and strategic technology replacements. \n• Skills in configuring Microsoft Entra tenants and domains, including DNS and VNET setup.\n• Committed to building and strengthening a culture of inclusion within and across teams.\n• Identifies and aligns with WWF’s core values:• COURAGE – We demonstrate courage through our actions, we work for change where it’s needed, and we inspire people and institutions to tackle the greatest threats to nature and the future of the planet, which is our home.\n• INTEGRITY – We live the principles we call on others to meet. We act with integrity, accountability and transparency, and we rely on facts and science to guide us and to ensure that we learn and evolve.\n• RESPECT – We honor the voices and knowledge of people and communities that we serve, and we work to secure their rights to a sustainable future. \n• COLLABORATION – We deliver impact at the scale of the challenges we face through the power of collective action and innovation.",
+          "functions": "Own Our Azure Infrastructure• You'll be the architect behind WWF's Azure environment, spinning up subscriptions, provisioning resources, and building/deploying VMs (Windows, SQL, Red Hat, firewalls) from the ground up in both production and staging.\nLock Down Security & Identity• Configure Microsoft Entra tenants, manage SSO through Azure Enterprise Apps, and keep our RBAC and user groups clean and secure.\n• You'll patch systems proactively and use PowerShell + Graph API to automate the boring stuff so the important stuff runs smoother.\nBe Our Safety Net• Design backup strategies and disaster recovery playbooks that actually work when it matters.\n• You're the reason we sleep at night knowing our systems can bounce back from anything.\nKeep Everything Connected• Troubleshoot networking across VNETs, sites, and tenants.\n• Firewalls, load balancers, DNS (Azure + Cloudflare), you speak the language fluently and fix problems before they become fires.\nBe the Go-To Expert• When Azure, Entra ID, or M365 issues get complicated, you're who the team calls.\n• You'll lead projects end-to-end and keep stakeholders, technical and non-technical alike, in the loop every step of the way.\nShow Up When It Counts• Occasional after-hours or weekend work for critical outages or planned maintenance, because uptime matters, and so does the team that protects it.",
+          "requirements": "",
+          "benefits": "Remuneration: Salary and benefits for this position will be paid in local currency.\nPlease note: Candidates must be currently based and authorized to work in Mexico"
+        }
+      },
+      {
+        "title": "Jefe(a) de Procesos y Gestión de Demanda",
+        "company": "BNP Paribas Cardif",
+        "url": "https://www.getonbrd.com/jobs/jefe-a-de-procesos-y-gestion-de-demanda-bnp-paribas-cardif-santiago",
+        "location": "Chile",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "getonbrd",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "jefe-a-de-procesos-y-gestion-de-demanda-bnp-paribas-cardif-santiago",
+          "title": "Jefe(a) de Procesos y Gestión de Demanda",
+          "company": "BNP Paribas Cardif",
+          "location": "Chile",
+          "country": "Chile",
+          "remote": false,
+          "remote_modality": "hybrid",
+          "date_posted": "2026-10-22T18:50:37.000Z",
+          "url": "https://www.getonbrd.com/jobs/jefe-a-de-procesos-y-gestion-de-demanda-bnp-paribas-cardif-santiago",
+          "description": "a. FormaciónIngeniero Industrial, Comercial y afines.\n\nb. Experiencia RequeridaAl menos 5 años de experiencia profesional; 3 años liderando equipos y experiencia previa en gestión de procesos y administración de demanda. Experiencia en coordinación transversal y gestión de prioridades múltiples.",
+          "functions": "Gestión y optimización de procesos● Liderar levantamiento, análisis, modelamiento, documentación y mejora continua de procesos\n\n● Identificar oportunidades de simplificación, estandarización, automatización y eficiencia operativa\n\n● Mantener actualizada la arquitectura de procesos, definición de controles, responsables e indicadores\n\n● Evaluar impactos operacionales/transversales derivados de cambios y promover mejores prácticas\n\nGestión integral de la demanda● Canalizar, registrar, clasificar y priorizar requerimientos según valor, urgencia e impacto\n\n● Coordinar factibilidad técnico-operativa con Tecnología y consolidar estado/prioridades\n\n● Monitorear acuerdos, plazos e indicadores de demanda, impulsando la mejora del flujo\n\nArticulación negocio y Tecnología● Actuar como nexo entre áreas usuarias y Tecnología, asegurando la definición de requerimientos y criterios de aceptación\n\n● Coordinar dependencias interáreas, respaldar la toma de decisiones y asegurar trazabilidad del ciclo de vida de requerimientos\n\nGestión de eficiencia y mejora continua● Identificar e impulsar soluciones que reduzcan tareas manuales, reprocesos, tiempos y costos\n\n● Evaluar beneficios esperados, medir resultados y optimizar la capacidad/productividad del equipo\n\nGestión de indicadores y reportería● Definir, monitorear y elaborar tableros de control e informes ejecutivos de procesos y demanda\n\n● Identificar cuellos de botella y desviaciones, presentando recomendaciones operativas y estratégicas\n\nLiderazgo y gestión del equipo● Liderar y orientar al equipo, promoviendo autonomía, cultura de calidad y pensamiento crítico\n\n● Definir objetivos, planes de trabajo, equilibrar carga laboral y brindar retroalimentación continua\n\nRiesgo, control y cumplimiento● Asegurar que el análisis de procesos e iniciativas considere riesgos operacionales, controles y regulaciones\n\n● Coordinar con Riesgo, Cumplimiento y Seguridad de la Información, garantizando seguimiento de brechas y trazabilidad de decisiones",
+          "requirements": "• Conocimientos avanzados de Seguros (excluyente)\n• Modelamiento de procesos BPMN avanzado (excluyente)\n• Manejo de herramientas de gestión de procesos Bizagi/VISIO (excluyente)\n• Excel intermedio (excluyente)\n• Power BI básico\n• Metodologías ágiles, gestión de proyectos y priorización de demanda\n• Liderazgo y gestión de stakeholders\n• Pensamiento analítico/sistémico\n• Comunicación efectiva\n• Orientación a resultados\n• Resolución de problemas",
+          "benefits": "• 40 horas semanales en horarios flexibles y los viernes salimos a las 14:00\n• ¡Tenemos más vacaciones y días libres! Una semana adicional de vacaciones + 1 día libre considerando tu cumpleaños y quehaceres personales\n• Apoyamos tu formación profesional: Acceso ilimitado a nuestra plataforma Coursera y dos días libres al año por estudios\n• Cardif te cuida: Contarás con telemedicina gratis, seguro de vida, de salud y dental\n• Queremos que seas tú mismo: Contamos con política de vestimenta flexible\nY muchos otros beneficios que podrás conocer al avanzar en nuestro proceso de selección...\n\n¿Te sumas a la revolución de la industria del seguro? Esperamos tu postulación ¡seguro y con todo!\n\n“Todas las contrataciones están sujetas a la ley 21015. En BNP Paribas Cardif creemos en lugares de trabajos inclusivos y diversos, donde todas las personas son bienvenidas. En caso de necesitar adaptaciones para ser parte de nuestro proceso de selección, favor comunicarlo en la sección de preguntas.”"
+        }
+      },
+      {
+        "title": "Senior Go Engineer",
+        "company": "Improving",
+        "url": "https://www.getonbrd.com/jobs/go-engineer-microservices-improving-remote",
+        "location": "Remote (remote_local)",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "getonbrd",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "go-engineer-microservices-improving-remote",
+          "title": "Senior Go Engineer",
+          "company": "Improving",
+          "location": "Remote (remote_local)",
+          "country": "Remote",
+          "remote": true,
+          "remote_modality": "remote_local",
+          "date_posted": "2026-10-20T16:13:27.000Z",
+          "url": "https://www.getonbrd.com/jobs/go-engineer-microservices-improving-remote",
+          "description": "Bachelor’s Degree in Computer Science or related field (preferred)\n\n• 5-7+ years of professional software engineering experience\n• 3+ years of experience building and operating production backend services in Go\n• Strong experience designing and implementing microservice architectures\n• Experience building RESTful APIs and/or event-driven services\n• Deep understanding of distributed systems concepts (service discovery, load balancing, circuit breaking, retries, idempotency)\n• Experience with synchronous and asynchronous communication patterns (HTTP/gRPC, messaging systems)\n• Experience working with relational and/or NoSQL databases in a service-oriented architecture\n• Deep experience with cloud platforms (AWS, Azure, or GCP), including managed services, IAM, and infrastructure-as-code\n• Strong debugging, performance tuning, and production support experience\n• Strong problem-solving skills and architectural judgment\n• Excellent communication skills and collaborative mindset\n• Strong sense of ownership and accountability\n• Demonstrated ability to mentor engineers and elevate team technical capability.\n• ADVANCED ENGLISH IS A MUST , you won't be considered if your are not fluent thank you!",
+          "functions": "• Lead the design and development of scalable, resilient microservices using Go, setting patterns and standards for the broader engineering team\n• Define and maintain clear API contracts (REST and/or event-driven interfaces) between services\n• Architect distributed systems with a focus on reliability, scalability, and fault tolerance\n• Implement inter-service communication patterns (synchronous and asynchronous)\n• Design and manage service-level database schemas and data ownership models\n• Build and maintain responsive front-end components that consume backend services\n• Implement observability practices including logging, monitoring, tracing, and alerting\n• Lead code reviews, mentor engineers across experience levels, and champion engineering best practices organization-wide\n• Partner cross-functionally with DevOps, QA, product, and design teams; serve as a technical liaison and contribute to roadmap and architecture decisions\n• Document service architecture, APIs, and operational procedures",
+          "requirements": "• Experience with event streaming platforms (Kafka, Pub/Sub, NATS)\n• Experience with API gateways and service meshes\n• Experience implementing authentication and authorization (OAuth2, JWT, SSO)\n• Familiarity with domain-driven design (DDD) principles\n• Experience working in Agile/Scrum development environments",
+          "benefits": "• Contrato a largo plazo.\n• 100% Remoto.\n• Vacaciones y PTOs\n• Posibilidad de recibir 2 bonos al año.\n• 2 revisiones salariales al año.\n• Clases de inglés.\n• Equipamiento Apple.\n• Plataforma de cursos en linea\n• Budget para compra de libros.\n• Budget para compra de materiales de trabajo\n• mucho mas.."
+        }
+      }
+    ]
+  },
+  "dynamitejobs": {
+    "collected_raw": 31,
+    "new_registered": 9,
+    "failed": false,
+    "error": null,
+    "sample": [
+      {
+        "title": "Demand Planner",
+        "company": "Olipop",
+        "url": "https://dynamitejobs.com/company/olipop/remote-job/demand-planner-2",
+        "location": "Remote",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "dynamitejobs",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "olipop/demand-planner-2",
+          "title": "Demand Planner",
+          "company": "Olipop",
+          "location": "Remote",
+          "date": null,
+          "url": "https://dynamitejobs.com/company/olipop/remote-job/demand-planner-2",
+          "work_mode": "remote",
+          "description": null
+        }
+      },
+      {
+        "title": "Order Processing Associate",
+        "company": "Fresh Prints",
+        "url": "https://dynamitejobs.com/company/freshprints/remote-job/order-processing-associate",
+        "location": "Remote",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "dynamitejobs",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "freshprints/order-processing-associate",
+          "title": "Order Processing Associate",
+          "company": "Fresh Prints",
+          "location": "Remote",
+          "date": null,
+          "url": "https://dynamitejobs.com/company/freshprints/remote-job/order-processing-associate",
+          "work_mode": "remote",
+          "description": null
+        }
+      },
+      {
+        "title": "Order Management Executive",
+        "company": "Fresh Prints",
+        "url": "https://dynamitejobs.com/company/freshprints/remote-job/order-management-executive",
+        "location": "Remote",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "dynamitejobs",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "freshprints/order-management-executive",
+          "title": "Order Management Executive",
+          "company": "Fresh Prints",
+          "location": "Remote",
+          "date": null,
+          "url": "https://dynamitejobs.com/company/freshprints/remote-job/order-management-executive",
+          "work_mode": "remote",
+          "description": null
+        }
+      },
+      {
+        "title": "IT Support & Logistics Specialist",
+        "company": "Proper AI",
+        "url": "https://dynamitejobs.com/company/properai/remote-job/it-support-logistics-specialist",
+        "location": "Remote",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "dynamitejobs",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "properai/it-support-logistics-specialist",
+          "title": "IT Support & Logistics Specialist",
+          "company": "Proper AI",
+          "location": "Remote",
+          "date": null,
+          "url": "https://dynamitejobs.com/company/properai/remote-job/it-support-logistics-specialist",
+          "work_mode": "remote",
+          "description": null
+        }
+      },
+      {
+        "title": "Operations Generalist",
+        "company": "Storyteller",
+        "url": "https://dynamitejobs.com/company/storyteller/remote-job/operations-generalist-2",
+        "location": "Remote",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "dynamitejobs",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "storyteller/operations-generalist-2",
+          "title": "Operations Generalist",
+          "company": "Storyteller",
+          "location": "Remote",
+          "date": null,
+          "url": "https://dynamitejobs.com/company/storyteller/remote-job/operations-generalist-2",
+          "work_mode": "remote",
+          "description": null
+        }
+      }
+    ]
+  },
+  "himalayas": {
+    "collected_raw": 14,
+    "new_registered": 12,
+    "failed": false,
+    "error": null,
+    "sample": [
+      {
+        "title": "Supply Chain Contracts Specialist",
+        "company": "MKS Instruments",
+        "url": "https://himalayas.app/companies/mks-instruments/jobs/supply-chain-contracts-specialist",
+        "location": "United States",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "himalayas",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "https://himalayas.app/companies/mks-instruments/jobs/supply-chain-contracts-specialist",
+          "title": "Supply Chain Contracts Specialist",
+          "company": "MKS Instruments",
+          "company_slug": "mks-instruments",
+          "location": "United States",
+          "location_restrictions": [
+            "United States"
+          ],
+          "seniority": [
+            "Mid-level"
+          ],
+          "employment_type": "Full Time",
+          "categories": [
+            "Supply-Chain-Contracts-Specialist",
+            "Commercial-Contracts-Specialist",
+            "Contract-Manager",
+            "Procurement-Specialist",
+            "Vendor-Manager",
+            "Procurement-Contracts-Specialist",
+            "Sourcing-Contract-Specialist",
+            "Contracts-and-Procurement-Specialist",
+            "Contract-Management-Specialist",
+            "Contract-Specialist",
+            "Supply-Chain-Procurement-Specialist",
+            "Logistics",
+            "Operations"
+          ],
+          "salary": "USD 71,000 - 118,000/annual",
+          "date": "2026-10-26",
+          "expires_at": "2026-12-25",
+          "url": "https://himalayas.app/companies/mks-instruments/jobs/supply-chain-contracts-specialist",
+          "application_link": "https://himalayas.app/companies/mks-instruments/jobs/supply-chain-contracts-specialist?utm_source=api",
+          "description_snippet": "A Day In Your Life at MKS: As a Global Supply Chain Contracts Specialist, you will be responsible for leading end-to-end commercial contracting activities across both capital equipment and a wide range of global services categories, including human resources, IT, management consulting, system integr...",
+          "description": "A Day In Your Life at MKS: As a Global Supply Chain Contracts Specialist, you will be responsible for leading end-to-end commercial contracting activities across both capital equipment and a wide range of global services categories, including human resources, IT, management consulting, system integrators, operations, facilities, audit/tax, and legal services. You will negotiate MSAs, SOWs, SLAs, change orders, and related contractual documents, partnering closely with Category Management, Legal, Compliance, Finance, and InfoSec to balance savings, risk, and compliance. This is an exciting opportunity to work in a collaborative international environment navigating multiple organizations, sites, cultures and practices. You will report to the Sr. Director of Global Supply Chain. You Make an Impact By: Drive the full contract lifecycle for a broad range of agreements, spanning development, negotiation, governance, and execution across NDAs, MSAs, SOWs, SLAs, software license agreements, change orders, renewals, and amendments Develop negotiation strategies. while leveraging playbooks, market benchmarks, and category strategies to secure favorable commercial terms, service levels, and balanced contractual protections aligned with business objectives Use playbooks, clause libraries, and templates to accelerate contract cycle time Partner with Legal, Compliance, and InfoSec to assess/control third-party risk and ensure all agreements align with internal policies, legal requirements, SOX controls, and data privacy regulations (e.g., GDPR, export controls, HIPAA, etc.) Identify automation and process opportunities; champion standardization and training for stakeholders Skills You Bring: Bachelor's degree in Business, Legal Studies, Supply Chain, or related discipline 3+ years of experience managing commercial contracts and supplier agreements 3+ years of experience in supply chain, procurement, sourcing, or vendor management Demonstrated expertise in contract negotiation, risk assessment, and project coordination Strong communication, organizational, and stakeholder management skills High attention to detail with experience managing contract documentation and version control We are interested in a qualified candidate who is eligible to work in the United States. However, we will not be sponsoring work visas for this position, at this time. Compensation and Benefits: Salary Pay Range: $71,000 - $118,000 per year. This range is a good faith estimate of the expected salary range for this position, based on a wide range of factors including qualifications, experience and training, operational and business needs and other considerations permitted by law. Bonus: This position is eligible for a discretionary annual bonus, in an amount to be determined by MKS [or as applicable]. Benefits: MKS offers a comprehensive benefits package, including health insurance coverage (medical, dental and vision), 401(k) with company match, life and disability insurance, 11 paid holidays, sick time, 15 paid vacation days, [6 weeks fully paid] parental leave, adoption assistance and tuition reimbursement [and for participation in any stock programs, signing bonus, etc.]. MKS is an equal opportunity employer, including disability, veteran status and all categories protected by law. Please review our EOE statements for additional details. MKS is generally only hiring candidates who reside in states where we are registered to do business. MKS will consider qualified applicants with a criminal history pursuant to the California Fair Chance Act for Employers. Globally, our policy is to recruit individuals from wide and diverse backgrounds. However, certain positions require access to controlled goods and technologies subject to the International Traffic in Arms Regulations (ITAR) or Export Administration Regulations (EAR). Applicants for these positions may need to be “U.S. persons.” “U.S. persons” are generally defined as U.S. citizens, noncitizen nationals, lawful permanent residents (or, green card holders), individuals granted asylum, and individuals admitted as refugees. MKS Inc. and its affiliates and subsidiaries (“MKS”) is an affirmative action and equal opportunity employer: diverse candidates are encouraged to apply. We win as a team and are committed to recruiting and hiring qualified applicants regardless of race, color, national origin, sex (including pregnancy and pregnancy-related conditions), religion, age, ancestry, physical or mental disability or handicap, marital status, membership in the uniformed services, veteran status, sexual orientation, gender identity or expression, genetic information, or any other category protected by applicable law. Hiring decisions are based on merit, qualifications and business needs. We conduct background checks and drug screens, in accordance with applicable law and company policies.MKS is generally only hiring candidates who reside in states where we are registered to do business. MKS is committed to working with and providing reasonable accommodations to qualified individuals with disabilities. If you need a reasonable accommodation during the application or interview process due to a disability, please contact us at: . If applying for a specific job, please include the requisition number (ex: RXXXX), the title and location of the role Originally posted on Himalayas"
+        }
+      },
+      {
+        "title": "Inventory Solutions Specialist (VMI)",
+        "company": "HD Supply",
+        "url": "https://himalayas.app/companies/hdsupply/jobs/inventory-solutions-specialist-vmi-2185806091",
+        "location": "United States",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "himalayas",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "https://himalayas.app/companies/hdsupply/jobs/inventory-solutions-specialist-vmi-2185806091",
+          "title": "Inventory Solutions Specialist (VMI)",
+          "company": "HD Supply",
+          "company_slug": "hdsupply",
+          "location": "United States",
+          "location_restrictions": [
+            "United States"
+          ],
+          "seniority": [
+            "Mid-level"
+          ],
+          "employment_type": "Full Time",
+          "categories": [
+            "Inventory-Solutions-Specialist",
+            "Inventory-Management-Specialist",
+            "Inventory-Control-Specialist",
+            "Warehouse-Operations-Specialist",
+            "Vendor-Managed-Inventory",
+            "Inventory-Specialist",
+            "Inventory-Management-Analyst",
+            "VMI-Specialist",
+            "Inventory-and-Logistics-Specialist",
+            "Inventory-Sales-Specialist",
+            "Inventory-Management-Associate",
+            "Inventory-Analyst",
+            "Logistics"
+          ],
+          "salary": "USD 64,200 - 94,600/annual",
+          "date": "2026-10-26",
+          "expires_at": "2026-12-25",
+          "url": "https://himalayas.app/companies/hdsupply/jobs/inventory-solutions-specialist-vmi-2185806091",
+          "application_link": "https://himalayas.app/companies/hdsupply/jobs/inventory-solutions-specialist-vmi-2185806091?utm_source=api",
+          "description_snippet": "Must reside in the state(s) specified above. This position is only open to residents in the state(s) specified above unless stated otherwise on this job posting. Preferred Qualifications Bachelor’s degree in business or a related area. 2+ years of experience in inventory auditing or warehouse operat...",
+          "description": "Must reside in the state(s) specified above. This position is only open to residents in the state(s) specified above unless stated otherwise on this job posting. Preferred Qualifications Bachelor’s degree in business or a related area. 2+ years of experience in inventory auditing or warehouse operations. Proficiency in Microsoft Excel, PowerPoint, Word, and Outlook. Job Summary Contributes to annual sales and profitability targets by performing inventory audits, replenishment, and customer training for inventory management programs within assigned territory. Performs project management and coordination on inventory projects between internal and external customers. Major Tasks, Responsibilities, and Key Accountabilities Drives business growth within territory with new and existing customers by serving as a point-of-contact for inventory managed solutions, including performing inventory audits, sourcing and ordering products, and project managing new inventory solutions. Manages and facilitates the disposition of inventory at customer sites by reducing exposure to excess stock, dead stock, and discontinued items. Audits and replenishes inventory to maintain stock levels, resolves customer issues related to inventory adjustments and discrepancies, and ensures compliance with established internal control procedures. Assists with the implementation and setup of new inventory managed solutions at customer sites, including designing inventory solutions, receiving product, and stocking and labeling finished goods. Works with cross-functional sales teams as the subject matter expert for inventory solutions tasks. Helps train new hires, vendors, customers, and other functional areas on inventory solutions. Presents to customers and leadership on market conditions and concerns. Nature and Scope Demonstrates skill in data analysis techniques by resolving missing/incomplete information and inconsistencies/anomalies in more complex research/data. Nature of work requires increasing independence; receives guidance only on unusual, complex problems or issues. Work review typically involves periodic review of output by a supervisor and/or direct customers of the process. May provide general guidance/direction to or train junior level support or professional personnel. Work Environment Usually located in a comfortable environment but with regular exposure to factors causing moderate physical discomfort, such as dust, fumes, or odors. Requires intermittent periods during which continuous physical exertion is required, such as walking, standing, stooping, climbing, lifting, and maneuvering material or equipment that be heavy (50+ pounds) or awkward. Typically requires overnight travel less than 10% of the time. Education and Experience Typically requires BS/BA in a related discipline. Generally 2-5 years of experience in a related field OR MS/MA and generally 2-4 years of experience in a related field. Certification is required in some areas. For CA, CO, CT, D.C., DE, HI, IL, MA, MD, ME, MN, NJ, NV, NY, OH, RI, VA, VT, WA Job Seekers: Pay Range $64,200.00-$94,600.00 Annual HDS provides the following benefits to all permanent full-time associates: Medical (with Prescription drug coverage), dental, and vision plans Health care and Dependent Care FSA (as applicable) 401(K) with company match Paid Holiday, Vacation, Personal Time, and Wellness Day Paid Sick Time Life and Accidental Death &amp; Dismemberment Insurance Short and Long-term Disability Insurance Critical Illness Insurance Accident Insurance Whole Life insurance Commuter Benefits Tuition Reimbursement Employee Assistance Program Adoption and Surrogacy Assistance CA, CO, CT, D.C., DE, HI, IL, MA, MD, ME, MN, NJ, NV, NY, OH, RI, VA, VT, and WA law requires the posting of the potential salary range for advertised jobs. Individual base pay is determined based on a variety of elements including market data, experience, skills, internal equity and other factors. Our Goals for Diversity, Equity, and Inclusion We are committed to creating a culture that promotes equity, respect, and advocacy for every HD Supply associate. We value the diversity of our people. Equal Employment Opportunity HD Supply is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status. Originally posted on Himalayas"
+        }
+      },
+      {
+        "title": "Transportation Project Manager",
+        "company": "JLL",
+        "url": "https://himalayas.app/companies/jll/jobs/transportation-project-manager",
+        "location": "United States",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "himalayas",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "https://himalayas.app/companies/jll/jobs/transportation-project-manager",
+          "title": "Transportation Project Manager",
+          "company": "JLL",
+          "company_slug": "jll",
+          "location": "United States",
+          "location_restrictions": [
+            "United States"
+          ],
+          "seniority": [
+            "Manager",
+            "Senior"
+          ],
+          "employment_type": "Full Time",
+          "categories": [
+            "Transportation-Project-Management",
+            "Infrastructure-Project-Manager",
+            "Construction-Project-Manager",
+            "Capital-Projects-Manager",
+            "Project-Manager",
+            "Transportation-Program-Management",
+            "Operations"
+          ],
+          "salary": "USD 115,000 - 128,000/annual",
+          "date": "2026-10-26",
+          "expires_at": "2026-12-25",
+          "url": "https://himalayas.app/companies/jll/jobs/transportation-project-manager",
+          "application_link": "https://himalayas.app/companies/jll/jobs/transportation-project-manager?utm_source=api",
+          "description_snippet": "JLL empowers you to shape a brighter way . Our people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful c...",
+          "description": "JLL empowers you to shape a brighter way . Our people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry, join our team as we help shape a brighter way forward. What this job involves This role provides comprehensive project management and operational support for client's global Transportation Team. You will manage transportation infrastructure projects from initiation through completion, including EV charging installations, site connectivity improvements, and capital planning initiatives. Working across multiple regions (Bay Area, Distributed Offices, India, APAC), you'll coordinate with internal teams and external stakeholders to ensure transportation projects align with client's standards, budgets, and timelines while enhancing workplace connectivity and user experience. Your day-to-day tasks will include: • Managing the full lifecycle of transportation infrastructure projects, including procurement, contracting, planning, execution, monitoring, and closeout phases • Conducting site walks and field assessments to identify transportation infrastructure opportunities, safety improvements, and network gaps across client's facilities • Developing and coordinating annual capital plans and budgets for transportation projects, including project prioritization, spend forecasts, business case development, and go2gate coordination • Leading quality assurance and coordination for transportation capital projects, reviewing design packages from concept through construction phases to ensure stakeholder buy-in and alignment with transportation scope • Collaborating with development/site project teams and external partners (WSMs, REDD, EHS, contractors) to ensure client Transportation standards are implemented for tenant improvements and ground-up development projects • Creating and managing comprehensive project tracking systems and providing stakeholders with consistent progress updates on scope, budget, schedule, quality, and risk management • Maintaining Transportation Team tools, documentation, and data in Drive, including checklists, site walk punch lists, project guides, and departmental data validation for strategic planning Required Qualifications: • Bachelor's degree in Engineering, Construction Management, Project Management, Urban Planning, or related field • 5+ years of project management experience managing capital infrastructure projects from initiation through closeout • Proven experience managing project budgets, schedules, quality control, and risk management for construction or infrastructure projects • Strong knowledge of construction design phases (conceptual, schematic, design development, construction documentation) and coordination processes • Demonstrated ability to conduct RFPs, bid evaluations, vendor selection, and manage procurement/contracting processes • Proficiency with project management tools and tracking systems, with ability to provide executive-level reporting and transparency • Excellent stakeholder management skills with ability to coordinate across multiple internal teams and external partners simultaneously Preferred Qualifications: • Project Management Professional (PMP) or similar project management certification • Experience with transportation infrastructure projects, including EV charging installation, campus connectivity, or transit-oriented development • Familiarity with capital planning processes, including business case development and financial forecasting for large-scale projects • Knowledge of permitting processes and coordination with design/construction teams for implementation • Experience working in corporate real estate, workplace services, or facilities management environments supporting large technology companies • Background in conducting site assessments, operational analysis, and identifying infrastructure improvement opportunities • Strong technical writing skills for project documentation, guides, and process standardization This position does not provide visa sponsorship. Candidates must be authorized to work in the United States without sponsorship. Expected compensation for this position: 115,000.00 – 128,000.00 USD per year Final compensation packages are determined by various considerations including but not limited to candidate qualifications, location, market conditions, and internal considerations. Location: Remote –San Francisco, CA Job Tags: Affordable Housing Real Estate Management, Base Build Retrofit Project Delivery, Budget Development, Building Condition Survey Project Delivery, Build to Rent Real Estate Management, Consulting Industry Knowledge, Data Center Real Estate Management, Data Centre Industry Knowledge, Education &amp; Training Industry Knowledge, Marketing, Overseeing Projects, Project Cost Tracking If this job description resonates with you, we encourage you to apply, even if you don’t meet all the requirements. We’re interested in getting to know you and what you bring to the table! Personalized benefits that support personal well-being and growth: JLL recognizes the impact that the workplace can have on your wellness, so we offer a supportive culture and comprehensive benefits package that prioritizes mental, physical and emotional health. Some of these benefits include: 401(k) plan with matching company contributions Comprehensive Medical, Dental &amp; Vision Care Paid parental leave at 100% of salary Paid Time Off and Company Holidays Early access to earned wages through Daily Pay At JLL , we harness the power of artificial intelligence (AI) to efficiently accelerate meaningful connections between candidates and opportunities. Using AI capabilities, we analyze your application for relevant skills, experiences, and qualifications to generate valuable insights about how your unique profile aligns with the specific requirements of the role you're pursuing. JLL Privacy Notice Jones Lang LaSalle ( JLL ), together with its subsidiaries and affiliates, is a leading global provider of real estate and investment management services. We take our responsibility to protect the personal information provided to us seriously. Generally the personal information we collect from you are for the purposes of processing in connection with JLL ’s recruitment process. We endeavour to keep your personal information secure with appropriate level of security and keep for as long as we need it for legitimate business or legal reasons. We will then delete it safely and securely. For more information about how JLL processes your personal data, please view our Candidate Privacy Statement. For additional details please see our career site pages for each country. For candidates in the United States, please see a full copy of our Equal Employment Opportunity policy here. Jones Lang LaSalle (“ JLL ”) is an Equal Opportunity Employer and is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process – including the online application and/or overall selection process – you may email us at . This email is only to request an accommodation. Please direct any other general recruiting inquiries to our Contact Us page &gt; I want to work for JLL . Pursuant to the Arizona Civil Rights Act, criminal convictions are not an absolute bar to employment. Pursuant to Illinois Law, applicants are not obligated to disclose sealed or expunged records of conviction or arrest. Pursuant to Columbia, SC ordinance, this position is subject to a background check for any convictions directly related to its duties and responsibilities. Only job-related convictions will be considered and will not automatically disqualify the candidate. California Residents only If you are a California resident as defined in the California Consumer Privacy Act (CCPA) please view our Supplemental Privacy Statement which describes your rights and disclosures about your personal information. If you are viewing this on a mobile device you may want to view the CCPA version on a larger device. Pursuant to the Los Angeles Fair Chance Initiative for Hiring Ordinance, JLL will consider for employment all qualified Applicants, including those with Criminal Histories, in a manner consistent with the requirements of applicable state and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. Accepting applications on an ongoing basis until candidate identified. Originally posted on Himalayas"
+        }
+      },
+      {
+        "title": "Delivery Manager (Public Sector)",
+        "company": "Kainos",
+        "url": "https://himalayas.app/companies/kainos/jobs/delivery-manager-public-sector",
+        "location": "United Kingdom",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "himalayas",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "https://himalayas.app/companies/kainos/jobs/delivery-manager-public-sector",
+          "title": "Delivery Manager (Public Sector)",
+          "company": "Kainos",
+          "company_slug": "kainos",
+          "location": "United Kingdom",
+          "location_restrictions": [
+            "United Kingdom"
+          ],
+          "seniority": [
+            "Manager"
+          ],
+          "employment_type": "Full Time",
+          "categories": [
+            "Delivery-Manager",
+            "Project-Manager",
+            "Program-Manager",
+            "Agile-Project-Manager",
+            "Senior-Public-Sector-Project-Manager",
+            "Delivery-Project-Manager",
+            "Project-Delivery-Manager",
+            "Product",
+            "Operations"
+          ],
+          "date": "2026-10-26",
+          "expires_at": "2026-12-25",
+          "url": "https://himalayas.app/companies/kainos/jobs/delivery-manager-public-sector",
+          "application_link": "https://himalayas.app/companies/kainos/jobs/delivery-manager-public-sector?utm_source=api",
+          "description_snippet": "Join Kainos and Shape the Future At Kainos , we’re problem solvers, innovators, and collaborators - driven by a shared mission to create real impact. Whether we’re transforming digital services for millions, delivering cutting-edge Workday solutions, or pushing the boundaries of technology, we do it...",
+          "description": "Join Kainos and Shape the Future At Kainos , we’re problem solvers, innovators, and collaborators - driven by a shared mission to create real impact. Whether we’re transforming digital services for millions, delivering cutting-edge Workday solutions, or pushing the boundaries of technology, we do it together. We believe in a people-first culture , where your ideas are valued, your growth is supported, and your contributions truly make a difference. Here, you’ll be part of a diverse, ambitious team that celebrates creativity and collaboration. Ready to make your mark? Join us and be part of something bigger. As a Delivery Manager at Kainos , you will be responsible for ensuring that Kainos ’ innovative digital services and platforms meet the user need and the outcomes agreed between Kainos and the client, whilst ensuring our delivery follows good governance and quality standards. You will empower and support Kainos teams to perform well, learn and grow in a manner that is consistent with Kainos company values. You will leverage successful delivery and strong client relationships to explore opportunities to win follow-on business with existing customers. Experience in bespoke software delivery, operating as a part of an agile team working for an external customer (experience in a client-facing role in a consulting environment). Minimum Requirements: Willingness to undergo a security check clearance processupon joining, as part of the onboarding process. Minimum 3 years of experience in a similar role with U K public sector organizations (ministries, government authorities, and any official governmental entity), preferably central government. Minimum 3 years of demonstrable success delivering bespoke software projects from scratch, using agile methodology for external customer. Proven experience is staffing, allocating and pricing the needed workforce for software development scrum teams that can deliver large scale projects for the public sector in the UK. Strong managerial skills , both direct and indirect. Experience in leading strategic customer relations , both with technical software teams and senior leadership in the public sector. Strong commercial awareness and experience in managing finances, reporting on costs and overall monitoring budget plans of £5M or more. Excellent interpersonal skills. Highly flexible (including a willingness to work away from home base) . The successful candidate will exhibit the following: Governance Ensure appropriate project governance arrangements and technical quality standards are developed and followed throughout the project lifecycle. Effectively manage project risks and issues , escalating where appropriate. Comply, and ensure team members comply, with all confidentiality and non-disclosure policies and agreements and ensure the security of information, at all times. Delivery Understand critical success factors for the project (beyond the traditional measures: on time, on budget and to agreed scope ) and ensure each work stream has a plan in place to achieve the success factors. Be responsible for achieving or exceeding profitability targets plus accurate and timely forecasting and reporting of project variables (revenue, staffing, work in progress, debt etc.). Exploit opportunities for adding value to the client, ensuring that expectations are proactively managed and issues are addressed promptly and appropriately. Team Motivate and empower teams to create a positive and creative culture for our people to perform well, learn and grow. Put people first &amp; develop others – You’ll manage, coach and develop a small number of staff , with a focus on managing employee performance Ensure all team members have clear goals, receive regular feedback and have timely and constructive appraisals. Ensure team members have learning and development objectives to acquire and maintain the skills necessary for the project. Have responsibility for staffing teams and on-boarding of new team members. Build and maintain constructive and collaborative relationships with the client, other suppliers and third-party stakeholders. Business Development &amp; Account Management Support future growth by working closely with Sales, Account Leads &amp; Account Management teams, assisting where required with the sales/procurement cycle to best position Kainos to win profitable new business. Promote successes Kainos -wide, to our customers and to the market, through case studies, award submissions, blogs, tweets etc. Understand the contracts and commercial terms applying to our projects and ensure that Kainos is not compromised by non-compliance. Professional Development and Growth Contribute to continuous improvement initiatives within the Management Capability. Understand current thinking from the Technology, Experience Design and Consulting capabilities and drive alignment accordingly. Encourage innovation in technology and process both within the project and outside the project. Proactively assist with recruitment activities to enable stable organisational growth. Desirable Experience of user research, analytics and design disciplines and their contribution to the effective delivery of digital services and platforms. Evidence of securing significant follow-on business with an existing client. Holds a current and recognised Project or Programme Management certification. Experience of project delivery aimed at digital transformation. Evidence of innovating or leading initiatives to improve management and leadership practices within a team or an organisation. Embracing our differences At Kainos , we believe in the power of diversity, equity and inclusion. We are committed to building a team that is as diverse as the world we live in, where everyone is valued, respected, and given an equal chance to thrive. We actively seek out talented people from all backgrounds, regardless of age, race, ethnicity, gender, sexual orientation, religion, disability, or any other characteristic that makes them who they are. We also believe every candidate deserves a level playing field. Our friendly talent acquisition team is here to support you every step of the way, so if you require any accommodations or adjustments, we encourage you to reach out. We understand that everyone's journey is different, and by having a private conversation we can ensure that our recruitment process is tailored to your needs. Originally posted on Himalayas"
+        }
+      },
+      {
+        "title": "Site Contracts Lead",
+        "company": "Syneos Health India Private Limited",
+        "url": "https://himalayas.app/companies/syneos-health-india-private-limited/jobs/site-contracts-lead-4054220334",
+        "location": "Taiwan",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "himalayas",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "https://himalayas.app/companies/syneos-health-india-private-limited/jobs/site-contracts-lead-4054220334",
+          "title": "Site Contracts Lead",
+          "company": "Syneos Health India Private Limited",
+          "company_slug": "syneos-health-india-private-limited",
+          "location": "Taiwan",
+          "location_restrictions": [
+            "Taiwan"
+          ],
+          "seniority": [
+            "Senior"
+          ],
+          "employment_type": "Full Time",
+          "categories": [
+            "Site-Contracts-Lead",
+            "Clinical-Contracts-Manager",
+            "Site-Contracts-Manager",
+            "Contract-and-Budget-Lead",
+            "Clinical-Operations-Manager",
+            "Site-Contract-Leader",
+            "Site-Budget-and-Contract-Lead",
+            "Contracts-Lead"
+          ],
+          "date": "2026-10-26",
+          "expires_at": "2026-12-25",
+          "url": "https://himalayas.app/companies/syneos-health-india-private-limited/jobs/site-contracts-lead-4054220334",
+          "application_link": "https://himalayas.app/companies/syneos-health-india-private-limited/jobs/site-contracts-lead-4054220334?utm_source=api",
+          "description_snippet": "Site Contracts Lead Syneos Health® is a leading fully-integrated life sciences services organization built to accelerate customer success. We partner with innovators at every point across the drug development and commercialization continuum, helping them navigate complexity, anticipate change and ac...",
+          "description": "Site Contracts Lead Syneos Health® is a leading fully-integrated life sciences services organization built to accelerate customer success. We partner with innovators at every point across the drug development and commercialization continuum, helping them navigate complexity, anticipate change and accelerate progress. Our Clinical Solutions team members act with a drug development mindset, applying their years of experience and deep expertise to truly understand customer needs and represent those in the solutions we shape. Whether you join us in a Functional Service Provider partnership or a Full-Service environment, you’ll collaborate with passionate problem solvers, innovating as a team to help our customers achieve their goals. We are agile and driven to deliver – for one another, our customers, and, most importantly, for those in need. Discover what your 25,000 future colleagues already know: Why Syneos Health • We are passionate about developing our people, through career development and progression; supportive and engaged line management; technical and therapeutic area training; peer recognition and total rewards program. • We are committed to building an inclusive culture – where you can authentically be yourself. Central to this is our purpose – Driven to Deliver – which captures the passion of our colleagues to show up each day and shape solutions that have the ability to dramatically impact someone’s life. • We are continuously building the company we all want to work for and our customers want to work with. Why? Because we know that when we bring together smart colleagues from across the world, we can shape the future of healthcare, driving impact for customers and defining the pace of patient progress. Job Responsibilities Oversees negotiations of clinical study agreements (CTA´s) on a study level and drives CTA document finalization and execution, including contractual language &amp; terms, financial attachments, and investigator grant budgets in collaboration with a global team of site contract &amp; budget negotiators. Provides oversight of contact &amp; budget negotiations status and manages escalation of out-of-parameter queries on budgetary and contractual requests to sponsor decision-makers in all regions of study conduct. Provides consultation during escalation of out-of-parameter queries as needed. Acts as first-line subject matter expert for all such CTA elements on assigned studies for internal and sponsor stakeholders alike. Advises stakeholders on issue resolution within the context of assigned studies. May seek additional support from internal support structures as needed. Plans contract execution strategy for assigned studies—including forecast of site-specific contractual execution timelines with as much accuracy as possible—and coordinates with internal study team stakeholders to ensure that CTA strategy is aligned with overall study start-up plans and expectations overall. Manages expectations of internal and sponsor study team regarding global CTA negotiations for assigned studies. Coordinates communications between study team stakeholders and global team of site-facing site contract &amp; budget negotiators including roll-up of all status updates to regular team forum. Participates in regular study calls to facilitate communication as needed. Works closely with internal stakeholders and with Sponsor to prepare site contractual templates, including payment terms, and study-level negotiation parameters and processes within Company standards in order to drive successful negotiation of contracts and budgets. Establishes strong working relationships and collaboration with Sponsor to ensure site contractual templates fit into the global strategy set for the program. Creates and maintains document status reports, and updates department tools/systems and team members on a regular basis; ensures appropriate documentation is maintained. Collaborates with internal and external legal, finance and clinical operations departments, including communicating and explaining legal and budgetary issues. Manages site and study level discussions with internal and sponsor team stakeholders around fair market value of investigator budgets and payment terms within corporate and industry standards during negotiation with sites. May support BU and organization through help desk and other defined pathways to resolve and deescalate issues. Performs other work-related duties as assigned. Minimal travel may be required (up to 25%). QUALIFICATION REQUIREMENTS BS degree in life sciences, a health related field, or equivalent combination of education and experience. Preferred experience in a CRO/pharmaceutical industry and related clinical trial expertise (Study Coordinator, CRA, Pharmacy, Nursing, Healthcare Administration) or site start-up experience. Thorough knowledge of applicable regulations, drug development and clinical project management procedures. Good presentation, documentation and interpersonal skills. Proficient in MS Office (Word, Excel and PowerPoint), MS Project, outlook and Internet. Ability to handle multiple tasks to meet deadlines, delivering high quality work in a dynamic environment. Attention to attention to detail, effective oral/written communication skills along with the ability to work independently to meet deadlines. Strong leadership skills; ability to teach/mentor team members. Disclaimer: Tasks, duties and responsibilities as listed in this job description are not exhaustive. The Company, at its sole discretion and with no prior notice, may assign other tasks, duties and job responsibilities. Equivalent experience, skills and/or education will also be considered so qualifications of incumbents may differ from those listed in the Job Description. The Company, at its sole discretion, will determine what constitutes as equivalent to the qualifications described above. Further, nothing contained herein should be construed to create an employment contract. Occasionally, required skills/experiences for jobs are expressed in brief terms. Any language contained herein is intended to fully comply with all obligations imposed by the legislation of each country in which it operates, including the implementation of the EU Equality Directive, in relation to the recruitment and employment of its employees. The Company is committed to compliance with the Americans with Disabilities Act, including the provision of reasonable accommodations, when appropriate, to assist employees or applicants to perform the essential functions of the job. Get to know Syneos Health Over the past 5 years, we have worked with 94% of all Novel FDA Approved Drugs, 95% of EMA Authorized Products and over 200 Studies across 73,000 Sites and 675,000+ Trial patients. No matter what your role is, you’ll take the initiative and challenge the status quo with us in a highly competitive and ever-changing environment. Learn more about Syneos Health. Additional Information Tasks, duties, and responsibilities as listed in this job description are not exhaustive. The Company, at its sole discretion and with no prior notice, may assign other tasks, duties, and job responsibilities. Equivalent experience, skills, and/or education will also be considered so qualifications of incumbents may differ from those listed in the Job Description. The Company, at its sole discretion, will determine what constitutes as equivalent to the qualifications described above. Further, nothing contained herein should be construed to create an employment contract. Occasionally, required skills/experiences for jobs are expressed in brief terms. Any language contained herein is intended to fully comply with all obligations imposed by the legislation of each country in which it operates, including the implementation of the EU Equality Directive, in relation to the recruitment and employment of its employees. The Company is committed to compliance with the Americans with Disabilities Act, including the provision of reasonable accommodations, when appropriate, to assist employees or applicants to perform the essential functions of the job. Originally posted on Himalayas"
+        }
+      }
+    ]
+  },
+  "remotive": {
+    "collected_raw": 1,
+    "new_registered": 0,
+    "failed": false,
+    "error": null,
+    "sample": []
+  },
+  "weworkremotely": {
+    "collected_raw": 36,
+    "new_registered": 24,
+    "failed": false,
+    "error": null,
+    "sample": [
+      {
+        "title": "Engineering Manager, Platform Security",
+        "company": "Discord",
+        "url": "https://weworkremotely.com/remote-jobs/discord-engineering-manager-platform-security",
+        "location": "Remote",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-23",
+        "portal": "weworkremotely",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "discord-engineering-manager-platform-security",
+          "title": "Engineering Manager, Platform Security",
+          "company": "Discord",
+          "location": "Remote",
+          "region": "Anywhere in the World",
+          "category": "DevOps and Sysadmin",
+          "type": "Full-Time",
+          "date": "2026-10-23",
+          "expires_at": "2026-11-22",
+          "url": "https://weworkremotely.com/remote-jobs/discord-engineering-manager-platform-security",
+          "description_snippet": "Headquarters: Remote (West Coast) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are f..."
+        }
+      },
+      {
+        "title": "Principal Product Manager, Agentic AI",
+        "company": "Legion",
+        "url": "https://weworkremotely.com/remote-jobs/legion-principal-product-manager-agentic-ai",
+        "location": "Remote",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-17",
+        "portal": "weworkremotely",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "legion-principal-product-manager-agentic-ai",
+          "title": "Principal Product Manager, Agentic AI",
+          "company": "Legion",
+          "location": "Remote",
+          "region": "Anywhere in the World",
+          "category": "Product",
+          "type": "Full-Time",
+          "date": "2026-10-17",
+          "expires_at": "2026-11-16",
+          "url": "https://weworkremotely.com/remote-jobs/legion-principal-product-manager-agentic-ai",
+          "description_snippet": "Headquarters: Remote, United States Principal Product Manager, Agentic AI REMOTE, United States JOB OVERVIEW Legion is building AI agents that carry out workforce management work, not agents that describe it. Much of what is presented as AI in workforce management today is a conversational layer ove..."
+        }
+      },
+      {
+        "title": "Client Director - Financial Services",
+        "company": "Celonis",
+        "url": "https://weworkremotely.com/remote-jobs/celonis-client-director-financial-services",
+        "location": "Remote",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-17",
+        "portal": "weworkremotely",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "celonis-client-director-financial-services",
+          "title": "Client Director - Financial Services",
+          "company": "Celonis",
+          "location": "Remote",
+          "region": "Anywhere in the World",
+          "category": "Sales and Marketing",
+          "type": "Full-Time",
+          "date": "2026-10-17",
+          "expires_at": "2026-11-16",
+          "url": "https://weworkremotely.com/remote-jobs/celonis-client-director-financial-services",
+          "description_snippet": "Headquarters: Remote, US, New York Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's o..."
+        }
+      },
+      {
+        "title": "Community Engagement Manager, Data Centers (Indiana & Kentucky)",
+        "company": "Anthropic",
+        "url": "https://weworkremotely.com/remote-jobs/anthropic-community-engagement-manager-data-centers-indiana-kentucky",
+        "location": "Remote",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-24",
+        "portal": "weworkremotely",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "anthropic-community-engagement-manager-data-centers-indiana-kentucky",
+          "title": "Community Engagement Manager, Data Centers (Indiana & Kentucky)",
+          "company": "Anthropic",
+          "location": "Remote",
+          "region": "Anywhere in the World",
+          "category": "All Other Remote",
+          "type": "Full-Time",
+          "date": "2026-10-24",
+          "expires_at": "2026-11-23",
+          "url": "https://weworkremotely.com/remote-jobs/anthropic-community-engagement-manager-data-centers-indiana-kentucky",
+          "description_snippet": "Headquarters: Remote-Friendly, United States About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, pol..."
+        }
+      },
+      {
+        "title": "Anthropic STEM Fellow",
+        "company": "Anthropic",
+        "url": "https://weworkremotely.com/remote-jobs/anthropic-anthropic-stem-fellow",
+        "location": "Remote",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-24",
+        "portal": "weworkremotely",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "anthropic-anthropic-stem-fellow",
+          "title": "Anthropic STEM Fellow",
+          "company": "Anthropic",
+          "location": "Remote",
+          "region": "Anywhere in the World",
+          "category": "All Other Remote",
+          "type": "Full-Time",
+          "date": "2026-10-24",
+          "expires_at": "2026-11-23",
+          "url": "https://weworkremotely.com/remote-jobs/anthropic-anthropic-stem-fellow",
+          "description_snippet": "Headquarters: Remote-Friendly, United States; San Francisco, CA About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed research..."
+        }
+      }
+    ]
+  },
+  "jobnagringa": {
+    "collected_raw": 0,
+    "new_registered": 0,
+    "failed": false,
+    "error": null,
+    "sample": []
+  },
+  "ziprecruiter": {
+    "collected_raw": 0,
+    "new_registered": 0,
+    "failed": false,
+    "error": null,
+    "sample": []
+  },
+  "inhire": {
+    "collected_raw": 92,
+    "new_registered": 85,
+    "failed": false,
+    "error": null,
+    "sample": [
+      {
+        "title": "Analista Funcional Pleno Oracle Fusion Cloud | Supply Chain Operations | Recife",
+        "company": "Deloitte",
+        "url": "https://deloitte.inhire.app/vagas/ea516cc8-156e-4fbb-93da-ca11dbb5675a",
+        "location": "Recife, PE, BR",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "inhire",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "deloitte:ea516cc8-156e-4fbb-93da-ca11dbb5675a",
+          "title": "Analista Funcional Pleno Oracle Fusion Cloud | Supply Chain Operations | Recife",
+          "company": "Deloitte",
+          "tenant": "deloitte",
+          "location": "Recife, PE, BR",
+          "workplace_type": "Hybrid",
+          "url": "https://deloitte.inhire.app/vagas/ea516cc8-156e-4fbb-93da-ca11dbb5675a",
+          "status": "published"
+        }
+      },
+      {
+        "title": "CONSULTOR(A) SÊNIOR – SUPPLY CHAIN TRANSFORMATION (WAREHOUSING & LOGISTICS)",
+        "company": "Deloitte",
+        "url": "https://deloitte.inhire.app/vagas/d3dccb72-d084-4b9a-b234-63546e83c4e5",
+        "location": "São Paulo, SP, BR",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "inhire",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "deloitte:d3dccb72-d084-4b9a-b234-63546e83c4e5",
+          "title": "CONSULTOR(A) SÊNIOR – SUPPLY CHAIN TRANSFORMATION (WAREHOUSING & LOGISTICS)",
+          "company": "Deloitte",
+          "tenant": "deloitte",
+          "location": "São Paulo, SP, BR",
+          "workplace_type": "Hybrid",
+          "url": "https://deloitte.inhire.app/vagas/d3dccb72-d084-4b9a-b234-63546e83c4e5",
+          "status": "published"
+        }
+      },
+      {
+        "title": "Estágio em Supply Chain",
+        "company": "Mottu",
+        "url": "https://mottu.inhire.app/vagas/d9f37761-bdb3-4d99-8c91-955f03b62456",
+        "location": "São Paulo, SP, BR",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "inhire",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "mottu:d9f37761-bdb3-4d99-8c91-955f03b62456",
+          "title": "Estágio em Supply Chain",
+          "company": "Mottu",
+          "tenant": "mottu",
+          "location": "São Paulo, SP, BR",
+          "workplace_type": "On-site",
+          "url": "https://mottu.inhire.app/vagas/d9f37761-bdb3-4d99-8c91-955f03b62456",
+          "status": "published"
+        }
+      },
+      {
+        "title": "Analista de Logística",
+        "company": "Demo",
+        "url": "https://demo.inhire.app/vagas/5dfd3a1e-a5c3-4e53-a3f4-cdb4e311d315",
+        "location": "BR",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "inhire",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "demo:5dfd3a1e-a5c3-4e53-a3f4-cdb4e311d315",
+          "title": "Analista de Logística",
+          "company": "Demo",
+          "tenant": "demo",
+          "location": "BR",
+          "workplace_type": "Remote",
+          "url": "https://demo.inhire.app/vagas/5dfd3a1e-a5c3-4e53-a3f4-cdb4e311d315",
+          "status": "published"
+        }
+      },
+      {
+        "title": "Auxiliar de Logística",
+        "company": "Demo",
+        "url": "https://demo.inhire.app/vagas/84925f73-9928-4ac9-aa20-6e1fc9a7132f",
+        "location": "Brasil",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "inhire",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "demo:84925f73-9928-4ac9-aa20-6e1fc9a7132f",
+          "title": "Auxiliar de Logística",
+          "company": "Demo",
+          "tenant": "demo",
+          "location": "Brasil",
+          "workplace_type": "Remote",
+          "url": "https://demo.inhire.app/vagas/84925f73-9928-4ac9-aa20-6e1fc9a7132f",
+          "status": "published"
+        }
+      }
+    ]
+  },
+  "linkedin": {
+    "collected_raw": 80,
+    "new_registered": 25,
+    "failed": false,
+    "error": null,
+    "sample": [
+      {
+        "title": "Analista Sênior de S&OP - Mercado Envios",
+        "company": "Mercado Livre Brasil",
+        "url": "https://br.linkedin.com/jobs/view/analista-s%C3%AAnior-de-s-op-mercado-envios-at-mercado-livre-brasil-4478908533",
+        "location": "Osasco, São Paulo, Brazil",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-20",
+        "portal": "linkedin",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "4478908533",
+          "title": "Analista Sênior de S&OP - Mercado Envios",
+          "company": "Mercado Livre Brasil",
+          "companyUrl": "https://br.linkedin.com/company/mercadolivre-com",
+          "location": "Osasco, São Paulo, Brazil",
+          "date": "2026-10-20",
+          "url": "https://br.linkedin.com/jobs/view/analista-s%C3%AAnior-de-s-op-mercado-envios-at-mercado-livre-brasil-4478908533"
+        }
+      },
+      {
+        "title": "Logistics Planning Analyst | Analista de Planejamento Logístico",
+        "company": "Helibras",
+        "url": "https://br.linkedin.com/jobs/view/logistics-planning-analyst-analista-de-planejamento-log%C3%ADstico-at-helibras-4481775270",
+        "location": "Itajubá, Minas Gerais, Brazil",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-20",
+        "portal": "linkedin",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "4481775270",
+          "title": "Logistics Planning Analyst | Analista de Planejamento Logístico",
+          "company": "Helibras",
+          "companyUrl": "https://br.linkedin.com/company/helibras",
+          "location": "Itajubá, Minas Gerais, Brazil",
+          "date": "2026-10-20",
+          "url": "https://br.linkedin.com/jobs/view/logistics-planning-analyst-analista-de-planejamento-log%C3%ADstico-at-helibras-4481775270"
+        }
+      },
+      {
+        "title": "Analista Supply Chain III | São José dos Pinhais/ PR",
+        "company": "Grupo Boticário",
+        "url": "https://br.linkedin.com/jobs/view/analista-supply-chain-iii-s%C3%A3o-jos%C3%A9-dos-pinhais-pr-at-grupo-botic%C3%A1rio-4482817189",
+        "location": "São José dos Pinhais, Paraná, Brazil",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "linkedin",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "4482817189",
+          "title": "Analista Supply Chain III | São José dos Pinhais/ PR",
+          "company": "Grupo Boticário",
+          "companyUrl": "https://br.linkedin.com/company/grupo-boticario",
+          "location": "São José dos Pinhais, Paraná, Brazil",
+          "date": "2026-10-26",
+          "url": "https://br.linkedin.com/jobs/view/analista-supply-chain-iii-s%C3%A3o-jos%C3%A9-dos-pinhais-pr-at-grupo-botic%C3%A1rio-4482817189"
+        }
+      },
+      {
+        "title": "Analista de Suprimentos",
+        "company": "Sensorweb",
+        "url": "https://br.linkedin.com/jobs/view/analista-de-suprimentos-at-sensorweb-4479483259",
+        "location": "Florianópolis, Santa Catarina, Brazil",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-22",
+        "portal": "linkedin",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "4479483259",
+          "title": "Analista de Suprimentos",
+          "company": "Sensorweb",
+          "companyUrl": "https://br.linkedin.com/company/sensorweb",
+          "location": "Florianópolis, Santa Catarina, Brazil",
+          "date": "2026-10-22",
+          "url": "https://br.linkedin.com/jobs/view/analista-de-suprimentos-at-sensorweb-4479483259"
+        }
+      },
+      {
+        "title": "Analista Logística Senior",
+        "company": "Siemens Healthineers",
+        "url": "https://br.linkedin.com/jobs/view/analista-log%C3%ADstica-senior-at-siemens-healthineers-4480057331",
+        "location": "Joinville, Santa Catarina, Brazil",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-22",
+        "portal": "linkedin",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "4480057331",
+          "title": "Analista Logística Senior",
+          "company": "Siemens Healthineers",
+          "companyUrl": "https://de.linkedin.com/company/siemens-healthineers",
+          "location": "Joinville, Santa Catarina, Brazil",
+          "date": "2026-10-22",
+          "url": "https://br.linkedin.com/jobs/view/analista-log%C3%ADstica-senior-at-siemens-healthineers-4480057331"
+        }
+      }
+    ]
+  },
+  "freehire": {
+    "collected_raw": 50,
+    "new_registered": 46,
+    "failed": false,
+    "error": null,
+    "sample": [
+      {
+        "title": "Supply Chain",
+        "company": "ADVANCED TECHNOLOGY SERVICES MEXICO S DE RL DE CV",
+        "url": "https://www.occ.com.mx/empleo/oferta/21358053-supply-chain?utm_source=freehire.me",
+        "location": "Querétaro",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-01T00:00:00Z",
+        "portal": "freehire",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "supply-chain-advanced-technology-services-mexico-s-de-rl-de-cv-4fn7drug",
+          "title": "Supply Chain",
+          "company": "ADVANCED TECHNOLOGY SERVICES MEXICO S DE RL DE CV",
+          "company_slug": "advanced-technology-services-mexico-s-de-rl-de-cv",
+          "location": "Querétaro",
+          "date": "2026-10-01T00:00:00Z",
+          "url": "https://www.occ.com.mx/empleo/oferta/21358053-supply-chain?utm_source=freehire.me",
+          "work_mode": "onsite",
+          "regions": [
+            "latam"
+          ],
+          "countries": [
+            "mx"
+          ],
+          "skills": [
+            "erp",
+            "powerbi"
+          ],
+          "description": "**¡En Advanced Technology Services estamos buscando al mejor talento para integrarlo a nuestra gran familia!**\n\n**Somos una empresa dedicada al mantenimiento de equipos industriales y hacemos que las empresas funcionen mejor.**\n\n**Hoy, requerimos personas con experiencia en Supply Chain:**\n\nBUSCAMOS TU EXPERIENCIA EN:\n\nLogística y cadena de suministro para coordinar embarques, dar seguimiento a proveedores y asegurar la correcta gestión documental y operativa de los procesos logísticos.\n\n**Responsabilidades principales:**\n\n· Seguimiento a embarques, entregas y transportistas.\n\n· Control y administración de documentación logística\n\n· Coordinación con proveedores y solicitud de cotizaciones.\n\n· Seguimiento a entregas de materiales y mercancías.\n\n**Requisitos:**\n\n· Licenciatura en Comercio Exterior, Negocios Internacionales, Logística, Administración o afín.\n\n· 3 años de experiencia en logística, cadena de suministro, compras o comercio exterior.\n\n· Excel y Microsoft Office intermedio.\n\n· Conocimientos en logística, transporte, control documental y gestión de proveedores.\n\n· ERP\n\n· Power BI básico\n\n· Inglés básico.\n\n**¿Qué hay para ti en ATS México?**\n\n· Vales de despensa\n\n· Bonos de permanencia\n\n· Bono anual, bono trimestral, programa de referidos, SGMM a empleado, crecimiento profesional, entre otros.\n\n· Excelente ambiente de trabajo."
+        }
+      },
+      {
+        "title": "Supply Chain",
+        "company": "VINALIA BEVERAGES SLU",
+        "url": "https://www.infojobs.net/sant-sadurni-d-anoia/supply-chain/of-i9a3c31c1e84ab18f96d15d56e1a703?utm_source=freehire.me",
+        "location": "Sant Sadurní d'Anoia",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-08-14T11:09:50Z",
+        "portal": "freehire",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "supply-chain-vinalia-beverages-slu-r4eqcaya",
+          "title": "Supply Chain",
+          "company": "VINALIA BEVERAGES SLU",
+          "company_slug": "vinalia-beverages-slu",
+          "location": "Sant Sadurní d'Anoia",
+          "date": "2026-08-14T11:09:50Z",
+          "url": "https://www.infojobs.net/sant-sadurni-d-anoia/supply-chain/of-i9a3c31c1e84ab18f96d15d56e1a703?utm_source=freehire.me",
+          "work_mode": "onsite",
+          "regions": [],
+          "countries": [],
+          "skills": [
+            "edi"
+          ],
+          "description": "Descripción del puesto: Buscamos un/a profesional con sólida experiencia en la planificación, organización y control de todas las actividades relacionadas con la cadena de suministro de nuestra empresa, con el objetivo de optimizar los procesos y garantizar la eficiencia en la entrega de productos a nuestros clientes. ¿Qué harás? Facturación clientes, realización de pedidos manuales de stock, gestión de proveedores y facturas del área de logística, control y gestión de material, registro, bajas y regularizaciones en el sistema, regularización de stocks, seguimiento de pedidos, gestión de incidencias y reclamaciones, planificación y seguimiento de transportes (transfers o recogidas EXW). Elaboración y actualización del calendario de entregas, coordinación de entregas y gestión de pedidos automáticos EDI. Requisitos: Conocimientos del puesto de trabajo y trabajo en equipo."
+        }
+      },
+      {
+        "title": "Supply Chain",
+        "company": "Bush Brothers & Company",
+        "url": "https://recruiting.ultipro.com/bus1005bbco/JobBoard/e70fcaba-fbcd-4e62-8480-8cd72e6c3d8b/OpportunityDetail?opportunityId=5bf7e138-433a-4561-b757-132645476ef4&utm_source=freehire.me",
+        "location": "Knoxville, Tennessee, United States",
+        "date_found": "2026-10-26",
+        "date_posted": "2024-09-10T20:25:59Z",
+        "portal": "freehire",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "supply-chain-recruiting-ultipro-com-bus1005bbco-e70fcaba-fbcd-4e62-8480-8cd72e6c3d8b-lezjm55w",
+          "title": "Supply Chain",
+          "company": "Bush Brothers & Company",
+          "company_slug": "bush-brothers-company",
+          "location": "Knoxville, Tennessee, United States",
+          "date": "2024-09-10T20:25:59Z",
+          "url": "https://recruiting.ultipro.com/bus1005bbco/JobBoard/e70fcaba-fbcd-4e62-8480-8cd72e6c3d8b/OpportunityDetail?opportunityId=5bf7e138-433a-4561-b757-132645476ef4&utm_source=freehire.me",
+          "work_mode": null,
+          "regions": [
+            "north_america"
+          ],
+          "countries": [
+            "us"
+          ],
+          "skills": [],
+          "description": "Founded in 1908 by A.J. Bush, Bush Brothers & Company is based in Knoxville, with production facilities in Chestnut Hill, TN and Augusta, WI. We began with canned tomatoes and have grown to include great tasting, high quality products that your family loves. Four generations later, Bush Brothers & Company is still family-owned and operated, with the same core values of honesty, integrity, responsibility, and caring that were set forth by A.J. Bush more than 110 years ago.\n\n**At Bush Brothers & Company, we are always on the lookout for talented individuals to join our team. While we may not have an immediate opening in Supply Chain, we encourage you to submit your resume for future opportunities.**\n\nIn Supply Chain at Bush Brothers & Company you will be a member of a high-performance team focused on customer satisfaction. Our Supply network orchestrates the journey from raw materials to consumer consumption: focusing on sourcing, manufacturing, quality, inventory, distribution, and retail. This system is driven by demand signals and technology enabling efficiency, cost control, and replenishment while tackling challenges like volatility, product complexity, and omnichannel demands. Our bedrock of success centers around cross-functional synergy and planning, which ultimately creates value and loyalty for our customers, consumers, and communities.\n\n**BENEFIT HIGHLIGHTS**\n\n- Medical plan option with $0.00 employee premium and low deductibles\n- Dental, Vision, and Prescription plans\n- Education reimbursement plan\n- Pension plan\n- 401k plan\n- Profit sharing plan\n- Paid breaks\n\nPrimary contact for candidate consideration will be made via email. Please watch for email communication from Bush Brothers regarding next steps.\n\nBush Brothers & Company is an equal opportunity employer and complies with all applicable federal, state, and local fair employment practices laws. The Company strictly prohibits and does not tolerate discrimination against employees, applicants, or any other covered persons because of race, color, religion, creed, national origin or ancestry, ethnicity, sex (including gender, pregnancy, sexual orientation, and gender identity), age, physical or mental disability, citizenship, past, current, or prospective service in the uniformed services or genetic information, or any other characteristic protected under applicable federal, state, or local law. All Company employees, other workers, and representatives are prohibited from engaging in unlawful discrimination. This policy applies to all terms and conditions of employment, including, but not limited to, hiring, training, promotion, discipline, compensation, benefits, and termination of employment."
+        }
+      },
+      {
+        "title": "Supply Chain",
+        "company": "IMCS Group",
+        "url": "https://imcsgroup78656.hire.trakstar.com/jobs/fk02c18?utm_source=freehire.me",
+        "location": "Irving, Texas, United States",
+        "date_found": "2026-10-26",
+        "date_posted": "2023-07-27T18:30:00Z",
+        "portal": "freehire",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "supply-chain-imcs-group-pnlwhzuh",
+          "title": "Supply Chain",
+          "company": "IMCS Group",
+          "company_slug": "imcs-group",
+          "location": "Irving, Texas, United States",
+          "date": "2023-07-27T18:30:00Z",
+          "url": "https://imcsgroup78656.hire.trakstar.com/jobs/fk02c18?utm_source=freehire.me",
+          "work_mode": null,
+          "regions": [
+            "north_america"
+          ],
+          "countries": [
+            "us"
+          ],
+          "skills": [],
+          "description": "## Location: Irving,Texas,United States\n\nSupply Chain\n\nApply to this job"
+        }
+      },
+      {
+        "title": "Supply Chain Coordinator",
+        "company": "Advanced Process Solutions LLC",
+        "url": "https://app.trinethire.com/companies/829985-advanced-process-solutions-llc/jobs/126011-supply-chain-coordinator?utm_source=freehire.me",
+        "location": "Blue Ridge, TX",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26T22:36:33Z",
+        "portal": "freehire",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "supply-chain-coordinator-advanced-process-solutions-llc-ajqsohjb",
+          "title": "Supply Chain Coordinator",
+          "company": "Advanced Process Solutions LLC",
+          "company_slug": "advanced-process-solutions",
+          "location": "Blue Ridge, TX",
+          "date": "2026-10-26T22:36:33Z",
+          "url": "https://app.trinethire.com/companies/829985-advanced-process-solutions-llc/jobs/126011-supply-chain-coordinator?utm_source=freehire.me",
+          "work_mode": null,
+          "regions": [
+            "north_america"
+          ],
+          "countries": [
+            "us"
+          ],
+          "skills": [
+            "erp",
+            "performance-management"
+          ],
+          "description": "POSITION SUMMARY\n\nAPS is seeking a detail-driven Supply Chain Coordinator to manage purchasing, material planning, and vendor coordination across our fabrication and field service operations. This role keeps projects on schedule by ensuring the right materials arrive at the right time, at the right cost. The ideal candidate is operationally sharp, experienced with ERP systems, and comfortable managing multiple open purchase orders in a fast-paced manufacturing environment.\n\nKEY RESPONSIBILITIES\n\n- Execute purchasing for materials, components, and subcontracted services; issue and manage purchase orders.\n- Plan material requirements based on open orders and production schedules; align purchasing with project timelines.\n- Manage inventory levels to balance cost efficiency with on-time project execution.\n- Coordinate project-specific material procurement; ensure materials arrive on schedule.\n- Expedite critical materials and resolve vendor delivery issues to prevent project delays.\n- Maintain accurate purchasing and vendor data in ERP; ensure records are current and complete.\n- Identify and develop strategic supplier relationships; evaluate vendor performance and drive cost savings.\n\nREQUIREMENTS\n\n- 2 to 5 years of experience in purchasing, supply chain, or materials planning in a manufacturing or industrial environment.\n- Hands-on experience with ERP or MRP systems; accurate data entry and record-keeping habits.\n- Proven ability to manage multiple open purchase orders and competing priorities simultaneously.\n- Strong communicator comfortable working with vendors, project managers, and internal operations teams.\n- Detail-oriented and proactive in following up on open items and resolving delivery issues.\n- Familiarity with specialty plastics, electrical/controls components, or process equipment is a plus.\n- Semiconductor or industrial manufacturing experience desirable.\n\nPREFERRED\n\n- Experience with project-based or make-to-order manufacturing environments.\n- Background in vendor qualification, cost negotiation, or supplier performance management.\n- Ability to read Bills of Material (BOMs) and coordinate material requirements from engineering documentation.\n\nCOMPENSATION AND BENEFITS\n\n- Competitive base salary commensurate with experience.\n- Performance-based bonus opportunity.\n- Health, dental, and vision insurance.\n- Paid time off and company holidays.\n- High-visibility role with real growth opportunity in a fast-moving, expanding company."
+        }
+      }
+    ]
+  },
+  "infojobs": {
+    "collected_raw": 60,
+    "new_registered": 35,
+    "failed": false,
+    "error": null,
+    "sample": [
+      {
+        "title": "Aprendiz De Supply Chain",
+        "company": "Saint Gobain",
+        "url": "https://www.infojobs.com.br/vaga-de-aprendiz-supply-chain-em-sao-paulo__12149912.aspx",
+        "location": "Jandira - SP",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "infojobs",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "12149912",
+          "title": "Aprendiz De Supply Chain",
+          "company": "Saint Gobain",
+          "location": "Jandira - SP",
+          "date": null,
+          "url": "https://www.infojobs.com.br/vaga-de-aprendiz-supply-chain-em-sao-paulo__12149912.aspx",
+          "work_mode": null,
+          "description": null
+        }
+      },
+      {
+        "title": "Analista De Supply Chain Pleno | Cadastro De Produtos",
+        "company": "Grupo Rio",
+        "url": "https://www.infojobs.com.br/vaga-de-analista-supply-chain-pleno-cadastro-produtos-em-sao-paulo__12146704.aspx",
+        "location": "São Paulo - SP",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "infojobs",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "12146704",
+          "title": "Analista De Supply Chain Pleno | Cadastro De Produtos",
+          "company": "Grupo Rio",
+          "location": "São Paulo - SP",
+          "date": null,
+          "url": "https://www.infojobs.com.br/vaga-de-analista-supply-chain-pleno-cadastro-produtos-em-sao-paulo__12146704.aspx",
+          "work_mode": null,
+          "description": null
+        }
+      },
+      {
+        "title": "Analista De Logística Pleno — Supply Chain | Suzano/SP",
+        "company": "MANPOWER STAFFING.",
+        "url": "https://www.infojobs.com.br/vaga-de-analista-logistica-pleno-supply-chain-suzanosp-em-sao-paulo__12136737.aspx",
+        "location": "Suzano - SP",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "infojobs",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "12136737",
+          "title": "Analista De Logística Pleno — Supply Chain | Suzano/SP",
+          "company": "MANPOWER STAFFING.",
+          "location": "Suzano - SP",
+          "date": null,
+          "url": "https://www.infojobs.com.br/vaga-de-analista-logistica-pleno-supply-chain-suzanosp-em-sao-paulo__12136737.aspx",
+          "work_mode": null,
+          "description": null
+        }
+      },
+      {
+        "title": "Coordenador De Supply Chain",
+        "company": "eco",
+        "url": "https://www.infojobs.com.br/vaga-de-coordenador-supply-chain-em-sao-paulo__12133890.aspx",
+        "location": "Bauru - SP",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "infojobs",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "12133890",
+          "title": "Coordenador De Supply Chain",
+          "company": "eco",
+          "location": "Bauru - SP",
+          "date": null,
+          "url": "https://www.infojobs.com.br/vaga-de-coordenador-supply-chain-em-sao-paulo__12133890.aspx",
+          "work_mode": null,
+          "description": null
+        }
+      },
+      {
+        "title": "ESTÁGIO SUPPLY CHAIN",
+        "company": "UNICHARM DO BRASIL INDUSTRIA E",
+        "url": "https://www.infojobs.com.br/vaga-de-estagio-supply-chain-em-sao-paulo__11959823.aspx",
+        "location": "Santo Antônio de Posse - SP",
+        "date_found": "2026-10-26",
+        "date_posted": "2026-10-26",
+        "portal": "infojobs",
+        "status": "new",
+        "score": null,
+        "raw": {
+          "id": "11959823",
+          "title": "ESTÁGIO SUPPLY CHAIN",
+          "company": "UNICHARM DO BRASIL INDUSTRIA E",
+          "location": "Santo Antônio de Posse - SP",
+          "date": null,
+          "url": "https://www.infojobs.com.br/vaga-de-estagio-supply-chain-em-sao-paulo__11959823.aspx",
+          "work_mode": null,
+          "description": null
+        }
+      }
+    ]
+  }
+}

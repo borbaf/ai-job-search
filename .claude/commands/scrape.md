@@ -24,13 +24,12 @@ The portals are the search skills registered in agy, ordered by strategic conver
   - `/jobnagringa-search` -> Job na Gringa (remote international USD/EUR for Brazilians)
   - `/ziprecruiter-search` -> ZipRecruiter (US/global tech & operations)
 - **Tier 3 (Brazilian ATS & General Ecosystems):**
-  - `/gupy-search` -> Gupy (dominant Brazilian ATS for domestic S&OP and logistics)
+  - `/inhire-search` -> InHire (ATS for logistics & tech ecosystems: nstech, Mottu, Wilson Sons, Deloitte, etc.)
   - `/linkedin-search` -> LinkedIn (targeted remote/SC/Fortaleza)
   - `/freehire-search` -> FreeHire (tech/data aggregator)
-  - `/catho-search` -> Catho (Brazilian job board)
   - `/infojobs-search` -> Infojobs (Brazilian job board)
 
-*(Note: Danish portals `jobindex`, `jobnet`, `jobdanmark`, `jobbank` are deactivated as out-of-scope for the candidate profile).*
+*(Note: Gupy and Catho are deactivated from automated sweeps per user directive due to low conversion and high friction. Danish portals `jobindex`, `jobnet`, `jobdanmark`, `jobbank` remain deactivated as out-of-scope).*
 
 If the user runs `/scrape --list`, list the portals above and stop.
 

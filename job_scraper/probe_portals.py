@@ -9,7 +9,7 @@ skills = [
     ('dynamitejobs', 'bun run .agents/skills/dynamitejobs-search/cli/src/cli.ts search --query "Supply Chain" --format json'),
     ('weworkremotely', 'bun run .agents/skills/weworkremotely-search/cli/src/cli.ts search --query "Supply Chain" --format json'),
     ('jobnagringa', 'bun run .agents/skills/jobnagringa-search/cli/src/cli.ts search --query "Supply Chain" --format json'),
-    ('catho', 'bun run .agents/skills/catho-search/cli/src/cli.ts search --query "Supply Chain" --format json'),
+    # ('catho', 'bun run .agents/skills/catho-search/cli/src/cli.ts search --query "Supply Chain" --format json'),
     ('infojobs', 'bun run .agents/skills/infojobs-search/cli/src/cli.ts search --query "Supply Chain" --format json'),
     ('freehire', 'bun run .agents/skills/freehire-search/cli/src/cli.ts search --query "Supply Chain" --format json'),
     ('ziprecruiter', 'bun run .agents/skills/ziprecruiter-search/cli/src/cli.ts search --query "Supply Chain" --format json'),

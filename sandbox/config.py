@@ -21,8 +21,9 @@ MAX_OUTPUT_TOKENS = 32768      # evita truncamento em lotes grandes
 # Ajuste apenas o caminho real se algum divergir.
 PORTALS = {
     "linkedin":     ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\linkedin-search\cli\src\cli.ts", "search"],
-    "gupy":         ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\gupy-search\cli\src\cli.ts", "search"],
-    "catho":        ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\catho-search\cli\src\cli.ts", "search"],
+    # "gupy":         ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\gupy-search\cli\src\cli.ts", "search"],
+    "inhire":         ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\inhire-search\cli\src\cli.ts", "search"],
+    # "catho":        ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\catho-search\cli\src\cli.ts", "search"],
     "infojobs":     ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\infojobs-search\cli\src\cli.ts", "search"],
     "freehire":     ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\freehire-search\cli\src\cli.ts", "search"],
     "dynamitejobs": ["bun", "run", r"C:\dev\ai-job-search\.agents\skills\dynamitejobs-search\cli\src\cli.ts", "search"],

@@ -1,0 +1,230 @@
+{
+  "framework_version": "1.3.0",
+  "command": "/rank",
+  "purpose": "Triage scraped jobs into a ranked shortlist by scoring posting text against the candidate profile and fit framework.",
+  "sources": [
+    "CLAUDE.md",
+    ".claude/commands/rank.md",
+    ".claude/skills/job-application-assistant/04-job-evaluation.md",
+    ".claude/skills/job-application-assistant/01-candidate-profile.md",
+    "tools/rank_state.py"
+  ],
+  "candidate_identity": {
+    "name": "Filippe Rezende Borba",
+    "base_location": "Bombinhas, Santa Catarina, Brazil",
+    "work_authorization": "Brazilian citizen (no US citizenship, Green Card, or US domestic work authorization)",
+    "languages": {
+      "Portuguese": "Native",
+      "English": "Advanced (tested B2, target C1; C1+/Fluent/Native triggers FLAG)",
+      "Spanish": "Elementary (working-level Spanish triggers FAIL)"
+    },
+    "positioning": "Supply Chain & Operations Leader with Analytical Layer | Problem Solver & Operational Bridge | Google Cloud Certified Data Analyst",
+    "core_moat": "Bridge between physical operations (13+ years in bulk liquids, fuel terminals, multi-modal transport, manufacturing, S&OP, procurement) and data intelligence (Python, SQL, BigQuery, Power BI, Tableau, GIS, GCP)."
+  },
+  "hard_gates": {
+    "gate_0_employment_and_compensation_model": {
+      "field": "employment_gate",
+      "values": [
+        "PASS",
+        "FAIL"
+      ],
+      "rule": "Requires guaranteed, predictable, regular monetary compensation (fixed salary, hourly contractor rate, fixed monthly retainer, CLT, or PJ).",
+      "fail_conditions": [
+        "Equity-only, Co-founder, Founding Team (unfunded or revenue conditioned on future traction/funding, e.g., Gabb)",
+        "Venture-building, Incubator, Fellowship, Stipend-only (e.g., EWOR, Entrepreneur First)",
+        "Commission-only, unpaid internship, or pure revenue-share"
+      ],
+      "compensation_floors": {
+        "USD": {
+          "floor_monthly": 1600,
+          "target_monthly_range": [
+            4000,
+            7000
+          ],
+          "currency": "USD"
+        },
+        "BRL": {
+          "floor_monthly_clt": 10000,
+          "floor_monthly_pj": 14000,
+          "target_monthly_range": [
+            15000,
+            25000
+          ],
+          "currency": "BRL"
+        }
+      }
+    },
+    "gate_1_geographic_eligibility_and_presence": {
+      "field": "location_verdict",
+      "values": [
+        "PASS",
+        "FAIL",
+        "FLAG"
+      ],
+      "rule": "Never trust platform tags ('Global Remote', 'Anywhere in the World', '100% Remoto'). Inspect JD body text verbatim.",
+      "pass_conditions": [
+        "Explicitly 100% remote supporting Brazil, LATAM, or Worldwide via Contractor/EOR (Deel, Remote, etc.) or Brazilian contract",
+        "Hybrid or on-site in Santa Catarina within ~80km of Bombinhas (Florianopolis, Itajai, Balneario Camboriu, Navegantes, Gaspar)",
+        "Hybrid or on-site in Fortaleza/CE metropolitan area (explicit relocation target)"
+      ],
+      "fail_conditions": [
+        "Requires regular physical presence (on-site or hybrid) outside SC (~80km radius) or Fortaleza/CE (e.g., Sao Paulo, Rio de Janeiro, Curitiba, Belo Horizonte, Blumenau, US cities)",
+        "Limits hiring to domestic US/UK/EU/foreign residents or requires domestic work authorization without sponsorship ('US only', 'Must be based in the US', 'Security clearance required')"
+      ],
+      "flag_conditions": [
+        "Silent on domestic restrictions in a global remote company (unverified)",
+        "Heavy travel requirements or conditional relocation"
+      ]
+    },
+    "gate_2_language": {
+      "field": "language_gate",
+      "values": [
+        "PASS",
+        "FLAG",
+        "FAIL"
+      ],
+      "pass_conditions": [
+        "Portuguese only",
+        "Unspecified English or Professional/Working English (B2 compatible)"
+      ],
+      "flag_conditions": [
+        "Explicitly requires 'Fluent', 'Native', or 'C1+' English (candidate is tested B2 / Advanced)"
+      ],
+      "fail_conditions": [
+        "Requires a language not in profile (e.g., Polish, German, Russian, French)",
+        "Requires working-level or fluent Spanish (candidate has Elementary only)"
+      ]
+    }
+  },
+  "strategic_tracks": {
+    "Track 1: Physical Operations": {
+      "name": "Supply Chain & Physical Operations Leadership / S&OP",
+      "target_roles": [
+        "S&OP Analyst / Manager / Lead",
+        "Demand Planner / Planning Manager",
+        "Supply Chain Operations Manager / Coordinator / Superintendent",
+        "Logistics Manager / Coordinator / Specialist",
+        "Procurement, Strategic Sourcing & MRO Materials Specialist"
+      ],
+      "domain_anchor": "Physical operations, industrial assets, bulk liquid/fuel terminals, multi-modal transport, manufacturing, distribution, inventory optimization, and supply planning.",
+      "conversion_priority": "Highest conversion and proven viability across BRL (Remotar, Gupy, LinkedIn, Catho) and USD (HireLATAM, DynamiteJobs, Solvo)."
+    },
+    "Track 2: Logistics Tech & Data Products": {
+      "name": "Logistics Tech & Data Products",
+      "target_roles": [
+        "Technical Product Owner / Product Manager (TMS, WMS, Fleet Management, Logistics Telemetry, Supply Chain SaaS)",
+        "Supply Chain / Logistics Analytics Specialist",
+        "Active Control Tower Architect / Business Operations (Supply Chain)"
+      ],
+      "domain_anchor": "Direct connection to supply chain, logistics, transportation, or physical operations technology.",
+      "conversion_priority": "Selective layer; requires strict geographic and domain verification."
+    },
+    "Other": {
+      "name": "Out-of-Track / Generic Tech or Non-Target Operations",
+      "description": "Generic SaaS, fintech, ad-tech, pure software engineering, or non-supply-chain operations."
+    }
+  },
+  "scoring_dimensions": {
+    "technical": {
+      "weight": 0.25,
+      "description": "Alignment between required/preferred technical & functional tools and candidate capabilities.",
+      "rubric": {
+        "80_100": "Core requirements match primary stack (Python, SQL, BigQuery, Power BI, Tableau, GIS, Advanced Excel, SAP PM/MM, S&OP, Lean/VSM, WMS/TMS).",
+        "60_79": "Most requirements match with 1-2 learnable gaps (e.g., alternative ERP like Protheus/Oracle).",
+        "40_59": "Partial match; significant upskilling needed.",
+        "0_39": "Fundamental mismatch."
+      },
+      "strong_match_keywords": [
+        "Python (Pandas, NumPy, APIs)",
+        "SQL (PostgreSQL, BigQuery)",
+        "Power BI / DAX",
+        "Tableau",
+        "GIS (Dekart, Kepler.gl)",
+        "SAP (MM, PM)",
+        "S&OP / S&OE / Demand Planning / MRP",
+        "WMS / TMS / Logistics Telemetry",
+        "Lean / VSM / 5S / Six Sigma / TPM",
+        "Google Cloud Platform (GCP)"
+      ],
+      "weak_or_out_of_scope_keywords": [
+        "Pure backend SQL / Data Warehouse plumbing (5-7+ yrs DE)",
+        "Microsoft Fabric / Azure Synapse / Azure Databricks mandatory core",
+        "Production ML Engineering / MLOps (Airflow, Spark streaming, dbt)",
+        "Full-stack / Frontend / Mobile software development"
+      ]
+    },
+    "experience": {
+      "weight": 0.3,
+      "description": "Work history alignment with heavy weighting on physical supply chain and operations domain.",
+      "rubric": {
+        "85_100": "High Domain Match: Direct experience in physical supply chain, logistics operations, terminal management, distribution, multi-modal transport, manufacturing, procurement, S&OP, or Logistics Tech.",
+        "60_84": "Related operational experience with clear transferable domain skills.",
+        "30_59": "Domain Penalty: Generic SaaS, ad-tech, retail apparel, consumer fintech, marketing tech with no physical supply chain connection.",
+        "0_29": "Unrelated experience or junior/entry-level mismatch."
+      }
+    },
+    "behavioral": {
+      "weight": 0.15,
+      "description": "Cultural and behavioral alignment with candidate profile (decisive problem solver / 'resolutor').",
+      "positive_signals_80_100": [
+        "End-to-end ownership and accountability",
+        "Cross-functional bridge (shop-floor to executive / commercial to operations)",
+        "High autonomy and outcome orientation",
+        "Process optimization and analytical problem-solving"
+      ],
+      "red_flags_0_40": [
+        "Micromanagement or strict presence-based evaluation",
+        "Slow consensus-only cycles without execution authority",
+        "Pure routine maintenance / clerical data entry without optimization scope"
+      ]
+    },
+    "career": {
+      "weight": 0.3,
+      "description": "Alignment with strategic tracks, seniority level, and compensation targets.",
+      "sweet_spots_85_100": [
+        "Track 1 & Track 2 leadership, specialist, or senior analytical roles",
+        "Compensation in USD $4k-$7k/mo or BRL R$ 15k-25k+/mo target bands"
+      ],
+      "anti_patterns_0_40": [
+        "Generic PO/PM in fintech/ad-tech/apparel",
+        "Junior / Assistant / Entry-level / Trainee / Internship roles",
+        "Pure database administration or infrastructure plumbing",
+        "Ambiguous or non-viable on-site/hybrid mandates"
+      ]
+    }
+  },
+  "overall_score_formula": "int(0.25 * technical + 0.30 * experience + 0.15 * behavioral + 0.30 * career + 0.5)",
+  "verdict_bands": [
+    {
+      "min_score": 75,
+      "max_score": 100,
+      "verdict": "Strong Fit",
+      "action": "Top priority for application (subject to PASS on all hard gates)"
+    },
+    {
+      "min_score": 60,
+      "max_score": 74,
+      "verdict": "Good Fit",
+      "action": "Solid fit; address specific gaps in cover letter"
+    },
+    {
+      "min_score": 45,
+      "max_score": 59,
+      "verdict": "Moderate Fit",
+      "action": "Review carefully; proceed only if strategic"
+    },
+    {
+      "min_score": 30,
+      "max_score": 44,
+      "verdict": "Weak Fit",
+      "action": "Deprioritized / skip"
+    },
+    {
+      "min_score": 0,
+      "max_score": 29,
+      "verdict": "Poor Fit",
+      "action": "Skip"
+    }
+  ],
+  "shortlist_eligibility_rule": "A job is shortlisted if and only if employment_gate != 'FAIL' and location_verdict != 'FAIL' and language_gate != 'FAIL', sorted by overall_score descending with deadline urgency (<= 7 days) as tiebreaker."
+}

@@ -1,0 +1,1204 @@
+================================================================================
+TOP 20 VAGAS DO PIPELINE POR SCORE ABSOLUTO (DESCRICAO INTEGRAL)
+================================================================================
+
+--------------------------------------------------------------------------------
+VAGA #01 | SCORE: 96 (Strong Fit)
+--------------------------------------------------------------------------------
+Titulo:            Analista de Planejamento Logístico III - S&OP
+Empresa:           Solar Coca-Cola
+Portal:            linkedin
+Key:               solar-coca-cola_analista-de-planejamento-logistico-iii-s-op
+URL:               https://br.linkedin.com/jobs/view/analista-de-planejamento-log%C3%ADstico-iii-s-op-at-solar-coca-cola-4472809250
+Status:            ranked
+Track:             Track 1: Physical Operations | Moeda: BRL
+Gates:             Location=PASS | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Direct match in S&OP demand volume analysis, risk identification, and cross-functional commercial alignment.
+  + Core requirements match candidate's exact stack: Advanced Excel, Power BI, and SAP ERP workflow.
+  + Location in Fortaleza, CE matches candidate's explicit relocation target.
+Gaps / Vetos:
+  - Position title is Senior Analyst (Nível III); candidate has Superintendent/Manager leadership background, requiring overqualification management.
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+Descrição da vaga Quem somos Somos a Solar Coca-Cola, o segundo maior fabricante do Sistema Coca-Cola no Brasil e um dos 13 maiores do mundo. Um time de pessoas apaixonadas, que distribui alegria em 70% do território nacional, sempre com muito gás, sorriso no rosto, simplicidade e protagonismo. Se atuar por um propósito maior, superando desafios que são verdadeiras oportunidades para aprender, se desenvolver e crescer é algo que move você, essa oportunidade pode ser a chance de iniciar uma bela história junto com a gente. Se você se identifica com quem somos #VemSerSolar #PaixãoQueTransforma #SedeQueImpulsiona Responsabilidades e atribuições 🎯Como será o seu dia a dia: Realizar análise dos volumes de demanda, identificando tendências, desvios, oportunidades e riscos para a cadeia de Supply. Realizar interface com as áreas de negócio: Demanda, Comercial, Financeiro e Marketing, apoiando na construção e acompanhamento de indicadores da área. Desenvolver ferramentas e dashboard para análises de cenários, identificando riscos e oportunidades de contribuição para suporte à tomada de decisão e processos de melhoria; Acompanhar indicadores de performance da área, propondo melhorias contínuas; Dar suporte à coordenação em atividades sob demanda. Requisitos e qualificações 🔎O que você precisa ter: Concluiu graduação em Logística, Administração, Engenharia ou áreas correlatas; Tem habilidade com Excel avançado e Power BI; Possui conhecimento em análise de dados e indicadores logísticos; Tem experiência na área de Supply Chain, foco em processos de S&OP 🌟Será um diferencial se você: É pós-graduado(a) em Administração, Logística ou áreas afins; Tem conhecimento técnico no sistema SAP; Margin Minder-UXT, power query. Horário de Trabalho: 08:30 - 12:00 - 13:00 - 18:18 seg a sex Informações adicionais Veja alguns outros benefícios de Ser Solar: 🩺Para cuidar da sua saúde e segurança: Plano de saúde com condições especiais para você e seus dependentes; Telemedicina, com diversas especialidades, incluindo telepsicologia; Plano Odontológico; Programa de Saúde Emocional; Wellhub (rede de academias); Seguro de vida. 🍴Para cuidar da sua alimentação: Vale alimentação; Vale refeição ou refeitório na unidade 🚌Para sua mobilidade: Vale transporte ou transporte fretado 💵Para sua programação financeira: Participação nos Lucros; Previdência Privada 📣E vamos além com: Uma Universidade Corporativa repleta de oportunidades para você se desenvolver; Extensão da Licença Maternidade de até 180 dias e Paternidade até 20 dias, também válida para pais e mães adotivos e casais homoafetivos; Descontos em produtos do nosso portfólio; Um Kit Natalino, no final de cada ano, para compartilhar a alegria com quem você ama. SOLAR COCA-COLA. PAIXÃO QUE TRANSFORMA. SEDE QUE IMPULSIONA ❤️ Na Solar Coca-Cola, a paixão não é apenas um sentimento, é a força que impulsiona tudo o que fazemos. Nossa jornada é trilhada por mais de 20 mil pessoas solares, espalhadas por 13 fábricas e 44 Centros de Distribuição, atendendo a aproximadamente 400 mil pontos de venda em uma área que representa 70% do Brasil. Acreditamos que o sucesso é construído com dedicação e trabalho em equipe, onde cada um tem a oportunidade de ser protagonista e contribuir para o crescimento da empresa. Contagiamos uns aos outros com a energia e o entusiasmo que nos movem a dar o nosso melhor a cada dia, dentro e fora dos muros vermelhos. Propósito, desenvolvimento e performance sustentam a nossa proposta de valor ao colaborador e nos fazem cada vez mais Solar. Juntos, somos a Solar Coca-Cola: Paixão que transforma. Sede que impulsiona. #VemSerSolar
+
+
+--------------------------------------------------------------------------------
+VAGA #02 | SCORE: 94 (Strong Fit)
+--------------------------------------------------------------------------------
+Titulo:            Analista de Suprimentos Pleno - Gaspar/SC
+Empresa:           Bunge
+Portal:            linkedin-search
+Key:               https://www.linkedin.com/jobs/view/4458282283
+URL:               https://www.linkedin.com/jobs/view/4458282283
+Status:            ranked
+Track:             N/A | Moeda: N/A
+Gates:             Location=PASS | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Perfeita intersecção entre Supply Chain físico e camada analítica (Python, Tableau, SQL, Excel avançado, Power BI)
+  + Localização viável em Gaspar/SC (região metropolitana/vale compatível com base em Bombinhas SC)
+  + Desenvolvimento de automações, indicadores gerenciais e apoio a IA corporativa em grande multinacional do agronegócio
+Gaps / Vetos:
+  - Modelo híbrido exigindo presença de segunda a quarta em Gaspar/SC
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+Cidade : Gaspar Estado : Santa Catarina (BR-SC) País : Brasil (BR) Número da Vaga : 46703 Principais responsabilidades Desenvolver e manter automações para os processos de Compras e Backoffice, identificando oportunidades de eliminação de atividades manuais. Participar da evolução de robôs e soluções digitais utilizadas pela área. Desenvolver dashboards, indicadores e bases de dados estruturadas em Tableau para análises gerenciais. Automatizar tratamentos e consolidações de informações utilizando Python, garantindo qualidade, integridade e governança dos dados. Apoiar iniciativas de Inteligência Artificial aplicadas aos processos da área, realizando provas de conceito e testes de novas tecnologias. Conectar soluções de analytics e automação com recursos de IA corporativa. Garantir estabilidade das soluções implementadas, atuando na identificação, correção de falhas e melhorias contínuas. Elaborar materiais, apresentações e participar de reuniões em inglês com times regionais e globais. Estruturar documentação técnica, procedimentos operacionais e apoiar treinamentos e disseminação das soluções desenvolvidas. Interagir ativamente com as áreas de TI, Digital, Procurement e GBS. Requisitos Obrigatórios Ensino superior completo em Engenharia, Ciência da Computação, Sistemas de Informação, Administração, Estatística, Matemática ou áreas correlatas. Conhecimento em Python (intermediário/avançado). Conhecimento em Tableau (intermediário/avançado). Conhecimento intermediário em bancos de dados SQL. Conhecimento avançado em Excel e Power Query. Sólido conhecimento em modelagem de dados e construção de KPIs/indicadores. Inglês avançado para conversação, reuniões e apresentações. Diferenciais Experiência com Procurement ou Supply Chain. Conhecimento em Power BI e Power Automate. Conhecimento em RPA e SAP. Conhecimento em Inteligência Artificial Generativa e Machine Learning aplicado a processos. Veja também nossos benefícios: Assistência Médica e Odontológica; *Auxílio refeição (Refeitório no local Ou vale refeição); Previdência Privada (BungePrev plano com participação da empresa); Seguro de Vida; *Auxílio transporte (Vale-transporte Ou Estacionamento Ou Fretado); Convênio farmácia; Auxílio creche (Para colaboradoras com filhos até 5 anos e 11 meses); Remuneração variável; Programa “Conte com a gente” - Programa de orientação e apoio pessoal para colaboradores e dependentes. Realizado por profissionais especializados, com objetivo de apoiar com assuntos Psicológicos, Sociais ou Emocionais; Parcerias com TotalPass (Academia), Clube MMB (Seguros individuais), Dell, além de Universidades e Escolas de Idiomas; Incentivos anuais como brinquedos e cesta de Natal. Os benefícios podem variar conforme localização da vaga. Local de trabalho: Gaspar/SC. Modelo de trabalho: Híbrido - segunda, terça, quarta presencial. Na Bunge, nosso objetivo é conectar agricultores a consumidores para fornecer alimentos, ingredientes para nutrição animal e combustível essenciais para o mundo. Como uma fornecedora líder de soluções para o agronegócio, nossa equipe de aproximadamente 34.000 colaboradores dedicados atua em parceria com agricultores ao redor do mundo para movimentar commodities agrícolas de onde são produzidas para onde são necessárias — de maneira mais rápida, inteligente e eficiente. Somos uma empresa líder mundial em originação, armazenamento, distribuição, além de processamento e refino de oleaginosas, oferecendo um amplo portfólio de óleos, gorduras e proteínas de origem vegetal. Atuamos lado a lado com nossos clientes em ambas as pontas da cadeia de valor para fornecer produtos de qualidade e desenvolver soluções inovadoras e personalizadas que atendam às necessidades em constante evolução dos consumidores. Com mais de 200 anos de experiência e presença em mais de 50 países, temos o compromisso de fortalecer a segurança alimentar global, promover a sustentabilidade e contribuir para a prosperidade das comunidades onde operamos. A Bunge tem sede registrada em Genebra, Suíça, e sua sede corporativa está localizada em St. Louis, Missouri, EUA. Saiba mais em bunge.com.br. Diariamente, nossos profissionais incorporam os valores que são a essência da Bunge: SOMOS UM SÓ TIME– Colaborativo, respeitoso e inclusivo LIDERAMOS O CAMINHO – Somos ágeis, Empoderados e inovadores FAZEMOS O QUE É CERTO – Com segurança, de forma sustentável e com integridade Reconhecemos que nosso sucesso depende da variedade de perspectivas que cada um de nossos colaboradores agrega à Bunge. Estamos empenhados em promover práticas para nutrir uma cultura de pertencimento para todos. Globalmente, apoiamos os Princípios de Empoderamento das Mulheres, de ONU Mulheres. No Brasil, somos associados ao Mover - Movimento pela Equidade Racial, e fomos eleitos pela ferramenta global Disability Index Report® como um dos melhores locais para se trabalhar em relação à inclusão de pessoas com deficiência. Atuamos continuamente em prol de nosso compromisso de deixar um legado positivo em todas as comunidades onde atuamos. Se você se identifica com esses valores, junte-se a nós! Valorizamos e investimos em pessoas que acreditam em nosso propósito e o vivenciam com entusiasmo a cada dia – pessoas que têm #OrgulhodeSerBunge
+
+
+--------------------------------------------------------------------------------
+VAGA #03 | SCORE: 94 (Strong Fit)
+--------------------------------------------------------------------------------
+Titulo:            Supply Chain Manager
+Empresa:           Uproot Clean
+Portal:            dynamitejobs
+Key:               uproot-clean_supply-chain-manager
+URL:               https://dynamitejobs.com/company/uprootclean/remote-job/supply-chain-manager
+Status:            ranked
+Track:             Track 1: Physical Operations | Moeda: USD
+Gates:             Location=PASS | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Total ownership of purchasing, demand planning (S&OP), and logistics coordination across multi-channel operations.
+  + Direct alignment with 15+ years managing supplier communications, inventory health, and freight/3PLs.
+  + Strong analytical and process-building scope tailored to candidate's operational leadership background.
+Gaps / Vetos:
+  - E-commerce/DTC specific terminology requires contextual framing of past retail/B2B distributor deliveries.
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+🧨 Supply Chain Manager, Remote Job, October 2026
+Supply Chain ManagerUproot CleanFull Time$55k - $75k per yearSupply Chain Management, Logistics, Demand and Supply Planning, Data Analysis, Process improvement
+This job is closed  Featured Job  Promoted Job  Remote Job
+This job is closed. But you can apply to other open Management and Operations jobs.
+Supply Chain Management  Logistics  Demand and Supply Planning  Data Analysis  Process improvement
+Supply Chain Manager
+Location: Fully Remote (US or LATAM) Job Type: Full-Time
+Strong supply chain operations don’t just support growth—they enable it. We’re looking for a Supply Chain Manager who can take ownership of purchasing, demand planning, and logistics, while building systems that improve efficiency and scalability.
+About the Role
+We are a fast-growing ecommerce business operating across multiple channels. Our supply chain is a critical part of our growth, and we’re looking for someone who can bring structure, visibility, and optimization across the entire process.
+This role is ideal for someone who is both analytical and operational—someone who can manage day-to-day execution while continuously improving systems and processes.
+The Role
+This is an ownership role. You will manage purchasing, demand planning, logistics coordination, and product data, ensuring smooth operations from supplier to customer.
+You will be responsible for maintaining inventory health, improving forecasting accuracy, and ensuring products are available at the right time and cost.
+This is not a purely execution role—you’ll be expected to identify inefficiencies, improve workflows, and build scalable systems as the business grows.
+This Role Is For You If:
+You think in systems and processes, not just tasks
+You are highly organized and detail-oriented
+You are comfortable managing multiple moving parts at once
+You enjoy working with data to drive decisions
+You proactively identify and solve operational problems
+This Role Is NOT For You If:
+You prefer repetitive tasks without ownership
+You struggle with prioritization and deadlines
+You are not comfortable in a fast-paced, changing environment
+What You'll Do
+Purchasing & Supplier Management
+Manage purchase orders and supplier communication
+Ensure timely replenishment of inventory
+Monitor supplier performance and lead times
+Demand Planning & Inventory Management
+Forecast demand based on historical data and trends
+Maintain optimal inventory levels across SKUs
+Prevent stockouts and overstock situations
+Logistics & Operations Coordination
+Coordinate shipments with suppliers, freight forwarders, and 3PLs
+Track shipments and resolve delays or issues
+Ensure smooth flow of goods from origin to warehouse
+Product Data Management
+Maintain accurate product data across systems
+Ensure SKUs, costs, and inventory data are up to date
+Support reporting and operational visibility
+Process Improvement
+Identify inefficiencies across the supply chain
+Build systems and workflows to improve accuracy and speed
+Support scaling operations as volume grows
+Requirements
+Must have:
+1+ year of experience in ecommerce or DTC
+Experience in supply chain, operations, or logistics
+Strong analytical and problem-solving skills
+High attention to detail and organization
+Work Requirements
+⏰ Schedule: Flexible 💻 Workspace: Fixed, professional setup required (stable internet + backup plan)
+Benefits & Compensation
+Competitive base salary + performance-based bonus structure
+Fully remote - work from anywhere in the US, Canada, or Europe
+Paid time off
+Flex days. Enjoy an extra quarterly day off to unwind and recharge energies whenever you desire
+Fully covered medical insurance, including health, dental, and vision. (US-based employees)
+Ownership & autonomy - trusted to build and execute strategy
+Professional development - opportunities to learn and grow with the business
+Ready to Apply?
+If you want to build and scale a high-performing supply chain operation, apply now.
+This job is closed But you can apply to other open Remote Management and Operations jobs
+Apply Now
+About the company
+Uproot Clean View all company's open jobs
+Similar Remote Jobs
+Similar Remote Jobs
+Merchant Onboarding & Operations SpecialistAllied PaymentsFull Time$1.5k - $2.5k per monthAdministrative Support, Bilingual English-Spanish, Client Onboarding, CRM, Customer Service
+Opened  4 days ago  Featured Job  Promoted Job  Remote Job
+Information Security & Compliance Manager (GRC)RocketPartsFull Time$120k - $180k per yearAWS, Compliance, Documentation, Governance, Risk, and Compliance, Incident response
+Opened  12 days ago  Featured Job  Promoted Job  Remote Job
+Fulfillment Operations ManagerKC Power CleanFull Time$2.5k per monthOperations, Technical, Leadership, Project Management, Project Planning
+Closes in 9 days  Featured Job  Promoted Job  Remote Job
+Senior Manager, ProcurementBask and LatherFull Time$125k - $145k per yearProcurement, Supply Chain Management, Vendor Management, Contract negotiation, ERP
+New Job!  Featured Job  Promoted Job  Remote Job
+Senior Project Manager, Promotional Medical EducationReal ChemistryFull Time$90k - $100k per yearProject Management, Budget Management, Microsoft Office, Stakeholder management
+New Job!  Featured Job  Promoted Job  Remote Job
+No related jobs found
+
+
+--------------------------------------------------------------------------------
+VAGA #04 | SCORE: 94 (Strong Fit)
+--------------------------------------------------------------------------------
+Titulo:            Sales and Operations Planning - S&OP
+Empresa:           Praso
+Portal:            linkedin
+Key:               praso_sales-and-operations-planning-s-op
+URL:               https://br.linkedin.com/jobs/view/sales-and-operations-planning-s-op-at-praso-4464135731
+Status:            ranked
+Track:             Track 1: Physical Operations | Moeda: BRL
+Gates:             Location=PASS | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Pure S&OP ownership for Praso (high-growth B2B retail/distribution startup backed by major VCs).
+  + Direct responsibility for supply & demand balancing, commercial alignment, supplier replenishment, and inventory turns.
+  + Northeast hub operations matching candidate's Fortaleza/Nordeste regional footprint and open relocation track.
+Gaps / Vetos:
+  - Fast-paced startup environment requiring rapid tactical execution alongside strategic S&OP structure.
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+Sobre a Praso O foodservice move o Brasil e a Praso está mudando como esse setor faz suas compras. Nascemos para transformar o atacado tradicional, ainda analógico, em uma experiência digital, inteligente e eficiente. Com tecnologia própria, inteligência artificial e operação logística de ponta, já conectamos a indústria a mais de 10 mil pequenos negócios como restaurantes, padarias e lanchonetes. Num mercado de R$ 2 trilhões, ainda pouco digital, crescemos rápido, passamos de R$ 300 milhões em receita e operamos com margens acima do setor. Estamos construindo a nova infraestrutura do foodservice brasileiro, começando pelo Nordeste. Se você quer deixar sua marca em uma das revoluções mais relevantes do varejo B2B no Brasil, seu lugar é aqui. Missão Garantir que a Praso tenha o produto certo, na quantidade certa e no momento certo — equilibrando acuracidade de previsão, rentabilidade e giro de estoque para sustentar o crescimento acelerado da operação. Como área de alta relevância para o resultado da empresa, buscamos alguém sênior para elevar o nível de maturidade analítica do S&OP e conduzir decisões que impactam diretamente a experiência de mais de 10 mil parceiros do foodservice. Responsabilidades Monitorar e analisar os principais KPIs do S&OP — acurácia de previsão, rentabilidade, rupturas de estoque, slow movers/no movers e shelf life de produtos — propondo ações corretivas de curto e longo prazo. Desenvolver e implementar metodologias de previsão, ferramentas analíticas e melhorias de processo com foco em elevar continuamente esses KPIs. Realizar a previsão de demanda com base em dados históricos, tendências de mercado, sazonalidades e informações de vendas e marketing. Criar e manter um plano tático de compras, alinhado à previsão de demanda e aos objetivos do negócio. Acompanhar e garantir a execução dos pedidos de compra, assegurando prazos e disponibilidade de produto. Requisitos essenciais Excel e SQL avançado. Experiência com automação de processos. Forte capacidade analítica, com facilidade para transformar dados em decisões. Senso de dono(a) e espírito empreendedor. Diferenciais Noções de varejo e distribuição de alimentos. Liderança e capacidade de influência. Experiência prévia em times de S&OP ou planejamento. Benefícios Praso Flex - Aqui você escolhe como usar os seus Benefícios! Plano de Saúde Amil Plano Odontológico SulAmérica (Podendo incluir: cônjuge, filhos e tutelados) Seguro de Vida (Capital de até 500 mil) ️‍♂️ TotalPass e Gympass (Para você e mais 3 dependentes) ✌️ Starbem (Apoio Psicológico e Nutricional) InvestPAss (App de apoio financeiro) ▪️SESC (Rede Nacional) Alimentação/Refeição (Mínimo de 300 pontos) Auxílio Mobilidade (Alocação de pontos extras) Compras na Praso (disponível para locais com entrega) Curso de Inglês (elegibilidade após 06 meses) ❇️ Caju Saldo Livre (Crédito Visa, para usar onde e como quiser)
+
+
+--------------------------------------------------------------------------------
+VAGA #05 | SCORE: 93 (Strong Fit)
+--------------------------------------------------------------------------------
+Titulo:            Gerência Sênior de Supply Chain e Logística | BR Mania
+Empresa:           BR Mania
+Portal:            gupy-search
+Key:               br-mania_gerencia-senior-de-supply-chain-e-logistica-br-mania
+URL:               https://vagasbrmania.gupy.io/job/eyJqb2JJZCI6MTE1ODI2NzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
+Status:            ranked
+Track:             Track 1 - Physical Operations / S&OP | Moeda: BRL
+Gates:             Location=FAIL | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Match perfeito com a experiência corporativa do candidato na Vibra Energia/BR Mania em liderança sênior de supply chain, logística e abastecimento nacional.
+Gaps / Vetos:
+  - Veto de localização geográfica: modelo de trabalho híbrido presencial na sede no Rio de Janeiro/RJ, incompatível com a residência em Bombinhas/SC.
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+Página da Vaga | Gerência Sênior de Supply Chain e Logística | BR ManiaPular para o conteúdo principalIr para a página da empresaCandidatar-se
+Candidaturas encerradas
+Gerência Sênior de Supply Chain e Logística | BR Mania
+Copiar link
+Compartilhar vaga
+Ir para candidatura
+Descrição da vaga
+A BR MANIA é uma empresa 100% VIBRA e opera de forma independente. Atuamos na gestão de negócios de conveniência e proximidade no brasil, gerenciando uma das marcas mais queridas do Brasil.
+Temos o compromisso de proporcionar uma experiência única aos nossos clientes, oferecendo produtos de alta qualidade e um atendimento excepcional. Como parte da nossa equipe, você será um protagonista em contribuir para o crescimento de uma empresa inovadora, com foco no desenvolvimento humano e na melhoria contínua. Vamos tornar o mundo mais conveniente, prático e próximo dos consumidores, com soluções cada vez mais inovadoras e sustentáveis.
+Responsabilidades e atribuições
+Responsável por assegurar a eficiência e a performance da cadeia de suprimentos da BR Mania, garantindo a disponibilidade de produtos e insumos para toda a rede por meio da gestão integrada de planejamento de demanda, compras, abastecimento, estoques, logística e distribuição.
+Atua na otimização de custos, no fortalecimento dos níveis de serviço e na evolução contínua dos processos, liderando a gestão de fornecedores, operadores logísticos, indicadores de desempenho e iniciativas de melhoria operacional.
+Estratégia de compras, produtos e Portfólio
+Estratégia de Last Mile e Eficiência Logística
+Tem como papel conduzir projetos estratégicos voltados ao crescimento sustentável do negócio, à excelência na experiência do consumidor, à transformação digital e à inovação da cadeia de suprimentos, assegurando a conformidade dos processos e o desenvolvimento de equipes de alta performance, com foco na formação de sucessores e na sustentabilidade da operação.
+Requisitos e qualificações
+Ensino Superior Completo em Engenharia, Administração, Logística, Economia ou áreas afins
+MBA em Gestão de Negócios, Logística, Inovação, Gestão Empresarial ou áreas correlatas
+Sólida experiência profissional em posições de liderança e gestão
+Inglês avançado
+Domínio do Pacote Office (Word, PowerPoint, Excel e Outlook)
+Conhecimento avançado em ferramentas de informática e produtividade
+Boa redação e habilidade na elaboração de comunicações corporativas
+Conhecimento em ferramentas de apresentação e criação de materiais visuais
+Informações adicionais
+Modelo Híbrido:
+Adotamos um modelo de trabalho híbrido.
+🏥Plano de Saúde & Odontológico Bradesco:
+Cuide da sua saúde e sorriso com um dos melhores planos do mercado.
+🍴Vale Alimentação ou Refeição:
+Benefício para garantir uma alimentação saudável e balanceada.
+Equipamentos:
+Fornecemos todos os recursos necessários para otimizar o seu desempenho no dia a dia.
+✨ Incentivo de Curto/Longo Prazo (Conforme política):
+Reconhecemos e valorizamos o seu desempenho com incentivos anuais.
+💲 Previdência Privada:
+Invista no seu futuro com um plano de previdência privada.
+🍼 Auxílio Educação (Conforme Política):
+Suporte para garantir o bem-estar de pais e mães no cuidado com os filhos.
+🎗Seguro de Vida:
+Proporcionamos tranquilidade e segurança para você e sua família.
+🏋️TotalPass:
+Cuide da sua saúde física com acesso a uma ampla rede de academias e modalidades.
+Etapas do processo
+Etapa 1: Cadastro1Cadastro
+Etapa 2: Pré-entrevista2Pré-entrevista
+Etapa 3: Entrevista com Atração de Talentos3Entrevista com Atração de Talentos
+Etapa 4: Entrevista com gestor(a)4Entrevista com gestor(a)
+Etapa 5: Contratação5Contratação
+Um novo conceito de conveniência
+Nosso propósito é criar o mundo conveniente, simples, prático e próximo.
+Nos destacamos por nosso compromisso em servir com excelência, colocando as pessoas no centro de nossas operações. Com coragem e protagonismo, buscamos simplificar processos, garantindo que tudo seja feito com qualidade e eficiência. Nosso foco constante nos resultados assegura a entrega de um serviço excepcional, hoje e sempre.
+Compartilhar vaga
+Conheça mais sobre nós! 💚💛
+Website
+LinkedIn
+Instagram
+Candidatar-se
+Copiar link
+Candidatar-se
+
+
+--------------------------------------------------------------------------------
+VAGA #06 | SCORE: 93 (Strong Fit)
+--------------------------------------------------------------------------------
+Titulo:            Gerente Planejamento de Demanda
+Empresa:           Grupo Boticário
+Portal:            linkedin
+Key:               grupo-boticario_gerente-planejamento-de-demanda
+URL:               https://br.linkedin.com/jobs/view/gerente-planejamento-de-demanda-at-grupo-botic%C3%A1rio-4470938892
+Status:            ranked
+Track:             Track 1: Physical Operations | Moeda: BRL
+Gates:             Location=FAIL | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Demand Planning leadership at top-tier Brazilian cosmetics manufacturer and retail giant (Grupo Boticário).
+  + Exact match with candidate's S&OP, forecasting, statistical modeling, and inventory optimization competencies.
+Gaps / Vetos:
+  - Gate 1 FAIL: Base located in São José dos Pinhais/PR (on-site/hybrid beyond the 80km Bombinhas/SC commuting hub).
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+Descrição da vaga Esta cadeira é responsável por liderar a gestão tática e estratégica da área de Planejamento de Demanda (sellout e sellin) através da condução integral dos ritos do processo S&OP, desde a construção inicial do plano até a submissão para áreas parceira. Tem como objetivo promover alinhamento junto as principais áreas de interface (canal, categoria, PFIN, supply) ao longo das rodadas de planejamento, além do foco em gestão de equipe (avaliações de desempenho, calibrações, feedbacks, desenvolvimento), garantindo a melhor assertividade para o plano. Responsabilidades e atribuições Liderar o processo de planejamento de vendas, assegurando o cumprimento do calendário S&OP e a acuracidade dos planos de SELLOUT e SELLIN com olhar de cobertura, ruptura e tendência. Contribuir ativamente com o processo de construção das previsões de vendas, especialmente para novos lançamentos, através da validação das premissas e racionais utilizados pelos planejadores (sempre complementando com uma visão macro, gerando cenários e garantindo o alinhamento do plano com a estratégia e com os objetivos do negócio). Manter um bom relacionamento com as áreas de forte interface, principalmente Categorias, Canais, Planejamento Financeiro e Supply. Acompanhar e garantir a melhora dos indicadores da área, principalmente WAPE, MAPE e BIAS. Acompanhar e garantir o desenvolvimento e melhoria da ferramenta de planejamento atualmente utilizada, juntamente com o time de analytics. Gestão de time com diferentes níveis de senioridade, buscando extrair o melhor desempenho. Requisitos e qualificações Superior completo: Administração, Economia, Contabilidade ou Engenharias. Pós-Graduação: Áreas correlatas a Demanda e Supply Chain (desejável). Experiencia com gestão de time; Certificação APICS (desejável) Informações adicionais Benefícios que cuidam e se diferenciam: [FIXO] No Grupo Boticário, o cuidado é a nossa base para atingirmos resultados exponenciais. Temos um portfólio com mais de 20 benefícios para cuidar da sua saúde, bem estar e família. Confira abaixo. Saúde: Plano médico e odontológico flexíveis Auxílio medicamentos e vale saúde para familiares Sessões de psicoterapia gratuitas e telemedicina 24h Programas contínuos de prevenção, cuidado mental e vacinação Alimentação & bem-estar Vale Refeição (ou restaurante local) e Vale Alimentação (com vale extra no Natal) Desconto de até 40% nas marcas do nosso ecossistema Gympass/TotalPass para academias e estúdios esportivos Auxílio Home Office para modalidades híbrida e remota Day off de aniversário para celebrar do seu jeito Plano de saúde pet, vantagens em convênios e programas de viagem/hospedagem Para sua família Licença parental estendida (180 dias para mães e 120 dias para pais) Suporte para Pais Atípicos e auxílio babá / educação infantil Auxílio material escolar e crédito nutrição infantil Orientação jurídica, psicológica e social dedicada Seguridade para proteção e tranquilidade financeira Previdência Privada e Seguro de Vida Apoio ao falecimento de pais e empréstimo consignado Vale Transporte e Estacionamento (conforme o modelo de trabalho) Nota: Os pacotes de benefícios são adaptados de acordo com a elegibilidade de cada cargo e modelo de trabalho. Grupo Boticário De uma pequena farmácia de manipulação à maior franquia de cosméticos do planeta. Somos um Grupo com 15 marcas que está presente em mais de 40 países, com mais de 4 mil lojas físicas, líder de e-commerce de beleza no Brasil e mais de 19 mil colaboradores diretos. Temos um ecossistema próprio de beleza, que vai da indústria ao ponto de venda, da logística ao varejo, do laboratório ao coração das consumidoras e das nossas inovações na palma da sua mão. Acreditamos que o futuro mais bonito é aquele que construímos juntos, por isso, até 2030 temos compromissos ambiciosos voltados para o impacto positivo em dimensões humanas, ambientais e em nossos processos produtivos. Ganhamos o ranking "Employer Branding Awards 2025" do Glassdoor, que nos elegeu a melhor empresa para se trabalhar no setor de varejo no Brasil! Reconhecimento baseado em avaliações voluntárias e anônimas de nossos colaboradores e ex-colaboradores sobre como é trabalhar aqui. Reinventamos a beleza por meio da tecnologia, inovação, diversidade e sustentabilidade com: O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, TRUSS e do marketplace Beleza na Web, além de atuarmos com produtos licenciados como Australian Gold, Bio Oil e Linha de cuidados Pampers. Vem fazer beleza com a gente!
+
+
+--------------------------------------------------------------------------------
+VAGA #07 | SCORE: 93 (Strong Fit)
+--------------------------------------------------------------------------------
+Titulo:            Supply Chain Manager
+Empresa:           Barry Callebaut Group
+Portal:            linkedin
+Key:               barry-callebaut-group_supply-chain-manager
+URL:               https://br.linkedin.com/jobs/view/supply-chain-manager-at-barry-callebaut-group-4469083108
+Status:            ranked
+Track:             Track 1: Physical Operations | Moeda: BRL
+Gates:             Location=FAIL | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Multinational food processing giant (Barry Callebaut) managing complex perishable/commodity supply chains.
+  + High overlap with global supply chain governance, S&OP, and export/import logistics.
+Gaps / Vetos:
+  - Gate 1 FAIL: Plant based on-site in Itabuna/BA (southern Bahia cocoa plant, outside hub constraints).
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+Sobre a Posição O Gerente de Supply Chain é responsável pela área de Supply Chain junto à gestão da planta, atuando de forma integrada com as demais áreas para garantir o planejamento e a execução eficientes dos processos de materiais, produção, logística interna, gestão de estoques e transporte, assegurando o atendimento ao plano de suprimentos da unidade e aos objetivos do negócio. Principais Responsabilidades Incluem Gerenciar o desempenho dos processos de Supply Chain da unidade, garantindo segurança, qualidade e eficiência operacional. Liderar o planejamento de materiais, reposição de matérias-primas e embalagens, programação da produção e gestão de estoques. Coordenar as operações de armazenagem, transporte e logística interna da planta. Assegurar o controle de custos, produtividade, nível de serviço e atendimento aos indicadores de desempenho (KPIs). Atuar como interface principal com as áreas globais e regionais de Supply Chain, alinhando processos e resultados. Garantir a conformidade com regulamentações, requisitos de clientes e padrões corporativos. Conduzir iniciativas de melhoria contínua, qualidade e excelência operacional. Desenvolver e engajar a equipe, promovendo uma cultura de alta performance e planejamento sucessório. Gerenciar auditorias, documentações aplicáveis e o relacionamento com stakeholders internos e externos. Escopo da Função Gestão de matérias-primas, embalagens e produtos acabados da unidade. Coordenação dos fluxos logísticos de entrada e saída. Planejamento e programação da produção de produtos semiacabados e acabados. Gestão de inventários, conciliação de estoques e implementação de ações corretiva Qualificações Formação: Graduação ou pós-graduação em Administração, Economia ou áreas correlatas. Certificação APICS CPIM será considerada um diferencial. Requisitos e Competências Inglês avançado. Conhecimento de Supply Chain em ambiente industrial. Experiência em gestão logística, planejamento da demanda e controle de estoques. Vivência em melhoria contínua e otimização de processos. Habilidades de comunicação, apresentação e gestão de stakeholders. Capacidade de liderar mudanças e atuar em ambientes complexos. At Barry Callebaut, we are committed to Diversity & Inclusion. United by our strong values, we thrive on the diversity of who we are, where we come from, what we’ve experienced and how we think. We are committed to nurturing an inclusive environment where people can truly be themselves, grow to their full potential and feel they belong. #oneBC - Diverse People, Sustainable Growth.
+
+
+--------------------------------------------------------------------------------
+VAGA #08 | SCORE: 93 (Strong Fit)
+--------------------------------------------------------------------------------
+Titulo:            Gerente Supply Chain
+Empresa:           Stanley Black & Decker, Inc.
+Portal:            linkedin
+Key:               stanley-black-decker-inc_gerente-supply-chain
+URL:               https://br.linkedin.com/jobs/view/gerente-supply-chain-at-stanley-black-decker-inc-4474127266
+Status:            ranked
+Track:             Track 1: Physical Operations | Moeda: BRL
+Gates:             Location=FAIL | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Global tool and industrial manufacturing powerhouse (Stanley Black & Decker).
+  + End-to-end plant supply chain management, inventory turnover, Lean manufacturing integration.
+Gaps / Vetos:
+  - Gate 1 FAIL: On-site plant based in Carlos Barbosa/RS (Serra Gaúcha, outside viable commuting zones).
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+Responder pela definição do planejamento industrial, programação e acompanhamento da produção; Acompanhar diariamente a programação para garantir o atendimento ao cronograma de entrega e aos prazos estabelecidos pelo client; Gerenciar a programação do transporte, monitorando o tempo de entrega; Realizar a gestão e definir estratégias para a área de suprimentos; Definir as compras de materiais de aplicação e consumíveis para a unidade fabril; Analisar alternativas para a contratação de serviços de logística; Administrar contratos de serviços e locações; Gerenciar os índices de avaliação do setor de materiais/suprimentos. We Don’t Just Build The World, We Build Innovative Technology Too. Joining the Stanley Black & Decker team means working in an innovative, tech-driven and highly collaborative team environment supported by over 43,500 professionals in 60 countries across the globe. Here, you’ll get the unique chance to impact some of the world’s most iconic brands including STANLEY TOOLS, DEWALT, CRAFTSMAN, MAC TOOLS and Black + Decker. Your ideas and solutions have the potential to reach millions of customers as we work together to write the next chapter in our history. Come build with us and take your career to new heights. Who We Are We’re the World’s largest tool company. We’re industry visionaries. We’re solving problems and advancing the manufacturing trade through innovative technology and our Industry 4.0 Initiative. We are committed to ensuring our state-of-the-art “smart factory” products and services provide greater quality to our customers & greater environmental and social value to our planet. We are unique in that we have a rich and storied history dating back to 1843, but that hasn't stopped us from evolving into a vibrant, diverse, global growth company. Global Benefits & Perks You’ll be rewarded with a competitive salary plus receive entitlements and benefits unique to your country of hire. What You’ll Also Get Career Opportunity: Career paths aren’t linear here. Being part of our global company with 60+ brands gives you the chance to grow and develop your skills along multiple career paths. Learning & Development: Our lifelong learning philosophy means you’ll have access to a wealth of state-of-the-art learning resources, including our Lean Academy and online university (where you can get certificates and specializations from renowned colleges and universities). Diverse & Inclusive Culture: We pride ourselves on being an awesome place to work. We respect and embrace differences because that’s how the best work gets done. You’ll find we like to have fun here, too. Purpose-Driven Company: You’ll help us continue to make positive changes in the local communities where we work and live as well as in the broader world through volunteerism, giving back and sustainable business practices.
+
+
+--------------------------------------------------------------------------------
+VAGA #09 | SCORE: 93 (Strong Fit)
+--------------------------------------------------------------------------------
+Titulo:            Analista de Supply Chain Sênior
+Empresa:           Sumitomo Chemical Latin America
+Portal:            linkedin
+Key:               sumitomo-chemical-latin-america_analista-de-supply-chain-senior
+URL:               https://br.linkedin.com/jobs/view/analista-de-supply-chain-s%C3%AAnior-at-sumitomo-chemical-latin-america-4472190093
+Status:            ranked
+Track:             Track 1: Physical Operations | Moeda: BRL
+Gates:             Location=PASS | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + MRP execution, inventory policies (FEFO, SLOBs, MOQ), and supplier strategic coordination.
+  + International interaction (LATAM inputs, Asia/Japan desk) matching candidate's multinational experience.
+  + Located in Maracanaú, CE (Fortaleza metropolitan area), directly viable.
+Gaps / Vetos:
+  - Requires Protheus ERP familiarity (candidate's core is SAP PM/MM, though ERP principles directly transfer).
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+Sobre nós Há mais de 100 anos , uma paixão única nos move: transformar o mundo por meio da ciência e da inovação . Do Japão à América Latina, cultivamos raízes profundas e, em 2025, celebramos 50 anos de história no Brasil! 🚀 Somos uma empresa de pesquisa e desenvolvimento que atua no agronegócio global , oferecendo soluções sustentáveis e inovadoras para a produção de alimentos e a saúde da sociedade. Nossa jornada começou no século XVII, em Quioto, no Japão , e evoluiu para um compromisso global com o bem-estar das pessoas e a preservação do meio ambiente . 💡 Sustentabilidade está no nosso DNA! Aqui, valorizamos a colaboração, a ética e a inovação , sempre impulsionados pelo desejo de deixar um legado positivo para as futuras gerações . Nosso propósito nos une, e a paixão pelo que fazemos nos impulsiona! Se você quer fazer parte de um time que transforma desafios em oportunidades e impacto em realidade, vem ser SCLA! 🚜🌱 📎 Responsabilidades e Atribuições: Executar e monitorar o processo de Planejamento de Requisitos de Materiais (MRP) para as unidades Maracanaú- CE, Toller e retrabalhos. Analisar e apoiar estratégias de compras baseadas em previsões e políticas de inventário. Realizar revisões periódicas da política de inventário para identificar oportunidades. Consolidar as entradas da LATAM e analisar os volumes do Brasil provenientes da China Desk, SCIL, SCC e stakeholders financeiros. Apoiar visão integrada da cadeia de suprimentos. Emitir e acompanhar pedidos de compras, buscando alinhamento com necessidades operacionais. Monitorar a idade do inventário de matérias-primas, garantindo conformidade com os princípios FEFO (First Expired, First Out). Apoiar redução de obsolescência. Realizar análises de MOQ (Quantidade Mínima e Múltipla de Pedido) vs. cobertura para identificar inventário lento e obsoleto. Colaborar com o setor de compras para implementar ações de oportunidade, reduzindo o estoque excessivo. Apoiar projetos para otimizar o inventário de materiais, alcançando economia de custos e eficiências operacionais. Apoiar a estabilização e iniciativas de melhoria contínua para a ferramenta MRP Protheus. Padronizar processos e mecanismos de relatórios reforçando a aderência às práticas definidas, abordando proativamente desvios. ✅ Requisitos e Qualificações: Graduação completa em Engenharia, Administração ou áreas correlatas. Pacote office/ Excel avançado. Inglês avançado. Conhecimento em planejamento de demanda, gestão de inventário e logística. MRP: Experiência com sistemas de planejamento de materiais para otimizar estoques e previsões. Compreensão de gestão de inventário, SLOBs e metodologias como FEFO. Conhecimento em estratégias de compras, fornecedores e negociações. Capacidade de analisar dados e KPIs usando ferramentas de análise Familiaridade com sistemas como Protheus para integração de processos. Desejável Power BI e Power Automate. Desejável Vivência em mercados globais, como Japão e Índia. Desejável Certificações como CSCP ou CPIM. Desejável Familiaridade com metodologias ágeis como Scrum e Kanban. 👀 O que oferecemos? Participação em Resultados (PPR); Vale Alimentação/Refeição; Plano de saúde e odontológico extensivo aos seus dependentes e sem coparticipação; TotalPass (rede de academias); Programa de Apoio ao Empregado – PAE; Auxílio Creche; Day Off no aniversário; Previdência Privada e Seguro de Vida; Universidade Corporativa e Programa de Gestão de Desempenho anual; Empresa Cidadã- Licença maternidade e paternidade estendida.
+
+
+--------------------------------------------------------------------------------
+VAGA #10 | SCORE: 93 (Strong Fit)
+--------------------------------------------------------------------------------
+Titulo:            Supply Chain Manager
+Empresa:           FASTENAL BRASIL
+Portal:            catho
+Key:               fastenal-brasil_supply-chain-manager
+URL:               https://www.catho.com.br/vagas/supply-chain-manager/38540003
+Status:            ranked
+Track:             Track 1: Physical Operations | Moeda: BRL
+Gates:             Location=PASS | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Liderança regional de Supply Chain para operações da Fastenal na América do Sul e Central (Brasil, Chile, Panamá).
+  + Strategic sourcing, desenvolvimento de fornecedores, analytics de aquisições e margem, integração comercial e operacional.
+  + Excelente sinergia com o perfil analítico, governança internacional e domínio de idiomas do candidato.
+Gaps / Vetos:
+  - Abrangência regional multi-país pode exigir viagens pontuais a centros de distribuição na América Latina.
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+The Supply Chain Manager will support South and Central America operations by strengthening supplier relationships, driving strategic sourcing initiatives, improving affordability, and increasing data visibility across the region. Key responsibilities include supplier management and development, procurement analytics and reporting, cost and margin improvement initiatives, sourcing and vendor negotiations, product and supplier data management, and close collaboration with Sales, Operations, and Supply Chain teams. The role will also support growth opportunities across Brazil, Chile, Panama, and future LATAM expansion initiatives.We are seeking a professional with strong analytical and problem-solving capabilities, outstanding communication and relationship-building skills, and proven experience in procurement, sourcing, supply chain, purchasing, and vendor management. The ideal candidate will be highly proficient in Excel and data analysis, capable of working independently in a fast-paced environment, and comfortable collaborating across multiple functions and cultures. Due to the regional scope of the role, excellent communication in English, Spanish, and Portuguese is required to effectively engage with suppliers, internal teams, and business partners throughout Latin America.
+
+
+--------------------------------------------------------------------------------
+VAGA #11 | SCORE: 92 (Strong Fit)
+--------------------------------------------------------------------------------
+Titulo:            Remote Operations & Supply Chain Coordinator (Food/CPG)
+Empresa:           HireLATAM
+Portal:            hirelatam-search
+Key:               hirelatam_remote-operations-supply-chain-coordinator-food-cpg
+URL:               https://recruiterflow.com/hirelatam/jobs/1727
+Status:            ranked
+Track:             Track 1: Physical Operations | Moeda: USD
+Gates:             Location=PASS | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Hands-on ownership of S&OP, inventory control, reorder points, and PO lifecycle for physical products.
+  + Direct experience managing suppliers, co-packers, and major distribution accounts with landed cost modeling.
+  + Guaranteed monthly compensation ($1,600 - $2,080 USD) tailored for LATAM remote contractor.
+Gaps / Vetos:
+  - Targeted slightly below senior executive level (coordinator/manager individual contributor), but perfectly meets USD compensation floor.
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+# Remote Operations & Supply Chain Coordinator (Food/CPG) - HireLATAM
+
+- **Company:** HireLATAM (Client: high-growth CPG food enterprise)
+- **Role ID:** 1727
+- **URL:** https://recruiterflow.com/hirelatam/jobs/1727
+- **Location:** Latin America (100% Remote)
+- **Position Type:** Full-time (Monday – Friday, 8:00/9:00 AM – 4:00/5:00 PM US Eastern Time)
+- **Salary:** $1,600 – $2,080 USD/month ($10.00 – $13.00 USD/hour based on 40 hours/week)
+- **Date Fetched:** 2026-09-26
+
+---
+
+## Job Overview
+Our Client is an innovative, high-growth Consumer Packaged Goods (CPG) food enterprise specializing in better-for-you, high-fiber products—including patented resistant-starch pasta imported from Italy, specialty crackers, baking flours, mac & cheese, and riced grains. Serving major nationwide retail channels and direct-to-consumer platforms, our client operates with a lean, fast-paced execution model that prioritizes product quality, supply chain integrity, rigorous cost control, and proactive vendor management.
+
+Our Client is seeking a hands-on, highly autonomous Operations & Supply Chain Coordinator to own the day-to-day operational engine of the business. Functioning as a high-accountability individual contributor, this professional will build and maintain standard operating procedures (SOPs), oversee inventory levels and purchase order (PO) cycles, manage co-packer production schedules, model landed costs for new retail accounts, and proactively monitor major distributor relationships (KeHE, UNFI) to prevent stockouts and write-offs.
+
+## Key Responsibilities
+
+### Systems Architecture & SOP Management
+- Builds, documents, and maintains core operational SOPs, implementing checklists, trackers, and accountability cadences across all supply chain workflows.
+- Serves as the central operational driver, ensuring cross-functional tasks are executed on time and without requiring daily executive oversight.
+
+### Inventory Control, PO Cycles & Forecasting
+- Manages reorder points, lead times, and purchase order cycles to maintain optimal stock levels without overbuying or experiencing stockouts.
+- Develops, updates, and refines demand and inventory forecasts, incorporating retail seasonality, sales velocity, and new account launches.
+
+### Vendor, Co-Packer & Distributor Operations (KeHE / UNFI)
+- Oversees day-to-day supplier and co-packer relationships, resolving overages, ingredient discrepancies, billing refunds, and packaging production timelines.
+- Monitors distributor account health (KeHE, UNFI), proactively identifying slow-moving SKUs or short-dated inventory to prevent product write-offs.
+- Drives operational issues to complete resolution independently, escalating critical bottlenecks to executive leadership when necessary.
+
+### Retail Onboarding & Financial Modeling
+- Conducts financial modeling for new retail account onboardings, calculating landed costs, gross margins, and logistics requirements.
+- Ensures production runs and co-packer deliverables remain on schedule to satisfy retailer fulfillment windows.
+
+## Qualifications & Competencies
+
+### Required Qualifications
+- **CPG & Food Industry Experience:** Minimum 3+ years of direct experience in supply chain, logistics, or operations within the CPG or food sector, featuring a strong understanding of co-packers, ingredient sourcing, and retail distribution dynamics.
+- **SOP & Systems Creation:** Demonstrated ability to author operational SOPs, build tracking frameworks, and implement accountability systems from scratch.
+- **Forecasting & Inventory Mastery:** Hands-on experience creating and maintaining demand forecasting models, reorder point calculators, and inventory trackers.
+- **Margin & Landed Cost Analysis:** Comfortable working with unit economics, landed cost calculations, and gross margin analysis.
+- **Exceptional English Communication:** Native or near-native written and spoken English fluency to communicate clearly and assertively with suppliers, distributors, and executive leadership.
+- **Schedule Alignment:** Full availability to work standard US Eastern business hours (Monday – Friday, 8:00/9:00 AM – 4:00/5:00 PM ET).
+- **Remote Infrastructure:** Dedicated, quiet home office, high-performance computer setup, and a stable, high-speed internet connection.
+
+### Preferred Qualifications
+- Direct prior experience managing major national CPG distributor accounts (e.g., KeHE, UNFI) or handling major retail account onboarding logistics.
+- Familiarity with inventory data/BI tools, cloud ERP platforms, or specialized supply chain management software.
+- Prior experience working directly alongside founders or small executive leadership teams in high-growth CPG environments.
+
+### Application Notes
+- **Video Recording Required:** At least 30 seconds long in English.
+- **Knockout Questions:** Experience in CPG/Food and remote independent contractor availability.
+- Updates sent via email (check spam folder).
+
+
+--------------------------------------------------------------------------------
+VAGA #12 | SCORE: 92 (Strong Fit)
+--------------------------------------------------------------------------------
+Titulo:            Logistics Manager - Remote/Anywhere
+Empresa:           Jiga
+Portal:            dynamitejobs-search
+Key:               jiga_logistics-manager-remote-anywhere
+URL:               https://dynamitejobs.com/company/jiga/remote-job/logistics-manager-remote-anywhere
+Status:            ranked
+Track:             Track 1 - Physical Operations / S&OP | Moeda: USD
+Gates:             Location=PASS | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + 100% remote global em regime contractor USD com escopo de gestão logística internacional ponta a ponta (aéreo, marítimo, courier e desembaraço aduaneiro).
+  + Perfeito alinhamento com a vivência de 15+ anos do candidato em negociação com armadores, forwarders, trade compliance e operações industriais de alto volume.
+  + Cultura orientada a autonomia e pragmatismo operacional (high-trust, low-bullshit), valorizando liderança mão na massa e tomada de decisão comercial.
+Gaps / Vetos:
+  - Foco acentuado em rotas de manufatura sob demanda com origem na Ásia (China, Vietnã, Índia) para EUA/Europa/Israel.
+  - Exige interlocução fluente diária em inglês com fornecedores asiáticos e times em fusos diversos.
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+🧨 Logistics Manager - Remote/Anywhere, Remote Job, September 2026
+Logistics Manager - Remote/AnywhereJigaFull Time$65k - $95k per yearSupply Chain, Logistics, Problem solving skills, Clear Communication Skills, Procurement
+This job is closed  Featured Job  Promoted Job  Remote Job
+This job is closed. But you can apply to other open Management and Operations jobs.
+Supply Chain  Logistics  Problem solving skills  Clear Communication Skills  Procurement  Supply Chain Management  Project Management  Analytical skills  Inventory Management  Negotiation Skills
+Logistics Manager - Remote/Anywhere
+The role
+We're looking for a Logistics Manager to own the physical movement of every part Jiga touches — from a CNC shop in Shenzhen to a robotics lab in Boston — and to do it with the commercial instincts of someone who understands that every shipping decision is also a business decision.
+This is not a freight-booking role. The right person is part operator, part dealmaker: negotiating rates with forwarders, choosing modes based on time, complexity, and constraints, guiding the trade compliance work our logistics admin executes, and pricing freight back to customers in a way that protects both the deal and the margin. You'll work alongside Sales on commercial calls, alongside Suppliers on physical execution, and own the operational seat where these two worlds meet.
+If you love logistics, love manufacturing, and want to be the person who makes Jiga's ‘delivered on time, anywhere in the world’ promise real — this is the role.
+How we actually work
+We're a small remote team made up of the best of the best. Our team members are distributed around the globe — most of our product and engineering talent sits in Europe and Israel, and you'll work daily with operators, sales, and suppliers across the US, EU, and Asia. Most of our work is async, which is the secret sauce of our success.
+High trust, low bullshit: We don't count hours or peek over your shoulder on Slack. We trust you to get your work done and tell us when something's wrong. You'll have real ownership over how the supply chain runs, no process theater, no busy-work meetings
+Question everything: See a freight contract that doesn't make sense? Renegotiate it. Think a customs flow is broken? Fix it. Our internal motto is ‘Don't drink the kool-aid’
+No busy work, no fluff: If you're addicted to building heavy processes and endless meetings, this isn't a fit. If you're addicted to closing the loop and shipping the box, it is
+Actually friendly, not corporate friendly: We play games online every week. Once a year we fly everyone somewhere beautiful for our offsite. We genuinely like hanging out together — which turns out to be way better than forced team-building
+What we value in logistics
+Own the whole shipment, not just the booking. Quote it, book it, clear it, deliver it, reconcile it. End to end. Don't toss problems over a wall
+Think commercially, not just operationally. Every lane choice, every Incoterm, every mode decision is also a business decision. The best logistics operators we've met think like partners to Sales, not dispatchers
+Walk the factory floor. You can't run logistics if you don't understand manufacturing. Learn the parts, learn the lead times, learn what makes a Vietnam machine shop different from a German one. Be the supply chain operator our customers wish they had in-house
+Get your hands dirty. Before you automate it, do it manually. Before you systematize it, prove it works. The best playbooks come from the people who lived inside the ugly version first
+Calm under pressure. Shipments get stuck. Customs holds happen. Customers escalate. The job is staying steady, communicating clearly, and resolving — not panicking
+What you'll do
+Move parts across the world: Own international freight across air, ocean, and courier — primarily from Asia (China, Vietnam, India) to Israel, the US, and the EU, with growing volume in defense-adjacent and high-mix industrial lanes
+Quote, negotiate, and book shipments: Work with global freight leaders — the major express couriers and international airfreight/ocean forwarders — alongside a growing supplier-side network. Select the right mode per shipment based on business requirements
+Manage freight cost recovery: Handle buyer cost recovery and dispute surcharges with forwarders — exchange-rate adjustments, fuel surcharges, dim-weight re-rates
+Lead customs and trade compliance: Own customs and trade compliance end-to-end — strategy, playbooks, and guiding the Logistics Admin on filings, broker correspondence, and documentation
+Be the commercial partner Sales actually wants: Sit in commercial conversations, advise on landed cost, Incoterm selection, customer-side requirements, and pricing structures
+Own the supplier-side execution layer: Coordinate daily with manufacturing partners on readiness, packing, documentation, and pickup windows
+Improve the system, not just the day: Identify recurring operational problems, build playbooks, and automate where proven
+You're a fit if you
+Have 5+ years of hands-on international logistics or freight-forwarding experience, ideally in contract manufacturing, hardware, or high-mix industrial settings
+Have negotiated freight rates with forwarders and couriers, with real stories of saving (or losing) money on lane decisions
+Have lived inside the documentation side of international trade: HTS codes, invoices, packing lists, IORs, bonds, CBP correspondence
+Understand that the freight invoice is part of the deal, not separate from it — you think commercially, not just operationally
+Can read engineering drawings well enough to anticipate freight implications
+Communicate in short, direct, action-oriented messages — and can write clean customer-facing escalations when needed
+Are excited about a fast-moving startup and comfortable being the operational adult in the room when shipments are stuck
+Are fluent in English; Hebrew, Mandarin, Vietnamese, or German are a bonus
+Are tech-savvy and comfortable in a remote, async toolset (Slack, Notion, Loom, and our manufacturing platform)
+Nice-to-have
+Background working at a freight forwarding agency
+Experience in a B2B manufacturing marketplace, digital manufacturing platform, or contract manufacturer
+Prior experience supporting defense or aerospace customers and understanding ITAR/export-control basics
+Background in mechanical or industrial engineering
+Experience standing up a freight or logistics function inside a growing company
+This job is closed But you can apply to other open Remote Management and Operations jobs
+Apply Now
+About the company
+Jiga View all company's open jobs
+Similar Remote Jobs
+Similar Remote Jobs
+Merchant Onboarding & Operations SpecialistAllied PaymentsFull Time$1.5k - $2.5k per monthAdministrative Support, Bilingual English-Spanish, Client Onboarding, CRM, Customer Service
+Opened  4 days ago  Featured Job  Promoted Job  Remote Job
+Information Security & Compliance Manager (GRC)RocketPartsFull Time$120k - $180k per yearAWS, Compliance, Documentation, Governance, Risk, and Compliance, Incident response
+Opened  12 days ago  Featured Job  Promoted Job  Remote Job
+Fulfillment Operations ManagerKC Power CleanFull Time$2.5k per monthOperations, Technical, Leadership, Project Management, Project Planning
+Closes in 9 days  Featured Job  Promoted Job  Remote Job
+Senior Manager, ProcurementBask and LatherFull Time$125k - $145k per yearProcurement, Supply Chain Management, Vendor Management, Contract negotiation, ERP
+New Job!  Featured Job  Promoted Job  Remote Job
+Senior Project Manager, Promotional Medical EducationReal ChemistryFull Time$90k - $100k per yearProject Management, Budget Management, Microsoft Office, Stakeholder management
+New Job!  Featured Job  Promoted Job  Remote Job
+No related jobs found
+
+
+--------------------------------------------------------------------------------
+VAGA #13 | SCORE: 92 (Strong Fit)
+--------------------------------------------------------------------------------
+Titulo:            Product Manager
+Empresa:           nstech
+Portal:            remotar-search
+Key:               https://remotar.com.br/job/165254
+URL:               https://remotar.com.br/job/165254
+Status:            ranked
+Track:             N/A | Moeda: N/A
+Gates:             Location=PASS | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Alinhamento extraordinário com o Sweet Spot 2: Product Manager para YMS (Yard Management System / Gestão de Pátios e Terminais) na nstech, maior plataforma de logística e supply chain da AL.
+  + Conecta diretamente 15+ anos de autoridade de campo em gestão de terminais, pátios de carga, tempos de espera e agendamento com liderança de produto de software logístico.
+  + 100% Remoto, empresa líder de mercado com forte ecossistema de SaaS logístico.
+Gaps / Vetos:
+  - Exige experiência prévia com metodologias ágeis de produto (Scrum/Kanban) em ambiente de escala de software corporativo.
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+A nstech, maior plataforma de tecnologia e softwares para logística e supply chain da América Latina, busca um(a) Product Manager para liderar a evolução do YMS (Yard Management System). Esta solução organiza e otimiza a operação de pátio, incluindo agendamento de docas, controle de portaria, filas de veículos e movimentação de carretas, integrando-se a outros sistemas logísticos. O profissional será responsável por entender as necessidades de transportadoras, operadores logísticos e embarcadores, transformando-as em um produto que melhore a eficiência operacional. Responsabilidades Definir e comunicar a visão, a estratégia e o roadmap do YMS, alinhados aos objetivos do negócio. Conduzir discovery com clientes, usuários de operação (portaria, doca, torre de controle) e áreas internas como CS, Implantação e Comercial. Estruturar e priorizar o backlog, escrevendo PBIs, Features e Requirements com critérios de aceite claros. Trabalhar lado a lado com engenharia e design para garantir entregas de valor com qualidade e previsibilidade. Definir e acompanhar métricas de produto e de operação, como tempo médio de permanência no pátio, tempo de fila, ocupação de docas, no-show de agendamentos e adoção de funcionalidades. Desenhar e validar integrações com WMS, TMS, ERP, sistemas de agendamento e hardware de pátio (leitores de placa, catracas, totens). Apoiar o time comercial e de implantação com conhecimento de produto, demos e levantamento de requisitos de clientes. Acompanhar o mercado e a concorrência, identificando oportunidades de diferenciação.
+
+
+--------------------------------------------------------------------------------
+VAGA #14 | SCORE: 92 (Strong Fit)
+--------------------------------------------------------------------------------
+Titulo:            Gerente de Supply Chain
+Empresa:           PADO S.A.
+Portal:            linkedin
+Key:               pado-s-a_gerente-de-supply-chain
+URL:               https://br.linkedin.com/jobs/view/gerente-de-supply-chain-at-pado-s-a-4472316878
+Status:            ranked
+Track:             Track 1: Physical Operations | Moeda: BRL
+Gates:             Location=FAIL | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Complete Supply Chain leadership (procurement, planning, warehouse, distribution) for major industrial leader (PADO).
+  + Strong match with candidate's end-to-end industrial logistics and inventory control experience.
+Gaps / Vetos:
+  - Gate 1 FAIL: Located in Cambé/PR (inland Paraná, far outside Bombinhas/SC and Fortaleza/CE viability).
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+Estamos em busca de um Gerente de Supply Chain . Responsabilidades Gerenciar o planejamento e otimização de toda a cadeia de suprimentos, desde a gestão de matérias-primas até a armazenagem, planejamento da produção, controle de estoque e expedição do produto acabado, com foco em reduzir custos e garantir a eficiência e rentabilidade. Liderar a gestão estratégica de compras (nacional e importado), desenvolvimento da base de fornecedores e alinhamento do fluxo de compras às diretrizes do MRP. Liderar o Planejamento e Controle da Produção, previsão de demanda e a implantação do sistema APS para otimização de setups, gargalos e redução de lead time. Gerir a operação das áreas de Almoxarifados, CDs internos e Expedição, garantindo alta acuracidade de estoques e logística interna ágil. Conduzir projetos de otimização operacional, integrando a digitalização de processos, melhorias e inovações nas áreas e desenvolvimento e acompanhamento de KPIs estratégicos. Requisitos Formação Superior em Engenharia, Administração, logística ou áreas correlatas. Vivência sólida em liderança de Supply Chain Integrado (Compras, PPCP e Logística) em indústrias de manufatura ou metalúrgicas. Domínio de conceitos de MRP/ S&OP e experiência com Sistemas APS e Power BI. Residência em Londrina/PR ou disponibilidade para mudança; Você se interessou? Então confira alguns dos benefícios que a PADO oferece: Vale transporte; Plano de saúde UNIMED; Plano odontológico; Cartão farmácia; Seguro de vida; Vale Alimentação; TotalPass; Restaurante na empresa; Recrutamento interno; Ambulatório médico nas dependências da empresa, com serviço de Psicologia e Fisioterapia; Agência bancária nas dependências da empresa; Vaga também para PcD.
+
+
+--------------------------------------------------------------------------------
+VAGA #15 | SCORE: 92 (Strong Fit)
+--------------------------------------------------------------------------------
+Titulo:            GERENTE DE SUPPLY CHAIN
+Empresa:           ESTRAT RECRUTAMENTO ASSERTIVO E ESTRATÉGICO
+Portal:            catho
+Key:               estrat-recrutamento-assertivo-e-estrateg-f47035_gerente-de-supply-chain
+URL:               https://www.catho.com.br/vagas/gerente-de-supply-chain/38651174
+Status:            ranked
+Track:             Track 1: Physical Operations | Moeda: BRL
+Gates:             Location=FLAG | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Senior PJ contract role for comprehensive Supply Chain management (Commercial, Compras, Operações e Financeiro integration).
+  + Direct focus on inventory coverage, safety stocks, S&OP governance, and inbound/outbound logistics.
+  + Open to remote/consultancy contract arrangements under PJ modality.
+Gaps / Vetos:
+  - Location not explicitly specified on listing; flagged to verify remote viability during initial headhunter contact.
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+?? Condução do planejamento de Supply Chain integrado entre Comercial, Compras, Operações e Financeiro
+?? Acompanhamento das políticas de níveis de estoque, estoque de segurança e cobertura
+?? Gestão e acompanhamento dos indicadores de giro, ruptura, obsolescência e acuracidade de inventário
+?? Condução das políticas de compras e estratégias de sourcing
+?? Gestão de riscos de fornecimento e acompanhamento do desempenho dos fornecedores
+?? Acompanhamento das operações de logística inbound e outbound
+?? Gestão de armazenagem, transporte e nível de serviço nas entregas
+?? Liderança e desenvolvimento da equipe
+?? Integração entre Supply Chain e as demais áreas da empresa?? Desejável pós-graduação ou MBA em Supply Chain, Logística, Gestão de Operações ou áreas correlatas
+?? Superior completo em Administração, Engenharia, Logística, Supply Chain, Comércio Exterior ou áreas correlatas
+?? Experiência em posições de liderança em Supply Chain, Supply, Compras ou Suprimentos
+?? Vivência com planejamento e gestão de Supply Chain
+?? Experiência com gestão de estoque, giro, ruptura, cobertura e obsolescência
+?? Experiência com compras, sourcing e gestão de fornecedores
+?? Conhecimento de operações logísticas inbound e outbound
+?? Experiência com liderança e desenvolvimento de equipes
+?? Perfil organizado, analítico, proativo e orientado a resultados
+
+
+--------------------------------------------------------------------------------
+VAGA #16 | SCORE: 92 (Strong Fit)
+--------------------------------------------------------------------------------
+Titulo:            Gerente de Logística
+Empresa:           H2M EMBALAGENS
+Portal:            catho
+Key:               h2m-embalagens_gerente-de-logistica
+URL:               https://www.catho.com.br/vagas/gerente-de-logistica/38851488
+Status:            ranked
+Track:             Track 1: Physical Operations | Moeda: BRL
+Gates:             Location=FLAG | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Gestão completa de recebimento, armazenagem, inventários rotativos, expedição e transporte.
+  + Roteirização, negociação de fretes, controle de custos por tonelada e modelagem de KPIs (OTIF, acuracidade).
+Gaps / Vetos:
+  - Contratação PJ; local da sede/fábrica omitido no anúncio Catho (a validar com recrutador).
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+PRINCIPAIS RESPONSABILIDADES
+
+GestÃ£o da operaÃ§Ã£o e dos estoques
+
+Planejar, coordenar e acompanhar as operaÃ§Ãµes de recebimento, armazenagem, movimentaÃ§Ã£o de materiais, separaÃ§Ã£o, conferÃªncia e expediÃ§Ã£o.
+
+Garantir a acuracidade dos estoques, acompanhando divergÃªncias entre saldos fÃ­sicos e registros no sistema e conduzindo aÃ§Ãµes para corrigir suas causas.
+
+Coordenar inventÃ¡rios periÃ³dicos e gerais, assegurando a qualidade das contagens, a anÃ¡lise das diferenÃ§as e a regularizaÃ§Ã£o dos registros.
+
+Garantir a rastreabilidade de matÃ©rias-primas, produtos acabados, lotes e movimentaÃ§Ãµes.
+
+Definir e acompanhar estratÃ©gias de armazenagem, endereÃ§amento e organizaÃ§Ã£o dos estoques, aplicando mÃ©todos FIFO/FEFO conforme as caracterÃ­sticas dos materiais.
+
+Assegurar que os pedidos sejam corretamente separados, conferidos, identificados e liberados para expediÃ§Ã£o.
+
+Garantir o preenchimento correto dos controles de fluxo de cargas e dos documentos logÃ­sticos.
+
+Transportes, entregas e logÃ­stica reversa
+
+Planejar e acompanhar entregas e coletas conforme a programaÃ§Ã£o alinhada com PCP e Comercial.
+
+Gerenciar transportadoras e prestadores de serviÃ§os, acompanhando prazos, qualidade das entregas e atendimento Ã s necessidades da operaÃ§Ã£o.
+
+Negociar fretes e identificar oportunidades de reduÃ§Ã£o de custos sem comprometer o nÃ­vel de serviÃ§o.
+
+Acompanhar a ocupaÃ§Ã£o dos veÃ­culos e os tempos de carregamento, buscando melhor utilizaÃ§Ã£o dos recursos.
+
+Coordenar devoluÃ§Ãµes e operaÃ§Ãµes de logÃ­stica reversa, garantindo o registro e o tratamento das ocorrÃªncias.
+
+Atuar na soluÃ§Ã£o de atrasos, avarias, divergÃªncias de quantidade ou peso e demais problemas de transporte e entrega.
+
+Indicadores, custos e melhoria contÃ­nua
+
+Monitorar indicadores como OTIF - entregas realizadas no prazo e na quantidade acordada -, prazo de entrega, custo de frete, custo logÃ­stico por tonelada e produtividade da expediÃ§Ã£o.
+
+Acompanhar acuracidade, giro e cobertura dos estoques, Ã­ndices de avarias e devoluÃ§Ãµes, ocupaÃ§Ã£o dos veÃ­culos e tempo de atendimento de ocorrÃªncias.
+
+Analisar os resultados, identificar gargalos e elaborar planos de aÃ§Ã£o para melhorar produtividade, confiabilidade e eficiÃªncia operacional.
+
+Apresentar indicadores e resultados Ã  Diretoria, propondo melhorias e acompanhando sua execuÃ§Ã£o.
+
+Avaliar o dimensionamento de mÃ£o de obra, equipamentos, veÃ­culos e estrutura necessÃ¡rios para atender Ã  demanda.
+
+LideranÃ§a e integraÃ§Ã£o entre Ã¡reas
+
+Liderar as equipes de ExpediÃ§Ã£o, Transporte, Almoxarifado e demais frentes vinculadas Ã  operaÃ§Ã£o logÃ­stica.
+
+Desenvolver, treinar e acompanhar a equipe, alinhando responsabilidades, prioridades e padrÃµes de execuÃ§Ã£o.
+
+Garantir o cumprimento dos procedimentos operacionais, das normas de seguranÃ§a, das prÃ¡ticas de 5S e dos requisitos do Sistema de GestÃ£o da Qualidade.
+
+Integrar a LogÃ­stica com Comercial, PCP, ProduÃ§Ã£o, Compras, Qualidade, Financeiro, RH e Fiscal.
+
+Manter comunicaÃ§Ã£o com transportadoras, fornecedores, clientes e operadores logÃ­sticos para assegurar o andamento da operaÃ§Ã£o e a resoluÃ§Ã£o das demandas.REQUISITOS
+
+FormaÃ§Ã£o acadÃªmica
+
+Ensino superior completo em LogÃ­stica, Engenharia de ProduÃ§Ã£o, AdministraÃ§Ã£o ou Ã¡reas correlatas.
+
+ExperiÃªncia profissional
+
+ExperiÃªncia sÃ³lida em gestÃ£o logÃ­stica, abrangendo recebimento, armazenagem, controle de estoques, expediÃ§Ã£o e transporte.
+
+ExperiÃªncia em lideranÃ§a de equipes e acompanhamento da execuÃ§Ã£o das rotinas operacionais.
+
+VivÃªncia na coordenaÃ§Ã£o de inventÃ¡rios e no tratamento de divergÃªncias entre estoque fÃ­sico e sistema.
+
+ExperiÃªncia em gestÃ£o de transportadoras, negociaÃ§Ã£o de fretes e acompanhamento de entregas e ocorrÃªncias.
+
+VivÃªncia na anÃ¡lise de indicadores logÃ­sticos, controle de custos e implementaÃ§Ã£o de melhorias nos processos.
+
+Conhecimentos tÃ©cnicos
+
+GestÃ£o de estoques: acuracidade, rastreabilidade, inventÃ¡rios, giro e cobertura.
+
+Armazenagem e movimentaÃ§Ã£o: organizaÃ§Ã£o fÃ­sica, endereÃ§amento, separaÃ§Ã£o e aplicaÃ§Ã£o dos mÃ©todos FIFO/FEFO.
+
+Transportes e roteirizaÃ§Ã£o: planejamento de entregas e coletas, utilizaÃ§Ã£o de veÃ­culos e acompanhamento de prazos.
+
+GestÃ£o de fretes e custos: negociaÃ§Ã£o, anÃ¡lise de despesas logÃ­sticas e identificaÃ§Ã£o de oportunidades de otimizaÃ§Ã£o.
+
+Indicadores logÃ­sticos: interpretaÃ§Ã£o de resultados, identificaÃ§Ã£o de desvios e elaboraÃ§Ã£o de planos de aÃ§Ã£o.
+
+Sistemas ERP/MRP: utilizaÃ§Ã£o para consulta, registro e acompanhamento de informaÃ§Ãµes relacionadas Ã  operaÃ§Ã£o.
+
+Excel e Power BI: conhecimento para organizar, analisar e apresentar dados e indicadores.
+
+Melhoria contÃ­nua e 5S: aplicaÃ§Ã£o na organizaÃ§Ã£o e na eficiÃªncia dos processos.
+
+LegislaÃ§Ã£o e documentaÃ§Ã£o de transporte: conhecimento dos requisitos aplicÃ¡veis Ã s rotinas logÃ­sticas.
+
+
+--------------------------------------------------------------------------------
+VAGA #17 | SCORE: 91 (Strong Fit)
+--------------------------------------------------------------------------------
+Titulo:            Consultor(a) SAP MM/S2P Sênior
+Empresa:           ICON Solutions do Brasil
+Portal:            remotar-search
+Key:               https://remotar.com.br/job/165388
+URL:               https://remotar.com.br/job/165388
+Status:            ranked
+Track:             Track 1: Physical Operations | Moeda: BRL
+Gates:             Location=PASS | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Deep practical domain expertise in SAP MM, inventory management, and Procure-to-Pay (P2P/S2P).
+  + 100% remote PJ contract matching compensation expectations.
+  + Global project exposure aligning with candidate's international background.
+Gaps / Vetos:
+  - Requires deep custom ABAP troubleshooting/Z-object specifications; candidate is functional power-user/superintendent rather than pure technical SAP programmer.
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+Estamos em busca de um(a) Consultor(a) SAP MM/S2P Sênior para atuar em um projeto estratégico, contribuindo para a evolução e sustentação de processos de Supply Chain e Procure-to-Pay (S2P). Procuramos um profissional com sólida experiência em SAP S/4HANA e ECC, forte conhecimento de processos de compras, localização Brasil e integrações entre módulos SAP, capaz de atuar em ambientes globais e de alta complexidade. O(a) profissional será responsável por apoiar as áreas de negócio na análise de requisitos, implementação de melhorias, resolução de incidentes e evolução contínua das soluções SAP, trabalhando em conjunto com equipes funcionais, técnicas e stakeholders internacionais. Responsabilidades Atuar como especialista nos processos de Procure-to-Pay (P2P/S2P) utilizando SAP S/4HANA e ECC. Configurar e suportar processos relacionados aos módulos SAP MM, Compras, Gestão de Estoque e Verificação de Faturas. Realizar análise de requisitos, desenho de soluções e implementação de melhorias nos processos de negócio. Atuar na resolução de incidentes e troubleshooting em processos padrão e customizados do SAP MM. Elaborar especificações funcionais para desenvolvimentos e integrações. Trabalhar em conjunto com equipes ABAP na implementação, testes, depuração e validação de desenvolvimentos. Apoiar integrações entre SAP MM e demais módulos SAP, além de soluções fiscais e sistemas legados. Participar de projetos de implementação, rollout, melhorias contínuas e suporte funcional. Interagir com usuários de negócio no Brasil e equipes técnicas globais, garantindo alinhamento e qualidade nas entregas.
+
+
+--------------------------------------------------------------------------------
+VAGA #18 | SCORE: 91 (Strong Fit)
+--------------------------------------------------------------------------------
+Titulo:            Gerente de Supply Chain
+Empresa:           CN GESTÃO
+Portal:            catho
+Key:               cn-gestao_gerente-de-supply-chain
+URL:               https://www.catho.com.br/vagas/gerente-de-supply-chain/38631583
+Status:            ranked
+Track:             Track 1: Physical Operations | Moeda: BRL
+Gates:             Location=FLAG | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Integração ponta a ponta: Planejamento, PCP, Compras, Estoques, Armazenagem, Transportes e Distribuição.
+  + Foco em previsibilidade operacional, controle de custos, KPIs de nível de serviço e desenvolvimento de lideranças operacionais.
+Gaps / Vetos:
+  - Localidade não discriminada no anúncio (consultoria de recrutamento CN Gestão); requer validação de polo de atuação.
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+Liderar a área de Supply Chain, promovendo a integração entre Planejamento, PCP, Compras, Estoques, Armazenagem, Transportes e Distribuição;
+Garantir maior previsibilidade, produtividade, eficiência operacional e controle de custos da cadeia;
+Estruturar e acompanhar o planejamento de abastecimento, estoques e distribuição;
+Monitorar os principais indicadores de desempenho da área, identificando gargalos, desvios e oportunidades de melhoria;
+Desenvolver e implementar estratégias para otimização dos processos e melhoria contínua da cadeia de suprimentos;
+Promover a integração de Supply Chain com as áreas de Produção, Comercial, Finanças, Gente & Cultura e demais áreas do negócio;
+Liderar, desenvolver e acompanhar as lideranças da área, fortalecendo a autonomia, responsabilidade e desempenho das equipes;
+Identificar talentos e contribuir para o desenvolvimento e crescimento dos profissionais da área;
+Estabelecer metas, responsabilidades e expectativas claras para as equipes, acompanhando resultados e promovendo os direcionamentos necessários;
+Apoiar a construção de uma operação preparada para o crescimento e para os desafios futuros da empresa;
+Atuar na tomada de decisões estratégicas relacionadas à cadeia de suprimentos, buscando equilíbrio entre nível de serviço, produtividade e custos.Ensino superior completo;
+Experiência sólida em Supply Chain;
+Experiência comprovada em liderança e desenvolvimento de equipes;
+Vivência com planejamento, PCP, abastecimento, estoques, logística e distribuição;
+Conhecimento e acompanhamento de indicadores de desempenho;
+Experiência com gestão de custos e eficiência operacional;
+Visão sistêmica da cadeia de suprimentos e capacidade de integração entre diferentes áreas;
+Preferencialmente, experiência em indústria de alimentos, bens de consumo ou operações industriais de maior escala.
+
+
+--------------------------------------------------------------------------------
+VAGA #19 | SCORE: 90 (Strong Fit)
+--------------------------------------------------------------------------------
+Titulo:            Coordenador de Supply Chain
+Empresa:           Empresa Confidencial
+Portal:            catho-search
+Key:               empresa-confidencial_coordenador-de-supply-chain
+URL:               https://www.catho.com.br/vagas/coordenador-de-supply-chain/38510569
+Status:            ranked
+Track:             N/A | Moeda: N/A
+Gates:             Location=PASS | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Alinhamento total ao posicionamento de Líder de Supply Chain com Camada Analítica
+  + Domínio prático de S&OP, previsão de demanda, políticas de estoque e ERP (SAP)
+  + Gestão de operadores logísticos, transportadoras e indicadores de desempenho (OTIF, acurácia)
+Gaps / Vetos:
+  - Anúncio confidencial via Catho, exigindo triagem preliminar na plataforma
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+Vagas de emprego de Coordenador de supply chain | Catho
+Busca de vagas
+Salvar busca
+Cidade inválida
+Procurar vagas
+2
+Filtros
+Faixa salarial
+Indiferente
+Indiferente
+Até R$ 2.000,00
+A partir de R$ 2.000,00
+A partir de R$ 3.000,00
+A partir de R$ 4.000,00
+A partir de R$ 5.000,00
+A partir de R$ 6.000,00
+A partir de R$ 7.000,00
+A partir de R$ 8.000,00
+A partir de R$ 9.000,00
+A partir de R$ 10.000,00
+A partir de R$ 15.000,00
+Acima de R$ 20.000,00
+Indiferente
+Até R$ 2.000,00
+A partir de R$ 2.000,00
+A partir de R$ 3.000,00
+A partir de R$ 4.000,00
+A partir de R$ 5.000,00
+A partir de R$ 6.000,00
+A partir de R$ 7.000,00
+A partir de R$ 8.000,00
+A partir de R$ 9.000,00
+A partir de R$ 10.000,00
+A partir de R$ 15.000,00
+Acima de R$ 20.000,00
+Esconder vagas de Salário a combinar
+Distância máxima do local de trabalho
+Selecione um valor:
+Até 5km
+Até 50km
+Qualquer uma
+Acesse sua conta ou cadastre-se grátis e informe um CEP para usar o filtro de distância.
+Modalidade
+Home Office
+Híbrido
+Presencial
+Setor
+Data de publicação
+Qualquer data
+Hoje
+Últimos dois dias
+Últimos três dias
+Última semana
+Últimos 15 dias
+Último mês
+Tipo de contrato
+Autônomo
+CLT (Efetivo)
+Cooperado
+Free-lancer
+Prestador de Serviços (PJ)
+Temporário
+Trainee
+Tipo de deficiência
+Selecione
+Selecionar
+Salário
+Faixa salarial
+Indiferente
+Indiferente
+Até R$ 2.000,00
+A partir de R$ 2.000,00
+A partir de R$ 3.000,00
+A partir de R$ 4.000,00
+A partir de R$ 5.000,00
+A partir de R$ 6.000,00
+A partir de R$ 7.000,00
+A partir de R$ 8.000,00
+A partir de R$ 9.000,00
+A partir de R$ 10.000,00
+A partir de R$ 15.000,00
+Acima de R$ 20.000,00
+Indiferente
+Até R$ 2.000,00
+A partir de R$ 2.000,00
+A partir de R$ 3.000,00
+A partir de R$ 4.000,00
+A partir de R$ 5.000,00
+A partir de R$ 6.000,00
+A partir de R$ 7.000,00
+A partir de R$ 8.000,00
+A partir de R$ 9.000,00
+A partir de R$ 10.000,00
+A partir de R$ 15.000,00
+Acima de R$ 20.000,00
+Esconder vagas de Salário a combinar
+Selecionar salário
+Distância (km)
+Distância máxima do local de trabalho
+Selecione um valor:
+Até 5km
+Até 50km
+Qualquer uma
+Acesse sua conta ou cadastre-se grátis e informe um CEP para usar o filtro de distância.
+Selecionar distância
+Modalidade
+Home Office
+Híbrido
+Presencial
+Remover filtro
+Confirmar
+Setor
+Remover filtro
+Confirmar
+Data
+Qualquer data
+Hoje
+Últimos dois dias
+Últimos três dias
+Última semana
+Últimos 15 dias
+Último mês
+Contrato
+Autônomo
+CLT (Efetivo)
+Cooperado
+Free-lancer
+Prestador de Serviços (PJ)
+Temporário
+Trainee
+Remover filtro
+Confirmar
+PCD
+Confirmar
+Limpar filtros
+Cadastre-se para ver todas as oportunidades
+Salvar busca
+Ordenar
+Vagas de emprego de coordenador de supply chain
+6 resultados
+Ordenar por:
+Maior Relevância
+Mais Recentes
+Muito mais vagas!
+Cadastre-se agora para visualizar todas as oportunidades e se candidatar.
+Cadastre-se
+Ordenar por:
+Maior Relevância
+Mais Recentes
+Há vagas em cidades próximas
+Atualizada em 21/10
+Coordenador de Supply Chain
+ECO BRASIL BIOENERGIA
+1
+vaga
+- Bauru
+A Combinar
++
+3 benefícios
+Enviando CV...
+Quero me candidatar
+Há vagas em cidades próximas
+Publicada em 15/09
+Coordenador de Supply Chain
+Qualimpel Indústria Química
+1
+vaga
+- José Bonifacio
+A Combinar
++
+3 benefícios
+Enviando CV...
+Quero me candidatar
+Há vagas em cidades próximas
+Atualizada em 01/09
+Supervisor de Supply Chain
+Baly do Brasil
+1
+vaga
+- Tubarao
+R$ 7.500
++
+2 benefícios
+Enviando CV...
+Quero me candidatar
+Há vagas em cidades próximas
+Publicada em 12/08
+Coordenador(a) de Logística e Supply Chain (OPME)
+SOLUTIONS RH
+1
+vaga
+- São Caetano do Sul
+R$ 7.000
+Enviando CV...
+Quero me candidatar
+Há vagas em cidades próximas
+Atualizada em 24/08
+Supervisor(a) Operações Logísticas (Supply Chain - Picking)
+Empresa Confidencial
+Por que?
+2
+vagas
+- Jundiai
+A partir de R$ 4.000,00
+Enviando CV...
+Quero me candidatar
+Ops! Esta vaga não está mais disponível.
+Aproveite para ver outras vagas
+Voltar
+Ops! Erro ao carregar a oferta.
+Não foi possível carregar as informações desta oferta.
+Voltar
+O que um Coordenador de Supply Chain?
+Elabora meta e indicadores e define as políticas de compras e de administração de estoques. Controla a execução do contrato, faz cumprir as cláusulas, negocia, renova e reincide contratos com fornecedores. Acompanha incidentes relativos a pagamentos, aplicação de penalidades e apuração de responsabilidade.
+Quer saber mais?
+Confira tudo sobre o cargo de Coordenador de Supply Chain - O que faz, salário e carreira
+Vagas relacionadas à Coordenador de Supply Chain
+Coordenador de Almoxarifado
+Coordenador de Estoque
+Coordenador de Inventário
+Coordenador Operacional
+Encarregado de Almoxarifado
+Encarregado de Estoque
+Especialista de Suprimentos
+Especialista em Compras
+Gerente de Almoxarifado
+Gerente de Compras
+Quer ter até 18 vezes mais chances de receber um contato?
+Experimente o Destaque Extra e apareça em destaque para o recrutador
+Quero o Destaque Extra
+Agora não
+Envie quantos CVs quiser para as milhares de vagas disponíveis. E o melhor: totalmente grátis!
+Continuar
+Após o cadastro inicial, o preenchimento do CV é o passo mais importante. É com ele que você vai se candidatar às vagas.
+Continuar
+Ganhe destaque entre os candidatos e aumente suas chances de receber contatos em até 18 vezes com o Destaque Extra.
+Quero me destacar
+Agora não
+Cargando...
+Na maioria dos casos, a empresa opta pelo sigilo para evitar constranger um funcionário que está para ser substituído.
+Não se preocupe 100% das empresas que você encontrará aqui passaram por inspeção. Queremos que você envie seus CVs com maior segurança possível :)
+Ok, entendi
+Cargando...
+Por favor, nos conte o motivo pelo qual você está fazendo essa denúncia.
+Este canal é específico de denúncias de fraude
+Para demais dúvidas, críticas ou sugestões, fale com a gente no canal de ajuda.
+Descrição *
+Informe os detalhes da denúncia
+Limite de caracteres: 0/1200
+Submeter denúncia
+Enviando
+Sua denúncia foi feita com sucesso!
+Ela será analisada em breve por nossa equipe. Obrigado por contribuir para uma Catho cada vez mais segura!
+Ok, entendi
+Não foi possível concluir sua denúncia
+Tente novamente mais tarde.
+Ok, entendi
+Aqui você confere quantas pessoas já se candidataram nas vagas de Candidatura Fácil.
+Com o Destaque Extra você vê a quantidade de concorrentes por vaga e aproveita todas as vantagens!
+Quero o Destaque Extra
+Ok, entendi
+Saiba em qual lugar os recrutadores te veem na fila de candidaturas desta vaga.
+Com o Destaque Extra você vê a quantidade de concorrentes por vaga e aproveita todas as vantagens!
+Quero o Destaque Extra
+Ok, entendi
+A gente te mostra o quanto seu CV e a vaga combinam, sua compatibilidade pode ser Alta, Média ou Baixa.
+Com o Destaque Extra você vê a quantidade de concorrentes por vaga e aproveita todas as vantagens!
+Quero o Destaque Extra
+Ok, entendi
+Tentar novamente
+O Envio Turbo te passa pra fila exclusiva de currículos desta vaga e, de quebra, você ainda pode enviar uma mensagem pros recrutadores!
+Ela ficará disponível para as vagas mais compatíveis com seu CV.
+Saiba mais sobre o Envio Turbo
+Comprar 1 Envio Turbo
+Enviando CV...
+CV enviado!
+
+
+--------------------------------------------------------------------------------
+VAGA #20 | SCORE: 90 (Strong Fit)
+--------------------------------------------------------------------------------
+Titulo:            Analista S&OP SR
+Empresa:           Cimento Nacional
+Portal:            gupy-search
+Key:               cimento-nacional_analista-s-op-sr
+URL:               https://cimentonacional.gupy.io/job/eyJqb2JJZCI6MTI1NzQzMjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
+Status:            ranked
+Track:             Track 1 - Physical Operations / S&OP | Moeda: BRL
+Gates:             Location=FAIL | Language=PASS | Employment=PASS
+Pontos Fortes:
+  + Aderência técnica perfeita ao ciclo pleno de S&OP, planejamento integrado de demanda e capacidade industrial pesada.
+Gaps / Vetos:
+  - Veto de localização geográfica: modelo de trabalho híbrido obrigatório em Belo Horizonte/MG, incompatível com a residência em Bombinhas/SC.
+
+--- DESCRICAO INTEGRAL DA VAGA ---
+
+Página da Vaga | Analista S&OP SRPular para o conteúdo principalIr para a página da empresaCandidatar-se
+Analista S&OP SR
+Copiar link
+Compartilhar vaga
+Ir para candidatura
+Descrição da vaga
+Na Cimento Nacional, temos o propósito de sustentar o desenvolvimento da sociedade. Nosso cimento é símbolo de solidez e compromisso com o futuro. Aqui, além de se desenvolver profissionalmente, você terá a chance de contribuir para a construção de um futuro próspero para a empresa e para a sociedade. Na Cimento Nacional cuidamos das pessoas, promovemos respeito e abertura, e incentivamos a evolução contínua. Seja um dos #TalentosCN!
+Responsabilidades e atribuições
+·     Executar e suportar o ciclo de Planejamento
+Integrado: Elaborar e atualizar o calendário e os materiais do ciclo mensal,
+consolidar informações das áreas participantes, realizar análises de demanda,
+operações e abastecimento, preparar os inputs para as reuniões e apoiar a
+consolidação do plano integrado.
+·     Analisar o plano de vendas e a demanda:
+Consolidar e analisar as previsões de vendas, identificando tendências,
+sazonalidades, desvios, riscos e oportunidades, avaliando a aderência entre
+demanda prevista e realizada e suportando as áreas na identificação dos
+principais drivers de variação.
+·   Elaborar o planejamento integrado de operações e
+abastecimento: Consolidar dados de capacidade produtiva, disponibilidade de
+recursos, produção, estoques, suprimentos e logística, identificando
+restrições, gargalos e riscos de atendimento. Elaborar cenários e alternativas
+de alocação de produção, transferências, estoques e atendimento para suportar
+as decisões do processo.
+·  Preparar análises e materiais para tomada de
+decisão: Desenvolver dashboards, apresentações, análises e estudos para as
+reuniões de Planejamento Integrado, evidenciando desvios, gaps, riscos,
+cenários e pontos de atenção. Registrar decisões, acompanhar planos de ação e
+monitorar a evolução dos temas definidos no processo.
+·  Monitorar indicadores e aderência aos planos:
+Acompanhar indicadores de desempenho da cadeia, incluindo acuracidade da
+demanda, aderência ao plano de produção, nível de atendimento, estoques,
+utilização de capacidade e desvios operacionais, realizando análises de causa e
+propondo ações de melhoria.
+·  Desenvolver modelos e ferramentas analíticas:
+Estruturar e aprimorar modelos, relatórios, dashboards e ferramentas de
+planejamento, buscando maior qualidade, confiabilidade e automatização das
+análises e informações utilizadas no processo de Planejamento Integrado.
+·  Promover a integração entre as áreas: Atuar como
+elo entre Comercial, Marketing, Inteligência de Mercado, Industrial,
+Suprimentos, Logística e Finanças, garantindo a consistência das informações,
+identificando conflitos entre planos e premissas e suportando a construção de
+uma visão integrada da cadeia.
+·  Apoiar a melhoria contínua do Planejamento
+Integrado: Identificar oportunidades de melhoria nos processos, métodos,
+sistemas, indicadores e modelos de planejamento, contribuindo para o aumento da
+maturidade e eficiência do processo de Planejamento Integrado/S&OP.
+Requisitos e qualificações
+Escolaridade:
+Ensino Superior Completo
+Conhecimento:
+Conhecimento avançado em
+Excel, Power BI
+Vivência em processos de
+S&OP e S&OE
+Boa capacidade analítica
+Inglês básico
+·   Habilidade de comunicação e negociação
+Forte capacidade analítica
+e visão estratégica
+Informações adicionais
+FAÇA PARTE DO NOSSO TIME
+Convidamos você a fazer parte do time de talentos CN e se juntar a nós na jornada contínua pela excelência operacional, responsabilidade socioambiental e desenvolvimento sustentável.
+Aqui, além de ter a oportunidade de crescer profissionalmente, você também poderá contribuir para a construção de um futuro mais próspero para nossa empresa e para toda a sociedade.
+E para os nossos colaboradores oferecemos:
+Plano de Saúde e Odontológico, extensivo aos dependentes legais;
+Vale Alimentação/Refeição ou Refeitório no local;
+Seguro de vida em grupo;
+Previdência Privada;
+Vale Transporte e/ou Fretado (unidades fabris);
+Plano de Participação nos Resultados (PPR), mediante atingimento de metas anuais;
+Wellhub - Plano de academias e estúdios para atividade física;
+Auxílio Farmácia (para medicamentos com receituário médico dentro do roll);
+Galena - Benefício educacional com descontos exclusivos em diversas instituições parceiras;
+Programa de Apoio ao Empregado (PAE) – Serviço de consultoria com Psicólogos, Advogados e Assistentes Sociais, auxiliar os colaboradores a encontrarem soluções para questões de âmbito pessoais e/ou profissionais;
+Assistência Funeral.
+Nossos pacotes de benefícios seguem conforme acordo coletivo da unidade e regras de elegibilidade.
+Etapas do processo
+Etapa 1: Cadastro1Cadastro
+Etapa 2: Testes Online2Testes Online
+Etapa 3: Entrevista Pessoas e Cultura3Entrevista Pessoas e Cultura
+Etapa 4: Entrevista Gestor4Entrevista Gestor
+Etapa 5: Carta Oferta5Carta Oferta
+Etapa 6: Contratação6Contratação
+UMA HISTORIA DE SOLIDEZ, INOVAÇÃO E COMPROMISSO
+A Cimento Nacional nasceu com o propósito de entregar mais do que cimento: entregar confiança. Desde então, nossa trajetória tem sido marcada por crescimento sólido, inovação e compromisso com o desenvolvimento sustentável. Fazemos parte da Buzzi, empresa multirregional Italiana, presente em 15 países e referência mundial no setor. Essa união fortalece nossa capacidade de inovar, amplia o acesso a tecnologias avançadas e eleva nossos padrões de qualidade, reforçando nossa posição de destaque no mercado brasileiro.
+Somos a quarta maior cimenteira do Brasil, com cinco fábricas, uma unidade de moagem e quatro centros de distribuição estrategicamente posicionados para garantir eficiência e capilaridade no atendimento ao mercado.
+Nosso crescimento reflete o compromisso com a qualidade, inovação e impacto positivo, impulsionando iniciativas que unem tecnologia e responsabilidade ambiental para reduzir impactos e promover o desenvolvimento sustentável.
+Compartilhar vaga
+Website
+LinkedIn
+Instagram
+Glassdoor
+Candidatar-se
+Copiar link
+Candidatar-se
+
+

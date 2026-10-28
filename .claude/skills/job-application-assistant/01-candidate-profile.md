@@ -72,7 +72,7 @@ Campinas, SP, Brazil
 - Strategic leadership in logistics optimization and implementation of **Logistics Control Towers**
 - Applied Lean, VSM and data mining to build business cases with tangible ROI
 - Built executive dashboards with **VSM, SQL and Power BI** for client leadership teams (Note: Python was not used at Moby)
-- Client portfolio across sectors: Bracell, Suzano, Veracel (forestry); Unilever (food); Rede Sim/Argenta, COMGÁS, Ipiranga, Vibra, TotalEnergies (fuels); Inpasa (agribusiness); Multilixo (waste management)
+- Client portfolio across sectors: Bracell, Suzano, Veracel (forestry - drove **USD 8M in cost reduction** connecting freight, landed cost, and network imbalance to equipment productive hours and idle-time pricing); Unilever (food); Rede Sim/Argenta, COMGÁS, Ipiranga, Vibra, TotalEnergies (fuels - achieved **17% outbound KM reduction** in fuel last-mile via parameter and route discipline); Inpasa (agribusiness); Multilixo (waste management)
 
 ### Project Engineer - Automatic Identification Systems (AIS) Ltd (Jul 2022 - Jan 2023)
 Dublin, Ireland
@@ -83,10 +83,11 @@ Dublin, Ireland
 
 ### Superintendent (Senior Manager) - Vibra Energia (Aug 2021 - Jan 2022)
 Vitória, ES, Brazil
-- Led a team of 50+ senior professionals at the Liquid Bulk Terminal in the Port of Tubarão
+- Led a team of 50+ senior professionals at the Liquid Bulk Terminal in the Port of Tubarão (**141,000 m³ tankage capacity**, **OPEX USD 2.6M**, shared complex with Vale and Transpetro)
 - Terminal supplied **60% of Espírito Santo state's fuel**
 - Owned Procurement, Engineering, Purchasing, Infrastructure and Maintenance, and Sales & Supply
 - Led operational, data governance, and management restructuring during the IPO process and divestment/spin-off from Petrobras (BR Distribuidora transitioning to Vibra Energia)
+- Conducted data mining across SAP, WMS, TMS, and SCADA to uncover dwell-time and scheduling bottlenecks rather than tankage constraints; redesigned scheduling windows via controlled carrier pilots and institutionalized a single source of truth in Power BI, achieving a **16% reduction in gate-to-gate time** and **13% reduction in unit cost** without purchasing new data sources
 
 ### Senior Manager - Vibra Energia (Dec 2019 - Aug 2021)
 Vitória, ES, Brazil
@@ -98,7 +99,7 @@ Vitória, ES, Brazil
 Campinas, SP, Brazil
 - Coordinated distribution of **30% of Brazil's liquid bulk fuel volume**; team of 7
 - Ran S&OP meetings across commercial, supply and operations
-- Built capacity planning models and operational distribution schedules
+- Built capacity planning models, negotiated operational windows and contracts with rail operators (**VLI and RUMO**), and aligned multimodal stakeholders
 
 ### Manager - Vibra Energia / BR Distribuidora (Jul 2014 - Jun 2017)
 Presidente Prudente, SP, Brazil
