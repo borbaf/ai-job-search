@@ -1,0 +1,577 @@
+[
+  {
+    "key": "pyxys-inteligencia-digital_coordenador-a-de-inteligencia-de-dados",
+    "scores": {
+      "technical": 85,
+      "experience": 82,
+      "behavioral": 82,
+      "career": 80
+    },
+    "track": "analytics",
+    "currency_track": "BRL",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Coordenação de Inteligência de Dados 100% remota",
+      "Alinhamento forte com a camada analítica (Python, SQL, dashboards executivos)"
+    ],
+    "gaps": [
+      "Mais focado em marketing/digital analytics do que em supply chain/operações"
+    ]
+  },
+  {
+    "key": "solutis_arquiteto-a-de-dados-senior",
+    "scores": {
+      "technical": 78,
+      "experience": 75,
+      "behavioral": 78,
+      "career": 75
+    },
+    "track": "analytics",
+    "currency_track": "BRL",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Arquitetura de dados moderna 100% remota",
+      "Aderente à camada analítica do candidato (BigQuery, SQL, modelagem)"
+    ],
+    "gaps": [
+      "Ênfase técnica em engenharia pura de dados vs liderança operacional"
+    ]
+  },
+  {
+    "key": "globalweb-corp_especialista-em-tecnologias-negocios",
+    "scores": {
+      "technical": 75,
+      "experience": 75,
+      "behavioral": 78,
+      "career": 75
+    },
+    "track": "analytics",
+    "currency_track": "BRL",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Especialista de ponte entre negócios e tecnologia 100% remoto",
+      "Forte viés de processos e governança corporativa"
+    ],
+    "gaps": [
+      "Descrição genérica de escopo consultivo"
+    ]
+  },
+  {
+    "key": "afya_assistente-de-planejamento-comercial-graduacao",
+    "scores": {
+      "technical": 70,
+      "experience": 68,
+      "behavioral": 72,
+      "career": 68
+    },
+    "track": "analytics",
+    "currency_track": "BRL",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Planejamento 100% remoto na área educacional"
+    ],
+    "gaps": [
+      "Nível assistente/analista abaixo da senioridade executiva"
+    ]
+  },
+  {
+    "key": "lanlink-informatica_administrador-de-sistemas-operacionais-servidores-de-aplicac-40a112",
+    "scores": {
+      "technical": 60,
+      "experience": 60,
+      "behavioral": 70,
+      "career": 60
+    },
+    "track": "analytics",
+    "currency_track": "BRL",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Infraestrutura e servidores de aplicação"
+    ],
+    "gaps": [
+      "Fora do core de negócios/operações"
+    ]
+  },
+  {
+    "key": "enviame_especialista-en-alianzas-logisticas",
+    "scores": {
+      "technical": 88,
+      "experience": 90,
+      "behavioral": 88,
+      "career": 86
+    },
+    "track": "logistics",
+    "currency_track": "USD",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "100% Remoto LATAM com gestão de rede de parceiros e operadoras de logística multi-courier",
+      "Combina estratégia comercial, supply chain e inteligência logística"
+    ],
+    "gaps": [
+      "Espanhol fluente exigido no dia a dia com parceiros LATAM"
+    ]
+  },
+  {
+    "key": "eyefly-digital_head-of-fulfillment-performance-strategy",
+    "scores": {
+      "technical": 86,
+      "experience": 88,
+      "behavioral": 85,
+      "career": 85
+    },
+    "track": "operations",
+    "currency_track": "USD",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Head de Fulfillment e estratégia operacional 100% remota",
+      "Foco em otimização de SLA, KPIs analíticos e eficiência logística"
+    ],
+    "gaps": [
+      "Modelo de e-commerce internacional com alta volatilidade"
+    ]
+  },
+  {
+    "key": "nstech_coordenador-de-logistica-itu-sp",
+    "scores": {
+      "technical": 90,
+      "experience": 90,
+      "behavioral": 88,
+      "career": 88
+    },
+    "track": "logistics",
+    "currency_track": "BRL",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Liderança logística no principal ecossistema de software para supply chain do Brasil",
+      "Forte interface de tecnologia, TMS e torre de controle logístico"
+    ],
+    "gaps": [
+      "Presencial/Híbrido em Itu-SP (coberto pela Frente 2)"
+    ]
+  },
+  {
+    "key": "frete-com_coordenador-de-operacoes-grandes-contas",
+    "scores": {
+      "technical": 90,
+      "experience": 92,
+      "behavioral": 90,
+      "career": 88
+    },
+    "track": "operations",
+    "currency_track": "BRL",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Coordenação de operações de frete e grandes contas em líder tech logística",
+      "Gestão de SLAs, torre de controle e otimização operacional de transporte"
+    ],
+    "gaps": [
+      "Requer presença em SP (coberto pela Frente 2)"
+    ]
+  },
+  {
+    "key": "unknown-company_analista-senior-operacoes-agro",
+    "scores": {
+      "technical": 78,
+      "experience": 80,
+      "behavioral": 78,
+      "career": 75
+    },
+    "track": "operations",
+    "currency_track": "BRL",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Operações agropecuárias / industriais com governança de processos",
+      "Atuação com KPIs e rotinas operacionais estruturadas"
+    ],
+    "gaps": [
+      "Presencial em Araxá-MG"
+    ]
+  },
+  {
+    "key": "nacionalrh_gerente-de-operacoes-de-saneamento",
+    "scores": {
+      "technical": 80,
+      "experience": 85,
+      "behavioral": 78,
+      "career": 78
+    },
+    "track": "operations",
+    "currency_track": "BRL",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Gerência de Operações em Guarulhos-SP",
+      "Gestão pesada de serviços, infraestrutura e equipes de campo"
+    ],
+    "gaps": [
+      "Segmento de saneamento requer adaptação regulatória"
+    ]
+  },
+  {
+    "key": "verkada_supply-chain-manager-aftermarket-operations",
+    "scores": {
+      "technical": 82,
+      "experience": 82,
+      "behavioral": 80,
+      "career": 80
+    },
+    "track": "supply_chain",
+    "currency_track": "USD",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Supply chain aftermarket / operações globais"
+    ],
+    "gaps": [
+      "Presencial na Califórnia / Taiwan sem sponsorship"
+    ]
+  },
+  {
+    "key": "spacex_supply-chain-planner-gateway-and-solar-starlink",
+    "scores": {
+      "technical": 85,
+      "experience": 85,
+      "behavioral": 80,
+      "career": 80
+    },
+    "track": "supply_chain",
+    "currency_track": "USD",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Planejamento de cadeia aeroespacial avançada"
+    ],
+    "gaps": [
+      "Exigência estrita de cidadania americana (ITAR / US Person)"
+    ]
+  },
+  {
+    "key": "spacex_supply-chain-planner-falcon-dragon-starfall",
+    "scores": {
+      "technical": 85,
+      "experience": 85,
+      "behavioral": 80,
+      "career": 80
+    },
+    "track": "supply_chain",
+    "currency_track": "USD",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Planejamento de cadeia aeroespacial avançada"
+    ],
+    "gaps": [
+      "Exigência estrita de cidadania americana (ITAR / US Person)"
+    ]
+  },
+  {
+    "key": "ali-s-p-a_logistics-data-analyst-power-bi-kpi-insights",
+    "scores": {
+      "technical": 80,
+      "experience": 78,
+      "behavioral": 75,
+      "career": 75
+    },
+    "track": "analytics",
+    "currency_track": "EUR",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Logistics Data Analyst com Power BI e KPIs"
+    ],
+    "gaps": [
+      "Presencial na Itália sem sponsorship"
+    ]
+  },
+  {
+    "key": "itag-asia-consultancy_logistics-manager",
+    "scores": {
+      "technical": 75,
+      "experience": 75,
+      "behavioral": 75,
+      "career": 72
+    },
+    "track": "supply_chain",
+    "currency_track": "USD",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Gestão de logística / supply chain"
+    ],
+    "gaps": [
+      "Localização internacional pendente de validação de visto/remoto"
+    ]
+  },
+  {
+    "key": "hood-container_logistics-manager",
+    "scores": {
+      "technical": 75,
+      "experience": 75,
+      "behavioral": 75,
+      "career": 72
+    },
+    "track": "supply_chain",
+    "currency_track": "USD",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Gestão de logística / supply chain"
+    ],
+    "gaps": [
+      "Localização internacional pendente de validação de visto/remoto"
+    ]
+  },
+  {
+    "key": "pentagon-technologies-group-inc_logistics-manager-31163",
+    "scores": {
+      "technical": 75,
+      "experience": 75,
+      "behavioral": 75,
+      "career": 72
+    },
+    "track": "supply_chain",
+    "currency_track": "USD",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Gestão de logística / supply chain"
+    ],
+    "gaps": [
+      "Localização internacional pendente de validação de visto/remoto"
+    ]
+  },
+  {
+    "key": "atlas-copco_logistics-manager",
+    "scores": {
+      "technical": 82,
+      "experience": 85,
+      "behavioral": 80,
+      "career": 80
+    },
+    "track": "logistics",
+    "currency_track": "USD",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Gerência de logística em multinacional industrial global",
+      "Gestão de fluxos de peças, armazenagem e distribuição internacional"
+    ],
+    "gaps": [
+      "Confirmar escopo territorial e fuso de atuação"
+    ]
+  },
+  {
+    "key": "amgen_logistics-manager",
+    "scores": {
+      "technical": 82,
+      "experience": 85,
+      "behavioral": 80,
+      "career": 80
+    },
+    "track": "logistics",
+    "currency_track": "EUR",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Logistics Manager na Holanda (Breda) para gigante farmacêutica",
+      "Supply chain de produtos sensíveis / cadeia fria internacional"
+    ],
+    "gaps": [
+      "Exige relocation / sponsorship internacional para Holanda"
+    ]
+  },
+  {
+    "key": "klipboard_logistics-manager",
+    "scores": {
+      "technical": 75,
+      "experience": 75,
+      "behavioral": 75,
+      "career": 72
+    },
+    "track": "supply_chain",
+    "currency_track": "USD",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Gestão de logística / supply chain"
+    ],
+    "gaps": [
+      "Localização internacional pendente de validação de visto/remoto"
+    ]
+  },
+  {
+    "key": "jones-legacy-ventures_logistics-manager-cassity-jones-building-materials-tyler",
+    "scores": {
+      "technical": 75,
+      "experience": 75,
+      "behavioral": 75,
+      "career": 72
+    },
+    "track": "supply_chain",
+    "currency_track": "USD",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Gestão de logística / supply chain"
+    ],
+    "gaps": [
+      "Localização internacional pendente de validação de visto/remoto"
+    ]
+  },
+  {
+    "key": "ford_logistics-manager-ford-energy",
+    "scores": {
+      "technical": 75,
+      "experience": 75,
+      "behavioral": 75,
+      "career": 72
+    },
+    "track": "supply_chain",
+    "currency_track": "USD",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Gestão de logística / supply chain"
+    ],
+    "gaps": [
+      "Localização internacional pendente de validação de visto/remoto"
+    ]
+  },
+  {
+    "key": "heron-power_logistics-manager",
+    "scores": {
+      "technical": 75,
+      "experience": 75,
+      "behavioral": 75,
+      "career": 72
+    },
+    "track": "supply_chain",
+    "currency_track": "USD",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Gestão de logística / supply chain"
+    ],
+    "gaps": [
+      "Localização internacional pendente de validação de visto/remoto"
+    ]
+  },
+  {
+    "key": "celestica_10-manager-strategic-supply-chain-2",
+    "scores": {
+      "technical": 82,
+      "experience": 85,
+      "behavioral": 80,
+      "career": 80
+    },
+    "track": "supply_chain",
+    "currency_track": "USD",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Manager Strategic Supply Chain em multinacional de eletrônicos/manufatura",
+      "Negociação global de componentes e gestão estratégica de fornecedores"
+    ],
+    "gaps": [
+      "Localização em Hong Kong (requer sponsorship / expat package)"
+    ]
+  },
+  {
+    "key": "grupo-pereira_gerente-de-operacoes-centro-de-distribuicao",
+    "scores": {
+      "technical": 85,
+      "experience": 88,
+      "behavioral": 82,
+      "career": 80
+    },
+    "track": "operations",
+    "currency_track": "BRL",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Gerência de Centro de Distribuição em grande grupo atacadista/varejista",
+      "Ampla vivência em operações de armazém, frotas e logística física pesada"
+    ],
+    "gaps": [
+      "Localização presencial em Campo Grande-MS"
+    ]
+  },
+  {
+    "key": "sanar_analista-pleno-de-planejamento-integrado-s-op",
+    "scores": {
+      "technical": 88,
+      "experience": 85,
+      "behavioral": 85,
+      "career": 82
+    },
+    "track": "supply_chain",
+    "currency_track": "BRL",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Planejamento Integrado S&OP com análise de dados de ponta a ponta",
+      "Total aderência técnica em governança e modelagem de estoques"
+    ],
+    "gaps": [
+      "Nível pleno pode estar abaixo da senioridade executiva/gerencial"
+    ]
+  },
+  {
+    "key": "simplot-company_sales-planning-manager-latam",
+    "scores": {
+      "technical": 92,
+      "experience": 95,
+      "behavioral": 90,
+      "career": 90
+    },
+    "track": "supply_chain",
+    "currency_track": "BRL",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "employment_gate": "PASS",
+    "strengths": [
+      "Liderança regional LATAM de S&OP e Sales Planning alinhada ao perfil executivo",
+      "Planejamento integrado de demanda e suprimentos com modelagem analítica"
+    ],
+    "gaps": [
+      "Necessário validar divisão específica e modelo híbrido no escritório de SP"
+    ]
+  }
+]

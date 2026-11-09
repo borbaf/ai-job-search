@@ -1,0 +1,268 @@
+[
+  {
+    "key": "pantheon_analista-especialista-sap-tsw-tm",
+    "title": "Analista Especialista SAP TSW/TM",
+    "company": "Pantheon",
+    "url": "https://remotar.com.br/job/169726",
+    "status": "scored",
+    "scores": {
+      "technical": 88,
+      "experience": 88,
+      "behavioral": 80,
+      "career": 82
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Direct alignment with liquid bulk terminals and multi-modal transport (SAP TSW - Trader and Scheduler Workbench + SAP TM).",
+      "100% remote contract in Brazil.",
+      "Direct leverage of Filippe's deep fuel terminal operations background (Vibra/Petrobras) with enterprise ERP systems."
+    ],
+    "gaps": [
+      "Requires advanced SAP functional configuration rather than pure operational superintendence."
+    ],
+    "language": "Portuguese"
+  },
+  {
+    "key": "nebius_transportation-logistics-specialist",
+    "title": "Transportation Logistics Specialist",
+    "company": "Nebius",
+    "url": "https://dynamitejobs.com/company/nebius/remote-job/transportation-logistics-specialist",
+    "status": "scored",
+    "scores": {
+      "technical": 80,
+      "experience": 82,
+      "behavioral": 78,
+      "career": 78
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "USD",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Transportation management, logistics network operations, and carrier performance in a fast-scaling tech infrastructure company.",
+      "Global remote role with USD contract."
+    ],
+    "gaps": [
+      "Specialist level rather than executive manager/director scope."
+    ],
+    "language": "English"
+  },
+  {
+    "key": "grupo-olx_product-manager-especialista",
+    "title": "Product Manager Especialista",
+    "company": "Grupo OLX",
+    "url": "https://remotar.com.br/job/169984",
+    "status": "scored",
+    "scores": {
+      "technical": 78,
+      "experience": 72,
+      "behavioral": 80,
+      "career": 75
+    },
+    "track": "Track 2: Logistics Tech & Data Products",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Senior product leadership in high-scale transactional ecosystem.",
+      "100% remote."
+    ],
+    "gaps": [
+      "E-commerce/marketplace platform focus without heavy physical supply chain/terminal anchor."
+    ],
+    "language": "Portuguese"
+  },
+  {
+    "key": "pearl-talent_remote-operations-specialist",
+    "title": "Remote Operations Specialist",
+    "company": "Pearl Talent",
+    "url": "https://remotar.com.br/job/169564",
+    "status": "scored",
+    "scores": {
+      "technical": 75,
+      "experience": 78,
+      "behavioral": 76,
+      "career": 72
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "USD",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Operations coordination and workflow optimization in global remote setting.",
+      "USD compensation."
+    ],
+    "gaps": [
+      "Individual contributor operations support rather than strategic supply chain leadership."
+    ],
+    "language": "English"
+  },
+  {
+    "key": "hirelatam_remote-account-operations-coordinator-asana-expert",
+    "title": "Remote Account Operations Coordinator (Asana Expert)",
+    "company": "HireLATAM",
+    "url": "https://recruiterflow.com/hirelatam/jobs/1602",
+    "status": "scored",
+    "scores": {
+      "technical": 70,
+      "experience": 72,
+      "behavioral": 75,
+      "career": 68
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "USD",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Structured remote operations coordination for US client via HireLATAM; predictable USD salary."
+    ],
+    "gaps": [
+      "Heavily centered on project management tool (Asana) administration; lower operational complexity."
+    ],
+    "language": "English"
+  },
+  {
+    "key": "magalu-cloud_especialista-de-operacoes-supply-chain-epoca-cosmeticos",
+    "title": "Especialista de Operações (Supply Chain) - Época Cosméticos",
+    "company": "Magalu Cloud",
+    "url": "https://remotar.com.br/job/168642",
+    "status": "scored",
+    "scores": {
+      "technical": 80,
+      "experience": 82,
+      "behavioral": 78,
+      "career": 78
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Supply chain e-commerce fulfillment and distribution operations."
+    ],
+    "gaps": [
+      "Location veto: Onsite/Hybrid in São Paulo (SP)."
+    ],
+    "language": "Portuguese"
+  },
+  {
+    "key": "csp-tech_consultor-de-negocios-em-ia-product-owner-tecnico-i-senior-i-dcab92",
+    "title": "Consultor de Negócios em IA / Product Owner técnico I Sênior I Híbrido SP",
+    "company": "CSP Tech",
+    "url": "https://remotar.com.br/job/169361",
+    "status": "scored",
+    "scores": {
+      "technical": 78,
+      "experience": 72,
+      "behavioral": 75,
+      "career": 74
+    },
+    "track": "Track 2: Logistics Tech & Data Products",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Technical PO with AI/automation focus."
+    ],
+    "gaps": [
+      "Location veto: Mandatory hybrid presence in São Paulo (SP)."
+    ],
+    "language": "Portuguese"
+  },
+  {
+    "key": "agrosuper_lider-excelencia-operacional-por-proyecto",
+    "title": "Líder Excelencia Operacional por Proyecto",
+    "company": "Agrosuper",
+    "url": "https://www.getonbrd.com/jobs/lider-excelencia-operacional-por-proyecto-agrosuper-rancagua",
+    "status": "scored",
+    "scores": {
+      "technical": 78,
+      "experience": 80,
+      "behavioral": 75,
+      "career": 72
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "USD",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "FLAG",
+    "language_note": "Spanish professional working proficiency required",
+    "deadline": null,
+    "strengths": [
+      "Lean manufacturing, continuous improvement and industrial operational excellence."
+    ],
+    "gaps": [
+      "Location veto: Onsite in Rancagua, Chile."
+    ],
+    "language": "Spanish"
+  },
+  {
+    "key": "amazon-web-services-aws_supply-chain-manager-infraops-planning-sourcing",
+    "title": "Supply Chain Manager, InfraOps Planning & Sourcing",
+    "company": "Amazon Web Services (AWS)",
+    "url": "https://www.linkedin.com/jobs/view/supply-chain-manager-infraops-planning-sourcing-at-amazon-web-services-aws-4459615362",
+    "status": "scored",
+    "scores": {
+      "technical": 85,
+      "experience": 88,
+      "behavioral": 82,
+      "career": 85
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "USD",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Global cloud infrastructure capacity planning and procurement."
+    ],
+    "gaps": [
+      "Location veto: Onsite in Herndon, VA (US domestic work authorization required)."
+    ],
+    "language": "English"
+  },
+  {
+    "key": "robert-half_gerente-de-operacoes",
+    "title": "Gerente de Operações",
+    "company": "Robert Half",
+    "url": "https://br.linkedin.com/jobs/view/gerente-de-opera%C3%A7%C3%B5es-at-robert-half-4485851383",
+    "status": "scored",
+    "scores": {
+      "technical": 80,
+      "experience": 84,
+      "behavioral": 78,
+      "career": 80
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Executive operations leadership."
+    ],
+    "gaps": [
+      "Location veto: Presencial / Híbrido no Rio de Janeiro (RJ)."
+    ],
+    "language": "Portuguese"
+  }
+]

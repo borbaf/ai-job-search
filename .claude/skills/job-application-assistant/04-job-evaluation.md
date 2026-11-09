@@ -34,15 +34,16 @@ Read the full posting text / JD body **verbatim** and execute two checks:
 ### Check A: In-Person / On-site / Hybrid Presence in JD Text
 Search the JD body text for physical presence indicators: `in-person`, `on-site`, `onsite`, `based in <city/country>`, `hybrid`, `X days a week in office`, `local candidates only`, `relocation required`.
 
-- If the JD body requires regular physical presence outside Santa Catarina (within ~80km of Bombinhas) or Fortaleza/CE → **FAIL — hard stop.** (Eliminates roles like Bobyard in SF, Posh in NYC, Alpaca in NYC, C3 in Redwood City, Benchmark in South Bend, tennr in NYC, Loggi in SP, Renner in RS).
-- Hybrid in SC within 80km (Florianópolis, Itajaí, BC, Navegantes) or Fortaleza/CE → **PASS**.
-- Explicitly 100% remote without office attendance mandates → **PASS**.
+- **Frente 1 (Remote-First):** Regular physical presence outside Santa Catarina (~80km) or Fortaleza/CE is marked as a location constraint.
+- **Frente 2 (Open Mobility - Presencial / Híbrido Permitido):** Presencial, híbrido e relocation em qualquer cidade do Brasil (São Paulo, Campinas, Rio de Janeiro, Curitiba, etc.) e exterior (com visto/patrocínio) são **PASS**.
+- **Default Evaluation Rule:** Para vagas presenciais/híbridas que seriam veto sob Frente 1, avalie sob **Frente 2 (PASS com tag `frente: "Frente 2 (Onsite/Hybrid)"` ou `location_verdict: "PASS"`)**. O usuário tem flexibilidade total de mudança de cidade.
 
 ### Check B: Country / Citizenship / Domestic Authorization in JD Text
 Search the JD body text for geographic boundaries: `US only`, `Must be based in the US`, `Only candidates in the United States / Canada / UK / Europe`, `Authorized to work in the US without sponsorship`, `Security clearance required`.
 
-- If the JD limits hiring to domestic US/foreign residents or forbids international contractors/sponsorship → **FAIL — hard stop.** (Eliminates roles like Squarespace, Chime, NetVendor, Smartsheet, Deep DSG in Ireland).
-- If the JD explicitly supports hiring in Brazil, LATAM, or Worldwide via Contractor/EOR (e.g., Deel, Remote, BairesDev), or the employer is a Brazilian company (e.g., Remotar, Gupy) → **PASS**.
+- If the JD limits hiring strictly to domestic US/foreign residents or explicitly forbids international contractors/visa sponsorship → **FAIL — hard stop.** (Eliminates roles like Squarespace, Chime, NetVendor, Smartsheet).
+- If the role offers relocation/sponsorship, or is located in Brazil (any city) → **PASS**.
+- If the JD explicitly supports hiring in Brazil, LATAM, or Worldwide via Contractor/EOR (e.g., Deel, Remote, BairesDev), or the employer is a Brazilian company (e.g., Remotar, Gupy, InHire, Infojobs) → **PASS**.
 - If silent on domestic restrictions but the company is global remote → **PROCEED, but mark unverified**.
 
 **Report any failure under Gate 0 or Gate 1 with the quoted text** rather than silently dropping or scoring the role. A role that fails either gate is not scored and not drafted.

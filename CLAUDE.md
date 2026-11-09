@@ -1,7 +1,7 @@
 # Candidate Profile - Filippe Rezende Borba
 
 ## Identity
-- Location: Bombinhas, Santa Catarina, Brazil (remote-first; open to relocation to Fortaleza/CE)
+- Location: Bombinhas, Santa Catarina, Brazil (remote-first; open to relocation/on-site/hybrid anywhere in Brazil or internationally)
 - Contact: +55 11 97143 1108 | borbaf@gmail.com
 - LinkedIn: linkedin.com/in/borbaf | GitHub: github.com/borbaf
 - Languages: PT native | EN advanced (recent test B2; target C1; flag C1/fluent requirements) | ES elementary
@@ -79,15 +79,20 @@ Market framing: Decisive problem solver (resolutor), bridging shop-floor operati
   - Target: R$ 15,000 - 25,000+/mo
 - **Mandatory Compensation Model:** Fixed guaranteed salary/contract only. Zero tolerance for equity-only, co-founder, or revenue-share positions.
 
-## Location Preferences & Constraints
-- **100% Remote:** Primary target (global, LATAM, or Brazil; track separation applies).
-- **Hybrid in SC:** Viable ONLY within ~80 km of Bombinhas-SC (e.g., Florianópolis, Itajaí, Balneário Camboriú, Navegantes).
-- **Relocation / Hybrid in Fortaleza/CE:** Viable (open to relocation to Fortaleza).
-- **Excluded Hybrid/On-site:** Blumenau is NOT viable. São Paulo (SP), Belo Horizonte (BH), Curitiba, and other distant cities are NOT viable for hybrid/on-site.
+## Location Preferences & Operating Tracks
+
+### Operational Frentes (Fronts)
+1. **Frente 1: Remote-First & Local SC/Fortaleza (Canonical Track):**
+   - 100% Remote (global USD or Brazil BRL).
+   - Hybrid SC within ~80 km of Bombinhas (Florianópolis, Itajaí, Balneário Camboriú, Navegantes).
+   - Hybrid/On-site in Fortaleza/CE.
+2. **Frente 2: Open Mobility & On-Site / Hybrid (Expanded Track - Sem Restrição de Localização):**
+   - No location restriction: On-site, hybrid, and relocation are completely open and viable across any major Brazilian hub (São Paulo/SP, Campinas/SP, Rio de Janeiro/RJ, Belo Horizonte/MG, Curitiba/PR, Nordeste, etc.) and international locations (with visa sponsorship).
+   - Ideal for heavy industrial assets, fuel distribution, port terminals, manufacturing hubs, and corporate S&OP / Supply Chain leadership.
 
 ## Deal-breakers (Hard Filters - Enforced Before Scoring)
 1. **Employment Model:** Roles without guaranteed salary (equity-only, co-founder, venture builder, unpaid, funding-dependent).
-2. **Geographic Ineligibility:** Roles requiring US domestic work authorization without sponsorship, or based on-site/hybrid outside SC (80km) or Fortaleza/CE (verified via JD text, not platform tags).
+2. **Geographic Ineligibility:** Roles requiring US domestic work authorization without sponsorship (e.g. "US Citizens / Green Card only"). *Note: Physical presence outside SC is NO LONGER a veto in Frente 2.*
 3. **Compensation Floor:** Below USD 1,600/mo (USD track) or below R$ 10,000 CLT / R$ 14,000 PJ (BRL track).
 4. **Seniority:** Junior, entry-level, trainee, or student roles.
 

@@ -113,17 +113,15 @@ site:portal.gupy.io ("Product Owner" OR "Gerente de Produto") (logística OR sup
   - Unfunded co-founder / venture-building tracks (e.g. EWOR, Gabb, accelerator cohorts without fixed salary).
   - Commission-only or unpaid roles.
 
-### Gate 1: Geographic Eligibility & Presence Gate (Hard Gate)
-- **Base:** Bombinhas, SC, Brazil (UTC-3).
-- **Mandatory JD Body Text Check:** Do NOT trust platform tags ("Global Remote", "Anywhere in the world", "100% Remoto"). Check text for:
-  - `in-person`, `onsite`, `based in [City]`, `hybrid` outside SC/Fortaleza → **FAIL**.
-  - Domestic US work authorization required ("US Citizens / Green Card holders only", "Must reside in the US/UK/Ireland") → **FAIL**.
-- **Approved Locations:**
+### Gate 1: Geographic Eligibility & Presence Gate
+- **Frente 1 (Remote-First):**
   - Fully remote (Worldwide, LATAM, Brazil) = **PASS**.
   - SC Hybrid (within ~80 km: Florianópolis, Itajaí, Balneário Camboriú, Navegantes) = **PASS**.
   - Fortaleza / CE (Hybrid or On-site) = **PASS** (open to relocation).
-  - Blumenau, SC (Hybrid or On-site) = **FAIL** (commute not viable).
-  - SP, BH, Curitiba, etc. (Hybrid or On-site) = **FAIL** (requires relocation).
+- **Frente 2 (Open Mobility & On-Site / Hybrid - Sem Restrição de Localização):**
+  - Vagas presenciais ou híbridas em qualquer pólo logístico/industrial ou capital brasileira (São Paulo, Campinas, Rio de Janeiro, Curitiba, Belo Horizonte, etc.) = **PASS**.
+  - Relocation internacional com patrocínio/sponsorship = **PASS**.
+  - Restrição única restante: Vagas que exijam cidadania ou autorização doméstica exclusiva de outro país (ex: "US Citizens / Green Card holders only") sem sponsorship continuam como **FAIL**.
 
 ### Gate 2: Currency & Compensation Floors
 - **USD Track:** Floor: **USD 1,600 / month** (strict veto if below); Target: **USD 4,000 - 7,000 / month**.

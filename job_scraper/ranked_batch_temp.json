@@ -1,0 +1,216 @@
+[
+  {
+    "key": "toptal_operations-expert-with-python-for-ai-supply-chain-task-desig-4ae197",
+    "title": "Operations Expert with Python for AI Supply Chain Task Design",
+    "company": "Toptal",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-operations-expert-with-python-for-ai-supply-chain-task-design",
+    "status": "scored",
+    "scores": {
+      "technical": 92,
+      "experience": 90,
+      "behavioral": 88,
+      "career": 95
+    },
+    "track": "Track 2: Logistics Tech & Data Products",
+    "currency_track": "USD",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": "2026-12-04",
+    "strengths": [
+      "Direct intersection of senior supply chain operations experience with Python and AI task evaluation.",
+      "Fully remote contract with USD compensation, leveraging operational terminal/logistics depth into LLM benchmarking.",
+      "Direct alignment with Filippe's thought leadership and agentic coding workflows."
+    ],
+    "gaps": [
+      "Requires ongoing delivery of specialized benchmarks rather than internal operational line management."
+    ],
+    "language": "English"
+  },
+  {
+    "key": "super-speciosa_supply-chain-operations-manager-latam",
+    "title": "Supply Chain & Operations Manager - LATAM",
+    "company": "Super Speciosa",
+    "url": "https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam",
+    "status": "scored",
+    "scores": {
+      "technical": 82,
+      "experience": 85,
+      "behavioral": 80,
+      "career": 80
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "USD",
+    "employment_gate": "PASS",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "deadline": "2026-12-04",
+    "strengths": [
+      "End-to-end supply chain and operations management in LATAM region.",
+      "Transparent USD contract (,500 - ,500/mo), meeting compensation criteria."
+    ],
+    "gaps": [
+      "JD text specifies Colombia, Mexico or Argentina; requires confirmation for Brazil contracting eligibility."
+    ],
+    "language": "English"
+  },
+  {
+    "key": "insi_blue-yonder-technical-analyst-supply-chain",
+    "title": "Blue Yonder Technical Analyst – Supply Chain",
+    "company": "Insi",
+    "url": "https://remotar.com.br/job/169459",
+    "status": "scored",
+    "scores": {
+      "technical": 80,
+      "experience": 78,
+      "behavioral": 75,
+      "career": 75
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "100% remote national position.",
+      "Supply chain planning and fulfillment systems architecture and technical problem-solving."
+    ],
+    "gaps": [
+      "Emphasizes specific Blue Yonder / JDA platform configuration over general S&OP leadership."
+    ],
+    "language": "English"
+  },
+  {
+    "key": "mca-auditoria-e-gerenciamento_pessoa-analista-de-suprimentos-senior",
+    "title": "Pessoa Analista de Suprimentos Sênior",
+    "company": "MCA Auditoria e Gerenciamento",
+    "url": "https://remotar.com.br/job/169943",
+    "status": "scored",
+    "scores": {
+      "technical": 75,
+      "experience": 80,
+      "behavioral": 75,
+      "career": 72
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Senior procurement, MRO and strategic sourcing in industrial environment.",
+      "100% remote role based in Brazil."
+    ],
+    "gaps": [
+      "Individual contributor procurement scope rather than broader multi-site operations direction."
+    ],
+    "language": "Portuguese"
+  },
+  {
+    "key": "nexa-vagas_arquiteto-de-solucoes-de-dados-e-inteligencia-operacional",
+    "title": "Arquiteto de Soluções de Dados e Inteligência Operacional",
+    "company": "Nexa Vagas",
+    "url": "https://remotar.com.br/job/168792",
+    "status": "scored",
+    "scores": {
+      "technical": 80,
+      "experience": 74,
+      "behavioral": 75,
+      "career": 75
+    },
+    "track": "Track 2: Logistics Tech & Data Products",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Architecture connecting physical operations with data intelligence (exact candidate positioning).",
+      "100% remote."
+    ],
+    "gaps": [
+      "High emphasis on broad cloud architecture and data pipeline engineering."
+    ],
+    "language": "Portuguese"
+  },
+  {
+    "key": "vonbz_region-demand-planner",
+    "title": "Region Demand Planner",
+    "company": "Vonbz",
+    "url": "https://remotar.com.br/job/169868",
+    "status": "scored",
+    "scores": {
+      "technical": 82,
+      "experience": 85,
+      "behavioral": 80,
+      "career": 80
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Excellent S&OP, statistical forecasting, and LATAM demand planning match."
+    ],
+    "gaps": [
+      "Location veto: Hybrid in Itapevi/SP (outside SC commute radius)."
+    ],
+    "language": "Portuguese"
+  },
+  {
+    "key": "nstech_product-owner-po-pleno-esocial-e-aplicativos",
+    "title": "Product Owner (PO) Pleno - eSocial e Aplicativos",
+    "company": "nstech",
+    "url": "https://remotar.com.br/job/168644",
+    "status": "scored",
+    "scores": {
+      "technical": 70,
+      "experience": 68,
+      "behavioral": 70,
+      "career": 65
+    },
+    "track": "Track 2: Logistics Tech & Data Products",
+    "currency_track": "BRL",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": null,
+    "strengths": [
+      "Top logistics-tech player (nstech)."
+    ],
+    "gaps": [
+      "Location veto: Hybrid in São Bernardo do Campo / SP; focus on HR/eSocial apps rather than TMS/Control Tower."
+    ],
+    "language": "Portuguese"
+  },
+  {
+    "key": "spreetail_director-of-procurement",
+    "title": "Director of Procurement",
+    "company": "Spreetail",
+    "url": "https://weworkremotely.com/remote-jobs/spreetail-director-of-procurement",
+    "status": "scored",
+    "scores": {
+      "technical": 80,
+      "experience": 85,
+      "behavioral": 75,
+      "career": 75
+    },
+    "track": "Track 1: Physical Operations",
+    "currency_track": "USD",
+    "employment_gate": "PASS",
+    "location_verdict": "FAIL",
+    "language_gate": "PASS",
+    "deadline": "2026-12-05",
+    "strengths": [
+      "Executive procurement and vendor leadership."
+    ],
+    "gaps": [
+      "Location veto: Domestic US resident requirement / restricted to US states."
+    ],
+    "language": "English"
+  }
+]

@@ -12,7 +12,10 @@ framework_version: 1.2.0
 - **LinkedIn:** https://linkedin.com/in/borbaf
 - **GitHub:** https://github.com/borbaf
 - **Status:** Supply Chain & Operations Leader with Analytical Layer (GLG Network Member) - actively searching
-- **Constraints:** Remote-first (USD Track: floor USD 1,600/mo, target USD 4k-7k/mo; BRL Track: floor R$ 10k CLT / R$ 14k PJ, target R$ 15k-25k+). Open to relocation to Fortaleza/CE or international with sponsorship. Hybrid in SC viable only within ~80 km of Bombinhas (Florianópolis, Itajaí, BC, Navegantes; Blumenau is NOT viable). Hybrid/on-site in SP, BH, etc. is NOT viable. Holds Brazilian citizenship (no US work visa/green card).
+- **Constraints & Operating Frentes:**
+  - *Frente 1 (Remote-first):* Remote global (USD floor USD 1,600/mo, target USD 4k-7k/mo) and remote Brazil (BRL floor R$ 10k CLT / R$ 14k PJ, target R$ 15k-25k+), hybrid SC within ~80 km or Fortaleza/CE.
+  - *Frente 2 (Open Mobility & On-Site / Hybrid):* Sem restrição de localização. Vagas presenciais e híbridas são plenamente aceitas em qualquer região do Brasil (São Paulo, Campinas, Rio de Janeiro, Curitiba, Belo Horizonte, etc.) ou internacional com relocation/sponsorship.
+  - *Work authorization:* Brazilian citizenship (no US work visa/green card without sponsorship). Roles demanding domestic US citizenship/green card remain an eligibility veto.
 - **Core Scope & Two Strategic Tracks:**
   1. *Track 1 (Supply Chain & Physical Operations Leadership / S&OP):* Direct line authority, bulk liquids/fuel terminals, multi-modal logistics, S&OP, demand planning, procurement & MRO. High conversion in Brazil (Remotar, Gupy) and LATAM (HireLATAM, Solvo).
   2. *Track 2 (Logistics Tech & Data Products):* Technical PO/PM in TMS, WMS, logistics telemetry, fleet management, and supply chain SaaS. Highly gated by geographic eligibility (must allow remote work from Brazil) and guaranteed compensation.
